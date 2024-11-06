@@ -1,95 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 05/11/2024 20:46" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 06/11/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20241105125000 +0100" stop="20241105135000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. Los campeonatos pueden decidirse en Malasia. (60 min.).
-· País: España</desc>
-  </programme>
-  <programme start="20241105135000 +0100" stop="20241105145100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. Los campeonatos pueden decidirse en Malasia. (61 min.).
-· País: España</desc>
-  </programme>
-  <programme start="20241105145100 +0100" stop="20241105160900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. Los campeonatos pueden decidirse en Malasia. (78 min.) Votos: 3.
-· País: España</desc>
-  </programme>
-  <programme start="20241105160900 +0100" stop="20241105180000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F T24/25 · Jornada 8: Barcelona - Eibar</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (111 min.) Votos: 4.
-· País: España</desc>
-  </programme>
-  <programme start="20241105180000 +0100" stop="20241105184700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E4</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. (47 min.).
-· País: España
-· Presenta: Sandra Riquelme.</desc>
-  </programme>
-  <programme start="20241105184700 +0100" stop="20241105195900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Martinator, voluntad de hierro</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *8.0/10
-· Escuchaba el rugido de los motores del Jarama desde su habitación y ahora pelea por ser campeón de MotoGP. Jorge Martín ha superado todos los límites de un deportista de élite para escalar la cima del motociclismo mundial. (72 min.) Votos: 9.
-· País: España</desc>
-  </programme>
-  <programme start="20241105195900 +0100" stop="20241105203900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2024 · Marc Márquez</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego. (40 min.).
-</desc>
-  </programme>
-  <programme start="20241105203900 +0100" stop="20241105224300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 10: Manchester United - Chelsea</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. El City, campeón de las últimas cuatro ediciones, defiende corona. (124 min.) Votos: 2.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241105224300 +0100" stop="20241105233000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E4</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. (47 min.).
-· País: España
-· Presenta: Sandra Riquelme.</desc>
-  </programme>
-  <programme start="20241105233000 +0100" stop="20241106010500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">El Fenómeno</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *8.0/10
-· El Fenómeno era el niño prodigio que lo tenía todo. Campeón del Mundo a los 17 años. Mejor jugador del año a los 20. Dos veces récord mundial de un traspaso a los 21. Impresionantes goles allá donde jugó. Y entonces, todo le fue brutalmente arrebatado. (95 min.) Votos: 8.
-</desc>
-  </programme>
-  <programme start="20241106010500 +0100" stop="20241106012500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar... (20 min.).
-</desc>
-  </programme>
-  <programme start="20241106012500 +0100" stop="20241106035500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">WTA: Cincinnati T2024 · Sabalenka - Pegula</title>
-    <desc lang="es">Deportes | TP
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241106035500 +0100" stop="20241106060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241106060000 +0100" stop="20241106130000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20241106130000 +0100" stop="20241106134800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
@@ -100,19 +14,19 @@
   <programme start="20241106134800 +0100" stop="20241106141200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Come On Fútbol! T2023 · Dani Olmo, el fútbol como arma de paz</title>
     <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
-· Nos adentramos de lleno en la vida de Dani Olmo, un futbolista comprometido con las causas sociales. El atacante español es integrante activo de la iniciativa 'Common Goal', una organización que se centra en ayudar a los afectados por las consecuencias de la guerra en los Balcanes. Su compromiso para mejorar el mundo es total. (24 min.) Votos: 6.
+· Nos adentramos de lleno en la vida de Dani Olmo, un futbolista comprometido con las causas sociales. (24 min.) Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20241106141200 +0100" stop="20241106160400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 10: Liverpool - Brighton</title>
+    <title lang="es">Premier League T24/25 · Jornada 10: Liverpool - Brighton &amp; Hove Albion</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. El City, campeón de las últimas cuatro ediciones, defiende corona. (112 min.) Votos: 1.
+· Brighton &amp; Hove Albion (112 min.) Votos: 1.
 · País: R.U.</desc>
   </programme>
   <programme start="20241106160400 +0100" stop="20241106180500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga F T24/25 · Jornada 8: RCD Espanyol - Atlético de Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (121 min.).
+· Atlético de Madrid (121 min.).
 · País: España</desc>
   </programme>
   <programme start="20241106180500 +0100" stop="20241106192800 +0100" channel="DAZN 1 HD 1080P">
@@ -125,7 +39,7 @@
   <programme start="20241106192800 +0100" stop="20241106194900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2024 · Emilia - Romaña</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (21 min.) Votos: 1.
+· Romaña (21 min.) Votos: 1.
 · País: España</desc>
   </programme>
   <programme start="20241106194900 +0100" stop="20241106200800 +0100" channel="DAZN 1 HD 1080P">
@@ -167,7 +81,7 @@
   <programme start="20241106215800 +0100" stop="20241106222800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Cara B - Cañada Real Galiana</title>
     <desc lang="es">Documentales/Deportes | 2024 | TP
-· El periodista Javi Valle acompaña a Adil, Ibra e Isma, tres jóvenes criados en el sector 6 de la Cañada Real de Madrid, para mostrar cómo el deporte puede llenar de ilusiones y esperanzas a los más jóvenes. (30 min.).
+· Cañada Real Galiana (30 min.).
 · Título original: Cara B | Cañada Real Galiana
 · País: España</desc>
   </programme>
@@ -204,7 +118,7 @@
   <programme start="20241107130000 +0100" stop="20241107145000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga F T24/25 · Jornada 8: Barcelona - Eibar</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (110 min.) Votos: 4.
+· Eibar (110 min.) Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20241107145000 +0100" stop="20241107153000 +0100" channel="DAZN 1 HD 1080P">
@@ -229,13 +143,13 @@
   <programme start="20241107162000 +0100" stop="20241107171500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Asia Talent Cup T2024 · Japón - Carrera 1</title>
     <desc lang="es">Deportes/Motor | 2024 | TP
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi. (55 min.).
+· Carrera 1 (55 min.).
 </desc>
   </programme>
   <programme start="20241107171500 +0100" stop="20241107181000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Asia Talent Cup T2024 · Japón - Carrera 2</title>
     <desc lang="es">Deportes/Motor | 2024 | TP
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi. (55 min.).
+· Carrera 2 (55 min.).
 </desc>
   </programme>
   <programme start="20241107181000 +0100" stop="20241107185500 +0100" channel="DAZN 1 HD 1080P">
@@ -265,19 +179,19 @@
   <programme start="20241107223000 +0100" stop="20241107233000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera Moto3</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. Los campeonatos pueden decidirse en Malasia. (60 min.).
+· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. (60 min.).
 · País: España</desc>
   </programme>
   <programme start="20241107233000 +0100" stop="20241108003000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera Moto2</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. Los campeonatos pueden decidirse en Malasia. (60 min.).
+· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. (60 min.).
 · País: España</desc>
   </programme>
   <programme start="20241108003000 +0100" stop="20241108013000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. Los campeonatos pueden decidirse en Malasia. (60 min.) Votos: 3.
+· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. (60 min.) Votos: 3.
 · País: España</desc>
   </programme>
   <programme start="20241108013000 +0100" stop="20241108060000 +0100" channel="DAZN 1 HD 1080P">
@@ -325,19 +239,19 @@
   <programme start="20241108150000 +0100" stop="20241108160000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera Moto3</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. Los campeonatos pueden decidirse en Malasia. (60 min.).
+· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. (60 min.).
 · País: España</desc>
   </programme>
   <programme start="20241108160000 +0100" stop="20241108170000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera Moto2</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. Los campeonatos pueden decidirse en Malasia. (60 min.).
+· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. (60 min.).
 · País: España</desc>
   </programme>
   <programme start="20241108170000 +0100" stop="20241108180000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. Los campeonatos pueden decidirse en Malasia. (60 min.) Votos: 3.
+· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. (60 min.) Votos: 3.
 · País: España</desc>
   </programme>
   <programme start="20241108180000 +0100" stop="20241108182000 +0100" channel="DAZN 1 HD 1080P">
@@ -379,7 +293,7 @@
   <programme start="20241108213500 +0100" stop="20241109000500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Riyadh Tennis Cup 2023 T2023 · Jabeur - Sabalenka</title>
     <desc lang="es">Deportes/Tenis | TP | *6.0/10
-· La Copa de Tenis de Riad es un torneo de exhibición que se juega en el Kingdom Arena de Riad, Arabia Saudita. (150 min.) Votos: 9.
+· Sabalenka (150 min.) Votos: 9.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20241109000500 +0100" stop="20241109060000 +0100" channel="DAZN 1 HD 1080P">
@@ -397,19 +311,19 @@
   <programme start="20241109115000 +0100" stop="20241109140000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 9: Madrid CFF - Sevilla FC T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (130 min.).
+· Sevilla FC (130 min.).
 · País: España</desc>
   </programme>
   <programme start="20241109140000 +0100" stop="20241109142500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Equals T1 · La presión es un privilegio</title>
     <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
-· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores después de batir récords en la última Eurocopa. (25 min.) Votos: 6.
+· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. (25 min.) Votos: 6.
 </desc>
   </programme>
   <programme start="20241109142500 +0100" stop="20241109145000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Equals T1 · Desde el Norte</title>
     <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
-· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores después de batir récords en la última Eurocopa. (25 min.) Votos: 5.
+· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. (25 min.) Votos: 5.
 </desc>
   </programme>
   <programme start="20241109145000 +0100" stop="20241109155000 +0100" channel="DAZN 1 HD 1080P">
@@ -421,7 +335,7 @@
   <programme start="20241109155000 +0100" stop="20241109180500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 11: West Ham - Everton T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. El City, campeón de las últimas cuatro ediciones, defiende corona. (135 min.).
+· Everton (135 min.).
 · País: R.U.</desc>
   </programme>
   <programme start="20241109180500 +0100" stop="20241109182000 +0100" channel="DAZN 1 HD 1080P">
@@ -433,7 +347,7 @@
   <programme start="20241109182000 +0100" stop="20241109203000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 11: Brighton - Manchester City T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. El City, campeón de las últimas cuatro ediciones, defiende corona. (130 min.).
+· Manchester City (130 min.).
 · País: R.U.</desc>
   </programme>
   <programme start="20241109203000 +0100" stop="20241109205000 +0100" channel="DAZN 1 HD 1080P">
@@ -445,13 +359,13 @@
   <programme start="20241109205000 +0100" stop="20241109230500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 11: Liverpool - Aston Villa T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. El City, campeón de las últimas cuatro ediciones, defiende corona. (135 min.).
+· Aston Villa (135 min.).
 · País: R.U.</desc>
   </programme>
   <programme start="20241109230500 +0100" stop="20241110010500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 11: Wolverhampton - Southampton</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. El City, campeón de las últimas cuatro ediciones, defiende corona. (120 min.).
+· Southampton (120 min.).
 · País: R.U.</desc>
   </programme>
   <programme start="20241110010500 +0100" stop="20241110060000 +0100" channel="DAZN 1 HD 1080P">
@@ -469,25 +383,25 @@
   <programme start="20241110115000 +0100" stop="20241110140000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 9: Deportivo Abanca - Real Sociedad T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (130 min.).
+· Real Sociedad (130 min.).
 · País: España</desc>
   </programme>
   <programme start="20241110140000 +0100" stop="20241110142500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Equals T1 · De todo a nada</title>
     <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
-· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores después de batir récords en la última Eurocopa. (25 min.) Votos: 5.
+· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. (25 min.) Votos: 5.
 </desc>
   </programme>
   <programme start="20241110142500 +0100" stop="20241110145000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Equals T1 · Amigos y familia</title>
     <desc lang="es">Deportes/Programa deportes | 2023 | TP
-· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. El trabajo examina el rápido crecimiento de este deporte en toda Europa. Los retos que tiene por delante son aún mayores después de batir récords en la última Eurocopa. (25 min.).
+· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. (25 min.).
 </desc>
   </programme>
   <programme start="20241110145000 +0100" stop="20241110170500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 11: Manchester United - Leicester T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. El City, campeón de las últimas cuatro ediciones, defiende corona. (135 min.).
+· Leicester (135 min.).
 · País: R.U.</desc>
   </programme>
   <programme start="20241110170500 +0100" stop="20241110172000 +0100" channel="DAZN 1 HD 1080P">
@@ -499,25 +413,25 @@
   <programme start="20241110172000 +0100" stop="20241110193000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 11: Chelsea - Arsenal T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
-· La irregularidad en casa está frenando a los de Maresca que intentarán ser más firmes en este derbi londinense. El Arsenal sólo ha podido sumar uno de los últimos nueve puntos y se ha distanciado del primer puesto lastrado por lesiones y sanciones. (130 min.).
+· Arsenal (130 min.).
 · País: R.U.</desc>
   </programme>
   <programme start="20241110193000 +0100" stop="20241110215000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 11: Brighton - Manchester City</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. El City, campeón de las últimas cuatro ediciones, defiende corona. (140 min.).
+· Manchester City (140 min.).
 · País: R.U.</desc>
   </programme>
   <programme start="20241110215000 +0100" stop="20241111000000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga F T24/25 · Jornada 9: Athletic Club - Real Betis Féminas</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (130 min.).
+· Real Betis Féminas (130 min.).
 · País: España</desc>
   </programme>
   <programme start="20241111000000 +0100" stop="20241111013500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">6 Kings Slam T2024 · Nadal - Alcaraz</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP
-· Seis colosos del tenis se protagonizan en Arabia Saudí un espectacular torneo de exhibición. Daniil Medvedev, Holger Rune, Jannik Sinner, Carlos Alcaraz, Novak Djokovic y Rafa Nadal pelean por el mayor botín en la historia del tenis: seis millones de dólares. (95 min.).
+· Alcaraz (95 min.).
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20241111013500 +0100" stop="20241111020000 +0100" channel="DAZN 1 HD 1080P">
@@ -563,6 +477,42 @@
 </desc>
   </programme>
   <programme start="20241112020000 +0100" stop="20241112060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar... (240 min.).
+</desc>
+  </programme>
+  <programme start="20241112060000 +0100" stop="20241112100000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar... (240 min.).
+</desc>
+  </programme>
+  <programme start="20241112100000 +0100" stop="20241112140000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar... (240 min.).
+</desc>
+  </programme>
+  <programme start="20241112140000 +0100" stop="20241112180000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar... (240 min.).
+</desc>
+  </programme>
+  <programme start="20241112180000 +0100" stop="20241112220000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar... (240 min.).
+</desc>
+  </programme>
+  <programme start="20241112220000 +0100" stop="20241113020000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar... (240 min.).
+</desc>
+  </programme>
+  <programme start="20241113020000 +0100" stop="20241113060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar... (240 min.).
