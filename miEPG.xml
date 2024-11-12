@@ -1,199 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 11/11/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 12/11/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20241111130000 +0100" stop="20241111134400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded Pedro Acosta</title>
-    <desc lang="es">Deportes/Programa deportes | TP | *10.0/10
-· Pedro Acosta ha llegado al Mundial de MotoGP pisando fuerte. El programa realiza un análisis en profundidad la figura de Acosta, un piloto que no pasa desapercibido en la clase reina. (44 min.) Votos: 1.
-· País: España</desc>
-  </programme>
-  <programme start="20241111134400 +0100" stop="20241111142200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Features T2024 · Red Bull Dual Ascent - La película</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?. (38 min.).
-</desc>
-  </programme>
-  <programme start="20241111142200 +0100" stop="20241111145100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Features T2024 E1</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?. (29 min.).
-</desc>
-  </programme>
-  <programme start="20241111145100 +0100" stop="20241111160900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | TP | *10.0/10
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. (78 min.) Votos: 3.
-· País: España</desc>
-  </programme>
-  <programme start="20241111160900 +0100" stop="20241111162800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2024 · Malasia</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (19 min.).
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20241111162800 +0100" stop="20241111170800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2024 · Marc Márquez</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego. (40 min.).
-</desc>
-  </programme>
-  <programme start="20241111170800 +0100" stop="20241111175300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Marc. Revelado</title>
-    <desc lang="es">Deportes/Motor | TP | *9.0/10
-· Es imposible entender la historia de Marc Márquez en MotoGP sin Honda. Once años y ocho títulos después, el de Cervera se despide del equipo de su carrera deportiva. (45 min.) Votos: 4.
-· País: España</desc>
-  </programme>
-  <programme start="20241111175300 +0100" stop="20241111182100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno: Bagnaia golpea primero</title>
-    <desc lang="es">Documentales/Deportes | 2024 | TP
-· Marc Márquez, Bastianini, Quartararo y Aleix Espargaró tenían los ojos puestos en la gran recompensa, pero Pecco Bagnaia se llevó el gato al agua en el inicio de una nueva temporada de MotoGP. (28 min.).
-</desc>
-  </programme>
-  <programme start="20241111182100 +0100" stop="20241111185300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2024 · Nuevos aspirantes</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
-· Pecco Bagnaia no atraviesa su mejor racha y aparecen Jorge Martín y Marco Bezzecchi como nuevos aspirantes al título que quiere retener el piloto italiano de Ducati. (32 min.) Votos: 2.
-</desc>
-  </programme>
-  <programme start="20241111185300 +0100" stop="20241111192800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2024 · Marc y Honda se separan</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La temporada de Marc Márquez con Honda va de mal en peor y el piloto español termina optando por dejar el equipo a final de temporada, una noticia que tiene un alcance mundial. (35 min.).
-</desc>
-  </programme>
-  <programme start="20241111192800 +0100" stop="20241111200800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2024 · Bagnaia en problemas</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Pecco Bagnaia sufre una dura caída que lo pone contra las cuerdas mientras Jorge Martín sigue apretando y acotando la distancia en el Mundial. (40 min.) Votos: 2.
-</desc>
-  </programme>
-  <programme start="20241111200800 +0100" stop="20241111204800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2024 · La batalla final</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Pecco Bagnaia y Jorge Martín se juegan el privilegio de ser campeón del mundo de MotoGP en un final de temporada apretadísimo donde todo se decidirá en el devenir de los últimos dos gran premios. (40 min.).
-</desc>
-  </programme>
-  <programme start="20241111204800 +0100" stop="20241111224900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 11: Chelsea - Arsenal</title>
-    <desc lang="es">Deportes/Fútbol | TP | *8.0/10
-· La irregularidad en casa está frenando a los de Maresca que intentarán ser más firmes en este derbi londinense. El Arsenal sólo ha podido sumar uno de los últimos nueve puntos y se ha distanciado del primer puesto lastrado por lesiones y sanciones. (121 min.) Votos: 14.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241111224900 +0100" stop="20241112012400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">6 Kings Slam T2024 · Alcaraz - Sinner</title>
-    <desc lang="es">Deportes/Tenis | TP
-· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. (155 min.).
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20241112012400 +0100" stop="20241112060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241112060000 +0100" stop="20241112130000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241112130000 +0100" stop="20241112153000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241112130000 +0100" stop="20241112155200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">WTA: Tokio T2024 · Kenin - Qinwen</title>
     <desc lang="es">Deportes/Tenis | TP | *10.0/10
-· El 21 de octubre comienza en Tokio el torneo WTA de la capital japonesa. (150 min.) Votos: 1.
+· El 21 de octubre comienza en Tokio el torneo WTA de la capital japonesa. (172 min.) Votos: 1.
 · País: Japón</desc>
   </programme>
-  <programme start="20241112153000 +0100" stop="20241112155000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2024 · Aragón</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (20 min.).
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20241112155000 +0100" stop="20241112161500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241112155200 +0100" stop="20241112161700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2024 · San Marino</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (25 min.).
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20241112161500 +0100" stop="20241112163500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241112161700 +0100" stop="20241112163800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2024 · Emilia - Romaña</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *9.0/10
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (20 min.) Votos: 2.
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (21 min.) Votos: 2.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20241112163500 +0100" stop="20241112165500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241112163800 +0100" stop="20241112165700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2024 · Indonesia</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (20 min.) Votos: 1.
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (19 min.) Votos: 1.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20241112165500 +0100" stop="20241112171500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241112165700 +0100" stop="20241112171700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2024 · Japón</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (20 min.) Votos: 1.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20241112171500 +0100" stop="20241112174000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241112171700 +0100" stop="20241112173400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2024 · Australia</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (25 min.).
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (17 min.).
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20241112174000 +0100" stop="20241112180500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241112173400 +0100" stop="20241112175400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2024 · Tailandia</title>
     <desc lang="es">Deportes/Programa deportes | 2004 | TP
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (25 min.).
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (20 min.).
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20241112180500 +0100" stop="20241112183000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241112175400 +0100" stop="20241112181300 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2024 · Malasia</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (25 min.).
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (19 min.).
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20241112183000 +0100" stop="20241112183500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241112181300 +0100" stop="20241112183900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Decoded T2023 · Alexia Putellas</title>
     <desc lang="es">Deportes/Programa deportes | 2023 | TP
-· El espacio analiza el perfil futbolístico de la capitana del FC Barcelona, Alexia Putellas, y dos veces Balón de Oro. La blaugrana ha estado fuera de los terrenos de juego casi un año debido a una rotura de ligamento cruzado. (5 min.).
+· El espacio analiza el perfil futbolístico de la capitana del FC Barcelona, Alexia Putellas, y dos veces Balón de Oro. La blaugrana ha estado fuera de los terrenos de juego casi un año debido a una rotura de ligamento cruzado. (26 min.).
 </desc>
   </programme>
-  <programme start="20241112183500 +0100" stop="20241112205000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241112183900 +0100" stop="20241112205400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 3: Barcelona - Sankt Polten T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (135 min.) Votos: 1.
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (135 min.) Votos: 2.
 · País: España</desc>
   </programme>
-  <programme start="20241112205000 +0100" stop="20241112233000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241112205400 +0100" stop="20241112231400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 3: Manchester City - Hammarby T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | TP
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (160 min.).
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (140 min.).
 · País: R.U.</desc>
   </programme>
-  <programme start="20241112233000 +0100" stop="20241112235500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241112231400 +0100" stop="20241113000300 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Red Bull Features T2024 · Red Bull Dual Ascent - La película</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?. (25 min.).
+· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?. (49 min.).
 </desc>
   </programme>
-  <programme start="20241112235500 +0100" stop="20241113004600 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241113000300 +0100" stop="20241113010000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 1</title>
     <desc lang="es">Deportes/eSports | TP
-· Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia. (51 min.).
+· Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia. (57 min.).
 </desc>
   </programme>
-  <programme start="20241113004600 +0100" stop="20241113060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241113010000 +0100" stop="20241113060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -248,16 +144,23 @@
 · Título original: Cara B | Cañada Real Galiana
 · País: España</desc>
   </programme>
-  <programme start="20241113183900 +0100" stop="20241113213000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241113183900 +0100" stop="20241113210000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 3: Real Madrid - Twente T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | TP
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (171 min.).
+    <desc lang="es">Deportes/Fútbol | TP | *5.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (141 min.) Votos: 4.
 · País: España</desc>
+  </programme>
+  <programme start="20241113210000 +0100" stop="20241113213000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">La Central T24/25 E5</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. (30 min.).
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
   <programme start="20241113213000 +0100" stop="20241113232100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga de Campeones (F) T24/25 · Jornada 3: Barcelona - Sankt Polten</title>
     <desc lang="es">Deportes/Fútbol | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (111 min.) Votos: 1.
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (111 min.) Votos: 2.
 · País: España</desc>
   </programme>
   <programme start="20241113232100 +0100" stop="20241114001500 +0100" channel="DAZN 1 HD 1080P">
@@ -293,8 +196,8 @@
   </programme>
   <programme start="20241114133700 +0100" stop="20241114153000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga de Campeones (F) T24/25 · Jornada 3: Real Madrid - Twente</title>
-    <desc lang="es">Deportes/Fútbol | TP
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (113 min.).
+    <desc lang="es">Deportes/Fútbol | TP | *5.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (113 min.) Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20241114153000 +0100" stop="20241114161100 +0100" channel="DAZN 1 HD 1080P">
@@ -323,14 +226,14 @@
   </programme>
   <programme start="20241114191600 +0100" stop="20241114201500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | TP
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. (59 min.).
+    <desc lang="es">Deportes/Motociclismo | TP | *10.0/10
+· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. (59 min.) Votos: 1.
 · País: España</desc>
   </programme>
   <programme start="20241114201500 +0100" stop="20241114211600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | TP
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. (61 min.).
+    <desc lang="es">Deportes/Motociclismo | TP | *10.0/10
+· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. (61 min.) Votos: 1.
 · País: España</desc>
   </programme>
   <programme start="20241114211600 +0100" stop="20241114223400 +0100" channel="DAZN 1 HD 1080P">
@@ -501,8 +404,8 @@
   </programme>
   <programme start="20241116194500 +0100" stop="20241116225900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 10: Real Madrid - FC Barcelona T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (194 min.).
+    <desc lang="es">Deportes/Fútbol | TP | *10.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (194 min.) Votos: 1.
 · País: España</desc>
   </programme>
   <programme start="20241116225900 +0100" stop="20241117000000 +0100" channel="DAZN 1 HD 1080P">
@@ -621,8 +524,8 @@
   </programme>
   <programme start="20241117220000 +0100" stop="20241117234000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga F T24/25 · Jornada 10: Real Madrid - FC Barcelona</title>
-    <desc lang="es">Deportes/Fútbol | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (100 min.).
+    <desc lang="es">Deportes/Fútbol | TP | *10.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (100 min.) Votos: 1.
 · País: España</desc>
   </programme>
   <programme start="20241117234000 +0100" stop="20241118020000 +0100" channel="DAZN 1 HD 1080P">
@@ -632,6 +535,36 @@
 </desc>
   </programme>
   <programme start="20241118020000 +0100" stop="20241118060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241118060000 +0100" stop="20241118100000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241118100000 +0100" stop="20241118140000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241118140000 +0100" stop="20241118180000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241118180000 +0100" stop="20241118220000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241118220000 +0100" stop="20241119060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
