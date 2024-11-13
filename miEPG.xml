@@ -1,88 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 12/11/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 13/11/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20241112130000 +0100" stop="20241112155200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">WTA: Tokio T2024 · Kenin - Qinwen</title>
-    <desc lang="es">Deportes/Tenis | TP | *10.0/10
-· El 21 de octubre comienza en Tokio el torneo WTA de la capital japonesa. (172 min.) Votos: 1.
-· País: Japón</desc>
-  </programme>
-  <programme start="20241112155200 +0100" stop="20241112161700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2024 · San Marino</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (25 min.).
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20241112161700 +0100" stop="20241112163800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2024 · Emilia - Romaña</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *9.0/10
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (21 min.) Votos: 2.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20241112163800 +0100" stop="20241112165700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2024 · Indonesia</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (19 min.) Votos: 1.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20241112165700 +0100" stop="20241112171700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2024 · Japón</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (20 min.) Votos: 1.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20241112171700 +0100" stop="20241112173400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2024 · Australia</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (17 min.).
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20241112173400 +0100" stop="20241112175400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2024 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2004 | TP
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (20 min.).
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20241112175400 +0100" stop="20241112181300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2024 · Malasia</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (19 min.).
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20241112181300 +0100" stop="20241112183900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2023 · Alexia Putellas</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP
-· El espacio analiza el perfil futbolístico de la capitana del FC Barcelona, Alexia Putellas, y dos veces Balón de Oro. La blaugrana ha estado fuera de los terrenos de juego casi un año debido a una rotura de ligamento cruzado. (26 min.).
-</desc>
-  </programme>
-  <programme start="20241112183900 +0100" stop="20241112205400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 3: Barcelona - Sankt Polten T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (135 min.) Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20241112205400 +0100" stop="20241112231400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 3: Manchester City - Hammarby T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | TP
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (140 min.).
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241112231400 +0100" stop="20241113000300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Features T2024 · Red Bull Dual Ascent - La película</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?. (49 min.).
-</desc>
-  </programme>
   <programme start="20241113000300 +0100" stop="20241113010000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 1</title>
     <desc lang="es">Deportes/eSports | TP
@@ -160,19 +81,19 @@
   <programme start="20241113213000 +0100" stop="20241113232100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga de Campeones (F) T24/25 · Jornada 3: Barcelona - Sankt Polten</title>
     <desc lang="es">Deportes/Fútbol | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (111 min.) Votos: 2.
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. (111 min.) Votos: 5.
 · País: España</desc>
   </programme>
   <programme start="20241113232100 +0100" stop="20241114001500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2024 · Japón - Carrera 1</title>
-    <desc lang="es">Deportes/Motor | TP
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi. (54 min.).
+    <title lang="es">Asia Talent Cup T2024</title>
+    <desc lang="es">Deportes
+· Sin detalles...  (54 min.).
 </desc>
   </programme>
   <programme start="20241114001500 +0100" stop="20241114011100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2024 · Japón - Carrera 2</title>
-    <desc lang="es">Deportes/Motor | TP
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi. (56 min.).
+    <title lang="es">Asia Talent Cup T2024</title>
+    <desc lang="es">Deportes
+· Sin detalles...  (56 min.).
 </desc>
   </programme>
   <programme start="20241114011100 +0100" stop="20241114060000 +0100" channel="DAZN 1 HD 1080P">
