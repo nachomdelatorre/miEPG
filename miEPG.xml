@@ -1,321 +1,532 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 14/11/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 15/11/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
   <programme start="20241115060000 +0100" stop="20241115085500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241115085500 +0100" stop="20241115115500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Entrenamientos libres 1 T2024 · Mundial de motociclismo</title>
-    <desc lang="es">Deportes/Motociclismo | TP
-· de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. (180 min.).
+    <title lang="es">Disfruta de DAZN en Movistar Plus+ · Entrenamientos libres 1</title>
+    <desc lang="es">Motociclismo | TP
+· Programa por determinar... de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.
 · País: España</desc>
   </programme>
-  <programme start="20241115115500 +0100" stop="20241115123500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2024 · Marc Márquez</title>
+  <programme start="20241115085500 +0100" stop="20241115115400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo: Entrenamientos libres 1 · Marc Márquez</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego. (40 min.).
+· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.
 </desc>
+  </programme>
+  <programme start="20241115115400 +0100" stop="20241115123500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Decoded: Marc Márquez · Australia</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
   </programme>
   <programme start="20241115123500 +0100" stop="20241115125200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2024 · Australia</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (17 min.).
-· País: España
-· Presenta: Natacha Alfageme.</desc>
+    <title lang="es">Código MotoGP: Australia · El trono de Ducati</title>
+    <desc lang="es">Deportes/Programa deportes | TP
+· Después de unos días bastante agitados en el mercado de MotoGP, las incógnitas han quedado resueltas: Marc Márquez será quien acompañe a 'Pecco' Bagnaia en el Ducati Lenovo Team, mientras que Jorge Martín correrá con Aprilia a partir del 2025.
+</desc>
   </programme>
   <programme start="20241115125200 +0100" stop="20241115131000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">El trono de Ducati</title>
-    <desc lang="es">Deportes/Programa deportes | TP
-· Después de unos días bastante agitados en el mercado de MotoGP, las incógnitas han quedado resueltas: Marc Márquez será quien acompañe a 'Pecco' Bagnaia en el Ducati Lenovo Team, mientras que Jorge Martín correrá con Aprilia a partir del 2025. (18 min.).
-</desc>
-  </programme>
-  <programme start="20241115131000 +0100" stop="20241115161000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Práctica T2024 · Mundial de motociclismo</title>
+    <title lang="es">El trono de Ducati · Práctica</title>
     <desc lang="es">Deportes/Motociclismo | TP
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. (180 min.).
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.
 · País: España</desc>
   </programme>
-  <programme start="20241115161000 +0100" stop="20241115163600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2024 · Malasia</title>
+  <programme start="20241115131000 +0100" stop="20241115162000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo: Práctica · Malasia</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (26 min.).
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20241115163600 +0100" stop="20241115171400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Features T2024 · Red Bull Dual Ascent - La película</title>
+  <programme start="20241115162000 +0100" stop="20241115163900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP: Malasia · Red Bull Dual Ascent - La película</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?. (38 min.).
+· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?
 </desc>
   </programme>
-  <programme start="20241115171400 +0100" stop="20241115174800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">El mentor de Rafa</title>
+  <programme start="20241115163900 +0100" stop="20241115171700 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Red Bull Features: Red Bull Dual Ascent - La película · El mentor de Rafa</title>
     <desc lang="es">Deportes/Programa deportes | TP
-· Toni Nadal, mentor de Rafa Nadal habla sobre la retirada del tenista balear, que culminará su carrera deportiva con este Six Kings Slam y la Copa Davis que se disputa en Málaga el próximo mes. (34 min.).
+· Toni Nadal, mentor de Rafa Nadal habla sobre la retirada del tenista balear, que culminará su carrera deportiva con este Six Kings Slam y la Copa Davis que se disputa en Málaga el próximo mes.
 · País: España</desc>
   </programme>
-  <programme start="20241115174800 +0100" stop="20241115194000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">6 Kings Slam T2024 · Nadal - Djokovic</title>
+  <programme start="20241115171700 +0100" stop="20241115175100 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">El mentor de Rafa · Nadal - Djokovic</title>
     <desc lang="es">Deportes/Tenis | TP
-· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. (112 min.).
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20241115194000 +0100" stop="20241115203300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Una Premier League para la historia</title>
+  <programme start="20241115175100 +0100" stop="20241115194400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam: Final de consolación · Una Premier League para la historia</title>
     <desc lang="es">Deportes/Programa deportes | TP
-· Los mejores momentos de una temporada que muchos califican como histórica. (53 min.).
+· Los mejores momentos de una temporada que muchos califican como histórica.
 </desc>
   </programme>
-  <programme start="20241115203300 +0100" stop="20241115205500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Muchachos</title>
+  <programme start="20241115194400 +0100" stop="20241115203800 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Una Premier League para la historia · Muchachos</title>
     <desc lang="es">Deportes/Otros deportes | TP | *7.6/10
-· Encuentro entre Ángel Di María y Leandro Paredes para rememorar el pasado Mundial de Catar a través de las fotografías que han inmortalizado las gestas de su selección para ganar su tercera Copa del Mundo. (22 min.) Votos: 14.
+· Encuentro entre Ángel Di María y Leandro Paredes para rememorar el pasado Mundial de Catar a través de las fotografías que han inmortalizado las gestas de su selección para ganar su tercera Copa del Mundo. Votos: 14.
 </desc>
   </programme>
-  <programme start="20241115205500 +0100" stop="20241115213100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">David Alonso, historia para Colombia</title>
+  <programme start="20241115203800 +0100" stop="20241115210100 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Muchachos · David Alonso, historia para Colombia</title>
     <desc lang="es">Deportes/Programa deportes | TP
-· David Alonso, el joven campeón de Moto3, analiza esta conquista tan especial para él. (36 min.).
+· David Alonso, el joven campeón de Moto3, analiza esta conquista tan especial para él.
 </desc>
   </programme>
-  <programme start="20241115213100 +0100" stop="20241115224800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera MotoGP</title>
+  <programme start="20241115210100 +0100" stop="20241115213700 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">David Alonso, historia para Colombia · GP de Malasia: Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | TP | *10.0/10
-· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. (77 min.) Votos: 3.
+· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. Votos: 3.
 · País: España</desc>
   </programme>
-  <programme start="20241115224800 +0100" stop="20241115235600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: velada Jack Catterall vs. Regis Prograis T2024 · Jack Catterall vs Regis Prograis</title>
+  <programme start="20241115213700 +0100" stop="20241115230500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo: Carrera MotoGP · Jack Catterall vs Regis Prograis</title>
     <desc lang="es">Deportes/Boxeo | +18
-· Jack Catterall y Regis Prograis se enfrentan en el Co-OP LIVE Arena. (68 min.).
+· Jack Catterall y Regis Prograis se enfrentan en el Co-OP LIVE Arena.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241115235600 +0100" stop="20241116060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241115230500 +0100" stop="20241116001100 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Jack Catterall vs. Regis Prograis: Jack Catterall vs Regis Prograis · Alexis Rocha vs. Santiago Dominguez</title>
+    <desc lang="es">Deportes/Boxeo | +18 | *6.0/10
+· Retransmisión de los mejores combates del momento y noticias de la actualidad del mundo del pugilismo. Votos: 5.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241116001100 +0100" stop="20241116010200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Fight Night: Alexis Rocha vs. Santiago Dominguez</title>
+    <desc lang="es">Deportes
+
 </desc>
   </programme>
-  <programme start="20241116060000 +0100" stop="20241116083500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241116010200 +0100" stop="20241116083500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
-· Programa por determinar...
+
 </desc>
   </programme>
   <programme start="20241116083500 +0100" stop="20241116120400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Camino a la pole T2024 · Mundial de motociclismo</title>
-    <desc lang="es">Deportes/Motociclismo | TP
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. (209 min.).
+    <title lang="es">Mundial de motociclismo: Camino a la pole · Àlex Crivillé, referente máximo</title>
+    <desc lang="es">Deportes/Programa deportes | TP
+· Álex Crivillé es una figura clave en la historia del motociclismo español. En la temporada 1999, el de Seva rompió muchas barreras para España en un deporte dominado por ingleses y americanos.
 · País: España</desc>
   </programme>
   <programme start="20241116120400 +0100" stop="20241116123000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Àlex Crivillé, referente máximo</title>
-    <desc lang="es">Deportes/Programa deportes | TP
-· Álex Crivillé es una figura clave en la historia del motociclismo español. En la temporada 1999, el de Seva rompió muchas barreras para España en un deporte dominado por ingleses y americanos. (26 min.).
+    <title lang="es">Àlex Crivillé, referente máximo · Sábado al Sprint</title>
+    <desc lang="es">Deportes/Motociclismo | TP
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.
 · País: España</desc>
   </programme>
   <programme start="20241116123000 +0100" stop="20241116171100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Sábado al Sprint T2024 · Mundial de motociclismo</title>
-    <desc lang="es">Deportes/Motociclismo | TP
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. (281 min.).
-· País: España</desc>
-  </programme>
-  <programme start="20241116171100 +0100" stop="20241116173800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">ADN de piloto T1 · Michelin</title>
+    <title lang="es">Mundial de motociclismo: Sábado al sprint · Michelin</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Programa deportivo dedicado el mundo del motociclismo. Pol Espargaró descubre los secretos de los Grandes Premios y los circuitos. (27 min.).
+· Programa deportivo dedicado el mundo del motociclismo. Pol Espargaró descubre los secretos de los Grandes Premios y los circuitos.
 · País: España
 · Presenta: Pol Espargaró.</desc>
   </programme>
-  <programme start="20241116173800 +0100" stop="20241116181100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Jorge Lorenzo vs. Dani Pedrosa</title>
+  <programme start="20241116171100 +0100" stop="20241116173800 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">ADN de piloto: Michelin · Jorge Lorenzo vs. Dani Pedrosa</title>
     <desc lang="es">Deportes/Programa deportes | TP
-· Jorge Lorenzo y Dani Pedrosa se ven las caras en un insólito duelo entre dos de las mayores leyendas de la historia de MotoGP. (33 min.).
+· Jorge Lorenzo y Dani Pedrosa se ven las caras en un insólito duelo entre dos de las mayores leyendas de la historia de MotoGP.
 · País: España</desc>
   </programme>
-  <programme start="20241116181100 +0100" stop="20241116193000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La caja de DAZN T2023 · Pecco Bagnaia</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP
-· El piloto italiano vigente campeón de MotoGP, Francesco Bagnaia, es el próximo invitado de la sección más famosa de DAZN: ¡La caja!. (79 min.).
-· País: España</desc>
-  </programme>
-  <programme start="20241116193000 +0100" stop="20241116194500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Desde el corazón de una final</title>
-    <desc lang="es">Documentales/Deportes | 2024 | TP
-· Detrás de un gran evento como la final de la UEFA Women Champions League, hay un gran equipo volcado para que no os perdáis ningún detalle de lo que ocurre dentro, y fuera del césped. El FC consigue su tercer título europeo. (15 min.).
+  <programme start="20241116173800 +0100" stop="20241116181300 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Jorge Lorenzo vs. Dani Pedrosa · Marc Márquez</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.
 </desc>
   </programme>
-  <programme start="20241116194500 +0100" stop="20241116225900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 10: Real Madrid - FC Barcelona T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | TP | *10.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (194 min.) Votos: 1.
+  <programme start="20241116181300 +0100" stop="20241116190400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Decoded: Marc Márquez · La telemetría</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa deportivo dedicado el mundo del motociclismo. Pol Espargaró descubre los secretos de los Grandes Premios y los circuitos.
+· País: España
+· Presenta: Pol Espargaró.</desc>
+  </programme>
+  <programme start="20241116190400 +0100" stop="20241116193000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">ADN de piloto: La telemetría · Desde el corazón de una final</title>
+    <desc lang="es">Deportes | 2024 | TP
+· Detrás de un gran evento como la final de la UEFA Women Champions League, hay un gran equipo volcado para que no os perdáis ningún detalle de lo que ocurre dentro, y fuera del césped. El FC consigue su tercer título europeo.
+</desc>
+  </programme>
+  <programme start="20241116193000 +0100" stop="20241116194500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Desde el corazón de una final · Jornada 10: Real Madrid - FC Barcelona</title>
+    <desc lang="es">Documentales/Fútbol | TP | *10.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20241116194500 +0100" stop="20241116220900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga F: Real Madrid - FC Barcelona · Cara B - Cañada Real Galiana</title>
+    <desc lang="es">Deportes | 2024 | TP
+· El periodista Javi Valle acompaña a Adil, Ibra e Isma, tres jóvenes criados en el sector 6 de la Cañada Real de Madrid, para mostrar cómo el deporte puede llenar de ilusiones y esperanzas a los más jóvenes.
+· Título original: Cara B | Cañada Real Galiana
+· País: España</desc>
+  </programme>
+  <programme start="20241116220900 +0100" stop="20241116223900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Cara B - Cañada Real Galiana · El mentor de Rafa</title>
+    <desc lang="es">Documentales/Programa deportes | TP
+· Toni Nadal, mentor de Rafa Nadal habla sobre la retirada del tenista balear, que culminará su carrera deportiva con este Six Kings Slam y la Copa Davis que se disputa en Málaga el próximo mes.
+· País: España</desc>
+  </programme>
+  <programme start="20241116223900 +0100" stop="20241116225900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">El mentor de Rafa · Sprint</title>
+    <desc lang="es">Deportes/Motociclismo | TP
+· Retransmisión de las pruebas del Campeonato del Mundo de Motociclismo.
 · País: España</desc>
   </programme>
   <programme start="20241116225900 +0100" stop="20241117000000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · Sprint</title>
-    <desc lang="es">Deportes/Motociclismo | TP
-· Retransmisión de las pruebas del Campeonato del Mundo de Motociclismo. (61 min.).
-· País: España</desc>
+    <title lang="es">Mundial de motociclismo: Sprint · El trono de Ducati</title>
+    <desc lang="es">Deportes/Programa deportes | TP
+· Después de unos días bastante agitados en el mercado de MotoGP, las incógnitas han quedado resueltas: Marc Márquez será quien acompañe a 'Pecco' Bagnaia en el Ducati Lenovo Team, mientras que Jorge Martín correrá con Aprilia a partir del 2025.
+</desc>
   </programme>
   <programme start="20241117000000 +0100" stop="20241117001400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">El trono de Ducati</title>
-    <desc lang="es">Deportes/Programa deportes | TP
-· Después de unos días bastante agitados en el mercado de MotoGP, las incógnitas han quedado resueltas: Marc Márquez será quien acompañe a 'Pecco' Bagnaia en el Ducati Lenovo Team, mientras que Jorge Martín correrá con Aprilia a partir del 2025. (14 min.).
-</desc>
-  </programme>
-  <programme start="20241117001400 +0100" stop="20241117014100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de MotoGP T2023 · Carrera MotoGP</title>
+    <title lang="es">El trono de Ducati · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | TP | *7.0/10
-· El circuito Ricardo Tormo es un año más el escenario de la última prueba de la temporada del Mundial de motociclismo. Los miles de aficionados que se acercan a Cheste homenajearán a los campeones de las diferentes categorías. (87 min.) Votos: 8.
+· El circuito Ricardo Tormo es un año más el escenario de la última prueba de la temporada del Mundial de motociclismo. Los miles de aficionados que se acercan a Cheste homenajearán a los campeones de las diferentes categorías. Votos: 8.
 · País: España</desc>
   </programme>
-  <programme start="20241117014100 +0100" stop="20241117060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241117001400 +0100" stop="20241117014100 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de MotoGP: Carrera MotoGP</title>
+    <desc lang="es">Deportes
+
 </desc>
   </programme>
-  <programme start="20241117060000 +0100" stop="20241117093000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241117014100 +0100" stop="20241117094000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
-· Programa por determinar...
+
 </desc>
   </programme>
-  <programme start="20241117093000 +0100" stop="20241117105500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Warm Up T2024 · Mundial de motociclismo</title>
+  <programme start="20241117094000 +0100" stop="20241117105500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo: Warm Up · Carrera de Moto3</title>
     <desc lang="es">Deportes/Motociclismo | TP
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. (85 min.).
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.
 · País: España</desc>
   </programme>
   <programme start="20241117105500 +0100" stop="20241117120500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera de Moto3 T2024 · Mundial de motociclismo</title>
+    <title lang="es">Mundial de motociclismo: Carrera de Moto3 · Carrera de Moto2</title>
     <desc lang="es">Deportes/Motociclismo | TP
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. (70 min.).
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.
 · País: España</desc>
   </programme>
   <programme start="20241117120500 +0100" stop="20241117130500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera de Moto2 T2024 · Mundial de motociclismo</title>
+    <title lang="es">Mundial de motociclismo: Carrera de Moto2 · Previo MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | TP
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. (60 min.).
+· El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir entre Pecco Bagnaia y Jorge Martín.
 · País: España</desc>
   </programme>
   <programme start="20241117130500 +0100" stop="20241117135500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Previo MotoGP T2024 · Mundial de motociclismo</title>
-    <desc lang="es">Deportes/Motociclismo | TP
-· El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir entre Pecco Bagnaia y Jorge Martín. (50 min.).
+    <title lang="es">Mundial de motociclismo: Previo MotoGP · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | TP | *10.0/10
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 1.
 · País: España</desc>
   </programme>
   <programme start="20241117135500 +0100" stop="20241117152000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera MotoGP T2024 · Mundial de motociclismo</title>
-    <desc lang="es">Deportes/Motociclismo | TP | *10.0/10
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. (85 min.) Votos: 1.
-· País: España</desc>
-  </programme>
-  <programme start="20241117152000 +0100" stop="20241117165000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Post MotoGP T2024 · Mundial de motociclismo</title>
+    <title lang="es">Mundial de motociclismo: Carrera MotoGP · Post MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | TP
-· El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir entre Pecco Bagnaia y Jorge Martín. (90 min.).
+· El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir entre Pecco Bagnaia y Jorge Martín.
 · País: España</desc>
   </programme>
-  <programme start="20241117165000 +0100" stop="20241117171500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas. (25 min.).
-· País: España</desc>
-  </programme>
-  <programme start="20241117171500 +0100" stop="20241117173500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Martinator, voluntad de hierro</title>
+  <programme start="20241117152000 +0100" stop="20241117171500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo: Post MotoGP · Martinator, voluntad de hierro</title>
     <desc lang="es">Deportes/Programa deportes | TP | *7.6/10
-· Escuchaba el rugido de los motores del Jarama desde su habitación y ahora pelea por ser campeón de MotoGP. Jorge Martín ha superado todos los límites de un deportista de élite para escalar la cima del motociclismo mundial. (20 min.) Votos: 9.
+· Escuchaba el rugido de los motores del Jarama desde su habitación y ahora pelea por ser campeón de MotoGP. Jorge Martín ha superado todos los límites de un deportista de élite para escalar la cima del motociclismo mundial. Votos: 9.
 · País: España</desc>
   </programme>
-  <programme start="20241117173500 +0100" stop="20241117182000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2024 · Jorge Martín</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· En esta entrega de Decoded, analizamos a uno de los mejores pilotos españoles de los últimos años, Jorge Martín. (45 min.).
+  <programme start="20241117171500 +0100" stop="20241117180800 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Martinator, voluntad de hierro</title>
+    <desc lang="es">Deportes
+· Sin detalles...
 </desc>
   </programme>
-  <programme start="20241117182000 +0100" stop="20241117191500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Michu, el ídolo de Haaland</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· Erling Haaland, uno de los mejores jugadores del mundo, reconoce que es uno de sus ídolos. (55 min.).
-· País: España</desc>
+  <programme start="20241117180800 +0100" stop="20241117191500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features: Jorge Martín se pone a prueba · La batalla final</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Pecco Bagnaia y Jorge Martín se juegan el privilegio de ser campeón del mundo de MotoGP en un final de temporada apretadísimo donde todo se decidirá en el devenir de los últimos dos gran premios.
+</desc>
   </programme>
   <programme start="20241117191500 +0100" stop="20241117200000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2024 · La batalla final</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Pecco Bagnaia y Jorge Martín se juegan el privilegio de ser campeón del mundo de MotoGP en un final de temporada apretadísimo donde todo se decidirá en el devenir de los últimos dos gran premios. (45 min.).
-</desc>
-  </programme>
-  <programme start="20241117200000 +0100" stop="20241117205500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Gala FIM MotoGP Awards</title>
+    <title lang="es">MotoGP Features: La batalla final · Gala FIM MotoGP Awards</title>
     <desc lang="es">Deportes/Programa deportes | TP
-· La ceremonia de entrega de premios de la FIM Awards cierra la temporada 2024. El evento homenajea a los mejores pilotos de las tres categorías durante todo el campeonato. (55 min.).
+· La ceremonia de entrega de premios de la FIM Awards cierra la temporada 2024. El evento homenajea a los mejores pilotos de las tres categorías durante todo el campeonato.
 · País: España</desc>
   </programme>
-  <programme start="20241117205500 +0100" stop="20241117210000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Features T2024 E1</title>
+  <programme start="20241117200000 +0100" stop="20241117205500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Gala FIM MotoGP Awards E1</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?. (5 min.).
+· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?
 </desc>
   </programme>
-  <programme start="20241117210000 +0100" stop="20241117220000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · Carrera de Moto3</title>
+  <programme start="20241117205500 +0100" stop="20241117220000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Red Bull Features: Red Bull Lord of the Floors · Carrera de Moto3</title>
     <desc lang="es">Deportes/Motociclismo | TP
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. (60 min.).
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.
 · País: España</desc>
   </programme>
   <programme start="20241117220000 +0100" stop="20241117234000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F T24/25 · Jornada 10: Real Madrid - FC Barcelona</title>
-    <desc lang="es">Deportes/Fútbol | TP | *10.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (100 min.) Votos: 1.
+    <title lang="es">Liga F: Real Madrid - FC Barcelona · Canelo, la película de una victoria histórica</title>
+    <desc lang="es">Deportes/Boxeo | +18
+· Revivimos lo que nadie vio de una de las peleas de 2022, la que disputaron Canelo y GGG en Estados Unidos.
+</desc>
+  </programme>
+  <programme start="20241117234000 +0100" stop="20241118014200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Canelo, la película de una victoria histórica</title>
+    <desc lang="es">Deportes
+
+</desc>
+  </programme>
+  <programme start="20241118014200 +0100" stop="20241118130000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+
+</desc>
+  </programme>
+  <programme start="20241118130000 +0100" stop="20241118150000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League: Brighton - Manchester City · Alcaraz - Sinner</title>
+    <desc lang="es">Deportes/Tenis | TP
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20241118150000 +0100" stop="20241118173500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam: Alcaraz - Sinner · Carrera 1</title>
+    <desc lang="es">Deportes/eSports | TP
+· Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia.
+</desc>
+  </programme>
+  <programme start="20241118173500 +0100" stop="20241118183000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">eSport MotoGP Global Series: Carrera 1 · Carrera de Moto3</title>
+    <desc lang="es">Deportes/Motociclismo | TP
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.
 · País: España</desc>
   </programme>
-  <programme start="20241117234000 +0100" stop="20241118020000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Canelo, la película de una victoria histórica</title>
+  <programme start="20241118183000 +0100" stop="20241118203000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo: Carrera de Moto3 · Carrera de Moto2</title>
+    <desc lang="es">Deportes/Motociclismo | TP
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.
+· País: España</desc>
+  </programme>
+  <programme start="20241118203000 +0100" stop="20241118213500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo: Carrera MotoGP · Jornada 10: Sevilla - Atlético de Madrid</title>
+    <desc lang="es">Deportes/Fútbol | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20241118213500 +0100" stop="20241118232500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga F: Sevilla FC - Atlético de Madrid · Jornada 10: Real Madrid - FC Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | TP | *10.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20241118232500 +0100" stop="20241118235000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">ADN de piloto: Michelin · Canelo, la película de una victoria histórica</title>
     <desc lang="es">Deportes/Boxeo | +18
-· Revivimos lo que nadie vio de una de las peleas de 2022, la que disputaron Canelo y GGG en Estados Unidos. (140 min.).
+· Revivimos lo que nadie vio de una de las peleas de 2022, la que disputaron Canelo y GGG en Estados Unidos.
 </desc>
   </programme>
-  <programme start="20241118020000 +0100" stop="20241118060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241118235000 +0100" stop="20241119001500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">ADN de piloto: La telemetría · Off the cuff con Jake Paul</title>
+    <desc lang="es">Deportes/Programa deportes | +18
+· Entrevista con Jake Paul, uno de los boxeadores punteros del verano de boxeo en DAZN.
+</desc>
+  </programme>
+  <programme start="20241119001500 +0100" stop="20241119003000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Off the cuff con Jake Paul · La lección</title>
+    <desc lang="es">Deportes/Programa deportes | 2022 | +18 | *2.0/10
+· Saúl Canelo Álvarez revive los momentos más estelares de su carrera en el ring, en tres episodios originales de la serie The Making Of de DAZN. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20241119003000 +0100" stop="20241119010300 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">The Making Of Canelo: La lección</title>
+    <desc lang="es">Deportes
+
+</desc>
+  </programme>
+  <programme start="20241119010300 +0100" stop="20241119095000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+
+</desc>
+  </programme>
+  <programme start="20241119095000 +0100" stop="20241119131600 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Test: Barcelona - Día 1 - Sesión 1 · Marc Márquez</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.
+</desc>
+  </programme>
+  <programme start="20241119131600 +0100" stop="20241119135600 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Decoded: Marc Márquez · Pedro Acosta se pone a prueba</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Pedro Acosta se sienta con Izaskun Ruiz para responder algunas preguntas: unas fáciles y otras, no tanto.
+</desc>
+  </programme>
+  <programme start="20241119135600 +0100" stop="20241119140000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features: Pedro Acosta se pone a prueba · Barcelona - Día 1 - Sesión 2</title>
+    <desc lang="es">Deportes/Motociclismo | TP
+· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados.
+· País: España</desc>
+  </programme>
+  <programme start="20241119140000 +0100" stop="20241119180000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Test: Barcelona - Día 1 - Sesión 2 · Nadal - Alcaraz</title>
+    <desc lang="es">Deportes/Tenis | TP
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20241119180000 +0100" stop="20241119194100 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam: Nadal - Alcaraz · Desde el corazón de una final</title>
+    <desc lang="es">Deportes | 2024 | TP
+· Detrás de un gran evento como la final de la UEFA Women Champions League, hay un gran equipo volcado para que no os perdáis ningún detalle de lo que ocurre dentro, y fuera del césped. El FC consigue su tercer título europeo.
+</desc>
+  </programme>
+  <programme start="20241119194100 +0100" stop="20241119204000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Desde el corazón de una final · Solidario</title>
+    <desc lang="es">Documentales/Programa deportes | 2024 | TP
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20241119204000 +0100" stop="20241119223600 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga Europea de la EHF: Ademar León - HD Kriens · El mentor de Rafa</title>
+    <desc lang="es">Deportes/Programa deportes | TP
+· Toni Nadal, mentor de Rafa Nadal habla sobre la retirada del tenista balear, que culminará su carrera deportiva con este Six Kings Slam y la Copa Davis que se disputa en Málaga el próximo mes.
+· País: España</desc>
+  </programme>
+  <programme start="20241119223600 +0100" stop="20241119231000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">El mentor de Rafa · Alexia Putellas</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP
+· El espacio analiza el perfil futbolístico de la capitana del FC Barcelona, Alexia Putellas, y dos veces Balón de Oro. La blaugrana ha estado fuera de los terrenos de juego casi un año debido a una rotura de ligamento cruzado.
+</desc>
+  </programme>
+  <programme start="20241119231000 +0100" stop="20241119233500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Decoded: Alexia Putellas · Cara B - Cañada Real Galiana</title>
+    <desc lang="es">Deportes | 2024 | TP
+· El periodista Javi Valle acompaña a Adil, Ibra e Isma, tres jóvenes criados en el sector 6 de la Cañada Real de Madrid, para mostrar cómo el deporte puede llenar de ilusiones y esperanzas a los más jóvenes.
+· Título original: Cara B | Cañada Real Galiana
+· País: España</desc>
+  </programme>
+  <programme start="20241119233500 +0100" stop="20241120000500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Cara B - Cañada Real Galiana · Alexis Rocha vs. Santiago Dominguez</title>
+    <desc lang="es">Documentales/Boxeo | +18 | *6.0/10
+· Retransmisión de los mejores combates del momento y noticias de la actualidad del mundo del pugilismo. Votos: 5.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241120000500 +0100" stop="20241120005500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Fight Night: Alexis Rocha vs. Santiago Dominguez</title>
+    <desc lang="es">Deportes
+
+</desc>
+  </programme>
+  <programme start="20241120005500 +0100" stop="20241120141500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+
+</desc>
+  </programme>
+  <programme start="20241120141500 +0100" stop="20241120153000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo: Carrera de Moto2 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | TP | *10.0/10
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20241120153000 +0100" stop="20241120160000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo: Carrera MotoGP · Jornada 10: Real Madrid - FC Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | TP | *10.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20241120160000 +0100" stop="20241120175000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga F: Real Madrid - FC Barcelona · We all rise Madrid - Múnich</title>
+    <desc lang="es">Deportes/Fútbol | TP | *6.0/10
+· DAZN se adentra en el fútbol femenino de dos ciudades europeas: Madrid y Múnich. Votos: 5.
+</desc>
+  </programme>
+  <programme start="20241120175000 +0100" stop="20241120183500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">UEFA Women's Champions League Features: We all rise Madrid - Múnich · Jornada 4: Twente - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol | TP
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+· País: Holanda</desc>
+  </programme>
+  <programme start="20241120183500 +0100" stop="20241120205000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga de Campeones: Twente - Real Madrid E5</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20241120205000 +0100" stop="20241120214000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">La Central · Francis Ngannou, forjado en la adversidad</title>
+    <desc lang="es">Deportes/Programa deportes | +18
+· Francis Ngannou es uno de los luchadores de artes marciales mixtas más importantes.
+</desc>
+  </programme>
+  <programme start="20241120214000 +0100" stop="20241120221000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Francis Ngannou, forjado en la adversidad · Jorge Lorenzo vs. Dani Pedrosa</title>
+    <desc lang="es">Deportes/Programa deportes | TP
+· Jorge Lorenzo y Dani Pedrosa se ven las caras en un insólito duelo entre dos de las mayores leyendas de la historia de MotoGP.
+· País: España</desc>
+  </programme>
+  <programme start="20241120221000 +0100" stop="20241120224500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Jorge Lorenzo vs. Dani Pedrosa · Jimerr Espinosa vs Rogelio Jiménez</title>
+    <desc lang="es">Deportes/Boxeo | +18
+· La Sala Urbana Venue de Ciudad de México acoge esta interesante velada que tiene el combate entre Jimerr Espinosa y Rogelio Jiménez como plato principal.
+· País: México</desc>
+  </programme>
+  <programme start="20241120224500 +0100" stop="20241120230700 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Espinosa vs Jiménez: Jimerr Espinosa vs Rogelio Jiménez</title>
+    <desc lang="es">Deportes
+
+</desc>
+  </programme>
+  <programme start="20241120230700 +0100" stop="20241121133000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241118060000 +0100" stop="20241118100000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241121133000 +0100" stop="20241121143500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features: Nuevos aspirantes · Marc y Honda se separan</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· La temporada de Marc Márquez con Honda va de mal en peor y el piloto español termina optando por dejar el equipo a final de temporada, una noticia que tiene un alcance mundial.
 </desc>
   </programme>
-  <programme start="20241118100000 +0100" stop="20241118140000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241121143500 +0100" stop="20241121151500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features: Bagnaia en problemas · La batalla final</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Pecco Bagnaia y Jorge Martín se juegan el privilegio de ser campeón del mundo de MotoGP en un final de temporada apretadísimo donde todo se decidirá en el devenir de los últimos dos gran premios.
 </desc>
   </programme>
-  <programme start="20241118140000 +0100" stop="20241118180000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241121151500 +0100" stop="20241121165500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features: La batalla final · Solidario</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20241121165500 +0100" stop="20241121172000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP: Valencia · La presión es un privilegio</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.4/10
+· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. Votos: 6.
 </desc>
   </programme>
-  <programme start="20241118180000 +0100" stop="20241118220000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241121172000 +0100" stop="20241121174500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Equals: La presión es un privilegio · Desde el Norte</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
+· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. Votos: 5.
 </desc>
   </programme>
-  <programme start="20241118220000 +0100" stop="20241119060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20241121174500 +0100" stop="20241121233000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Equals: Desde el Norte · Jornada 4: Hammarby - Manchester City</title>
+    <desc lang="es">Deportes/Fútbol | TP
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+· País: Suecia</desc>
+  </programme>
+  <programme start="20241121233000 +0100" stop="20241122004100 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Desde el corazón de una final · Zurdo vs. Billam Smith</title>
+    <desc lang="es">Documentales/Boxeo | +18
+· Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh.
+· País: Arabia Saudí</desc>
   </programme>
 </tv>
