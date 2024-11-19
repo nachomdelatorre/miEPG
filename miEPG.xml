@@ -1,111 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 18/11/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 19/11/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20241118001900 +0000" stop="20241118004200 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241119000400 +0000" stop="20241119050000 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
-· (23 min.).
-</desc>
-  </programme>
-  <programme start="20241118004200 +0000" stop="20241118050000 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· (258 min.).
-</desc>
-  </programme>
-  <programme start="20241118050000 +0000" stop="20241118120000 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· (420 min.).
-</desc>
-  </programme>
-  <programme start="20241118120000 +0000" stop="20241118140000 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League · Jornada 11: Brighton &amp; Hove Albion - Manchester City</title>
-    <desc lang="es">Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. (120 min.).
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241118140000 +0000" stop="20241118163500 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">6 Kings Slam · Alcaraz - Sinner</title>
-    <desc lang="es">Tenis | 2024 | TP
-· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. (155 min.).
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20241118163500 +0000" stop="20241118173000 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">eSport MotoGP Global Series · Carrera 1</title>
-    <desc lang="es">ESports | 2024 | TP
-· Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia. (55 min.).
-</desc>
-  </programme>
-  <programme start="20241118173000 +0000" stop="20241118183000 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo · Carrera de Moto3</title>
-    <desc lang="es">Motociclismo | 2024 | TP | *10.0/10
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. (60 min.) Votos: 3.
-· País: España</desc>
-  </programme>
-  <programme start="20241118183000 +0000" stop="20241118193000 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo · Carrera de Moto2</title>
-    <desc lang="es">Motociclismo | 2024 | TP | *10.0/10
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. (60 min.) Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20241118193000 +0000" stop="20241118203500 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo · Carrera MotoGP</title>
-    <desc lang="es">Motociclismo | 2024 | TP | *10.0/10
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. (65 min.) Votos: 8.
-· País: España</desc>
-  </programme>
-  <programme start="20241118203500 +0000" stop="20241118210000 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F · Jornada 10: Sevilla - Atlético de Madrid</title>
-    <desc lang="es">Fútbol | 2024 | TP | *2.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (25 min.) Votos: 1.
-· País: España</desc>
-  </programme>
-  <programme start="20241118210000 +0000" stop="20241118222500 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F · Jornada 10: Real Madrid - FC Barcelona</title>
-    <desc lang="es">Fútbol | 2024 | TP | *10.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. (85 min.) Votos: 16.
-· País: España</desc>
-  </programme>
-  <programme start="20241118222500 +0000" stop="20241118224000 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">ADN de piloto · Michelin</title>
-    <desc lang="es">Programa deportes | 2024 | TP
-· Programa deportivo dedicado el mundo del motociclismo. Pol Espargaró descubre los secretos de los Grandes Premios y los circuitos. (15 min.).
-· País: España
-· Presenta: Pol Espargaró.</desc>
-  </programme>
-  <programme start="20241118224000 +0000" stop="20241118225000 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">Canelo, la película de una victoria histórica</title>
-    <desc lang="es">Boxeo | 2022 | +18
-· Revivimos lo que nadie vio de una de las peleas de 2022, la que disputaron Canelo y GGG en Estados Unidos. (10 min.).
-</desc>
-  </programme>
-  <programme start="20241118225000 +0000" stop="20241118231500 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">ADN de piloto · La telemetría</title>
-    <desc lang="es">Programa deportes | 2024 | TP
-· Programa deportivo dedicado el mundo del motociclismo. Pol Espargaró descubre los secretos de los Grandes Premios y los circuitos. (10 min.).
-· País: España
-· Presenta: Pol Espargaró.</desc>
-  </programme>
-  <programme start="20241118231500 +0000" stop="20241118233000 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">Off the cuff con Jake Paul</title>
-    <desc lang="es">Programa deportes | 2023 | +18
-· Entrevista con Jake Paul, uno de los boxeadores punteros del verano de boxeo en DAZN. (15 min.).
-</desc>
-  </programme>
-  <programme start="20241118233000 +0000" stop="20241119000300 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">The Making Of Canelo · La lección</title>
-    <desc lang="es">Programa deportes | 2022 | +18 | *2.0/10
-· Saúl Canelo Álvarez revive los momentos más estelares de su carrera en el ring, en tres episodios originales de la serie The Making Of de DAZN. (33 min.) Votos: 1.
-· País: España</desc>
-  </programme>
-  <programme start="20241119000300 +0000" stop="20241119050000 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· (297 min.).
+· (296 min.).
 </desc>
   </programme>
   <programme start="20241119050000 +0000" stop="20241119085000 +0000" channel="DAZN 1 HD 1080P">
@@ -114,84 +16,84 @@
 · (230 min.).
 </desc>
   </programme>
-  <programme start="20241119085000 +0000" stop="20241119121600 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241119085000 +0000" stop="20241119121500 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Barcelona - Día 1 - Sesión 1 · MotoGP Test</title>
     <desc lang="es">Motociclismo | 2024 | TP
-· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados. (206 min.).
+· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados. (205 min.).
 · País: España</desc>
   </programme>
-  <programme start="20241119121600 +0000" stop="20241119125600 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241119121500 +0000" stop="20241119130000 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">Decoded · Marc Márquez</title>
     <desc lang="es">Programa deportes | 2024 | TP
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego. (40 min.).
+· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego. (45 min.).
 </desc>
   </programme>
-  <programme start="20241119125600 +0000" stop="20241119130000 +0000" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features · Pedro Acosta se pone a prueba</title>
-    <desc lang="es">Programa deportes | 2024 | TP
-· Pedro Acosta se sienta con Izaskun Ruiz para responder algunas preguntas: unas fáciles y otras, no tanto. (4 min.).
-</desc>
-  </programme>
-  <programme start="20241119130000 +0000" stop="20241119170000 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241119130000 +0000" stop="20241119170100 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Barcelona - Día 1 - Sesión 2 · MotoGP Test</title>
     <desc lang="es">Motociclismo | 2024 | TP
-· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados. (240 min.).
+· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados. (241 min.).
 · País: España</desc>
   </programme>
-  <programme start="20241119170000 +0000" stop="20241119184100 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241119170100 +0000" stop="20241119183800 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">6 Kings Slam · Nadal - Alcaraz</title>
     <desc lang="es">Tenis | 2024 | TP
-· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. (101 min.).
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. (97 min.).
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20241119184100 +0000" stop="20241119190000 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241119183800 +0000" stop="20241119190000 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">Desde el corazón de una final</title>
     <desc lang="es">Deportes | 2024 | TP
-· Detrás de un gran evento como la final de la UEFA Women Champions League, hay un gran equipo volcado para que no os perdáis ningún detalle de lo que ocurre dentro, y fuera del césped. El FC consigue su tercer título europeo. (19 min.).
+· Detrás de un gran evento como la final de la UEFA Women Champions League, hay un gran equipo volcado para que no os perdáis ningún detalle de lo que ocurre dentro, y fuera del césped. El FC consigue su tercer título europeo. (22 min.).
 </desc>
   </programme>
-  <programme start="20241119190000 +0000" stop="20241119194000 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241119190000 +0000" stop="20241119192600 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP · Solidario</title>
     <desc lang="es">Programa deportes | 2024 | TP
-· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (40 min.).
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. (26 min.).
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20241119194000 +0000" stop="20241119213600 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241119192600 +0000" stop="20241119194000 +0000" channel="DAZN 1 HD 1080P">
+    <title lang="es">Desde el corazón de una final</title>
+    <desc lang="es">Deportes | 2024 | TP
+· Detrás de un gran evento como la final de la UEFA Women Champions League, hay un gran equipo volcado para que no os perdáis ningún detalle de lo que ocurre dentro, y fuera del césped. El FC consigue su tercer título europeo. (14 min.).
+</desc>
+  </programme>
+  <programme start="20241119194000 +0000" stop="20241119213200 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 5: Ademar León - HD Kriens · Liga Europea de la EHF</title>
     <desc lang="es">Balonmano | 2024 | TP
-· La Liga Europea ocupa el segundo lugar en el escalafón de las competiciones continentales de balonmano. Comienza con una fase de clasificación, seguida de una fase de grupos; los mejores, pelean por el título en las eliminatorias. (116 min.).
+· La Liga Europea ocupa el segundo lugar en el escalafón de las competiciones continentales de balonmano. Comienza con una fase de clasificación, seguida de una fase de grupos; los mejores, pelean por el título en las eliminatorias. (112 min.).
 </desc>
   </programme>
-  <programme start="20241119213600 +0000" stop="20241119221000 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241119213200 +0000" stop="20241119221000 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">El mentor de Rafa</title>
     <desc lang="es">Programa deportes | 2024 | TP
-· Toni Nadal, mentor de Rafa Nadal habla sobre la retirada del tenista balear, que culminará su carrera deportiva con este Six Kings Slam y la Copa Davis que se disputa en Málaga el próximo mes. (34 min.).
+· Toni Nadal, mentor de Rafa Nadal habla sobre la retirada del tenista balear, que culminará su carrera deportiva con este Six Kings Slam y la Copa Davis que se disputa en Málaga el próximo mes. (38 min.).
 · País: España</desc>
   </programme>
-  <programme start="20241119221000 +0000" stop="20241119223500 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241119221000 +0000" stop="20241119223400 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">Decoded · Alexia Putellas</title>
     <desc lang="es">Programa deportes | 2023 | TP
-· El espacio analiza el perfil futbolístico de la capitana del FC Barcelona, Alexia Putellas, y dos veces Balón de Oro. La blaugrana ha estado fuera de los terrenos de juego casi un año debido a una rotura de ligamento cruzado. (25 min.).
+· El espacio analiza el perfil futbolístico de la capitana del FC Barcelona, Alexia Putellas, y dos veces Balón de Oro. La blaugrana ha estado fuera de los terrenos de juego casi un año debido a una rotura de ligamento cruzado. (24 min.).
 </desc>
   </programme>
-  <programme start="20241119223500 +0000" stop="20241119230500 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241119223400 +0000" stop="20241119231200 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">Cara B - Cañada Real Galiana</title>
     <desc lang="es">Deportes | 2024 | TP
-· El periodista Javi Valle acompaña a Adil, Ibra e Isma, tres jóvenes criados en el sector 6 de la Cañada Real de Madrid, para mostrar cómo el deporte puede llenar de ilusiones y esperanzas a los más jóvenes. (25 min.).
+· El periodista Javi Valle acompaña a Adil, Ibra e Isma, tres jóvenes criados en el sector 6 de la Cañada Real de Madrid, para mostrar cómo el deporte puede llenar de ilusiones y esperanzas a los más jóvenes. (26 min.).
 · Título original: Cara B | Cañada Real Galiana
 · País: España</desc>
   </programme>
-  <programme start="20241119230500 +0000" stop="20241119235500 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241119231200 +0000" stop="20241120000200 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">Fight Night · Alexis Rocha vs. Santiago Dominguez</title>
     <desc lang="es">Boxeo | 2024 | +18 | *6.0/10
 · Retransmisión de los mejores combates del momento y noticias de la actualidad del mundo del pugilismo. (50 min.) Votos: 5.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20241119235500 +0000" stop="20241120050000 +0000" channel="DAZN 1 HD 1080P">
+  <programme start="20241120000200 +0000" stop="20241120050000 +0000" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
-· (305 min.).
+· (298 min.).
 </desc>
   </programme>
   <programme start="20241120050000 +0000" stop="20241120120000 +0000" channel="DAZN 1 HD 1080P">
@@ -567,5 +469,47 @@
     <desc lang="es">Fútbol | 2024 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. (70 min.).
 · País: R.U.</desc>
+  </programme>
+  <programme start="20241125000200 +0000" stop="20241125010000 +0000" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· (58 min.).
+</desc>
+  </programme>
+  <programme start="20241125010000 +0000" stop="20241125050000 +0000" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· (240 min.).
+</desc>
+  </programme>
+  <programme start="20241125050000 +0000" stop="20241125090000 +0000" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· (240 min.).
+</desc>
+  </programme>
+  <programme start="20241125090000 +0000" stop="20241125130000 +0000" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· (240 min.).
+</desc>
+  </programme>
+  <programme start="20241125130000 +0000" stop="20241125170000 +0000" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· (240 min.).
+</desc>
+  </programme>
+  <programme start="20241125170000 +0000" stop="20241125210000 +0000" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· (240 min.).
+</desc>
+  </programme>
+  <programme start="20241125210000 +0000" stop="20241126010000 +0000" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· (120 min.).
+</desc>
   </programme>
 </tv>
