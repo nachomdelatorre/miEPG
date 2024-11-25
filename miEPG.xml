@@ -1,76 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 24/11/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 25/11/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20241124060000 +0100" stop="20241124115000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241124115000 +0100" stop="20241124140200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 11: Barcelona - Costa Adeje Tenerife T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
-· País: España</desc>
-  </programme>
-  <programme start="20241124140200 +0100" stop="20241124143300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Michu, el ídolo de Haaland</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· Erling Haaland, uno de los mejores jugadores del mundo, reconoce que es uno de sus ídolos.
-· País: España</desc>
-  </programme>
-  <programme start="20241124143300 +0100" stop="20241124145000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
-· País: España</desc>
-  </programme>
-  <programme start="20241124145000 +0100" stop="20241124172000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 12: Southampton - Liverpool T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241124172000 +0100" stop="20241124193500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 12: Ipswich Town - Manchester Utd. T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241124193500 +0100" stop="20241124200800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas.
-· País: España</desc>
-  </programme>
-  <programme start="20241124200800 +0100" stop="20241124211500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 9.
-· País: España</desc>
-  </programme>
-  <programme start="20241124211500 +0100" stop="20241124220700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · Carrera de Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 3.
-· País: España</desc>
-  </programme>
-  <programme start="20241124220700 +0100" stop="20241124230900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · Carrera de Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20241124230900 +0100" stop="20241125010900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 12: Manchester City - Tottenham</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Manchester City recibe al Tottenham tras una racha de cuatro derrotas consecutivas, dos de ellas en Premier. Los Spurs, décimos, están a solo tres puntos de los puestos Champions. Votos: 7.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241125010900 +0100" stop="20241125130200 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241125060000 +0100" stop="20241125130200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -93,7 +27,7 @@
   <programme start="20241125150500 +0100" stop="20241125170500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga F T24/25 · Jornada 11: Real Sociedad - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20241125170500 +0100" stop="20241125173300 +0100" channel="DAZN 1 HD 1080P">
@@ -191,8 +125,8 @@
   </programme>
   <programme start="20241126160500 +0100" stop="20241126180000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga F T24/25 · Jornada 11: Barcelona - Costa Adeje Tenerife</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 1.
 · País: España</desc>
   </programme>
   <programme start="20241126180000 +0100" stop="20241126184500 +0100" channel="DAZN 1 HD 1080P">
@@ -239,11 +173,18 @@
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241127011400 +0100" stop="20241127154000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241127011400 +0100" stop="20241127145000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
+  </programme>
+  <programme start="20241127145000 +0100" stop="20241127154000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Born Racers T1 · Gloria</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· La Rookies Cup se decide de forma espectacular y asistimos al primer título mundial de una futura superestrella.
+· País: Austria
+· Productora: Whisper Films.</desc>
   </programme>
   <programme start="20241127154000 +0100" stop="20241127164500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Born Racers T1 · Reconocimiento</title>
@@ -289,7 +230,7 @@
 </desc>
   </programme>
   <programme start="20241128164000 +0100" stop="20241128183000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F T24/25 · Jornada 10: Real Madrid - FC Barcelona</title>
+    <title lang="es">Liga F T24/25 · Jornada 10: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 17.
 · País: España</desc>
@@ -404,11 +345,17 @@
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20241129190000 +0100" stop="20241129201000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241129190000 +0100" stop="20241129193500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Jorge Lorenzo vs. Dani Pedrosa</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Jorge Lorenzo y Dani Pedrosa se ven las caras en un insólito duelo entre dos de las mayores leyendas de la historia de MotoGP.
 · País: España</desc>
+  </programme>
+  <programme start="20241129193500 +0100" stop="20241129201000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Una Premier League para la historia</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Los mejores momentos de una temporada que muchos califican como histórica.
+</desc>
   </programme>
   <programme start="20241129201000 +0100" stop="20241129221500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">El mentor de Rafa</title>
@@ -487,5 +434,47 @@
     <desc lang="es">Deportes/Boxeo | 2024 | +18
 · Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh.
 · País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20241201004000 +0100" stop="20241201133500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241201133500 +0100" stop="20241201142000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas.
+· País: España</desc>
+  </programme>
+  <programme start="20241201142000 +0100" stop="20241201165000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 13: Chelsea - Aston Villa T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241201165000 +0100" stop="20241201192500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 13: Liverpool - Manchester City T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241201192500 +0100" stop="20241201223000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Portugal: Carrera Moto3</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· El exigente Autodromo Internacional do Algarve es el escenario de la segunda cita de la temporada. El circuito combina rectas largas y quince curvas cerradas que ponen a prueba tanto a los pilotos como a las máquinas. Votos: 13.
+· País: Portugal</desc>
+  </programme>
+  <programme start="20241201223000 +0100" stop="20241202002800 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 13: Manchester United - Everton</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241202002800 +0100" stop="20241202020000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
 </tv>
