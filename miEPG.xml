@@ -1,87 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 08/12/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 09/12/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20241208060000 +0100" stop="20241208115000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241208115000 +0100" stop="20241208140300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 12: SD Eibar - Real Sociedad T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
-· País: España</desc>
-  </programme>
-  <programme start="20241208140300 +0100" stop="20241208141600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League.
-· País: España</desc>
-  </programme>
-  <programme start="20241208141600 +0100" stop="20241208145000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas.
-· País: España</desc>
-  </programme>
-  <programme start="20241208145000 +0100" stop="20241208170500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 15: Fulham - Arsenal T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241208170500 +0100" stop="20241208172000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League.
-· País: España</desc>
-  </programme>
-  <programme start="20241208172000 +0100" stop="20241208193500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 15: Tottenham - Chelsea T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241208193500 +0100" stop="20241208200100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
-· País: España</desc>
-  </programme>
-  <programme start="20241208200100 +0100" stop="20241208205700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP Las Américas: Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· El Gran Premio de las Américas de Motociclismo es una carrera de motociclismo de velocidad que se disputa en el Circuito de las Américas desde la temporada 2013 del Campeonato del Mundo de Motociclismo. Votos: 2.
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20241208205700 +0100" stop="20241208215800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP Las Américas: Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· El Gran Premio de las Américas de Motociclismo es una carrera de motociclismo de velocidad que se disputa en el Circuito de las Américas desde la temporada 2013 del Campeonato del Mundo de Motociclismo. Votos: 1.
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20241208215800 +0100" stop="20241208230300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP Las Américas: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
-· El Gran Premio de las Américas de Motociclismo es una carrera de motociclismo de velocidad que se disputa en el Circuito de las Américas desde la temporada 2013 del Campeonato del Mundo de Motociclismo. Votos: 5.
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20241208230300 +0100" stop="20241209010300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 15: Fulham - Arsenal T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241209010300 +0100" stop="20241209060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20241209060000 +0100" stop="20241209130000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
@@ -343,7 +265,7 @@
 · País: R.U.</desc>
   </programme>
   <programme start="20241212145500 +0100" stop="20241212170000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Final T2024 · A1 Padel San Juan</title>
+    <title lang="es">A1 Padel San Juan T2024 · Final</title>
     <desc lang="es">Deportes/Pádel | 2024 | TP
 · La ciudad argentina de San Juan acoge una nueva cita del A1 Padel Tour. Del 2 al 8 de diciembre, el estadio Aldo Cantoni reúne a algunas de las mejores parejas del circuito, quienes pelean por los más de 24.000 dólares de premio para la dupla ganadora.
 · País: Argentina</desc>
@@ -388,7 +310,7 @@
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
   <programme start="20241212233000 +0100" stop="20241213003000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Liam Paro vs Richardson Hitchins (velada completa) T2024 · Boxeo: velada Paro vs Hitchins</title>
+    <title lang="es">Boxeo: velada Paro vs Hitchins T2024 · Liam Paro vs Richardson Hitchins (velada completa)</title>
     <desc lang="es">Deportes/Boxeo | 2024 | +18
 · El Coliseo Roberto Clemente de San Juan, en Puerto Rico alberga la velada de boxeo que enfrenta en el cartel principal a Liam Paro contra Richardson Hitchins por el título superligero.
 · País: Puerto Rico</desc>
@@ -565,5 +487,71 @@
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
+  </programme>
+  <programme start="20241215004100 +0100" stop="20241215060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241215060000 +0100" stop="20241215114500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241215114500 +0100" stop="20241215135500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 13: VCF Femenino - FC Barcelona T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20241215135500 +0100" stop="20241215145000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas.
+· País: España</desc>
+  </programme>
+  <programme start="20241215145000 +0100" stop="20241215172000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 16: Brighton - Crystal Palace T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241215172000 +0100" stop="20241215195000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 16: Manchester City - Manchester Utd. T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241215195000 +0100" stop="20241215220000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 16: Chelsea - Brentford T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241215220000 +0100" stop="20241215221000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">La vida en rojo</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Documental sobre Ducati, la fuerza mayor de MotoGP.
+</desc>
+  </programme>
+  <programme start="20241215221000 +0100" stop="20241216000500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de España: Carrera Moto3</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· El Mundial inicia su periplo europeo en el GP de España, cuarta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 7.
+· País: España</desc>
+  </programme>
+  <programme start="20241216000500 +0100" stop="20241216005400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de España: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
+· El Mundial inicia su periplo europeo en el GP de España, cuarta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen.. Votos: 21.
+· País: España</desc>
+  </programme>
+  <programme start="20241216005400 +0100" stop="20241216020000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
 </tv>
