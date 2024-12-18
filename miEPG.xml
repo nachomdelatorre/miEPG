@@ -1,132 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 17/12/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 18/12/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20241217130000 +0100" stop="20241217135500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2024 · Japón - Carrera 1</title>
-    <desc lang="es">Deportes/Motor | 2024 | TP
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
-</desc>
-  </programme>
-  <programme start="20241217135500 +0100" stop="20241217145800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2024 · Japón - Carrera 2</title>
-    <desc lang="es">Deportes/Motor | 2024 | TP
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
-</desc>
-  </programme>
-  <programme start="20241217145800 +0100" stop="20241217153900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2024 · Marc Márquez</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.
-</desc>
-  </programme>
-  <programme start="20241217153900 +0100" stop="20241217161700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Features T2024 · Red Bull Dual Ascent - La película</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?
-</desc>
-  </programme>
-  <programme start="20241217161700 +0100" stop="20241217165200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Features T2024 E1</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?
-</desc>
-  </programme>
-  <programme start="20241217165200 +0100" stop="20241217183900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga de Campeones (F) T24/25 · Jornada 1: Chelsea - Real Madrid</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· La competición de clubes más importante del mundo del fútbol femenino. Votos: 13.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241217183900 +0100" stop="20241217205400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 6: Real Madrid - Chelsea T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
-· País: España</desc>
-  </programme>
-  <programme start="20241217205400 +0100" stop="20241217231400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 6: Olympique Lyon - Wolfsburgo T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 1.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241217231400 +0100" stop="20241218002100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Documental sobre Ducati, la fuerza mayor de MotoGP.
-</desc>
-  </programme>
-  <programme start="20241218002100 +0100" stop="20241218012800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Zurdo vs. Billam Smith: Riyadh Season Latinos Night T2024 · Zurdo vs. Billam Smith</title>
-    <desc lang="es">Deportes/Boxeo | 2024 | +18
-· Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh.
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20241218012800 +0100" stop="20241218060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241218060000 +0100" stop="20241218130000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241218130000 +0100" stop="20241218135500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241218130000 +0100" stop="20241218135700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Asia Talent Cup T2024 · Tailandia - Carrera 1</title>
     <desc lang="es">Deportes/Motor | 2024 | TP
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
 </desc>
   </programme>
-  <programme start="20241218135500 +0100" stop="20241218145000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241218135700 +0100" stop="20241218145000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Asia Talent Cup T2024 · Tailandia - Carrera 2</title>
     <desc lang="es">Deportes/Motor | 2024 | TP
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
 </desc>
   </programme>
-  <programme start="20241218145000 +0100" stop="20241218170500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 6: Real Madrid - Chelsea T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+  <programme start="20241218145000 +0100" stop="20241218164800 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga de Campeones (F) T24/25 · Jornada 6: Real Madrid - Chelsea</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 7.
 · País: España</desc>
   </programme>
-  <programme start="20241218170500 +0100" stop="20241218183500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241218164800 +0100" stop="20241218183900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga de Campeones (F) T24/25 · Jornada 1: Manchester City - FC Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · La competición de clubes más importante del mundo del fútbol femenino. Votos: 4.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241218183500 +0100" stop="20241218210000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241218183900 +0100" stop="20241218210000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 6: Barcelona - Manchester City T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
-· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 2.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20241218210000 +0100" stop="20241218213500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241218210000 +0100" stop="20241218214200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 6: Barcelona - Manchester City T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
-· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 2.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20241218213500 +0100" stop="20241218230000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241218214200 +0100" stop="20241218224800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">La vida en rojo</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Documental sobre Ducati, la fuerza mayor de MotoGP.
 </desc>
   </programme>
-  <programme start="20241218230000 +0100" stop="20241219014700 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241218224800 +0100" stop="20241219020600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Finales WTA T2024 · Gauff - Zheng</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP
 · Las ocho mejores tenistas de la temporada luchan por proclamarse maestras. Un torneo de lujo que en esta edición se celebra en la capital saudí, Riad. Iga Świątek, quien ganó la final del año anterior, parte como principal favorita.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20241219014700 +0100" stop="20241219060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241219020600 +0100" stop="20241219060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -140,8 +68,8 @@
   </programme>
   <programme start="20241219130000 +0100" stop="20241219133000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 6: Barcelona - Manchester City T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
-· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 2.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
@@ -158,7 +86,7 @@
 </desc>
   </programme>
   <programme start="20241219151500 +0100" stop="20241219173000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 6: Olympique Lyon - Wolfsburgo T24/25 · Liga de Campeones (F)</title>
+    <title lang="es">Liga de Campeones (F) T24/25 · Jornada 6: Olympique Lyon - Wolfsburgo</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 1.
 · País: Francia</desc>
@@ -177,8 +105,8 @@
   </programme>
   <programme start="20241219184000 +0100" stop="20241219205300 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 6: Barcelona - Manchester City T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
-· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 2.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
@@ -189,7 +117,7 @@
 · País: Italia</desc>
   </programme>
   <programme start="20241219230500 +0100" stop="20241220001000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
+    <title lang="es">Erasmus FC T24/25 E9</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -232,8 +160,8 @@
   </programme>
   <programme start="20241220154000 +0100" stop="20241220155500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 6: Barcelona - Manchester City T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
-· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 2.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
@@ -269,8 +197,8 @@
   </programme>
   <programme start="20241220203000 +0100" stop="20241220230500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 6: Barcelona - Manchester City T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
-· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 2.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
@@ -300,8 +228,8 @@
   </programme>
   <programme start="20241221132000 +0100" stop="20241221155000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 17: Aston Villa - Manchester City T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Un Aston Villa errático en la Premier se enfrenta a un Manchester City errático en general. Ambos vienen de perder en la última jornada. El City está a nueve puntos de líder y los de Birmingham a once. Choque de mucha necesidad para Emery y Guardiola. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· Un Aston Villa errático en la Premier se enfrenta a un Manchester City errático en general. Ambos vienen de perder en la última jornada. El City está a nueve puntos de líder y los de Birmingham a once. Choque de mucha necesidad para Emery y Guardiola. Votos: 6.
 · País: R.U.</desc>
   </programme>
   <programme start="20241221155000 +0100" stop="20241221182000 +0100" channel="DAZN 1 HD 1080P">
@@ -335,9 +263,9 @@
 · País: España</desc>
   </programme>
   <programme start="20241221215000 +0100" stop="20241221235000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 6: Real Madrid - Chelsea T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+    <title lang="es">Liga de Campeones (F) T24/25 · Jornada 6: Real Madrid - Chelsea</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 7.
 · País: España</desc>
   </programme>
   <programme start="20241221235000 +0100" stop="20241222002000 +0100" channel="DAZN 1 HD 1080P">
@@ -406,46 +334,130 @@
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 17.
 · País: España</desc>
   </programme>
-  <programme start="20241223001800 +0100" stop="20241223020000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241223001800 +0100" stop="20241223060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241223020000 +0100" stop="20241223060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241223060000 +0100" stop="20241223130000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241223060000 +0100" stop="20241223100000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20241223130000 +0100" stop="20241223140000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">IFEMA Madrid Horse Week T2024 · Jump &amp; Drive Trophy</title>
+    <desc lang="es">Deportes/Hípica | 2024 | TP
+· Madrid Horse Week es el mayor evento ecuestre que se celebra en España. Un certamen transversal y multidisciplinar donde tienen lugar competiciones de diferentes disciplinas hípicas, como las copas del mundo de salto o de doma.
+· País: España</desc>
+  </programme>
+  <programme start="20241223140000 +0100" stop="20241223150000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Erasmus FC T24/25 E10</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
+· País: España</desc>
+  </programme>
+  <programme start="20241223150000 +0100" stop="20241223200000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">A1 Padel San Juan T2024 · Final</title>
+    <desc lang="es">Deportes/Pádel | 2024 | TP | *6.0/10
+· La ciudad argentina de San Juan acoge una nueva cita del A1 Padel Tour. Del 2 al 8 de diciembre, el estadio Aldo Cantoni reúne a algunas de las mejores parejas del circuito, quienes pelean por los más de 24.000 dólares de premio para la dupla ganadora. Votos: 5.
+· País: Argentina</desc>
+  </programme>
+  <programme start="20241223200000 +0100" stop="20241223213500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam T2024 · Nadal - Alcaraz</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20241223213500 +0100" stop="20241223232500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam T2024 · Nadal - Djokovic</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20241223232500 +0100" stop="20241224020000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam T2024 · Alcaraz - Sinner</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20241224020000 +0100" stop="20241224060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Zurdo vs. Billam Smith: Riyadh Season Latinos Night T2024 · Zurdo vs. Billam Smith</title>
+    <desc lang="es">Deportes/Boxeo | 2024 | +18
+· Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20241224060000 +0100" stop="20241224151000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241223100000 +0100" stop="20241223140000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241224151000 +0100" stop="20241224161500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Born Racers T1 E1</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· La academia más rápida sobre dos ruedas sigue la trayectoria de ocho adolescentes.
+· País: Austria
+· Productora: Whisper Films.</desc>
+  </programme>
+  <programme start="20241224161500 +0100" stop="20241224171000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Born Racers T1 · Rivalidad</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Born Racers, la academia más rápida sobre dos ruedas, sigue la trayectoria de ocho adolescentes que persiguen el sueño de llegar a lo más alto en el mundo de las carreras de motos.
+· País: Austria
+· Productora: Whisper Films.</desc>
+  </programme>
+  <programme start="20241224171000 +0100" stop="20241224180500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Born Racers T1 · - Capítulo 3 - Paternidad</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· La historia de Rico nos lleva a correr sobre hielo en los lagos helados de Finlandia, mientras Ruché intenta salir de la sombra de su padre.
+· País: Austria
+· Productora: Whisper Films.</desc>
+  </programme>
+  <programme start="20241224180500 +0100" stop="20241224190500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Born Racers T1 · - Capítulo 4 - Redención</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Cormac intenta acabar con los fantasmas de años anteriores, pero un rayo cae dos veces y ve cómo sus sueños se esfuman, mientras que Máximo por fin desarrolla todo su potencial.
+· País: Austria
+· Productora: Whisper Films.</desc>
+  </programme>
+  <programme start="20241224190500 +0100" stop="20241224195500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Born Racers T1 · Gloria</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· La Rookies Cup se decide de forma espectacular y asistimos al primer título mundial de una futura superestrella.
+· País: Austria
+· Productora: Whisper Films.</desc>
+  </programme>
+  <programme start="20241224195500 +0100" stop="20241224210500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Born Racers T1 · Reconocimiento</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El futuro de nuestros novatos se decidirá de forma dramática en el último fin de semana de carreras de la temporada.
+· País: Austria
+· Productora: Whisper Films.</desc>
+  </programme>
+  <programme start="20241224210500 +0100" stop="20241224213000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Maverick Viñales: dos vidas</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP
+· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.
+· País: España</desc>
+  </programme>
+  <programme start="20241224213000 +0100" stop="20241224220500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">La vida en rojo</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Documental sobre Ducati, la fuerza mayor de MotoGP.
 </desc>
   </programme>
-  <programme start="20241223140000 +0100" stop="20241223180000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20241224220500 +0100" stop="20241225000500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 13: Liverpool - Manchester City</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· El Liverpool lidera la Premier con autoridad y Arne Slot sigue demostrando su gran impacto en los reds. Cinco derrotas oficiales consecutivas y a ocho puntos del primer puesto, el Man City vive una situación inédita que intentara revertir en Anfield. Votos: 14.
+· País: R.U.</desc>
   </programme>
-  <programme start="20241223180000 +0100" stop="20241223220000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241223220000 +0100" stop="20241224020000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20241225000500 +0100" stop="20241225014400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Canelo vs. Ryder T2023 · Saúl "Canelo" Álvarez vs John Ryder (velada completa)</title>
+    <desc lang="es">Deportes/Boxeo | 2023 | +18 | *10.0/10
+· El Rey 'Canelo' Álvarez vuelve a pelear en su México natal por primera vez desde el año 2011. El púgil de Guadalajara defiende su campeonato indiscutible de peso supermediano contra John Ryder, campeón interino de la OMB. Votos: 1.
+· País: México</desc>
   </programme>
 </tv>
