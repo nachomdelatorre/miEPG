@@ -1,81 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 22/12/2024 11:32" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 23/12/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20241222124600 +0100" stop="20241222145000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 17: Crystal Palace - Arsenal</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241222145000 +0100" stop="20241222170400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 17: Everton - Chelsea T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241222170400 +0100" stop="20241222172000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League.
-· País: España</desc>
-  </programme>
-  <programme start="20241222172000 +0100" stop="20241222193600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 17: Tottenham - Liverpool T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241222193600 +0100" stop="20241222202400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.
-· País: España</desc>
-  </programme>
-  <programme start="20241222202400 +0100" stop="20241222205600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Luis García, el goleador del 'Spanish Liverpool'</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League.
-· País: España</desc>
-  </programme>
-  <programme start="20241222205600 +0100" stop="20241222215200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Francia: Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· El circuito Bugatti, en la cuna del motor galo de Le Mans, acoge un año más el GP de Francia, quinta prueba del Mundial de motociclismo. Su estrecha pista y sus acentuadas curvas obligan a los pilotos a dar lo mejor de sí mismos. Votos: 1.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241222215200 +0100" stop="20241222225800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Francia: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· El circuito Bugatti, en la cuna del motor galo de Le Mans, acoge un año más el GP de Francia, quinta prueba del Mundial de motociclismo. Su estrecha pista y sus acentuadas curvas obligan a los pilotos a dar lo mejor de sí mismos. Votos: 2.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241222225800 +0100" stop="20241223005100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F T24/25 · Jornada 10: Real Madrid - Barcelona</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 17.
-· País: España</desc>
-  </programme>
-  <programme start="20241223005100 +0100" stop="20241223011500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Equals T1 · La presión es un privilegio</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
-· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. Votos: 6.
-</desc>
-  </programme>
-  <programme start="20241223011500 +0100" stop="20241223060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241223060000 +0100" stop="20241223130100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20241223130100 +0100" stop="20241223141000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">IFEMA Madrid Horse Week T2024 · Jump &amp; Drive Trophy</title>
     <desc lang="es">Deportes/Hípica | 2024 | TP
@@ -335,7 +263,7 @@
   <programme start="20241226132000 +0100" stop="20241226155000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 18: Manchester City - Everton T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 7.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 8.
 · País: R.U.</desc>
   </programme>
   <programme start="20241226155000 +0100" stop="20241226182000 +0100" channel="DAZN 1 HD 1080P">
@@ -493,5 +421,65 @@
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
+  </programme>
+  <programme start="20241228231500 +0100" stop="20241229060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241229060000 +0100" stop="20241229130000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241229130000 +0100" stop="20241229150000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 18: Liverpool - Leicester T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241229150000 +0100" stop="20241229152000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas.
+· País: España</desc>
+  </programme>
+  <programme start="20241229152000 +0100" stop="20241229173000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 19: Leicester - Manchester City T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 5.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241229173000 +0100" stop="20241229180500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
+· País: España</desc>
+  </programme>
+  <programme start="20241229180500 +0100" stop="20241229201500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 19: West Ham - Liverpool T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241229201500 +0100" stop="20241229211000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">La vida en rojo</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Documental sobre Ducati, la fuerza mayor de MotoGP.
+</desc>
+  </programme>
+  <programme start="20241229211000 +0100" stop="20241229220000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · Carrera Moto3</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 3.
+· País: España</desc>
+  </programme>
+  <programme start="20241229220000 +0100" stop="20241229231500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 10.
+· País: España</desc>
   </programme>
 </tv>
