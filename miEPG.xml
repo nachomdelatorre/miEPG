@@ -1,87 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 31/12/2024 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 01/01/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20241231130000 +0100" stop="20241231150000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 19: Aston Villa - Brighton &amp; Hove Albion</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241231150000 +0100" stop="20241231161000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
-· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 3.
-</desc>
-  </programme>
-  <programme start="20241231161000 +0100" stop="20241231181000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 19: Ipswich Town - Chelsea</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 6.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241231181000 +0100" stop="20241231185600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.
-· País: España</desc>
-  </programme>
-  <programme start="20241231185600 +0100" stop="20241231205800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 19: Manchester United - Newcastle</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241231205800 +0100" stop="20241231211700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Àlex Crivillé, referente máximo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Álex Crivillé es una figura clave en la historia del motociclismo español. En la temporada 1999, el de Seva rompió muchas barreras para España en un deporte dominado por ingleses y americanos.
-· País: España</desc>
-  </programme>
-  <programme start="20241231211700 +0100" stop="20241231215500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">David Alonso, historia para Colombia</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· David Alonso, el joven campeón de Moto3, analiza esta conquista tan especial para él.
-</desc>
-  </programme>
-  <programme start="20241231215500 +0100" stop="20241231225700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Japón: Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· El circuito de Motegi es uno de los más desafiantes del calendario del Mundial de motociclismo. Su combinación de curvas rápidas y lentas, largas rectas y fuertes frenadas dan pie a batallas épicas. Las Honda pretenden brillar en casa.
-· País: Japón</desc>
-  </programme>
-  <programme start="20241231225700 +0100" stop="20250101001400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Tailandia: Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· La gira oriental del Mundial de motocicliso llega al circuito internacional de Chang, ubicado en Buriram. El trazado tiene una longitud de 4,6 kilómetros y consta de 12 curvas que enlazan zonas de largas rectas.
-· País: España y Tailandia</desc>
-  </programme>
-  <programme start="20250101001400 +0100" stop="20250101003000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Los mejores momentos de 2024</title>
-    <desc lang="es">Sin clasificar/SIN CLASIFICAR | 2024 | TP
-· Revive con los mejores momentos deportivos del año 2024.
-</desc>
-  </programme>
-  <programme start="20250101003000 +0100" stop="20250101014600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 10.
-· País: España</desc>
-  </programme>
-  <programme start="20250101014600 +0100" stop="20250101060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250101060000 +0100" stop="20250101130100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250101130100 +0100" stop="20250101132500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Decoded T2023 · Alexia Putellas</title>
     <desc lang="es">Deportes/Programa deportes | 2023 | TP
@@ -120,7 +42,7 @@
   </programme>
   <programme start="20250101182000 +0100" stop="20250101203500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 19: Brentford - Arsenal T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
@@ -199,7 +121,7 @@
   <programme start="20250102195000 +0100" stop="20250102215600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinal: Inter - Atalanta T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Inter y Atalanta se enfrentarán en la semifinal de la Supercopa Italiana en el Kingdom Arena de Riad. El Inter, actual campeón de la Serie A, busca su cuarto título consecutivo en esta competición. Votos: 4.
+· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano. Votos: 4.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250102215600 +0100" stop="20250102221200 +0100" channel="DAZN 1 HD 1080P">
@@ -210,7 +132,7 @@
   </programme>
   <programme start="20250102221200 +0100" stop="20250103001400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 19: Brentford - Arsenal T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
@@ -260,13 +182,13 @@
   <programme start="20250103180000 +0100" stop="20250103195000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinal: Inter - Atalanta T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Inter y Atalanta se enfrentarán en la semifinal de la Supercopa Italiana en el Kingdom Arena de Riad. El Inter, actual campeón de la Serie A, busca su cuarto título consecutivo en esta competición. Votos: 4.
+· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano. Votos: 4.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250103195000 +0100" stop="20250103220100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinal: Juventus - Milan T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La semifinal de la Supercopa Italiana entre Juventus y Milán se disputa en el Kingdom Arena de Riad, Arabia Saudita. El ganador de este encuentro avanzará a la final.
+· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250103220100 +0100" stop="20250103222700 +0100" channel="DAZN 1 HD 1080P">
@@ -338,7 +260,7 @@
   <programme start="20250104203900 +0100" stop="20250104224500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinal: Juventus - Milan T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La semifinal de la Supercopa Italiana entre Juventus y Milán se disputa en el Kingdom Arena de Riad, Arabia Saudita. El ganador de este encuentro avanzará a la final.
+· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104224500 +0100" stop="20250105004500 +0100" channel="DAZN 1 HD 1080P">
@@ -496,5 +418,94 @@
     <desc lang="es">Deportes/Boxeo | 2024 | +18
 · Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh.
 · País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20250107005900 +0100" stop="20250107060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250107060000 +0100" stop="20250107130000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250107130000 +0100" stop="20250107150200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 20: Wolverhampton - Nottingham Forest T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250107150200 +0100" stop="20250107152200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2024 · Japón</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250107152200 +0100" stop="20250107153900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2024 · Australia</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250107153900 +0100" stop="20250107155900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2024 · Tailandia</title>
+    <desc lang="es">Deportes/Programa deportes | 2004 | TP
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250107155900 +0100" stop="20250107161800 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2024 · Malasia</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250107161800 +0100" stop="20250107164500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2024 · Barcelona</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250107164500 +0100" stop="20250107174100 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Australia: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
+· Phillip Island es un lugar icónico en el Mundial de MotoGP. La ubicación pintoresca del circuito, con vistas al océano, y su diseño rápido y fluido, con muchas curvas rápidas y cambios de elevación, lo convierten en uno de los favoritos. Votos: 26.
+· País: Australia y España</desc>
+  </programme>
+  <programme start="20250107174100 +0100" stop="20250107183900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Tailandia: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· La gira oriental del Mundial de motocicliso llega al circuito internacional de Chang, ubicado en Buriram. El trazado tiene una longitud de 4,6 kilómetros y consta de 12 curvas que enlazan zonas de largas rectas. Votos: 3.
+· País: España y Tailandia</desc>
+  </programme>
+  <programme start="20250107183900 +0100" stop="20250107194200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Japón: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
+· El circuito de Motegi es uno de los más desafiantes del calendario del Mundial de motociclismo. Su combinación de curvas rápidas y lentas, largas rectas y fuertes frenadas dan pie a batallas épicas. Las Honda pretenden brillar en casa. Votos: 11.
+· País: Japón</desc>
+  </programme>
+  <programme start="20250107194200 +0100" stop="20250107205900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. Votos: 3.
+· País: España</desc>
+  </programme>
+  <programme start="20250107205900 +0100" stop="20250108002600 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 10.
+· País: España</desc>
+  </programme>
+  <programme start="20250108002600 +0100" stop="20250108013000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">La vida en rojo</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 3.
+</desc>
   </programme>
 </tv>
