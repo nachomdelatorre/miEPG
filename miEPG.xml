@@ -1,203 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 02/01/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 03/01/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250102125100 +0100" stop="20250102141700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DTM T2024 · Sachsenring - Carrera 1</title>
-    <desc lang="es">Deportes/Automovilismo | 2024 | TP
-· El Deutsche Tourenwagen Masters (DTM) es el campeonato alemán de turismos, una emocionante competición automovilística en la que los bólidos son los protagonistas.
-· País: Alemania</desc>
-  </programme>
-  <programme start="20250102141700 +0100" stop="20250102154500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DTM T2024 · Sachsenring - Carrera 2</title>
-    <desc lang="es">Deportes/Automovilismo | 2024 | TP
-· El Deutsche Tourenwagen Masters (DTM) es el campeonato alemán de turismos, una emocionante competición automovilística en la que los bólidos son los protagonistas.
-· País: Alemania</desc>
-  </programme>
-  <programme start="20250102154500 +0100" stop="20250102163100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.
-· País: España</desc>
-  </programme>
-  <programme start="20250102163100 +0100" stop="20250102172500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 3.
-· País: España</desc>
-  </programme>
-  <programme start="20250102172500 +0100" stop="20250102182000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 3.
-· País: España</desc>
-  </programme>
-  <programme start="20250102182000 +0100" stop="20250102193500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 10.
-· País: España</desc>
-  </programme>
-  <programme start="20250102193500 +0100" stop="20250102195000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Jorge Lorenzo vs. Dani Pedrosa</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Jorge Lorenzo y Dani Pedrosa se ven las caras en un insólito duelo entre dos de las mayores leyendas de la historia de MotoGP.
-· País: España</desc>
-  </programme>
-  <programme start="20250102195000 +0100" stop="20250102215600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Semifinal: Inter - Atalanta T24/25 · Supercopa de Italia</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano. Votos: 4.
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20250102215600 +0100" stop="20250102221200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Monchi, un cazatalentos único</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· El programa entrevista a Ramón Rodríguez 'Monchi', el actual director deportivo del Aston Villa. El 'cazalentos' español por excelencia nos cuenta cómo está viviendo su primera experiencia en Inglaterra.
-· País: España</desc>
-  </programme>
-  <programme start="20250102221200 +0100" stop="20250103001400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 19: Brentford - Arsenal</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *2.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250103001400 +0100" stop="20250103012000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Zurdo vs. Billam Smith: Riyadh Season Latinos Night T2024 · Zurdo vs. Billam Smith</title>
-    <desc lang="es">Deportes/Boxeo | 2024 | +18
-· Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh.
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20250103012000 +0100" stop="20250103060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250103060000 +0100" stop="20250103130000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250103130000 +0100" stop="20250103145100 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250103130100 +0100" stop="20250103144700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga de Campeones (F) T24/25 · Jornada 6: Barcelona - Manchester City</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 13.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20250103145100 +0100" stop="20250103150700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
-· País: España</desc>
-  </programme>
-  <programme start="20250103150700 +0100" stop="20250103170800 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250103144700 +0100" stop="20250103164100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 19: West Ham - Liverpool</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250103170800 +0100" stop="20250103180000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250103164100 +0100" stop="20250103175700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *2.0/10
-· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 2.
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 3.
 </desc>
   </programme>
-  <programme start="20250103180000 +0100" stop="20250103195000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Semifinal: Inter - Atalanta T24/25 · Supercopa de Italia</title>
+  <programme start="20250103175700 +0100" stop="20250103195000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Supercopa de Italia T24/25 · Semifinal: Inter - Atalanta</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano. Votos: 4.
+· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano. Votos: 6.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250103195000 +0100" stop="20250103220100 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250103195000 +0100" stop="20250103215600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinal: Juventus - Milan T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250103220100 +0100" stop="20250103222700 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250103215600 +0100" stop="20250103224500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Maverick Viñales: dos vidas</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP
 · Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.
 · País: España</desc>
   </programme>
-  <programme start="20250103222700 +0100" stop="20250104010200 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250103224500 +0100" stop="20250104012100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">6 Kings Slam T2024 · Alcaraz - Sinner</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP
 · Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250104010200 +0100" stop="20250104060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250104012100 +0100" stop="20250104013300 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">#Los24del2024</title>
+    <desc lang="es">Deportes/Otros deportes | 2024 | TP
+· Recopilación de momentos que han marcado el año 2024 en el mundo del deporte.
+</desc>
+  </programme>
+  <programme start="20250104013300 +0100" stop="20250104060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250104060000 +0100" stop="20250104130000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250104060000 +0100" stop="20250104125600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250104130000 +0100" stop="20250104132000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250104125600 +0100" stop="20250104132000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
 · País: España</desc>
   </programme>
-  <programme start="20250104132000 +0100" stop="20250104153000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250104132000 +0100" stop="20250104153300 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 20: Tottenham - Newcastle T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *4.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250104153000 +0100" stop="20250104155000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250104153300 +0100" stop="20250104155000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
 · País: España</desc>
   </programme>
-  <programme start="20250104155000 +0100" stop="20250104180000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250104155000 +0100" stop="20250104180500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 20: Manchester City - West Ham T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250104180000 +0100" stop="20250104182000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250104180500 +0100" stop="20250104182000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
 · David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League. Votos: 8.
 · País: España</desc>
   </programme>
-  <programme start="20250104182000 +0100" stop="20250104202400 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250104182000 +0100" stop="20250104203500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 20: Brighton &amp; Hove Albion - Arsenal T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250104202400 +0100" stop="20250104203900 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250104203500 +0100" stop="20250104205000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Monchi, un cazatalentos único</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · El programa entrevista a Ramón Rodríguez 'Monchi', el actual director deportivo del Aston Villa. El 'cazalentos' español por excelencia nos cuenta cómo está viviendo su primera experiencia en Inglaterra.
 · País: España</desc>
   </programme>
-  <programme start="20250104203900 +0100" stop="20250104224500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250104205000 +0100" stop="20250104224300 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinal: Juventus - Milan T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250104224500 +0100" stop="20250105004500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250104224300 +0100" stop="20250105004500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 20: Southampton - Brentford</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250105004500 +0100" stop="20250105060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250105004500 +0100" stop="20250105011400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Michu, el ídolo de Haaland</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
+· Erling Haaland, uno de los mejores jugadores del mundo, reconoce que es uno de sus ídolos. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250105011400 +0100" stop="20250105060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -235,8 +163,8 @@
   </programme>
   <programme start="20250105172000 +0100" stop="20250105193000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 20: Liverpool - Manchester Utd. T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 17.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 22.
 · País: R.U.</desc>
   </programme>
   <programme start="20250105193000 +0100" stop="20250105195000 +0100" channel="DAZN 1 HD 1080P">
@@ -319,8 +247,8 @@
   </programme>
   <programme start="20250106174500 +0100" stop="20250106215600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 20: Liverpool - Manchester Utd. T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 17.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 22.
 · País: R.U.</desc>
   </programme>
   <programme start="20250106215600 +0100" stop="20250106222300 +0100" channel="DAZN 1 HD 1080P">
@@ -531,5 +459,108 @@
     <desc lang="es">Deportes/Boxeo | 2024 | +18
 · Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh.
 · País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20250108235600 +0100" stop="20250109060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250109060000 +0100" stop="20250109130000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250109130000 +0100" stop="20250109132300 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
+· País: España</desc>
+  </programme>
+  <programme start="20250109132300 +0100" stop="20250109133800 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Monchi, un cazatalentos único</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· El programa entrevista a Ramón Rodríguez 'Monchi', el actual director deportivo del Aston Villa. El 'cazalentos' español por excelencia nos cuenta cómo está viviendo su primera experiencia en Inglaterra.
+· País: España</desc>
+  </programme>
+  <programme start="20250109133800 +0100" stop="20250109135400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
+· País: España</desc>
+  </programme>
+  <programme start="20250109135400 +0100" stop="20250109142300 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Cara B - Cañada Real Galiana</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP
+· El periodista Javi Valle acompaña a Adil, Ibra e Isma, tres jóvenes criados en el sector 6 de la Cañada Real de Madrid, para mostrar cómo el deporte puede llenar de ilusiones y esperanzas a los más jóvenes.
+· Título original: Cara B | Cañada Real Galiana
+· País: España</desc>
+  </programme>
+  <programme start="20250109142300 +0100" stop="20250109145500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas.
+· País: España</desc>
+  </programme>
+  <programme start="20250109145500 +0100" stop="20250109165700 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 20: Manchester City - West Ham T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250109165700 +0100" stop="20250109172700 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Michu, el ídolo de Haaland</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
+· Erling Haaland, uno de los mejores jugadores del mundo, reconoce que es uno de sus ídolos. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250109172700 +0100" stop="20250109175400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League Stories T23/24 · Las calles no olvidarán a Michu</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Una descripción completa de la Premier League en todo el mundo. Las últimas noticias, entrevistas, curiosidades e historias sobre la pasión de los aficionados por el fútbol inglés. Votos: 11.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250109175400 +0100" stop="20250109180700 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
+· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250109180700 +0100" stop="20250109183700 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League Stories T23/24 · Casemiro, El futbolista tiene que evolucionar siempre</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Carlos Casemiro es uno de los grandes mediocentros de la última década y dejó el Real Madrid justo tras ganar una nueva Champions League para embarcarse en un nuevo proyecto en el Manchester United.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250109183700 +0100" stop="20250109192600 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Fever Pitch T23/24 · Iraola se reúne con viejos amigos</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· David Fer y Nacho González entrevistan al rookie de la Premier League Andoni Iraola.
+</desc>
+  </programme>
+  <programme start="20250109192600 +0100" stop="20250109195800 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Luis García, el goleador del 'Spanish Liverpool'</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League.
+· País: España</desc>
+  </programme>
+  <programme start="20250109195800 +0100" stop="20250109201100 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
+· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250109201100 +0100" stop="20250109221200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 20: Brighton &amp; Hove Albion - Arsenal T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250109221200 +0100" stop="20250109231600 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González. Votos: 2.
+· País: España</desc>
   </programme>
 </tv>
