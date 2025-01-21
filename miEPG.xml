@@ -1,204 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 20/01/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 21/01/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250120110000 +0100" stop="20250120120100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Presentación Ducati 2025 T2025 · Presentaciones MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Los equipos de MotoGP presentan sus novedades de cara a la nueva temporada.
-</desc>
-  </programme>
-  <programme start="20250120120100 +0100" stop="20250120130700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 10.
-</desc>
-  </programme>
-  <programme start="20250120130700 +0100" stop="20250120140000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League Features T1 · El año mágico del Leicester City</title>
-    <desc lang="es">Deportes/Programa deportes | 2021 | TP | *6.0/10
-· Hoy se cumplen cinco años de uno de los mayores hitos del mundo del fútbol cuando el Leicester City se proclamó campeón de la Premier League. Votos: 13.
-</desc>
-  </programme>
-  <programme start="20250120140000 +0100" stop="20250120150200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 E12</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
-· País: España</desc>
-  </programme>
-  <programme start="20250120150200 +0100" stop="20250120152900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Massimo Moratti: El Romántico T1 E1</title>
-    <desc lang="es">Deportes/Programa deportes | 2021 | TP
-· El expresidente del Inter de Milán, Massimo Moratti muestra, a través de su mirada, las dos décadas más brillantes pero también convulsas del club.
-</desc>
-  </programme>
-  <programme start="20250120152900 +0100" stop="20250120160000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Massimo Moratti: El Romántico T1 E2</title>
-    <desc lang="es">Deportes/Programa deportes | 2021 | TP
-· Segundo capítulo de la serie sobre el Inter de Moratti y cómo fue la llegada de Roberto Mancini.
-</desc>
-  </programme>
-  <programme start="20250120160000 +0100" stop="20250120163200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Massimo Moratti: El Romántico T1 E3</title>
-    <desc lang="es">Deportes/Programa deportes | 2021 | TP | *6.0/10
-· Tercer capítulo de la serie de Moratti, donde relata la Liga de Campeones conseguida en 2010 en el Santiago Bernabéu. Votos: 7.
-</desc>
-  </programme>
-  <programme start="20250120163200 +0100" stop="20250120170400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cuatro Tiempos: Cuatro leyendas</title>
-    <desc lang="es">Documentales/Deportes | 2022 | TP
-· Cuatro leyendas del motociclismo español, Jorge Martínez 'Aspar', Àlex Crivillé, Dani Pedrosa y Jorge Lorenzo se reúnen para compartir sus vivencias en los circuitos y desvelarnos historias inéditas de sus años sobre la moto.
-· País: España</desc>
-  </programme>
-  <programme start="20250120170400 +0100" stop="20250120174300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cuatro Tiempos: Héroes de su tiempo</title>
-    <desc lang="es">Documentales/Deportes | 2022 | TP | *6.0/10
-· Cuatro leyendas del motociclismo español, Jorge Martínez 'Aspar', Àlex Crivillé, Dani Pedrosa y Jorge Lorenzo se reúnen para compartir sus vivencias en los circuitos. Votos: 1.
-· País: España</desc>
-  </programme>
-  <programme start="20250120174300 +0100" stop="20250120181300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cuatro Tiempos: Otros tiempos</title>
-    <desc lang="es">Documentales/Deportes | 2022 | TP | *6.0/10
-· Cuatro leyendas del motociclismo español, Jorge Martínez 'Aspar', Àlex Crivillé, Dani Pedrosa y Jorge Lorenzo se reúnen para compartir sus vivencias en los circuitos. Votos: 1.
-· País: España</desc>
-  </programme>
-  <programme start="20250120181300 +0100" stop="20250120184600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cuatro Tiempos: El futuro ya está aquí</title>
-    <desc lang="es">Documentales/Deportes | 2022 | TP
-· Cuatro leyendas del motociclismo español, Jorge Martínez 'Aspar', Àlex Crivillé, Dani Pedrosa y Jorge Lorenzo se reúnen para compartir sus vivencias en los circuitos.
-· País: España</desc>
-  </programme>
-  <programme start="20250120184600 +0100" stop="20250120205000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 22: Ipswich Town - Manchester City</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 18.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250120205000 +0100" stop="20250120230500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 22: Chelsea - Wolverhampton T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250120230500 +0100" stop="20250120232100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Monchi, un cazatalentos único</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *8.0/10
-· El programa entrevista a Ramón Rodríguez 'Monchi', el actual director deportivo del Aston Villa. El 'cazalentos' español por excelencia nos cuenta cómo está viviendo su primera experiencia en Inglaterra. Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20250120232100 +0100" stop="20250120234100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Francis Ngannou, forjado en la adversidad</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | +18
-· Francis Ngannou es uno de los luchadores de artes marciales mixtas más importantes.
-</desc>
-  </programme>
-  <programme start="20250120234100 +0100" stop="20250121004300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 E12</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
-· País: España</desc>
-  </programme>
-  <programme start="20250121004300 +0100" stop="20250121012500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: velada Conlan vs Gill T2023 · Michael Conlan vs Jordan Gill</title>
-    <desc lang="es">Deportes/Boxeo | 2023 | +18 | *6.0/10
-· El SSE Arena de Belfast (Irlanda del Norte) acoge una interesante velada. Votos: 5.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250121012500 +0100" stop="20250121060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250121060000 +0100" stop="20250121130000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250121130000 +0100" stop="20250121142500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250121130000 +0100" stop="20250121142800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DTM T2024 · Sachsenring - Carrera 1</title>
     <desc lang="es">Deportes/Automovilismo | 2024 | TP | *8.0/10
 · El Deutsche Tourenwagen Masters (DTM) es el campeonato alemán de turismos, una emocionante competición automovilística en la que los bólidos son los protagonistas. Votos: 2.
 · País: Alemania</desc>
   </programme>
-  <programme start="20250121142500 +0100" stop="20250121155500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250121142800 +0100" stop="20250121155600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DTM T2024 · Sachsenring - Carrera 2</title>
     <desc lang="es">Deportes/Automovilismo | 2024 | TP | *8.0/10
 · El Deutsche Tourenwagen Masters (DTM) es el campeonato alemán de turismos, una emocionante competición automovilística en la que los bólidos son los protagonistas. Votos: 2.
 · País: Alemania</desc>
   </programme>
-  <programme start="20250121155500 +0100" stop="20250121172500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250121155600 +0100" stop="20250121173400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">La caída de Maradona</title>
     <desc lang="es">Documentales/Deportes | 2023 | +7
 · El 30 de junio de 1994, Diego Maradona, la mayor estrella del fútbol mundial, fue expulsado de la Copa del Mundo de EE.UU. tras no superar un control antidopaje después de un partido. La expulsión del Diego sorprendió al mundo del deporte.
 </desc>
   </programme>
-  <programme start="20250121172500 +0100" stop="20250121180000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250121173400 +0100" stop="20250121180000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Aitana Bonmati: ''Sigo siendo la misma''</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · Aitana Bonmatí, doble ganadora del Balón de Oro y galardonada con el premio The Best. Votos: 10.
 · País: España</desc>
   </programme>
-  <programme start="20250121180000 +0100" stop="20250121185000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250121180000 +0100" stop="20250121184600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E12</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20250121185000 +0100" stop="20250121191500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Espargabros · EspargaBros</title>
+  <programme start="20250121184600 +0100" stop="20250121194000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Espargabros</title>
     <desc lang="es">Documentales/Deportes | 2025 | TP
 · Dos carreras paralelas pero muy diferentes. Aleix y Pol Espargaró se enfrentan a los momentos más importantes de sus carreras deportivas tras la retirada de ambos de la competición.
 · País: España</desc>
   </programme>
-  <programme start="20250121191500 +0100" stop="20250121214000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 22: Chelsea - Wolverhampton T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+  <programme start="20250121194000 +0100" stop="20250121214100 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 22: Chelsea - Wolverhampton</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *2.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250121214000 +0100" stop="20250121221000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250121214100 +0100" stop="20250121221600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">David Alonso, historia para Colombia</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· David Alonso, el joven campeón de Moto3, analiza esta conquista tan especial para él.
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· David Alonso, el joven campeón de Moto3, analiza esta conquista tan especial para él. Votos: 4.
 </desc>
   </programme>
-  <programme start="20250121221000 +0100" stop="20250121230000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250121221600 +0100" stop="20250121230300 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250121230000 +0100" stop="20250121234500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250121230300 +0100" stop="20250121235000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E12</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20250121234500 +0100" stop="20250122000000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250121235000 +0100" stop="20250122000200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Emery y Monchi, transformando el Aston Villa</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · Eneko Fernández viaja hasta Birmingham para charlar con Unai Emery y Monchi. Desde su llegada al Aston Villa, el entrenador guipuzcoano y el director deportivo no han hecho más que consolidar al equipo de Birmimgham.
 · País: España</desc>
   </programme>
-  <programme start="20250122000000 +0100" stop="20250122004500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2024 · Jorge Martín</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· En esta entrega de Decoded, analizamos a uno de los mejores pilotos españoles de los últimos años, Jorge Martín.
+  <programme start="20250122000200 +0100" stop="20250122010300 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Presentaciones MotoGP T2025 · Presentación Ducati 2025</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
+· Los equipos de MotoGP presentan sus novedades de cara a la nueva temporada. Votos: 1.
 </desc>
   </programme>
-  <programme start="20250122004500 +0100" stop="20250122005300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2024 · Pedro Acosta se pone a prueba</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Pedro Acosta se sienta con Izaskun Ruiz para responder algunas preguntas: unas fáciles y otras, no tanto. Votos: 10.
-</desc>
+  <programme start="20250122010300 +0100" stop="20250122013000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League Stories T23/24 · Luka Modric, el toque croata</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Croacia, que cuenta con una población de menos de cuatro millones de habitantes, ha logrado un crecimiento brutal en el mundo del fútbol. Luka Modric fue uno de los primeros jugadores croatas en destacar en la Premier League. Votos: 3.
+· País: R.U.</desc>
   </programme>
-  <programme start="20250122005300 +0100" stop="20250122060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250122013000 +0100" stop="20250122060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -548,7 +434,7 @@
   <programme start="20250125182000 +0100" stop="20250125203000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 23: Manchester City - Chelsea T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Semana durísima del Man City que intentará recuperar sensaciones en Premier frente al Chelsea. Los londinenses han perdido el hilo en liga y buscarán reivindicarse. Guardiola y Maresca necesitan una victoria curativa. Votos: 2.
+· Semana durísima del Man City que intentará recuperar sensaciones en Premier frente al Chelsea. Los londinenses han perdido el hilo en liga y buscarán reivindicarse. Guardiola y Maresca necesitan una victoria curativa. Votos: 3.
 · País: R.U.</desc>
   </programme>
   <programme start="20250125203000 +0100" stop="20250125212000 +0100" channel="DAZN 1 HD 1080P">
@@ -636,6 +522,42 @@
 · País: España y R.U.</desc>
   </programme>
   <programme start="20250127011600 +0100" stop="20250127020000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250127020000 +0100" stop="20250127060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250127060000 +0100" stop="20250127100000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250127100000 +0100" stop="20250127140000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250127140000 +0100" stop="20250127180000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250127180000 +0100" stop="20250127220000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250127220000 +0100" stop="20250128020000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
