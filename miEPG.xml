@@ -1,191 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 23/01/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 24/01/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250123130000 +0100" stop="20250123135800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Presentaciones MotoGP T2025 · Marc Márquez: todo al rojo Ducati</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
-· Los equipos de MotoGP presentan sus novedades de cara a la nueva temporada. Votos: 1.
-</desc>
-  </programme>
-  <programme start="20250123135800 +0100" stop="20250123143800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2024 · Marc Márquez</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.
-</desc>
-  </programme>
-  <programme start="20250123143800 +0100" stop="20250123152200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E12</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
-· País: España
-· Presenta: Andrea Segura, Sandra Riquelme.</desc>
-  </programme>
-  <programme start="20250123152200 +0100" stop="20250123161200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Fever Pitch T23/24 · Iraola se reúne con viejos amigos</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· David Fer y Nacho González entrevistan al rookie de la Premier League Andoni Iraola.
-</desc>
-  </programme>
-  <programme start="20250123161200 +0100" stop="20250123164400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *4.0/10
-· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas. Votos: 6.
-· País: España</desc>
-  </programme>
-  <programme start="20250123164400 +0100" stop="20250123173500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2023 · El efecto ALL1</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
-· Un grupo de aficionados al enduro rinde homenaje a su amigo Álex Llibre. Votos: 5.
-</desc>
-  </programme>
-  <programme start="20250123173500 +0100" stop="20250123180000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2024 · Un día con Aprilia</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Nuestra compañera Izaskun Ruiz se cuela por un día en el box de Aprilia para conocer desde dentro el trabajo de un equipo de MotoGP en un fin de semana de Gran Premio.
-</desc>
-  </programme>
-  <programme start="20250123180000 +0100" stop="20250123182600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2023 · Cuna de Campeones con Carlos Checa</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP
-· Programa de MotoGP.
-</desc>
-  </programme>
-  <programme start="20250123182600 +0100" stop="20250123193200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 10.
-</desc>
-  </programme>
-  <programme start="20250123193200 +0100" stop="20250123210500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Isla de Man 2023 - La carrera más peligrosa del mundo</title>
-    <desc lang="es">Documentales/Deportes | 2023 | TP | *8.0/10
-· El TT de la Isla de Man es la prueba de motociclismo más peligrosa del mundo por la longitud y dificultad de su trazado, además de la falta de protecciones, como es habitual en los circuitos. Votos: 14.
-</desc>
-  </programme>
-  <programme start="20250123210500 +0100" stop="20250123225800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 22: Brentford - Liverpool</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 3.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250123225800 +0100" stop="20250123232300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Aitana Bonmati: ''Sigo siendo la misma''</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Aitana Bonmatí, doble ganadora del Balón de Oro y galardonada con el premio The Best. Votos: 10.
-· País: España</desc>
-  </programme>
-  <programme start="20250123232300 +0100" stop="20250124010300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">A1 Padel San Juan T2024 · Final</title>
-    <desc lang="es">Deportes/Pádel | 2024 | TP | *6.0/10
-· La ciudad argentina de San Juan acoge una nueva cita del A1 Padel Tour. Del 2 al 8 de diciembre, el estadio Aldo Cantoni reúne a algunas de las mejores parejas del circuito, quienes pelean por los más de 24.000 dólares de premio para la dupla ganadora. Votos: 5.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250124010300 +0100" stop="20250124013200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250124013200 +0100" stop="20250124060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250124060000 +0100" stop="20250124120000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250124120000 +0100" stop="20250124130000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124120000 +0100" stop="20250124130100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Erasmus FC T24/25 E13</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
   </programme>
-  <programme start="20250124130000 +0100" stop="20250124132000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124130100 +0100" stop="20250124132000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Andbank GSeries T2025 · G1</title>
     <desc lang="es">Deportes/Motor | 2025 | TP
 · Las GSeries son el campeonato de velocidad sobre hielo de referencia del sur de Europa.
 </desc>
   </programme>
-  <programme start="20250124132000 +0100" stop="20250124135000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124132000 +0100" stop="20250124134700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T24/25 · La rivalidad que definió al rey</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Los enfrentamientos entre Arsène Wenger y Sir Alex Ferguson marcaron una de las rivalidades más emblemáticas de la historia de la Premier League.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250124135000 +0100" stop="20250124142000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124134700 +0100" stop="20250124141400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T24/25 · ¿Cuál es el mejor partido de la historia?</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Premier League ha sido el escenario de algunos de los partidos más emocionantes en la historia del fútbol, llenos de giros inesperados, goles memorables y emociones a flor de piel.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250124142000 +0100" stop="20250124145000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124141400 +0100" stop="20250124144100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T24/25 · Un 'diablo' con sabor mexicano</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Javier 'Chicharito' Hernández dejó una huello imborrable en la Premier League.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250124145000 +0100" stop="20250124160000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">IFEMA Madrid Horse Week T2024 · Jump &amp; Drive Trophy</title>
-    <desc lang="es">Deportes/Hípica | 2024 | TP | *8.0/10
-· Madrid Horse Week es el mayor evento ecuestre que se celebra en España. Un certamen transversal y multidisciplinar donde tienen lugar competiciones de diferentes disciplinas hípicas, como las copas del mundo de salto o de doma. Votos: 6.
-· País: España</desc>
+  <programme start="20250124144100 +0100" stop="20250124153800 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Presentaciones MotoGP T2025 · Marc Márquez: todo al rojo Ducati</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
+· Los equipos de MotoGP presentan sus novedades de cara a la nueva temporada. Votos: 1.
+</desc>
   </programme>
-  <programme start="20250124160000 +0100" stop="20250124180500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124153800 +0100" stop="20250124172400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga F T24/25 · Jornada 15: Athletic Club - FC Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250124180500 +0100" stop="20250124190500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124172400 +0100" stop="20250124181800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Asia Talent Cup T2024 · Tailandia - Carrera 1</title>
     <desc lang="es">Deportes/Motor | 2024 | TP
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
 </desc>
   </programme>
-  <programme start="20250124190500 +0100" stop="20250124200500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124181800 +0100" stop="20250124191000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Asia Talent Cup T2024 · Tailandia - Carrera 2</title>
     <desc lang="es">Deportes/Motor | 2024 | TP
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
 </desc>
   </programme>
-  <programme start="20250124200500 +0100" stop="20250124210000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124191000 +0100" stop="20250124200200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 1</title>
     <desc lang="es">Deportes/eSports | 2024 | TP
 · Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia.
 </desc>
   </programme>
-  <programme start="20250124210000 +0100" stop="20250124220000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124200200 +0100" stop="20250124210100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 2</title>
     <desc lang="es">Deportes/eSports | 2024 | TP | *6.0/10
 · Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia. Votos: 10.
 </desc>
   </programme>
-  <programme start="20250124220000 +0100" stop="20250124233000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124210100 +0100" stop="20250124222500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 3</title>
     <desc lang="es">Deportes/eSports | 2024 | TP
 · Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia.
 </desc>
   </programme>
-  <programme start="20250124233000 +0100" stop="20250125003000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124222500 +0100" stop="20250124232600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Erasmus FC T24/25 E13</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
   </programme>
-  <programme start="20250125003000 +0100" stop="20250125005700 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124232600 +0100" stop="20250124235400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">25 años de emociones, 25 años del Circuit</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Historia del circuito Ricardo Tormo de Cheste. Ubicado en Valencia, las curvas de este legendario trazado inaugurado en 1999 ha sido testigo de grandes batallas finales en el mundo del automovilismo y motociclismo.
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
+· Historia del circuito Ricardo Tormo de Cheste. Ubicado en Valencia, las curvas de este legendario trazado inaugurado en 1999 ha sido testigo de grandes batallas finales en el mundo del automovilismo y motociclismo. Votos: 2.
 · País: España</desc>
   </programme>
-  <programme start="20250125005700 +0100" stop="20250125060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250124235400 +0100" stop="20250125003700 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Decoded Pedro Acosta</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
+· Pedro Acosta ha llegado al Mundial de MotoGP pisando fuerte. El programa realiza un análisis en profundidad la figura de Acosta, un piloto que no pasa desapercibido en la clase reina. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250125003700 +0100" stop="20250125011200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">David Alonso, historia para Colombia</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· David Alonso, el joven campeón de Moto3, analiza esta conquista tan especial para él. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250125011200 +0100" stop="20250125060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -247,8 +162,8 @@
   </programme>
   <programme start="20250125182000 +0100" stop="20250125203000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 23: Manchester City - Chelsea T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Semana durísima del Man City que intentará recuperar sensaciones en Premier frente al Chelsea. Los londinenses han perdido el hilo en liga y buscarán reivindicarse. Guardiola y Maresca necesitan una victoria curativa. Votos: 4.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Semana durísima del Man City que intentará recuperar sensaciones en Premier frente al Chelsea. Los londinenses han perdido el hilo en liga y buscarán reivindicarse. Guardiola y Maresca necesitan una victoria curativa. Votos: 9.
 · País: R.U.</desc>
   </programme>
   <programme start="20250125203000 +0100" stop="20250125212000 +0100" channel="DAZN 1 HD 1080P">
@@ -349,8 +264,8 @@
   </programme>
   <programme start="20250127130000 +0100" stop="20250127144500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">6 Kings Slam T2024 · Nadal - Alcaraz</title>
-    <desc lang="es">Deportes/Tenis | 2024 | TP | *4.0/10
-· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 2.
+    <desc lang="es">Deportes/Tenis | 2024 | TP | *8.0/10
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 4.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250127144500 +0100" stop="20250127154500 +0100" channel="DAZN 1 HD 1080P">
@@ -631,5 +546,102 @@
     <desc lang="es">Deportes/Boxeo | 2024 | +18 | *6.0/10
 · Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh. Votos: 4.
 · País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20250130004400 +0100" stop="20250130060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250130060000 +0100" stop="20250130130000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250130130000 +0100" stop="20250130140000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Gran Bretaña: Carrera Moto3</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· El GP de Gran Bretaña se celebra el 7 de julio en el circuito de Silverstone en Reino Unido. La longitud del circuito es de 5,891 kilómetros. Durante la carrera se darán 52 vueltas al circuito cubriendo una distancia final de 306,332 kilómetros. Votos: 3.
+· País: España y R.U.</desc>
+  </programme>
+  <programme start="20250130140000 +0100" stop="20250130150000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Gran Bretaña: Carrera Moto2</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· El GP de Gran Bretaña se celebra el 7 de julio en el circuito de Silverstone en Reino Unido. La longitud del circuito es de 5,891 kilómetros. Durante la carrera se darán 52 vueltas al circuito cubriendo una distancia final de 306,332 kilómetros. Votos: 2.
+· País: España y R.U.</desc>
+  </programme>
+  <programme start="20250130150000 +0100" stop="20250130160000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Gran Bretaña: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
+· El GP de Gran Bretaña se celebra el 7 de julio en el circuito de Silverstone en Reino Unido. La longitud del circuito es de 5,891 kilómetros. Durante la carrera se darán 52 vueltas al circuito cubriendo una distancia final de 306,332 kilómetros. Votos: 6.
+· País: España y R.U.</desc>
+  </programme>
+  <programme start="20250130160000 +0100" stop="20250130165000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">La Central T24/25 E13</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20250130165000 +0100" stop="20250130175500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Erasmus FC T24/25 E13</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
+· País: España</desc>
+  </programme>
+  <programme start="20250130175500 +0100" stop="20250130184500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Marc. Revelado</title>
+    <desc lang="es">Deportes/Motor | 2024 | TP | *10.0/10
+· Es imposible entender la historia de Marc Márquez en MotoGP sin Honda. Once años y ocho títulos después, el de Cervera se despide del equipo de su carrera deportiva. Votos: 4.
+· País: España</desc>
+  </programme>
+  <programme start="20250130184500 +0100" stop="20250130192000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Jorge Prado: Under the lights</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP | *10.0/10
+· La leyenda de Jorge Prado no para de crecer. No te pierdas un nuevo contenido de Red Bull en el que acompañamos al piloto español campeón del mundo de MXGP en su sueño americano de participar en el Campeonato AMA de Supercross de 2024. Votos: 1.
+</desc>
+  </programme>
+  <programme start="20250130192000 +0100" stop="20250130195000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Solo puede quedar uno: Bagnaia golpea primero</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP
+· Marc Márquez, Bastianini, Quartararo y Aleix Espargaró tenían los ojos puestos en la gran recompensa, pero Pecco Bagnaia se llevó el gato al agua en el inicio de una nueva temporada de MotoGP.
+</desc>
+  </programme>
+  <programme start="20250130195000 +0100" stop="20250130202500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features T2024 · Nuevos aspirantes</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Pecco Bagnaia no atraviesa su mejor racha y aparecen Jorge Martín y Marco Bezzecchi como nuevos aspirantes al título que quiere retener el piloto italiano de Ducati. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250130202500 +0100" stop="20250130210000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features T2024 · Marc y Honda se separan</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· La temporada de Marc Márquez con Honda va de mal en peor y el piloto español termina optando por dejar el equipo a final de temporada, una noticia que tiene un alcance mundial.
+</desc>
+  </programme>
+  <programme start="20250130210000 +0100" stop="20250130214500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features T2024 · Bagnaia en problemas</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Pecco Bagnaia sufre una dura caída que lo pone contra las cuerdas mientras Jorge Martín sigue apretando y acotando la distancia en el Mundial. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250130214500 +0100" stop="20250130223000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features T2024 · La batalla final</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Pecco Bagnaia y Jorge Martín se juegan el privilegio de ser campeón del mundo de MotoGP en un final de temporada apretadísimo donde todo se decidirá en el devenir de los últimos dos gran premios.
+</desc>
+  </programme>
+  <programme start="20250130223000 +0100" stop="20250130230000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Santi Cazorla, el pequeño mago</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP | *8.0/10
+· Santi Cazorla conquistó a la Premier League desde su llegada al Arsenal con su enorme calidad, pero una grave lesión en el tobillo hizo al público perderse un buen puñado de meses de la magia del asturiano. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250130230000 +0100" stop="20250131012300 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 23: Manchester City - Chelsea T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Semana durísima del Man City que intentará recuperar sensaciones en Premier frente al Chelsea. Los londinenses han perdido el hilo en liga y buscarán reivindicarse. Guardiola y Maresca necesitan una victoria curativa. Votos: 9.
+· País: R.U.</desc>
   </programme>
 </tv>
