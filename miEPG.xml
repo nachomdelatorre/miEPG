@@ -1,63 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 26/01/2025 11:32" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 27/01/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250126125600 +0100" stop="20250126145000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F T24/25 · Jornada 16: Valencia - Athletic</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
-· País: España</desc>
-  </programme>
-  <programme start="20250126145000 +0100" stop="20250126172000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 23: Tottenham - Leicester T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250126172000 +0100" stop="20250126195000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 23: Aston Villa - West Ham T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250126195000 +0100" stop="20250126220500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 23: Fulham - Manchester United T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250126220500 +0100" stop="20250126223200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cuatro entrenadores vascos en la Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Andoni Iraola es el último técnico guipuzcoano en llegar a la Premier League de la mano del Bournemouth y se suma a Julen Lopetegui en el West Ham, y anteriormente en los Wolves, Unai Emery en el Aston Villa y Mikel Arteta en el Arsenal.
-· País: España</desc>
-  </programme>
-  <programme start="20250126223200 +0100" stop="20250126233500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Gran Bretaña: Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· El GP de Gran Bretaña se celebra el 7 de julio en el circuito de Silverstone en Reino Unido. La longitud del circuito es de 5,891 kilómetros. Durante la carrera se darán 52 vueltas al circuito cubriendo una distancia final de 306,332 kilómetros. Votos: 3.
-· País: España y R.U.</desc>
-  </programme>
-  <programme start="20250126233500 +0100" stop="20250127010500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Yeda - Carrera final</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP
-· El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad.
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20250127010500 +0100" stop="20250127060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250127060000 +0100" stop="20250127130000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250127130000 +0100" stop="20250127143800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">6 Kings Slam T2024 · Nadal - Alcaraz</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP | *8.0/10
@@ -108,8 +54,8 @@
   </programme>
   <programme start="20250127205400 +0100" stop="20250127212200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Red Bull Features T2024 E1</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
-· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?. Votos: 4.
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?. Votos: 6.
 </desc>
   </programme>
   <programme start="20250127212200 +0100" stop="20250127213700 +0100" channel="DAZN 1 HD 1080P">
@@ -196,7 +142,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250128191500 +0100" stop="20250128213000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 23: Fulham - Manchester United T24/25 · Premier League</title>
+    <title lang="es">Premier League T24/25 · Jornada 23: Fulham - Manchester United</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
@@ -414,7 +360,7 @@
   <programme start="20250130230000 +0100" stop="20250131012300 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 23: Manchester City - Chelsea</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· Semana durísima del Man City que intentará recuperar sensaciones en Premier frente al Chelsea. Los londinenses han perdido el hilo en liga y buscarán reivindicarse. Guardiola y Maresca necesitan una victoria curativa. Votos: 23.
+· Semana durísima del Man City que intentará recuperar sensaciones en Premier frente al Chelsea. Los londinenses han perdido el hilo en liga y buscarán reivindicarse. Guardiola y Maresca necesitan una victoria curativa. Votos: 25.
 · País: R.U.</desc>
   </programme>
   <programme start="20250131012300 +0100" stop="20250131060000 +0100" channel="DAZN 1 HD 1080P">
@@ -596,6 +542,96 @@
     <title lang="es">Liga F T24/25 · Jornada 17: Deportivo - Valencia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20250202005500 +0100" stop="20250202060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250202060000 +0100" stop="20250202115000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250202115000 +0100" stop="20250202140000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 17: Athletic - Eibar T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20250202140000 +0100" stop="20250202142500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Cuatro entrenadores vascos en la Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Andoni Iraola es el último técnico guipuzcoano en llegar a la Premier League de la mano del Bournemouth y se suma a Julen Lopetegui en el West Ham, y anteriormente en los Wolves, Unai Emery en el Aston Villa y Mikel Arteta en el Arsenal.
+· País: España</desc>
+  </programme>
+  <programme start="20250202142500 +0100" stop="20250202145000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League Stories T24/25 · ¿Cuál es el mejor partido de la historia?</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Premier League ha sido el escenario de algunos de los partidos más emocionantes en la historia del fútbol, llenos de giros inesperados, goles memorables y emociones a flor de piel.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250202145000 +0100" stop="20250202170000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 24: Manchester United - Crystal Palace T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250202170000 +0100" stop="20250202172000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League Stories T24/25 · La rivalidad que definió al rey</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Los enfrentamientos entre Arsène Wenger y Sir Alex Ferguson marcaron una de las rivalidades más emblemáticas de la historia de la Premier League.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250202172000 +0100" stop="20250202193000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 24: Arsenal - Manchester City T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250202193000 +0100" stop="20250202202000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Espargabros</title>
+    <desc lang="es">Documentales/Deportes | 2025 | TP
+· Dos carreras paralelas pero muy diferentes. Aleix y Pol Espargaró se enfrentan a los momentos más importantes de sus carreras deportivas tras la retirada de ambos de la competición.
+· País: España</desc>
+  </programme>
+  <programme start="20250202202000 +0100" stop="20250202210500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Maverick Viñales: dos vidas</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250202210500 +0100" stop="20250202220000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">La vida en rojo</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 10.
+</desc>
+  </programme>
+  <programme start="20250202220000 +0100" stop="20250202230500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Austria: Carrera Moto3</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· El circuito de Spielberg acoge una nueva prueba del Mundial de MotoGP 2024. El mano a mano entre Pecco Bagnaia, y Jorge Martín vivirá un nuevo capítulo en Austria tras recuperar el madrileño el liderato. Votos: 1.
+· País: Austria y España</desc>
+  </programme>
+  <programme start="20250202230500 +0100" stop="20250202235000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Austria: Carrera Moto2</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP
+· El circuito de Spielberg acoge una nueva prueba del Mundial de MotoGP 2024. El mano a mano entre Pecco Bagnaia, y Jorge Martín vivirá un nuevo capítulo en Austria tras recuperar el madrileño el liderato.
+· País: Austria y España</desc>
+  </programme>
+  <programme start="20250202235000 +0100" stop="20250203005500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Austria: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP
+· El circuito de Spielberg acoge una nueva prueba del Mundial de MotoGP 2024. El mano a mano entre Pecco Bagnaia, y Jorge Martín vivirá un nuevo capítulo en Austria tras recuperar el madrileño el liderato.
+· País: Austria y España</desc>
+  </programme>
+  <programme start="20250203005500 +0100" stop="20250203020600 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Espargabros</title>
+    <desc lang="es">Documentales/Deportes | 2025 | TP
+· Dos carreras paralelas pero muy diferentes. Aleix y Pol Espargaró se enfrentan a los momentos más importantes de sus carreras deportivas tras la retirada de ambos de la competición.
 · País: España</desc>
   </programme>
 </tv>
