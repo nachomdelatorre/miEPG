@@ -1,173 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 28/01/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 29/01/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250128130000 +0100" stop="20250128145400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">6 Kings Slam T2024 · Nadal - Djokovic</title>
-    <desc lang="es">Deportes/Tenis | 2024 | TP | *8.0/10
-· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 4.
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20250128145400 +0100" stop="20250128152700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">El mentor de Rafa</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Toni Nadal, mentor de Rafa Nadal habla sobre la retirada del tenista balear, que culminará su carrera deportiva con este Six Kings Slam y la Copa Davis que se disputa en Málaga el próximo mes. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250128152700 +0100" stop="20250128160700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2024 · Marc Márquez</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.
-</desc>
-  </programme>
-  <programme start="20250128160700 +0100" stop="20250128180000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F T24/25 · Jornada 16: Valencia - Athletic</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
-· País: España</desc>
-  </programme>
-  <programme start="20250128180000 +0100" stop="20250128184600 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250129130000 +0100" stop="20250129134800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E13</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20250128184600 +0100" stop="20250128191600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cara B - Cañada Real Galiana</title>
-    <desc lang="es">Documentales/Deportes | 2024 | TP
-· El periodista Javi Valle acompaña a Adil, Ibra e Isma, tres jóvenes criados en el sector 6 de la Cañada Real de Madrid, para mostrar cómo el deporte puede llenar de ilusiones y esperanzas a los más jóvenes.
-· Título original: Cara B | Cañada Real Galiana
-· País: España</desc>
-  </programme>
-  <programme start="20250128191600 +0100" stop="20250128211400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 23: Fulham - Manchester United</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250128211400 +0100" stop="20250128222200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Born Racers T1 · - Capítulo 4 - Redención</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Cormac intenta acabar con los fantasmas de años anteriores, pero un rayo cae dos veces y ve cómo sus sueños se esfuman, mientras que Máximo por fin desarrolla todo su potencial.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20250128222200 +0100" stop="20250128231300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Born Racers T1 · Gloria</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La Rookies Cup se decide de forma espectacular y asistimos al primer título mundial de una futura superestrella.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20250128231300 +0100" stop="20250129000000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E13</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
-· País: España
-· Presenta: Andrea Segura, Sandra Riquelme.</desc>
-  </programme>
-  <programme start="20250129000000 +0100" stop="20250129010500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Born Racers T1 · Reconocimiento</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· El futuro de nuestros novatos se decidirá de forma dramática en el último fin de semana de carreras de la temporada.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20250129010500 +0100" stop="20250129060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250129060000 +0100" stop="20250129130000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250129130000 +0100" stop="20250129135000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E13</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
-· País: España
-· Presenta: Andrea Segura, Sandra Riquelme.</desc>
-  </programme>
-  <programme start="20250129135000 +0100" stop="20250129163000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250129134800 +0100" stop="20250129162400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">6 Kings Slam T2024 · Alcaraz - Sinner</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
 · Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 10.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250129163000 +0100" stop="20250129183000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250129162400 +0100" stop="20250129180800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga F T24/25 · Jornada 15: Athletic - Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 16.
 · País: España</desc>
   </programme>
-  <programme start="20250129183000 +0100" stop="20250129190000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250129180800 +0100" stop="20250129183400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Aitana Bonmati: ''Sigo siendo la misma''</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · Aitana Bonmatí, doble ganadora del Balón de Oro y galardonada con el premio The Best. Votos: 10.
 · País: España</desc>
   </programme>
-  <programme start="20250129190000 +0100" stop="20250129193000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250129183400 +0100" stop="20250129190100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T24/25 · La rivalidad que definió al rey</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Los enfrentamientos entre Arsène Wenger y Sir Alex Ferguson marcaron una de las rivalidades más emblemáticas de la historia de la Premier League.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250129193000 +0100" stop="20250129200000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250129190100 +0100" stop="20250129193100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T24/25 · ¿Cuál es el mejor partido de la historia?</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Premier League ha sido el escenario de algunos de los partidos más emocionantes en la historia del fútbol, llenos de giros inesperados, goles memorables y emociones a flor de piel.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250129200000 +0100" stop="20250129203000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250129193100 +0100" stop="20250129195800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T24/25 · Un 'diablo' con sabor mexicano</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Javier 'Chicharito' Hernández dejó una huello imborrable en la Premier League.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250129203000 +0100" stop="20250129210000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250129195800 +0100" stop="20250129202500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Cuatro entrenadores vascos en la Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Andoni Iraola es el último técnico guipuzcoano en llegar a la Premier League de la mano del Bournemouth y se suma a Julen Lopetegui en el West Ham, y anteriormente en los Wolves, Unai Emery en el Aston Villa y Mikel Arteta en el Arsenal.
 · País: España</desc>
   </programme>
-  <programme start="20250129210000 +0100" stop="20250129231000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250129202500 +0100" stop="20250129223300 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 23: Liverpool - Ipswich Town</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 11.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250129231000 +0100" stop="20250129234000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Jorge Lorenzo vs. Dani Pedrosa</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Jorge Lorenzo y Dani Pedrosa se ven las caras en un insólito duelo entre dos de las mayores leyendas de la historia de MotoGP.
-· País: España</desc>
+  <programme start="20250129223300 +0100" stop="20250129230100 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Marc Márquez, cara a cara</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Marc Márquez y Pecco Bagnaia se lo pasaron en grande en el evento de Ducati 'Campioni in Pista'. Después de 'picarse' esquiando dejaron una maravillosa charla en la que hablaron de su nueva relación, rencillas del pasado y el objetivo común.
+</desc>
   </programme>
-  <programme start="20250129234000 +0100" stop="20250130000000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250129230100 +0100" stop="20250129231900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features T2024 · Marc Márquez - "Creo que ganaré otro Mundial"</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Marc Márquez se sienta en exclusiva con DAZN para hablar acerca de su futuro en el Mundial de MotoGP tras hacerse oficial su llegada en 2025 al equipo Ducati Lenovo donde compartirá box con Pecco Bagnaia.
+</desc>
+  </programme>
+  <programme start="20250129231900 +0100" stop="20250129234000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Boxeo: Usyk vs. Fury 2 T2024 · Usyk vs Fury 2</title>
     <desc lang="es">Deportes/Boxeo | 2024 | +18
 · Oleksandr Usyk y Tyson Fury se enfrentan 21 de diciembre de 2024 en el Kingdom Arena de Riad, Arabia Saudita.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250130000000 +0100" stop="20250130002000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250129234000 +0100" stop="20250129235900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Francis Ngannou, forjado en la adversidad</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | +18
 · Francis Ngannou es uno de los luchadores de artes marciales mixtas más importantes.
 </desc>
   </programme>
-  <programme start="20250130002000 +0100" stop="20250130004400 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250129235900 +0100" stop="20250130010600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Zurdo vs. Billam Smith: Riyadh Season Latinos Night T2024 · Gilberto Ramírez vs Chris Billam - Smith</title>
     <desc lang="es">Deportes/Boxeo | 2024 | +18 | *6.0/10
 · Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh. Votos: 4.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250130004400 +0100" stop="20250130060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250130010600 +0100" stop="20250130060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -490,7 +412,7 @@
   <programme start="20250202172000 +0100" stop="20250202193000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 24: Arsenal - Manchester City T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
+· Arsenal y Manchester City disputan un duelo clave para definir sus opciones en la Premier League. Amsbos equipos arracan el fin de semana en puestos Champions. Votos: 3.
 · País: R.U.</desc>
   </programme>
   <programme start="20250202193000 +0100" stop="20250202202000 +0100" channel="DAZN 1 HD 1080P">
@@ -566,6 +488,42 @@
 </desc>
   </programme>
   <programme start="20250203220000 +0100" stop="20250204020000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250204020000 +0100" stop="20250204060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250204060000 +0100" stop="20250204100000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250204100000 +0100" stop="20250204140000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250204140000 +0100" stop="20250204180000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250204180000 +0100" stop="20250204220000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250204220000 +0100" stop="20250205020000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
