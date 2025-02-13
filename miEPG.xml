@@ -1,154 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 12/02/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 13/02/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250212125600 +0100" stop="20250212134200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E15</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
-· País: España
-· Presenta: Andrea Segura, Sandra Riquelme.</desc>
-  </programme>
-  <programme start="20250212134200 +0100" stop="20250212141000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Test T24/25 · Sepang - Día 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados.
-</desc>
-  </programme>
-  <programme start="20250212141000 +0100" stop="20250212144000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Test T24/25 · Sepang - Día 2</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados.
-</desc>
-  </programme>
-  <programme start="20250212144000 +0100" stop="20250212151900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Test T24/25 · Sepang - Día 3</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados.
-</desc>
-  </programme>
-  <programme start="20250212151900 +0100" stop="20250212175500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">6 Kings Slam T2024 · Alcaraz - Sinner</title>
-    <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
-· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 11.
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20250212175500 +0100" stop="20250212195100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F T24/25 · Jornada 18: Levante UD - Real Madrid</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20250212195100 +0100" stop="20250212202000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League Stories T24/25 · Un 'diablo' con sabor mexicano</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· Javier 'Chicharito' Hernández dejó una huello imborrable en la Premier League. Votos: 3.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250212202000 +0100" stop="20250212223500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 15: Everton - Liverpool T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· El derby de Mersey por fin se puede jugar. La meteorología lo impidió en la 15ª jornada y toffees y reds ponen al día su calendario de Premier. Con Moyes a los mandos el Everton se ha alejado del descenso. Los de Slot aspiran a ampliar su ventaja. Votos: 8.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250212223500 +0100" stop="20250212230800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Luis García, el goleador del 'Spanish Liverpool'</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
-· Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League. Votos: 8.
-· País: España</desc>
-  </programme>
-  <programme start="20250212230800 +0100" stop="20250213004300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Yeda - Carrera final</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *2.0/10
-· El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad. Votos: 2.
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20250213004300 +0100" stop="20250213010100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: Usyk vs. Fury 2 T2024 · Usyk vs Fury 2</title>
-    <desc lang="es">Deportes/Boxeo | 2024 | +18
-· Oleksandr Usyk y Tyson Fury se enfrentan 21 de diciembre de 2024 en el Kingdom Arena de Riad, Arabia Saudita.
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20250213010100 +0100" stop="20250213060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250213060000 +0100" stop="20250213130000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250213130000 +0100" stop="20250213145000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 11: Aalborg - Barcelona T24/25 · Liga de campeones de balonmano</title>
+  <programme start="20250213130000 +0100" stop="20250213145200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga de campeones de balonmano T24/25 · Jornada 11: Aalborg - Barcelona</title>
     <desc lang="es">Deportes/Balonmano | 2025 | TP
 · Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
 · País: Dinamarca</desc>
   </programme>
-  <programme start="20250213145000 +0100" stop="20250213155000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250213145200 +0100" stop="20250213153500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E15</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20250213155000 +0100" stop="20250213180000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 15: Everton - Liverpool T24/25 · Premier League</title>
+  <programme start="20250213153500 +0100" stop="20250213173700 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 15: Everton - Liverpool</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· El derby de Mersey por fin se puede jugar. La meteorología lo impidió en la 15ª jornada y toffees y reds ponen al día su calendario de Premier. Con Moyes a los mandos el Everton se ha alejado del descenso. Los de Slot aspiran a ampliar su ventaja. Votos: 8.
+· El derby de Mersey por fin se puede jugar. La meteorología lo impidió en la 15ª jornada y toffees y reds ponen al día su calendario de Premier. Con Moyes a los mandos el Everton se ha alejado del descenso. Los de Slot aspiran a ampliar su ventaja. Votos: 13.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250213180000 +0100" stop="20250213183000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250213173700 +0100" stop="20250213180800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Cuatro entrenadores vascos en la Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Andoni Iraola es el último técnico guipuzcoano en llegar a la Premier League de la mano del Bournemouth y se suma a Julen Lopetegui en el West Ham, y anteriormente en los Wolves, Unai Emery en el Aston Villa y Mikel Arteta en el Arsenal.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· Andoni Iraola es el último técnico guipuzcoano en llegar a la Premier League de la mano del Bournemouth y se suma a Julen Lopetegui en el West Ham, y anteriormente en los Wolves, Unai Emery en el Aston Villa y Mikel Arteta en el Arsenal. Votos: 2.
 · País: España</desc>
   </programme>
-  <programme start="20250213183000 +0100" stop="20250213211000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250213180800 +0100" stop="20250213201200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Presentación temporada MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · Acto oficial de presentación del Mundial de MotoGP en Bangkok. Los 22 pilotos estarán presentes, así como una exhibición con la parrilla completa de las motos de 2025 y carreras de exhibición de la nueva maquinaria.
-· País: Tailandia</desc>
+· País: España y Tailandia</desc>
   </programme>
-  <programme start="20250213211000 +0100" stop="20250213213500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250213201200 +0100" stop="20250213204100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP Test T24/25 · Sepang - Día 1</title>
     <desc lang="es">Deportes/Motor | 2025 | TP
 · El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados.
 </desc>
   </programme>
-  <programme start="20250213213500 +0100" stop="20250213220000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250213204100 +0100" stop="20250213211200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP Test T24/25 · Sepang - Día 2</title>
     <desc lang="es">Deportes/Motor | 2025 | TP
 · El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados.
 </desc>
   </programme>
-  <programme start="20250213220000 +0100" stop="20250213223000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250213211200 +0100" stop="20250213215100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP Test T24/25 · Sepang - Día 3</title>
     <desc lang="es">Deportes/Motor | 2025 | TP
 · El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados.
 </desc>
   </programme>
-  <programme start="20250213223000 +0100" stop="20250213233000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250213215100 +0100" stop="20250213224700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Aragón: Carrera Moto3</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
 · Retransmisión de las pruebas del Campeonato del Mundo de Motociclismo. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250213233000 +0100" stop="20250214002500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250213224700 +0100" stop="20250213234400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Aragón: Carrera Moto2</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
 · Retransmisión de las pruebas del Campeonato del Mundo de Motociclismo. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250214002500 +0100" stop="20250214060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250213234400 +0100" stop="20250214001000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Marc Márquez, cara a cara</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Marc Márquez y Pecco Bagnaia se lo pasaron en grande en el evento de Ducati 'Campioni in Pista'. Después de 'picarse' esquiando dejaron una maravillosa charla en la que hablaron de su nueva relación, rencillas del pasado y el objetivo común. Votos: 7.
+</desc>
+  </programme>
+  <programme start="20250214001000 +0100" stop="20250214011500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Boxeo: velada Paro vs Hitchins T2024 · Liam Paro vs Richardson Hitchins (velada completa)</title>
     <desc lang="es">Deportes/Boxeo | 2024 | +18 | *6.0/10
 · El Coliseo Roberto Clemente de San Juan, en Puerto Rico alberga la velada de boxeo que enfrenta en el cartel principal a Liam Paro contra Richardson Hitchins por el título superligero. Votos: 8.
 · País: Puerto Rico</desc>
+  </programme>
+  <programme start="20250214011500 +0100" stop="20250214060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
   <programme start="20250214060000 +0100" stop="20250214120000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
@@ -193,7 +126,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250214153500 +0100" stop="20250214164500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 11: Aalborg - Barcelona T24/25 · Liga de campeones de balonmano</title>
+    <title lang="es">Liga de campeones de balonmano T24/25 · Jornada 11: Aalborg - Barcelona</title>
     <desc lang="es">Deportes/Balonmano | 2025 | TP
 · Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
 · País: Dinamarca</desc>
@@ -278,8 +211,8 @@
   </programme>
   <programme start="20250215125500 +0100" stop="20250215132000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T24/25 · La rivalidad que definió al rey</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
-· Los enfrentamientos entre Arsène Wenger y Sir Alex Ferguson marcaron una de las rivalidades más emblemáticas de la historia de la Premier League. Votos: 2.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
+· Los enfrentamientos entre Arsène Wenger y Sir Alex Ferguson marcaron una de las rivalidades más emblemáticas de la historia de la Premier League. Votos: 4.
 · País: R.U.</desc>
   </programme>
   <programme start="20250215132000 +0100" stop="20250215155000 +0100" channel="DAZN 1 HD 1080P">
@@ -481,6 +414,42 @@
 </desc>
   </programme>
   <programme start="20250218220000 +0100" stop="20250219020000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250219020000 +0100" stop="20250219060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250219060000 +0100" stop="20250219100000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250219100000 +0100" stop="20250219140000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250219140000 +0100" stop="20250219180000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250219180000 +0100" stop="20250219220000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250219220000 +0100" stop="20250220020000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
