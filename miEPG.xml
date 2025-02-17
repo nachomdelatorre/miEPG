@@ -1,87 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 16/02/2025 11:32" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 17/02/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250216114500 +0100" stop="20250216134600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 19: Athletic Club - Real Sociedad T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *4.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20250216134600 +0100" stop="20250216142100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Test T24/25 · Buriram - Día 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
-· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados. Votos: 4.
-</desc>
-  </programme>
-  <programme start="20250216142100 +0100" stop="20250216145000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cuatro entrenadores vascos en la Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Andoni Iraola es el último técnico guipuzcoano en llegar a la Premier League de la mano del Bournemouth y se suma a Julen Lopetegui en el West Ham, y anteriormente en los Wolves, Unai Emery en el Aston Villa y Mikel Arteta en el Arsenal. Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20250216145000 +0100" stop="20250216172000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 25: Liverpool - Wolverhampton T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250216172000 +0100" stop="20250216193000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 25: Tottenham - Manchester Utd. T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· Si hablamos de Premier League los dos equipos están metidos en el mismo atolladero. Los spurs 27 puntos y los red devils 29. Una victoria en ocho partidos para los locales y siete puntos de 24 para los visitantes. Toca reaccionar. Votos: 8.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250216193000 +0100" stop="20250216193600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250216193600 +0100" stop="20250216201300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Test T24/25 · Buriram - Día 2</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados.
-</desc>
-  </programme>
-  <programme start="20250216201300 +0100" stop="20250216210400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250216210400 +0100" stop="20250216220400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de San Marino: Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· El Gran Premio de San Marino es una carrera de motociclismo de velocidad organizada en Italia para permitirle a ese país tener dos fechas en una misma temporada del Campeonato Mundial de Motociclismo. Votos: 9.
-· País: España e Italia</desc>
-  </programme>
-  <programme start="20250216220400 +0100" stop="20250216231600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de San Marino: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· El Gran Premio de San Marino es una carrera de motociclismo de velocidad organizada en Italia para permitirle a ese país tener dos fechas en una misma temporada del Campeonato Mundial de Motociclismo. Votos: 15.
-· País: España e Italia</desc>
-  </programme>
-  <programme start="20250216231600 +0100" stop="20250217010600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 19: Barcelona - Madrid CFF T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250217010600 +0100" stop="20250217060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250217060000 +0100" stop="20250217130100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250217130100 +0100" stop="20250217140900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">IFEMA Madrid Horse Week T2024 · Jump &amp; Drive Trophy</title>
     <desc lang="es">Deportes/Hípica | 2024 | TP | *8.0/10
@@ -145,19 +67,19 @@
   <programme start="20250217201000 +0100" stop="20250217210000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Fever Pitch T23/24 · Iraola se reúne con viejos amigos</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· David Fer y Nacho González entrevistan al rookie de la Premier League Andoni Iraola. Votos: 6.
+· David Fer y Nacho González entrevistan al rookie de la Premier League Andoni Iraola. Votos: 8.
 </desc>
   </programme>
   <programme start="20250217210000 +0100" stop="20250217230100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 25: Tottenham - Manchester Utd. T24/25 · Premier League</title>
+    <title lang="es">Premier League T24/25 · Jornada 25: Tottenham - Manchester Utd</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· Si hablamos de Premier League los dos equipos están metidos en el mismo atolladero. Los spurs 27 puntos y los red devils 29. Una victoria en ocho partidos para los locales y siete puntos de 24 para los visitantes. Toca reaccionar. Votos: 8.
+· Si hablamos de Premier League los dos equipos están metidos en el mismo atolladero. Los spurs 27 puntos y los red devils 29. Una victoria en ocho partidos para los locales y siete puntos de 24 para los visitantes. Toca reaccionar. Votos: 13.
 · País: R.U.</desc>
   </programme>
   <programme start="20250217230100 +0100" stop="20250217233500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T24/25 · ¿Cuál es el mejor partido de la historia?</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· La Premier League ha sido el escenario de algunos de los partidos más emocionantes en la historia del fútbol, llenos de giros inesperados, goles memorables y emociones a flor de piel.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· La Premier League ha sido el escenario de algunos de los partidos más emocionantes en la historia del fútbol, llenos de giros inesperados, goles memorables y emociones a flor de piel. Votos: 2.
 · País: R.U.</desc>
   </programme>
   <programme start="20250217233500 +0100" stop="20250218000100 +0100" channel="DAZN 1 HD 1080P">
@@ -185,9 +107,9 @@
 </desc>
   </programme>
   <programme start="20250218130000 +0100" stop="20250218151000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 19: Barcelona - Madrid CFF T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 11.
+    <title lang="es">Liga F T24/25 · Jornada 19: Barcelona - Madrid CFF</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 19.
 · País: España</desc>
   </programme>
   <programme start="20250218151000 +0100" stop="20250218154500 +0100" channel="DAZN 1 HD 1080P">
@@ -203,9 +125,9 @@
 · País: España</desc>
   </programme>
   <programme start="20250218160000 +0100" stop="20250218180000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 19: Real Madrid -FC Levante Badalona T24/25 · Liga F</title>
+    <title lang="es">Liga F T24/25 · Jornada 19: Real Madrid -FC Levante Badalona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 7.
 · País: España</desc>
   </programme>
   <programme start="20250218180000 +0100" stop="20250218191500 +0100" channel="DAZN 1 HD 1080P">
@@ -266,15 +188,15 @@
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
   <programme start="20250219134500 +0100" stop="20250219160000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 19: Real Madrid -FC Levante Badalona T24/25 · Liga F</title>
+    <title lang="es">Liga F T24/25 · Jornada 19: Real Madrid -FC Levante Badalona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 7.
 · País: España</desc>
   </programme>
   <programme start="20250219160000 +0100" stop="20250219165500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 1</title>
-    <desc lang="es">Deportes/eSports | 2024 | TP | *8.0/10
-· Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia. Votos: 2.
+    <desc lang="es">Deportes/eSports | 2024 | TP | *6.0/10
+· Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia. Votos: 4.
 </desc>
   </programme>
   <programme start="20250219165500 +0100" stop="20250219175500 +0100" channel="DAZN 1 HD 1080P">
@@ -285,8 +207,8 @@
   </programme>
   <programme start="20250219175500 +0100" stop="20250219191500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 3</title>
-    <desc lang="es">Deportes/eSports | 2024 | TP
-· Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia.
+    <desc lang="es">Deportes/eSports | 2024 | TP | *10.0/10
+· Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia. Votos: 2.
 </desc>
   </programme>
   <programme start="20250219191500 +0100" stop="20250219194000 +0100" channel="DAZN 1 HD 1080P">
@@ -395,7 +317,7 @@
   <programme start="20250220172500 +0100" stop="20250220191500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 25: Manchester City - Newcastle</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 11.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 13.
 · País: R.U.</desc>
   </programme>
   <programme start="20250220191500 +0100" stop="20250220203500 +0100" channel="DAZN 1 HD 1080P">
@@ -418,8 +340,8 @@
   </programme>
   <programme start="20250220230000 +0100" stop="20250221000500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Catar: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
-· Vuelve el rugido de los motores, el olor a gasolina y la goma quemada. El circuito de Lusail acoge el primer gran premio de la temporada del Mundial de motociclismo y lo hace con la única carrera nocturna del calendario. Votos: 12.
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· Vuelve el rugido de los motores, el olor a gasolina y la goma quemada. El circuito de Lusail acoge el primer gran premio de la temporada del Mundial de motociclismo y lo hace con la única carrera nocturna del calendario. Votos: 18.
 </desc>
   </programme>
   <programme start="20250221000500 +0100" stop="20250221005300 +0100" channel="DAZN 1 HD 1080P">
@@ -560,76 +482,160 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250222060000 +0100" stop="20250222114500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250222060000 +0100" stop="20250222130000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250222114500 +0100" stop="20250222134600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 19: Athletic Club - Real Sociedad T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *4.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20250222134600 +0100" stop="20250222142100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Test T24/25 · Buriram - Día 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
-· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados. Votos: 4.
-</desc>
-  </programme>
-  <programme start="20250222142100 +0100" stop="20250222145000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cuatro entrenadores vascos en la Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Andoni Iraola es el último técnico guipuzcoano en llegar a la Premier League de la mano del Bournemouth y se suma a Julen Lopetegui en el West Ham, y anteriormente en los Wolves, Unai Emery en el Aston Villa y Mikel Arteta en el Arsenal. Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20250222145000 +0100" stop="20250222172000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 25: Liverpool - Wolverhampton T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250222172000 +0100" stop="20250222193000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 25: Tottenham - Manchester Utd. T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· Si hablamos de Premier League los dos equipos están metidos en el mismo atolladero. Los spurs 27 puntos y los red devils 29. Una victoria en ocho partidos para los locales y siete puntos de 24 para los visitantes. Toca reaccionar. Votos: 8.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250222193000 +0100" stop="20250222193600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250222193600 +0100" stop="20250222201300 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250222130000 +0100" stop="20250222132000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP Test T24/25 · Buriram - Día 2</title>
     <desc lang="es">Deportes/Motor | 2025 | TP
 · El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados.
 </desc>
   </programme>
-  <programme start="20250222201300 +0100" stop="20250222210400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 11.
+  <programme start="20250222132000 +0100" stop="20250222153000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 26: Everton - Manchester Utd. T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250222153000 +0100" stop="20250222155000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 6.
+</desc>
+  </programme>
+  <programme start="20250222155000 +0100" stop="20250222182000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 26: Arsenal - West Ham T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250222182000 +0100" stop="20250222203000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 26: Aston Villa - Chelsea T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250222203000 +0100" stop="20250222210000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 6.
+</desc>
+  </programme>
+  <programme start="20250222210000 +0100" stop="20250222222000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Doha - Carrera final T2025 · E1 Series</title>
+    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *4.0/10
+· El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250222222000 +0100" stop="20250222223500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo.
 · País: España</desc>
   </programme>
-  <programme start="20250222210400 +0100" stop="20250222220400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de San Marino: Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· El Gran Premio de San Marino es una carrera de motociclismo de velocidad organizada en Italia para permitirle a ese país tener dos fechas en una misma temporada del Campeonato Mundial de Motociclismo. Votos: 9.
-· País: España e Italia</desc>
-  </programme>
-  <programme start="20250222220400 +0100" stop="20250222231600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de San Marino: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· El Gran Premio de San Marino es una carrera de motociclismo de velocidad organizada en Italia para permitirle a ese país tener dos fechas en una misma temporada del Campeonato Mundial de Motociclismo. Votos: 15.
-· País: España e Italia</desc>
-  </programme>
-  <programme start="20250222231600 +0100" stop="20250223010600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 19: Barcelona - Madrid CFF T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 11.
+  <programme start="20250222223500 +0100" stop="20250222225000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada.
 · País: España</desc>
+  </programme>
+  <programme start="20250222225000 +0100" stop="20250222231000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Barcelona</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada.
+· País: España</desc>
+  </programme>
+  <programme start="20250222231000 +0100" stop="20250223001500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Francia: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
+· El circuito Bugatti, en la cuna del motor galo de Le Mans, acoge un año más el GP de Francia, quinta prueba del Mundial de motociclismo. Su estrecha pista y sus acentuadas curvas obligan a los pilotos a dar lo mejor de sí mismos. Votos: 4.
+· País: Francia</desc>
+  </programme>
+  <programme start="20250223001500 +0100" stop="20250223011900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Catalunya: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
+· El Circuit de Barcelona-Catalunya acoge la sexta prueba del Mundial de motociclismo. El trazado de Montmeló, considerado uno de los mejor diseñados de todo el calendario, cuenta con 14 curvas y una de las rectas de meta más largas del campeonato. Votos: 10.
+· País: España</desc>
+  </programme>
+  <programme start="20250223011900 +0100" stop="20250223060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250223060000 +0100" stop="20250223130000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250223130000 +0100" stop="20250223145000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 26: Southampton - Brighton &amp; Hove Albion</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250223145000 +0100" stop="20250223172000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 26: Newcastle - Nottingham Forest T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250223172000 +0100" stop="20250223193000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 26: Manchester City - Liverpool T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 7.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250223193000 +0100" stop="20250223202000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Espargabros</title>
+    <desc lang="es">Documentales/Deportes | 2025 | TP | *6.0/10
+· Dos carreras paralelas pero muy diferentes. Aleix y Pol Espargaró se enfrentan a los momentos más importantes de sus carreras deportivas tras la retirada de ambos de la competición. Votos: 7.
+· País: España</desc>
+  </programme>
+  <programme start="20250223202000 +0100" stop="20250223204000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Andbank GSeries T2025 · G1</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP | *4.0/10
+· Las GSeries son el campeonato de velocidad sobre hielo de referencia del sur de Europa. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250223204000 +0100" stop="20250223210000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Andbank GSeries T2025 · G2</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
+· Las GSeries son el campeonato de velocidad sobre hielo de referencia del sur de Europa. Votos: 8.
+</desc>
+  </programme>
+  <programme start="20250223210000 +0100" stop="20250223212500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Andbank GSeries T2025 · G3</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP
+· Las GSeries son el campeonato de velocidad sobre hielo de referencia del sur de Europa.
+</desc>
+  </programme>
+  <programme start="20250223212500 +0100" stop="20250223223000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Italia: Race MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· El GP de Italia es la séptima prueba del Mundial de motociclismo. Los pilotos españoles tiene una nueva oportunidad para vencer y afianzarse en las primeras posiciones de las tres categorías. Votos: 17.
+· País: España e Italia</desc>
+  </programme>
+  <programme start="20250223223000 +0100" stop="20250223232500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Países Bajos: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· El circuito de Assen acoge la novena prueba de un Mundial de MotoGP 2024 que tiene como grandes protagonistas al trío conformado por Pecco Bagnaia, Jorge Martín y Marc Márquez, con permiso de Pedro Acosta o Aleix Espargaró. Votos: 17.
+· País: España y Holanda</desc>
+  </programme>
+  <programme start="20250223232500 +0100" stop="20250224005400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Doha - Carrera final T2025 · E1 Series</title>
+    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *4.0/10
+· El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250224005400 +0100" stop="20250224020000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
 </tv>
