@@ -1,93 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 22/02/2025 11:32" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 23/02/2025 11:32" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250222124100 +0100" stop="20250222132000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Test T24/25 · Buriram - Día 2</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
-· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados. Votos: 4.
-</desc>
-  </programme>
-  <programme start="20250222132000 +0100" stop="20250222153600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 26: Everton - Manchester United T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 6.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250222153600 +0100" stop="20250222155000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Vuelta al mundo con el trofeo T2025 · Nueva York</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 4.
-</desc>
-  </programme>
-  <programme start="20250222155000 +0100" stop="20250222182000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 26: Arsenal - West Ham T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *2.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250222182000 +0100" stop="20250222203600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 26: Aston Villa - Chelsea T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250222203600 +0100" stop="20250222205500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 8.
-</desc>
-  </programme>
-  <programme start="20250222205500 +0100" stop="20250222222600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Doha - Carrera final T2025 · E1 Series</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *4.0/10
-· El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad. Votos: 2.
-</desc>
-  </programme>
-  <programme start="20250222222600 +0100" stop="20250222224300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo.
-· País: España</desc>
-  </programme>
-  <programme start="20250222224300 +0100" stop="20250222230000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada.
-· País: España</desc>
-  </programme>
-  <programme start="20250222230000 +0100" stop="20250222231900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Barcelona</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada.
-· País: España</desc>
-  </programme>
-  <programme start="20250222231900 +0100" stop="20250223002400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Francia: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
-· El circuito Bugatti, en la cuna del motor galo de Le Mans, acoge un año más el GP de Francia, quinta prueba del Mundial de motociclismo. Su estrecha pista y sus acentuadas curvas obligan a los pilotos a dar lo mejor de sí mismos. Votos: 4.
-· País: Francia</desc>
-  </programme>
-  <programme start="20250223002400 +0100" stop="20250223012800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Catalunya: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
-· El Circuit de Barcelona-Catalunya acoge la sexta prueba del Mundial de motociclismo. El trazado de Montmeló, considerado uno de los mejor diseñados de todo el calendario, cuenta con 14 curvas y una de las rectas de meta más largas del campeonato. Votos: 10.
-· País: España</desc>
-  </programme>
-  <programme start="20250223012800 +0100" stop="20250223060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250223060000 +0100" stop="20250223124300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250223124300 +0100" stop="20250223145000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 26: Southampton - Brighton &amp; Hove Albion</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
@@ -149,9 +65,9 @@
 · País: España y Holanda</desc>
   </programme>
   <programme start="20250223233400 +0100" stop="20250224010400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Doha - Carrera final T2025 · E1 Series</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *4.0/10
-· El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad. Votos: 2.
+    <title lang="es">E1 Series T2025 · Doha - Carrera final</title>
+    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *6.0/10
+· El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad. Votos: 4.
 </desc>
   </programme>
   <programme start="20250224010400 +0100" stop="20250224060000 +0100" channel="DAZN 1 HD 1080P">
@@ -167,9 +83,9 @@
 </desc>
   </programme>
   <programme start="20250224130000 +0100" stop="20250224143200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Doha - Carrera final T2025 · E1 Series</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *4.0/10
-· El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad. Votos: 2.
+    <title lang="es">E1 Series T2025 · Doha - Carrera final</title>
+    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *6.0/10
+· El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad. Votos: 4.
 </desc>
   </programme>
   <programme start="20250224143200 +0100" stop="20250224153900 +0100" channel="DAZN 1 HD 1080P">
@@ -215,9 +131,9 @@
 · Productora: Whisper Films.</desc>
   </programme>
   <programme start="20250224202800 +0100" stop="20250224222900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 26: Arsenal - West Ham T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *2.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
+    <title lang="es">Premier League T24/25 · Jornada 26: Arsenal - West Ham</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *4.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 3.
 · País: R.U.</desc>
   </programme>
   <programme start="20250224222900 +0100" stop="20250224233500 +0100" channel="DAZN 1 HD 1080P">
@@ -257,9 +173,9 @@
 · País: España</desc>
   </programme>
   <programme start="20250225185700 +0100" stop="20250225205800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 26: Aston Villa - Chelsea T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <title lang="es">Premier League T24/25 · Jornada 26: Aston Villa - Chelsea</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
   <programme start="20250225205800 +0100" stop="20250225210500 +0100" channel="DAZN 1 HD 1080P">
@@ -276,8 +192,8 @@
   </programme>
   <programme start="20250225230900 +0100" stop="20250226001100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Austria: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
-· El circuito de Spielberg acoge una nueva prueba del Mundial de MotoGP 2024. El mano a mano entre Pecco Bagnaia, y Jorge Martín vivirá un nuevo capítulo en Austria tras recuperar el madrileño el liderato. Votos: 2.
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
+· El circuito de Spielberg acoge una nueva prueba del Mundial de MotoGP 2024. El mano a mano entre Pecco Bagnaia, y Jorge Martín vivirá un nuevo capítulo en Austria tras recuperar el madrileño el liderato. Votos: 4.
 · País: Austria y España</desc>
   </programme>
   <programme start="20250226001100 +0100" stop="20250226011700 +0100" channel="DAZN 1 HD 1080P">
@@ -396,8 +312,8 @@
   </programme>
   <programme start="20250227170000 +0100" stop="20250227183500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga de campeones de balonmano T24/25 · Jornada 12: Barcelona - Kielce</title>
-    <desc lang="es">Deportes/Balonmano | 2025 | TP | *4.0/10
-· La Liga de Campeones es la máxima competición del balonmano continental. Votos: 2.
+    <desc lang="es">Deportes/Balonmano | 2025 | TP | *8.0/10
+· La Liga de Campeones es la máxima competición del balonmano continental. Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20250227183500 +0100" stop="20250227202700 +0100" channel="DAZN 1 HD 1080P">
@@ -421,7 +337,7 @@
   <programme start="20250227225400 +0100" stop="20250227231200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 8.
+· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 10.
 </desc>
   </programme>
   <programme start="20250227231200 +0100" stop="20250228001800 +0100" channel="DAZN 1 HD 1080P">
@@ -499,7 +415,7 @@
   <programme start="20250228094000 +0100" stop="20250228102500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP Test T24/25 · Sepang - Día 3</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
-· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados. Votos: 4.
+· El próximo 28 de febrero arranca en Tailandia el mundial de motociclismo. los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados. Votos: 6.
 </desc>
   </programme>
   <programme start="20250228102500 +0100" stop="20250228110000 +0100" channel="DAZN 1 HD 1080P">
@@ -517,7 +433,7 @@
   <programme start="20250228114000 +0100" stop="20250228120000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 8.
+· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 10.
 </desc>
   </programme>
   <programme start="20250228120000 +0100" stop="20250228130000 +0100" channel="DAZN 1 HD 1080P">
@@ -541,7 +457,7 @@
   <programme start="20250228192000 +0100" stop="20250228195000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T24/25 · ¿Cuál es el mejor partido de la historia?</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· La Premier League ha sido el escenario de algunos de los partidos más emocionantes en la historia del fútbol, llenos de giros inesperados, goles memorables y emociones a flor de piel. Votos: 4.
+· La Premier League ha sido el escenario de algunos de los partidos más emocionantes en la historia del fútbol, llenos de giros inesperados, goles memorables y emociones a flor de piel. Votos: 6.
 · País: R.U.</desc>
   </programme>
   <programme start="20250228195000 +0100" stop="20250228202000 +0100" channel="DAZN 1 HD 1080P">
@@ -588,6 +504,150 @@
   </programme>
   <programme start="20250301023500 +0100" stop="20250301053000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Tailandia</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
+· País: Tailandia</desc>
+  </programme>
+  <programme start="20250301053000 +0100" stop="20250301060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Maverick Viñales: dos vidas</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 11.
+· País: España</desc>
+  </programme>
+  <programme start="20250301060000 +0100" stop="20250301063000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250301063000 +0100" stop="20250301110000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Tailandia</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
+· País: Tailandia</desc>
+  </programme>
+  <programme start="20250301110000 +0100" stop="20250301111500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo.
+· País: España</desc>
+  </programme>
+  <programme start="20250301111500 +0100" stop="20250301113000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada.
+· País: España</desc>
+  </programme>
+  <programme start="20250301113000 +0100" stop="20250301115000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Barcelona</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada.
+· País: España</desc>
+  </programme>
+  <programme start="20250301115000 +0100" stop="20250301124000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Maverick Viñales: dos vidas</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 11.
+· País: España</desc>
+  </programme>
+  <programme start="20250301124000 +0100" stop="20250301131000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Solo puede quedar uno T1 · El regreso</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La intrahistoria del viaje de Marc Márquez, desde su adaptación a una moto y un entorno nuevos hasta su regreso a la senda de la victoria 1043 días después.
+· País: España</desc>
+  </programme>
+  <programme start="20250301131000 +0100" stop="20250301131500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Solo puede quedar uno T1 · Negocios a 360 km/h</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La decisión de Ducati centró la atención del 'mercato' mientras se avivaba la 'guerra' entre constructores para intentar destronar a la fábrica de Bolonia.
+· País: España</desc>
+  </programme>
+  <programme start="20250301131500 +0100" stop="20250301132000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Solo puede quedar uno T1 · La joven promesa</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La llegada de una nueva estrella. Desde su debut, Acosta captó la atención de todos y ahora puedes saborear imágenes muy especiales de su campaña como rookie.
+· País: España</desc>
+  </programme>
+  <programme start="20250301132000 +0100" stop="20250301135000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Solo puede quedar uno T1 · La revancha - Parte I</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El penúltimo episodio explora la situación de ambos aspirantes, Bagnaia y Martín, a medida que se acerca la recta final de la temporada.
+· País: España</desc>
+  </programme>
+  <programme start="20250301135000 +0100" stop="20250301160500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 20: Real Betis Féminas - Granada CF T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20250301160500 +0100" stop="20250301170500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Tailandia T2025 · Sprint MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
+· País: Tailandia</desc>
+  </programme>
+  <programme start="20250301170500 +0100" stop="20250301173500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Solo puede quedar uno T1 · La revancha - Parte II</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Una radiografía completa de las carreras decisivas que llevaron a Martín a convertirse en Campeón del Mundo de MotoGP por primera vez.
+· País: España</desc>
+  </programme>
+  <programme start="20250301173500 +0100" stop="20250301175000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo.
+· País: España</desc>
+  </programme>
+  <programme start="20250301175000 +0100" stop="20250301200000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 20: VCF Femenino - Levante UD T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20250301200000 +0100" stop="20250301202500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Aitana Bonmati: ''Sigo siendo la misma''</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Aitana Bonmatí, doble ganadora del Balón de Oro y galardonada con el premio The Best. Votos: 11.
+· País: España</desc>
+  </programme>
+  <programme start="20250301202500 +0100" stop="20250301212500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Erasmus FC T24/25 E18</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
+· País: España</desc>
+  </programme>
+  <programme start="20250301212500 +0100" stop="20250301232500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 27: Tottenham - Manchester City T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 6.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250301232500 +0100" stop="20250302002500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Pacheco vs Nelson T2025 · Diego Pacheco vs Steve Nelson</title>
+    <desc lang="es">Deportes/Boxeo | 2025 | +18
+· Dos supermedios invictos se enfrentan en Las Vegas, cuando el emocionante Diego Pacheco (22-0) se mida a Steve Nelson (20-0).
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250302002500 +0100" stop="20250302012000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Bostan vs Fawaz T2025 · George Liddard vs Derrick Osaze</title>
+    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *4.0/10
+· El Indigo at The O2 de Greenwich, en Londres, alberga la velada de boxeo que enfrenta en el combate principal a Junaid Bostan contra Bilal Fawaz. Votos: 6.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250302012000 +0100" stop="20250302023000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Chisora vs Wallin T2025 E1</title>
+    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *8.0/10
+· Derek 'War' Chisora (35-13) regresa para enfrentarse a Otto Wallin (27-2) en el Co-OP LIVE Arena de Mánchester. Siendo esta la última pelea de Chisora en el Reino Unido, ¿podrá despedirse de sus seguidores locales con una victoria?. Votos: 4.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250302023000 +0100" stop="20250302043500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Tailandia T2025 · Sprint MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
+· País: Tailandia</desc>
+  </programme>
+  <programme start="20250302043500 +0100" stop="20250302053500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Tailandia</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
 · País: Tailandia</desc>
