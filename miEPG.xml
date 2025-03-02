@@ -1,141 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 01/03/2025 11:32" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 02/03/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250301061300 +0100" stop="20250301063000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250301063000 +0100" stop="20250301110300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Tailandia</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
-· País: Tailandia</desc>
-  </programme>
-  <programme start="20250301110300 +0100" stop="20250301112500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada.
-· País: España</desc>
-  </programme>
-  <programme start="20250301112500 +0100" stop="20250301114300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Barcelona</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada.
-· País: España</desc>
-  </programme>
-  <programme start="20250301114300 +0100" stop="20250301123100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250301123100 +0100" stop="20250301131500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · El regreso</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· La intrahistoria del viaje de Marc Márquez, desde su adaptación a una moto y un entorno nuevos hasta su regreso a la senda de la victoria 1043 días después.
-· País: España</desc>
-  </programme>
-  <programme start="20250301131500 +0100" stop="20250301135000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · Negocios a 360 km/h</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· La decisión de Ducati centró la atención del 'mercato' mientras se avivaba la 'guerra' entre constructores para intentar destronar a la fábrica de Bolonia.
-· País: España</desc>
-  </programme>
-  <programme start="20250301135000 +0100" stop="20250301155300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 20: Betis - Granada T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
-· País: España</desc>
-  </programme>
-  <programme start="20250301155300 +0100" stop="20250301165400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Tailandia T2025 · Sprint MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
-· País: Tailandia</desc>
-  </programme>
-  <programme start="20250301165400 +0100" stop="20250301172700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · La revancha - Parte II</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Una radiografía completa de las carreras decisivas que llevaron a Martín a convertirse en Campeón del Mundo de MotoGP por primera vez.
-· País: España</desc>
-  </programme>
-  <programme start="20250301172700 +0100" stop="20250301174500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo.
-· País: España</desc>
-  </programme>
-  <programme start="20250301174500 +0100" stop="20250301195300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 20: Valencia - Levante T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
-· País: España</desc>
-  </programme>
-  <programme start="20250301195300 +0100" stop="20250301201800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Aitana Bonmati: ''Sigo siendo la misma''</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Aitana Bonmatí, doble ganadora del Balón de Oro y galardonada con el premio The Best. Votos: 12.
-· País: España</desc>
-  </programme>
-  <programme start="20250301201800 +0100" stop="20250301212600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 · Jugamos a ser director deportivo del City</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
-· País: España</desc>
-  </programme>
-  <programme start="20250301212600 +0100" stop="20250301232200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 27: Tottenham - Manchester City</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Algo parece que ha cambiado en el Tottenham. Tres victorias consecutivas han estabilizado a los de Postecoglu. El City sigue en puestos Champions a pesar de su última derrota. Votos: 18.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250301232200 +0100" stop="20250302002900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: velada Pacheco vs Nelson T2025 · Diego Pacheco vs Steve Nelson</title>
-    <desc lang="es">Deportes/Boxeo | 2025 | +18
-· Dos supermedios invictos se enfrentan en Las Vegas, cuando el emocionante Diego Pacheco (22-0) se mida a Steve Nelson (20-0).
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250302002900 +0100" stop="20250302011800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: velada Bostan vs Fawaz T2025 · George Liddard vs Derrick Osaze</title>
-    <desc lang="es">Deportes/Boxeo | 2025 | TP | *6.0/10
-· El Indigo at The O2 de Greenwich, en Londres, alberga la velada de boxeo que enfrenta en el combate principal a Junaid Bostan contra Bilal Fawaz. Votos: 8.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250302011800 +0100" stop="20250302022400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: velada Chisora vs Wallin T2025 E1</title>
-    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *6.0/10
-· Derek 'War' Chisora (35-13) regresa para enfrentarse a Otto Wallin (27-2) en el Co-OP LIVE Arena de Mánchester. Siendo esta la última pelea de Chisora en el Reino Unido, ¿podrá despedirse de sus seguidores locales con una victoria?. Votos: 8.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250302022400 +0100" stop="20250302033100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Tailandia: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
-· La gira oriental del Mundial de motocicliso llega al circuito internacional de Chang, ubicado en Buriram. El trazado tiene una longitud de 4,6 kilómetros y consta de 12 curvas que enlazan zonas de largas rectas. Votos: 13.
-· País: España y Tailandia</desc>
-  </programme>
-  <programme start="20250302033100 +0100" stop="20250302043500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Tailandia T2025 · Sprint MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
-· País: Tailandia</desc>
-  </programme>
-  <programme start="20250302043500 +0100" stop="20250302053500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Tailandia</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
-· País: Tailandia</desc>
-  </programme>
-  <programme start="20250302053500 +0100" stop="20250302064000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Tailandia</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
-· País: Tailandia</desc>
-  </programme>
   <programme start="20250302064000 +0100" stop="20250302075500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Tailandia</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
@@ -181,7 +49,7 @@
   <programme start="20250302135000 +0100" stop="20250302160300 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 20: SD Eibar - FC Barcelona T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 7.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20250302160300 +0100" stop="20250302162100 +0100" channel="DAZN 1 HD 1080P">
@@ -215,7 +83,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250302203300 +0100" stop="20250302213400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Tailandia</title>
+    <title lang="es">MotoGP - GP de Tailandia T2025 · Carrera Moto3</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
 · País: Tailandia</desc>
@@ -235,7 +103,7 @@
   <programme start="20250302233700 +0100" stop="20250303012700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 20: Athletic Club - Real Madrid T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 13.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250303012700 +0100" stop="20250303020000 +0100" channel="DAZN 1 HD 1080P">
@@ -300,7 +168,7 @@
 </desc>
   </programme>
   <programme start="20250303174500 +0100" stop="20250303184600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Tailandia</title>
+    <title lang="es">MotoGP - GP de Tailandia T2025 · Carrera Moto3</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
 · País: Tailandia</desc>
@@ -348,7 +216,7 @@
 </desc>
   </programme>
   <programme start="20250304130000 +0100" stop="20250304140200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Tailandia</title>
+    <title lang="es">MotoGP - GP de Tailandia T2025 · Carrera Moto3</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
 · País: Tailandia</desc>
@@ -368,7 +236,7 @@
   <programme start="20250304160500 +0100" stop="20250304180000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 20: SD Eibar - FC Barcelona T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 7.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20250304180000 +0100" stop="20250304184600 +0100" channel="DAZN 1 HD 1080P">
@@ -530,7 +398,7 @@
   <programme start="20250306160500 +0100" stop="20250306175700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 20: Athletic Club - Real Madrid T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 13.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250306175700 +0100" stop="20250306190200 +0100" channel="DAZN 1 HD 1080P">
@@ -558,7 +426,7 @@
 </desc>
   </programme>
   <programme start="20250306221400 +0100" stop="20250306231500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Tailandia</title>
+    <title lang="es">MotoGP - GP de Tailandia T2025 · Carrera Moto3</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
 · País: Tailandia</desc>
@@ -615,7 +483,7 @@
   <programme start="20250307170200 +0100" stop="20250307185400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 20: Athletic Club - Real Madrid T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 13.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250307185400 +0100" stop="20250307191900 +0100" channel="DAZN 1 HD 1080P">
@@ -663,13 +531,79 @@
   <programme start="20250307222500 +0100" stop="20250308002700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 27: Tottenham - Manchester City</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Algo parece que ha cambiado en el Tottenham. Tres victorias consecutivas han estabilizado a los de Postecoglu. El City sigue en puestos Champions a pesar de su última derrota. Votos: 18.
+· Algo parece que ha cambiado en el Tottenham. Tres victorias consecutivas han estabilizado a los de Postecoglu. El City sigue en puestos Champions a pesar de su última derrota. Votos: 21.
 · País: R.U.</desc>
   </programme>
   <programme start="20250308002700 +0100" stop="20250308013000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Boxeo: velada Chisora vs Wallin T2025 E1</title>
     <desc lang="es">Deportes/Boxeo | 2025 | +18 | *6.0/10
 · Derek 'War' Chisora (35-13) regresa para enfrentarse a Otto Wallin (27-2) en el Co-OP LIVE Arena de Mánchester. Siendo esta la última pelea de Chisora en el Reino Unido, ¿podrá despedirse de sus seguidores locales con una victoria?. Votos: 8.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250308013000 +0100" stop="20250308060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250308060000 +0100" stop="20250308125000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250308125000 +0100" stop="20250308132000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League Features T3 · La receta de Pep</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Repaso en general con todo lo relacionado con la Premier League. Votos: 8.
+</desc>
+  </programme>
+  <programme start="20250308132000 +0100" stop="20250308152400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 28: Nottingham Forest - Manchester City T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250308152400 +0100" stop="20250308155000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Monchi, un cazatalentos único</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
+· El programa entrevista a Ramón Rodríguez 'Monchi', el actual director deportivo del Aston Villa. El 'cazalentos' español por excelencia nos cuenta cómo está viviendo su primera experiencia en Inglaterra. Votos: 10.
+· País: España</desc>
+  </programme>
+  <programme start="20250308155000 +0100" stop="20250308175400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 28: Liverpool - Southampton T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250308175400 +0100" stop="20250308182000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *4.0/10
+· El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250308182000 +0100" stop="20250308205000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 28: Brentford - Aston Villa T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250308205000 +0100" stop="20250308225400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 28: Wolverhampton - Everton T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250308225400 +0100" stop="20250308231200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 10.
+</desc>
+  </programme>
+  <programme start="20250308231200 +0100" stop="20250309011300 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 28: Nottingham Forest - Manchester City T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
 </tv>
