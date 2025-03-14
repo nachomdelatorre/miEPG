@@ -1,185 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 13/03/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 14/03/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250313130100 +0100" stop="20250313133600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · El regreso</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· La intrahistoria del viaje de Marc Márquez, desde su adaptación a una moto y un entorno nuevos hasta su regreso a la senda de la victoria 1043 días después.
-· País: España</desc>
-  </programme>
-  <programme start="20250313133600 +0100" stop="20250313141000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · Negocios a 360 km/h</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
-· La decisión de Ducati centró la atención del 'mercato' mientras se avivaba la 'guerra' entre constructores para intentar destronar a la fábrica de Bolonia. Votos: 1.
-· País: España</desc>
-  </programme>
-  <programme start="20250313141000 +0100" stop="20250313142900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Àlex Crivillé, referente máximo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Álex Crivillé es una figura clave en la historia del motociclismo español. En la temporada 1999, el de Seva rompió muchas barreras para España en un deporte dominado por ingleses y americanos. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250313142900 +0100" stop="20250313150200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Tailandia T2025 · Sprint MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
-· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años. Votos: 1.
-· País: Tailandia</desc>
-  </programme>
-  <programme start="20250313150200 +0100" stop="20250313151900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo.
-· País: España</desc>
-  </programme>
-  <programme start="20250313151900 +0100" stop="20250313153600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada.
-· País: España</desc>
-  </programme>
-  <programme start="20250313153600 +0100" stop="20250313155500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Barcelona</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada.
-· País: España</desc>
-  </programme>
-  <programme start="20250313155500 +0100" stop="20250313171600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Rueda de prensa motos T2025 · Argentina - Paddock Abierto</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250313171600 +0100" stop="20250313173300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250313173300 +0100" stop="20250313183600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de MotoGP T2023 · GP de Argentina: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2023 | TP | *6.0/10
-· Tras la toma de contacto en Portugal, la acción del Mundial de motociclismo se desplaza al Autódromo Termas de Río Hondo. Se trata de un circuito moderno y exigente que requiere de una gran habilidad por parte de los pilotos. Votos: 2.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250313183600 +0100" stop="20250313193000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Tailandia T2025 · Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
-· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años. Votos: 2.
-· País: Tailandia</desc>
-  </programme>
-  <programme start="20250313193000 +0100" stop="20250313202600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Tailandia T2025 · Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
-· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años. Votos: 2.
-· País: Tailandia</desc>
-  </programme>
-  <programme start="20250313202600 +0100" stop="20250313213400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Tailandia T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
-· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años. Votos: 9.
-· País: Tailandia</desc>
-  </programme>
-  <programme start="20250313213400 +0100" stop="20250313221500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2024 · Marc Márquez</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego. Votos: 10.
-</desc>
-  </programme>
-  <programme start="20250313221500 +0100" stop="20250313224100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pecco Bagnaia - Marc Márquez, cara a cara</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
-· Marc Márquez y Pecco Bagnaia se lo pasaron en grande en el evento de Ducati 'Campioni in Pista'. Después de 'picarse' esquiando dejaron una maravillosa charla en la que hablaron de su nueva relación, rencillas del pasado y el objetivo común. Votos: 10.
-</desc>
-  </programme>
-  <programme start="20250313224100 +0100" stop="20250313233400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Espargabros</title>
-    <desc lang="es">Documentales/Deportes | 2025 | TP | *6.0/10
-· Dos carreras paralelas pero muy diferentes. Aleix y Pol Espargaró se enfrentan a los momentos más importantes de sus carreras deportivas tras la retirada de ambos de la competición. Votos: 12.
-· País: España</desc>
-  </programme>
-  <programme start="20250313233400 +0100" stop="20250314003900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 15.
-</desc>
-  </programme>
-  <programme start="20250314003900 +0100" stop="20250314012500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250314012500 +0100" stop="20250314060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250314060000 +0100" stop="20250314125500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250314125500 +0100" stop="20250314155100 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250314125500 +0100" stop="20250314154900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Entrenamientos libres 1 T2025 · MotoGP - GP de Argentina</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
 · País: Argentina</desc>
   </programme>
-  <programme start="20250314155100 +0100" stop="20250314171000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250314154900 +0100" stop="20250314161300 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Solo puede quedar uno T1 · La joven promesa</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La llegada de una nueva estrella. Desde su debut, Acosta captó la atención de todos y ahora puedes saborear imágenes muy especiales de su campaña como rookie.
+· País: España</desc>
+  </programme>
+  <programme start="20250314161300 +0100" stop="20250314171000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Espargabros</title>
     <desc lang="es">Documentales/Deportes | 2025 | TP | *6.0/10
 · Dos carreras paralelas pero muy diferentes. Aleix y Pol Espargaró se enfrentan a los momentos más importantes de sus carreras deportivas tras la retirada de ambos de la competición. Votos: 12.
 · País: España</desc>
   </programme>
-  <programme start="20250314171000 +0100" stop="20250314200600 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250314171000 +0100" stop="20250314200900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Práctica T2025 · MotoGP - GP de Argentina</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
 · País: Argentina</desc>
   </programme>
-  <programme start="20250314200600 +0100" stop="20250314202200 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250314200900 +0100" stop="20250314202500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo.
 · País: España</desc>
   </programme>
-  <programme start="20250314202200 +0100" stop="20250314204000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250314202500 +0100" stop="20250314204200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada.
 · País: España</desc>
   </programme>
-  <programme start="20250314204000 +0100" stop="20250314205800 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250314204200 +0100" stop="20250314210100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Barcelona</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada.
 · País: España</desc>
   </programme>
-  <programme start="20250314205800 +0100" stop="20250314215900 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250314210100 +0100" stop="20250314220200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Erasmus FC T24/25 E20</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
   </programme>
-  <programme start="20250314215900 +0100" stop="20250315000000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 28: Manchester United - Arsenal</title>
+  <programme start="20250314220200 +0100" stop="20250314235000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 28: Manchester Utd. - Arsenal</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *2.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250315000000 +0100" stop="20250315002100 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250314235000 +0100" stop="20250315000900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
 · El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 10.
 </desc>
   </programme>
-  <programme start="20250315002100 +0100" stop="20250315060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250315000900 +0100" stop="20250315011200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Chisora vs Wallin T2025 E1</title>
+    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *6.0/10
+· Derek 'War' Chisora (35-13) regresa para enfrentarse a Otto Wallin (27-2) en el Co-OP LIVE Arena de Mánchester. Siendo esta la última pelea de Chisora en el Reino Unido, ¿podrá despedirse de sus seguidores locales con una victoria?. Votos: 8.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250315011200 +0100" stop="20250315060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -507,7 +398,7 @@
 · País: Alemania</desc>
   </programme>
   <programme start="20250319203900 +0100" stop="20250319213000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E19</title>
+    <title lang="es">La Central T24/25 E18</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
 · País: España
@@ -542,5 +433,67 @@
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada.
 · País: España</desc>
+  </programme>
+  <programme start="20250320005000 +0100" stop="20250320060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250320060000 +0100" stop="20250320130000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250320130000 +0100" stop="20250320153200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">A1 Padel: Open de Córdoba T2025 · Final</title>
+    <desc lang="es">Sin clasificar/SIN CLASIFICAR | 2025 | TP
+· La temporada del A1 Padel sigue su periplo argentino. Del 10 al 16 de marzo, la ciudad de Córdoba alberga el Villa María Open. Sobre la emblemática moqueta roja del circuito, un espectáculo de alto nivel.
+· País: Argentina</desc>
+  </programme>
+  <programme start="20250320153200 +0100" stop="20250320172300 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Cuartos de final: Bayern Múnich - Olympique Lyon T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20250320172300 +0100" stop="20250320191500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Cuartos de final: Manchester City - Chelsea T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250320191500 +0100" stop="20250320193900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Aitana Bonmati: ''Sigo siendo la misma''</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Aitana Bonmatí, doble ganadora del Balón de Oro y galardonada con el premio The Best. Votos: 12.
+· País: España</desc>
+  </programme>
+  <programme start="20250320193900 +0100" stop="20250320195600 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">La Central T24/25 E18</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20250320195600 +0100" stop="20250320231000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Cuartos de final: Wolfsburgo - Barcelona T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20250320231000 +0100" stop="20250320233700 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Argentina</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250320233700 +0100" stop="20250321004000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Argentina</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
+· País: Argentina</desc>
   </programme>
 </tv>
