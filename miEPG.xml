@@ -1,106 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 16/03/2025 11:32" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 17/03/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250316124500 +0100" stop="20250316130300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo.
-· País: España</desc>
-  </programme>
-  <programme start="20250316130300 +0100" stop="20250316132000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada.
-· País: España</desc>
-  </programme>
-  <programme start="20250316132000 +0100" stop="20250316133900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Barcelona</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada.
-· País: España</desc>
-  </programme>
-  <programme start="20250316133900 +0100" stop="20250316143000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250316143000 +0100" stop="20250316153500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250316153500 +0100" stop="20250316164000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250316164000 +0100" stop="20250316175500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250316175500 +0100" stop="20250316190000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Previo MotoGP T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250316190000 +0100" stop="20250316195500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250316195500 +0100" stop="20250316220600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Post carreras T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250316220600 +0100" stop="20250316222900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Dream Team - Ducati</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025.
-· País: España</desc>
-  </programme>
-  <programme start="20250316222900 +0100" stop="20250316224800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250316224800 +0100" stop="20250317005000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 29: Everton - West Ham</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250317005000 +0100" stop="20250317015000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250317015000 +0100" stop="20250317060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250317060000 +0100" stop="20250317130000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250317130000 +0100" stop="20250317150200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Erasmus FC T24/25 · Atlético de Madrid - FC Barcelona: la batalla definitiva</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
@@ -138,27 +41,27 @@
 · País: España</desc>
   </programme>
   <programme start="20250317183300 +0100" stop="20250317193500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
+    <title lang="es">MotoGP - GP de Argentina T2025 · Carrera Moto3</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *2.0/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 1.
 · País: Argentina</desc>
   </programme>
   <programme start="20250317193500 +0100" stop="20250317203600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
+    <title lang="es">MotoGP - GP de Argentina T2025 · Carrera Moto2</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 1.
 · País: Argentina</desc>
   </programme>
   <programme start="20250317203600 +0100" stop="20250317213700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
+    <title lang="es">MotoGP - GP de Argentina T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 6.
 · País: Argentina</desc>
   </programme>
   <programme start="20250317213700 +0100" stop="20250317233900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 29: Manchester City - Brighton</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· El enésimo pinchazo del City, les ha dejado fuera de puestos de UCL y el Brighton aspira también a una de esas plazas. Los de Guardiola son quintos y los seagulls han encontrado la regularidad en el momento adecuado y les persiguen a sólo un punto. Votos: 10.
+· El enésimo pinchazo del City, les ha dejado fuera de puestos de UCL y el Brighton aspira también a una de esas plazas. Los de Guardiola son quintos y los seagulls han encontrado la regularidad en el momento adecuado y les persiguen a sólo un punto. Votos: 11.
 · País: R.U.</desc>
   </programme>
   <programme start="20250317233900 +0100" stop="20250318013200 +0100" channel="DAZN 1 HD 1080P">
@@ -180,21 +83,21 @@
 </desc>
   </programme>
   <programme start="20250318130000 +0100" stop="20250318140200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
+    <title lang="es">MotoGP - GP de Argentina T2025 · Carrera Moto3</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *2.0/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 1.
 · País: Argentina</desc>
   </programme>
   <programme start="20250318140200 +0100" stop="20250318150300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
+    <title lang="es">MotoGP - GP de Argentina T2025 · Carrera Moto2</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 1.
 · País: Argentina</desc>
   </programme>
   <programme start="20250318150300 +0100" stop="20250318160500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
+    <title lang="es">MotoGP - GP de Argentina T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 6.
 · País: Argentina</desc>
   </programme>
   <programme start="20250318160500 +0100" stop="20250318183900 +0100" channel="DAZN 1 HD 1080P">
@@ -205,8 +108,8 @@
   </programme>
   <programme start="20250318183900 +0100" stop="20250318205400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Cuartos de final: Real Madrid - Arsenal T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 2.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 12.
 · País: España</desc>
   </programme>
   <programme start="20250318205400 +0100" stop="20250318231500 +0100" channel="DAZN 1 HD 1080P">
@@ -242,8 +145,8 @@
   </programme>
   <programme start="20250319130000 +0100" stop="20250319145200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Cuartos de final: Real Madrid - Arsenal T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 2.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 12.
 · País: España</desc>
   </programme>
   <programme start="20250319145200 +0100" stop="20250319151600 +0100" channel="DAZN 1 HD 1080P">
@@ -296,7 +199,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250319215400 +0100" stop="20250319235600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 29: Arsenal - Chelsea T24/25 · Premier League</title>
+    <title lang="es">Premier League T24/25 · Jornada 29: Arsenal - Chelsea</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
@@ -376,9 +279,9 @@
 · Presenta: Natacha Alfageme.</desc>
   </programme>
   <programme start="20250320233700 +0100" stop="20250321004000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
+    <title lang="es">MotoGP - GP de Argentina T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 6.
 · País: Argentina</desc>
   </programme>
   <programme start="20250321004000 +0100" stop="20250321060000 +0100" channel="DAZN 1 HD 1080P">
@@ -431,7 +334,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250321165600 +0100" stop="20250321185800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 29: Arsenal - Chelsea T24/25 · Premier League</title>
+    <title lang="es">Premier League T24/25 · Jornada 29: Arsenal - Chelsea</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
@@ -481,9 +384,9 @@
 </desc>
   </programme>
   <programme start="20250321230100 +0100" stop="20250322000300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Argentina</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
+    <title lang="es">MotoGP - GP de Argentina T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 6.
 · País: Argentina</desc>
   </programme>
   <programme start="20250322000300 +0100" stop="20250322002400 +0100" channel="DAZN 1 HD 1080P">
@@ -505,7 +408,7 @@
 </desc>
   </programme>
   <programme start="20250322115000 +0100" stop="20250322140300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 23: Betis - Eibar T24/25 · Liga F</title>
+    <title lang="es">DIRECTO Jornada 23: Real Betis Féminas - SD Eibar T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
 · País: España</desc>
@@ -576,5 +479,83 @@
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
 · La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 1.
 · País: Alemania</desc>
+  </programme>
+  <programme start="20250323010200 +0100" stop="20250323060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250323060000 +0100" stop="20250323113000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250323113000 +0100" stop="20250323140800 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 23: FC Barcelona - Real Madrid T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20250323140800 +0100" stop="20250323143600 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
+· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel.
+· País: España</desc>
+  </programme>
+  <programme start="20250323143600 +0100" stop="20250323150100 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Equals T1 · La presión es un privilegio</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
+· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. Votos: 14.
+</desc>
+  </programme>
+  <programme start="20250323150100 +0100" stop="20250323155000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Equals T1 · Desde el Norte</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *8.0/10
+· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. Votos: 11.
+</desc>
+  </programme>
+  <programme start="20250323155000 +0100" stop="20250323180000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 23: Real Sociedad - Atlético de Madrid T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20250323180000 +0100" stop="20250323195200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Cuartos de final: Bera Bera - Blomberg Lippe T24/25 · EHF European League femenina</title>
+    <desc lang="es">Deportes/Balonmano | 2025 | TP
+· La Copa EHF es la segunda competición continental de clubes femeninos de balonmano. En esta edición, los equipos se miden en eliminatorias desde treintaidosavos de final. El Storhamar defiende el título.
+· País: España</desc>
+  </programme>
+  <programme start="20250323195200 +0100" stop="20250323205900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Tailandia T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
+· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años. Votos: 10.
+· País: Tailandia</desc>
+  </programme>
+  <programme start="20250323205900 +0100" stop="20250323220000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Argentina T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 6.
+· País: Argentina</desc>
+  </programme>
+  <programme start="20250323220000 +0100" stop="20250323235200 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 23: FC Barcelona - Real Madrid T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20250323235200 +0100" stop="20250324005400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Garner vs Jiménez T2025 · Garner vs. Jiménez</title>
+    <desc lang="es">Deportes/Boxeo | 2025 | +18
+· Salvi Jiménez llega a Inglaterra para su combate contra Ryan Garner por el EBU Superpluma.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250324005400 +0100" stop="20250324020000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
 </tv>
