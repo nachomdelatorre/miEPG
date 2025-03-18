@@ -1,115 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 17/03/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 18/03/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250317130000 +0100" stop="20250317150200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 · Atlético de Madrid - FC Barcelona: la batalla definitiva</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
-· País: España</desc>
-  </programme>
-  <programme start="20250317150200 +0100" stop="20250317170300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 29: Southampton - Wolverhampton</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250317170300 +0100" stop="20250317171600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
-· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League. Votos: 10.
-· País: España</desc>
-  </programme>
-  <programme start="20250317171600 +0100" stop="20250317172800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Vuelta al mundo con el trofeo T2025 · Nueva York</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 8.
-</desc>
-  </programme>
-  <programme start="20250317172800 +0100" stop="20250317174600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 10.
-</desc>
-  </programme>
-  <programme start="20250317174600 +0100" stop="20250317183300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250317183300 +0100" stop="20250317193500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250318130100 +0100" stop="20250318135500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Argentina T2025 · Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *2.0/10
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 1.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 2.
 · País: Argentina</desc>
   </programme>
-  <programme start="20250317193500 +0100" stop="20250317203600 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250318135500 +0100" stop="20250318145000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Argentina T2025 · Carrera Moto2</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
 · Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 1.
 · País: Argentina</desc>
   </programme>
-  <programme start="20250317203600 +0100" stop="20250317213700 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250318145000 +0100" stop="20250318155700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Argentina T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
 · Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 6.
 · País: Argentina</desc>
   </programme>
-  <programme start="20250317213700 +0100" stop="20250317233900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 29: Manchester City - Brighton</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· El enésimo pinchazo del City, les ha dejado fuera de puestos de UCL y el Brighton aspira también a una de esas plazas. Los de Guardiola son quintos y los seagulls han encontrado la regularidad en el momento adecuado y les persiguen a sólo un punto. Votos: 11.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250317233900 +0100" stop="20250318013200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F T24/25 · Jornada 22: Athletic Club - Sevilla FC</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
-· País: España</desc>
-  </programme>
-  <programme start="20250318013200 +0100" stop="20250318060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250318060000 +0100" stop="20250318130000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250318130000 +0100" stop="20250318140200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Argentina T2025 · Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *2.0/10
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 1.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250318140200 +0100" stop="20250318150300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Argentina T2025 · Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 1.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250318150300 +0100" stop="20250318160500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Argentina T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 6.
-· País: Argentina</desc>
-  </programme>
-  <programme start="20250318160500 +0100" stop="20250318183900 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250318155700 +0100" stop="20250318175500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga F T24/25 · Jornada 22: Real Madrid - Deportivo Abanca</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 1.
 · País: España</desc>
   </programme>
+  <programme start="20250318175500 +0100" stop="20250318183900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Solo puede quedar uno T1 · La revancha - Parte I</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El penúltimo episodio explora la situación de ambos aspirantes, Bagnaia y Martín, a medida que se acerca la recta final de la temporada.
+· País: España</desc>
+  </programme>
   <programme start="20250318183900 +0100" stop="20250318205400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Cuartos de final: Real Madrid - Arsenal T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 12.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 14.
 · País: España</desc>
   </programme>
   <programme start="20250318205400 +0100" stop="20250318231500 +0100" channel="DAZN 1 HD 1080P">
@@ -118,20 +46,26 @@
 · La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
 · País: Alemania</desc>
   </programme>
-  <programme start="20250318231500 +0100" stop="20250318234200 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250318231500 +0100" stop="20250318234600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Argentina</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250318234200 +0100" stop="20250319004400 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250318234600 +0100" stop="20250319004700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Boxeo: velada Garner vs Jiménez T2025 · Garner vs. Jiménez</title>
-    <desc lang="es">Deportes/Boxeo | 2025
+    <desc lang="es">Deportes/Boxeo | 2025 | +18
 · Salvi Jiménez llega a Inglaterra para su combate contra Ryan Garner por el EBU Superpluma.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250319004400 +0100" stop="20250319060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250319004700 +0100" stop="20250319010500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Francis Ngannou, forjado en la adversidad</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | +18
+· Francis Ngannou es uno de los luchadores de artes marciales mixtas más importantes.
+</desc>
+  </programme>
+  <programme start="20250319010500 +0100" stop="20250319060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -145,8 +79,8 @@
   </programme>
   <programme start="20250319130000 +0100" stop="20250319145200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Cuartos de final: Real Madrid - Arsenal T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 12.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 14.
 · País: España</desc>
   </programme>
   <programme start="20250319145200 +0100" stop="20250319151600 +0100" channel="DAZN 1 HD 1080P">
@@ -182,7 +116,7 @@
   <programme start="20250319183900 +0100" stop="20250319203900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Cuartos de final: Wolfsburgo - Barcelona T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 1.
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 3.
 · País: Alemania</desc>
   </programme>
   <programme start="20250319203900 +0100" stop="20250319213000 +0100" channel="DAZN 1 HD 1080P">
@@ -268,7 +202,7 @@
   <programme start="20250320195600 +0100" stop="20250320231000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Cuartos de final: Wolfsburgo - Barcelona T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 1.
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 3.
 · País: Alemania</desc>
   </programme>
   <programme start="20250320231000 +0100" stop="20250320233700 +0100" channel="DAZN 1 HD 1080P">
@@ -477,7 +411,7 @@
   <programme start="20250322230800 +0100" stop="20250323010200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Cuartos de final: Wolfsburgo - Barcelona T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 1.
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 3.
 · País: Alemania</desc>
   </programme>
   <programme start="20250323010200 +0100" stop="20250323060000 +0100" channel="DAZN 1 HD 1080P">
@@ -553,6 +487,42 @@
 · País: R.U.</desc>
   </programme>
   <programme start="20250324005400 +0100" stop="20250324020000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250324020000 +0100" stop="20250324060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250324060000 +0100" stop="20250324100000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250324100000 +0100" stop="20250324140000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250324140000 +0100" stop="20250324180000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250324180000 +0100" stop="20250324220000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250324220000 +0100" stop="20250325020000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
