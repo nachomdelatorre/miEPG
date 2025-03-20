@@ -1,169 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 19/03/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 20/03/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250319125500 +0100" stop="20250319144700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga de Campeones (F) T24/25 · Cuartos de final: Real Madrid - Arsenal</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 23.
-· País: España</desc>
-  </programme>
-  <programme start="20250319144700 +0100" stop="20250319151100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2023 · Alexia Putellas</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
-· El espacio analiza el perfil futbolístico de la capitana del FC Barcelona, Alexia Putellas, y dos veces Balón de Oro. La blaugrana ha estado fuera de los terrenos de juego casi un año debido a una rotura de ligamento cruzado. Votos: 10.
-</desc>
-  </programme>
-  <programme start="20250319151100 +0100" stop="20250319153500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Equals T1 · De todo a nada</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
-· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. Votos: 15.
-</desc>
-  </programme>
-  <programme start="20250319153500 +0100" stop="20250319173200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F T24/25 · Jornada 22: Costa Adeje Tenerife - FC Barcelona</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 4.
-· País: España</desc>
-  </programme>
-  <programme start="20250319173200 +0100" stop="20250319174300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Vuelta al mundo con el trofeo T2025 · Nueva York</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 8.
-</desc>
-  </programme>
-  <programme start="20250319174300 +0100" stop="20250319175600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Desde el corazón de una final</title>
-    <desc lang="es">Documentales/Deportes | 2024 | TP
-· Detrás de un gran evento como la final de la UEFA Women Champions League, hay un gran equipo volcado para que no os perdáis ningún detalle de lo que ocurre dentro, y fuera del césped. El FC consigue su tercer título europeo.
-</desc>
-  </programme>
-  <programme start="20250319175600 +0100" stop="20250319182200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cuatro entrenadores vascos en la Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Andoni Iraola es el último técnico guipuzcoano en llegar a la Premier League de la mano del Bournemouth y se suma a Julen Lopetegui en el West Ham, y anteriormente en los Wolves, Unai Emery en el Aston Villa y Mikel Arteta en el Arsenal. Votos: 10.
-· País: España</desc>
-  </programme>
-  <programme start="20250319182200 +0100" stop="20250319183900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
-· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League. Votos: 10.
-· País: España</desc>
-  </programme>
-  <programme start="20250319183900 +0100" stop="20250319204500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Cuartos de final: Wolfsburgo - Barcelona T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 3.
-· País: Alemania</desc>
-  </programme>
-  <programme start="20250319204500 +0100" stop="20250319213800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E18</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
-· País: España
-· Presenta: Andrea Segura, Sandra Riquelme.</desc>
-  </programme>
-  <programme start="20250319213800 +0100" stop="20250319220200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Aitana Bonmati: ''Sigo siendo la misma''</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Aitana Bonmatí, doble ganadora del Balón de Oro y galardonada con el premio The Best. Votos: 12.
-· País: España</desc>
-  </programme>
-  <programme start="20250319220200 +0100" stop="20250319235300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 29: Arsenal - Chelsea</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250319235300 +0100" stop="20250320001000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo.
-· País: España</desc>
-  </programme>
-  <programme start="20250320001000 +0100" stop="20250320002700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada.
-· País: España</desc>
-  </programme>
-  <programme start="20250320002700 +0100" stop="20250320004600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Barcelona</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada.
-· País: España</desc>
-  </programme>
-  <programme start="20250320004600 +0100" stop="20250320010500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: Usyk vs. Fury 2 T2024 · Usyk vs Fury 2</title>
-    <desc lang="es">Deportes/Boxeo | 2024 | +18 | *6.0/10
-· Oleksandr Usyk y Tyson Fury se enfrentan 21 de diciembre de 2024 en el Kingdom Arena de Riad, Arabia Saudita. Votos: 10.
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20250320010500 +0100" stop="20250320060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250320060000 +0100" stop="20250320130000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250320130000 +0100" stop="20250320153200 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250320130000 +0100" stop="20250320150100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">A1 Padel: Open de Córdoba T2025 · Final</title>
-    <desc lang="es">Sin clasificar/SIN CLASIFICAR | 2025 | TP
+    <desc lang="es">Deportes/Pádel | 2025 | TP
 · La temporada del A1 Padel sigue su periplo argentino. Del 10 al 16 de marzo, la ciudad de Córdoba alberga el Villa María Open. Sobre la emblemática moqueta roja del circuito, un espectáculo de alto nivel.
 · País: Argentina</desc>
   </programme>
-  <programme start="20250320153200 +0100" stop="20250320172300 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250320150100 +0100" stop="20250320165600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga de Campeones (F) T24/25 · Cuartos de final: Bayern Múnich - Olympique Lyon</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
 · País: Alemania</desc>
   </programme>
-  <programme start="20250320172300 +0100" stop="20250320191500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Cuartos de final: Manchester City - Chelsea T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+  <programme start="20250320165600 +0100" stop="20250320184700 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga de Campeones (F) T24/25 · Cuartos de final: Manchester City - Chelsea</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 12.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250320191500 +0100" stop="20250320193900 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250320184700 +0100" stop="20250320191200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Aitana Bonmati: ''Sigo siendo la misma''</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · Aitana Bonmatí, doble ganadora del Balón de Oro y galardonada con el premio The Best. Votos: 12.
 · País: España</desc>
   </programme>
-  <programme start="20250320193900 +0100" stop="20250320195600 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250320191200 +0100" stop="20250320195800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E18</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20250320195600 +0100" stop="20250320231000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Cuartos de final: Wolfsburgo - Barcelona T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 3.
+  <programme start="20250320195800 +0100" stop="20250320214900 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga de Campeones (F) T24/25 · Cuartos de final: Wolfsburgo - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 9.
 · País: Alemania</desc>
   </programme>
-  <programme start="20250320231000 +0100" stop="20250320233700 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250320214900 +0100" stop="20250320220700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Argentina</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250320233700 +0100" stop="20250321004000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250320220700 +0100" stop="20250320231200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Argentina T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
 · Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos. Votos: 6.
 · País: Argentina</desc>
   </programme>
-  <programme start="20250321004000 +0100" stop="20250321060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250320231200 +0100" stop="20250321010400 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam T2024 · Nadal - Djokovic</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 10.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20250321010400 +0100" stop="20250321060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -195,9 +92,9 @@
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
   <programme start="20250321142800 +0100" stop="20250321161900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Cuartos de final: Manchester City - Chelsea T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+    <title lang="es">Liga de Campeones (F) T24/25 · Cuartos de final: Manchester City - Chelsea</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 12.
 · País: R.U.</desc>
   </programme>
   <programme start="20250321161900 +0100" stop="20250321164400 +0100" channel="DAZN 1 HD 1080P">
@@ -354,9 +251,9 @@
 </desc>
   </programme>
   <programme start="20250322230800 +0100" stop="20250323010200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Cuartos de final: Wolfsburgo - Barcelona T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 3.
+    <title lang="es">Liga de Campeones (F) T24/25 · Cuartos de final: Wolfsburgo - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 9.
 · País: Alemania</desc>
   </programme>
   <programme start="20250323010200 +0100" stop="20250323060000 +0100" channel="DAZN 1 HD 1080P">
@@ -504,6 +401,42 @@
 </desc>
   </programme>
   <programme start="20250325220000 +0100" stop="20250326020000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250326020000 +0100" stop="20250326060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250326060000 +0100" stop="20250326100000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250326100000 +0100" stop="20250326140000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250326140000 +0100" stop="20250326180000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250326180000 +0100" stop="20250326220000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250326220000 +0100" stop="20250327020000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
