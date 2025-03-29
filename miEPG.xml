@@ -1,176 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 28/03/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 29/03/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250328120000 +0100" stop="20250328130100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 E21</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
-· País: España</desc>
-  </programme>
-  <programme start="20250328130100 +0100" stop="20250328132200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
-· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel.
-· País: España</desc>
-  </programme>
-  <programme start="20250328132200 +0100" stop="20250328141200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Toprak Razgatlioglu, la mayor hazaña</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El fichaje de Toprak Razgatlioglu por BMW fue la historia que definió el Mundial de WSBK de 2024. En una temporada marcada por las historias de superación de varios pilotos, el ascenso del turco y BMW contra todo pronóstico.
-</desc>
-  </programme>
-  <programme start="20250328141200 +0100" stop="20250328145500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2024 · Marc Márquez</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego. Votos: 10.
-</desc>
-  </programme>
-  <programme start="20250328145500 +0100" stop="20250328174700 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Entrenamientos libres 1 T2025 · MotoGP - GP de Las Américas</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250328174700 +0100" stop="20250328183400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250328183400 +0100" stop="20250328185000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250328185000 +0100" stop="20250328191000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Argentina</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250328191000 +0100" stop="20250328221300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Práctica T2025 · MotoGP - GP de Las Américas</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250328221300 +0100" stop="20250328232100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 15.
-</desc>
-  </programme>
-  <programme start="20250328232100 +0100" stop="20250329002200 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 E21</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
-· País: España</desc>
-  </programme>
-  <programme start="20250329002200 +0100" stop="20250329004300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Vuelta al mundo con el trofeo T2025 · Nueva York</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 8.
-</desc>
-  </programme>
-  <programme start="20250329004300 +0100" stop="20250329010800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League Stories T24/25 · Un 'diablo' con sabor mexicano</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· Javier 'Chicharito' Hernández dejó una huello imborrable en la Premier League. Votos: 11.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250329010800 +0100" stop="20250329013400 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250329013400 +0100" stop="20250329060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250329060000 +0100" stop="20250329130000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250329130000 +0100" stop="20250329133200 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250329125100 +0100" stop="20250329132000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Jorge Prado: Under the lights</title>
     <desc lang="es">Documentales/Deportes | 2024 | TP | *6.0/10
 · La leyenda de Jorge Prado no para de crecer. No te pierdas un nuevo contenido de Red Bull en el que acompañamos al piloto español campeón del mundo de MXGP en su sueño americano de participar en el Campeonato AMA de Supercross de 2024. Votos: 9.
 </desc>
   </programme>
-  <programme start="20250329133200 +0100" stop="20250329141800 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250329132000 +0100" stop="20250329140600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Marc. Revelado</title>
     <desc lang="es">Deportes/Motor | 2024 | TP | *6.0/10
 · Es imposible entender la historia de Marc Márquez en MotoGP sin Honda. Once años y ocho títulos después, el de Cervera se despide del equipo de su carrera deportiva. Votos: 14.
 · País: España</desc>
   </programme>
-  <programme start="20250329141800 +0100" stop="20250329144000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250329140600 +0100" stop="20250329143500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Pecco Bagnaia - Marc Márquez, cara a cara</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
 · Marc Márquez y Pecco Bagnaia se lo pasaron en grande en el evento de Ducati 'Campioni in Pista'. Después de 'picarse' esquiando dejaron una maravillosa charla en la que hablaron de su nueva relación, rencillas del pasado y el objetivo común. Votos: 10.
 </desc>
   </programme>
-  <programme start="20250329144000 +0100" stop="20250329175700 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250329143500 +0100" stop="20250329175200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Las Américas</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20250329175700 +0100" stop="20250329181400 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250329175200 +0100" stop="20250329180900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo.
 · País: España</desc>
   </programme>
-  <programme start="20250329181400 +0100" stop="20250329183300 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250329180900 +0100" stop="20250329183000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada.
 · País: España</desc>
   </programme>
-  <programme start="20250329183300 +0100" stop="20250329185000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Barcelona</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada.
-· País: España</desc>
-  </programme>
-  <programme start="20250329185000 +0100" stop="20250329230900 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250329183000 +0100" stop="20250329230900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Las Américas</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20250329230900 +0100" stop="20250329233300 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250329230900 +0100" stop="20250329233200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Dream Team - Ducati</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025.
 · País: España</desc>
   </programme>
-  <programme start="20250329233300 +0100" stop="20250329235100 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250329233200 +0100" stop="20250329234800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Tailandia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250329235100 +0100" stop="20250330001000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20250329234800 +0100" stop="20250330000600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Argentina</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250330001000 +0100" stop="20250330050000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250330000600 +0100" stop="20250330010600 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Las Américas</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250330010600 +0100" stop="20250330050000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -188,28 +90,28 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250330115000 +0200" stop="20250330140400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250330115000 +0200" stop="20250330140300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 24: Granada CF - FC Barcelona T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
 · País: España</desc>
   </programme>
-  <programme start="20250330140400 +0200" stop="20250330142100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250330140300 +0200" stop="20250330145200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E19</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20250330142100 +0200" stop="20250330144900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250330145200 +0200" stop="20250330151900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Argentina</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250330144900 +0200" stop="20250330163000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Las Américas T2025 · Sprint MotoGP</title>
+  <programme start="20250330151900 +0200" stop="20250330163000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Las Américas</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
 · País: EE.UU.</desc>
@@ -244,31 +146,31 @@
 · El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20250330215500 +0200" stop="20250330231800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250330215500 +0200" stop="20250330233300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Post Carreras T2025 · MotoGP - GP de Las Américas</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20250330231800 +0200" stop="20250331001200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250330233300 +0200" stop="20250331002700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Espargabros</title>
     <desc lang="es">Documentales/Deportes | 2025 | TP | *6.0/10
 · Dos carreras paralelas pero muy diferentes. Aleix y Pol Espargaró se enfrentan a los momentos más importantes de sus carreras deportivas tras la retirada de ambos de la competición. Votos: 12.
 · País: España</desc>
   </programme>
-  <programme start="20250331001200 +0200" stop="20250331011400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250331002700 +0200" stop="20250331012800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Las Américas</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20250331011400 +0200" stop="20250331032100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250331012800 +0200" stop="20250331033200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">La vida en rojo</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 15.
 </desc>
   </programme>
-  <programme start="20250331032100 +0200" stop="20250331060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250331033200 +0200" stop="20250331060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -410,8 +312,8 @@
   </programme>
   <programme start="20250401203500 +0200" stop="20250401224500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 30: Arsenal - Fulham T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *2.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 3.
 · País: R.U.</desc>
   </programme>
   <programme start="20250401224500 +0200" stop="20250401225900 +0200" channel="DAZN 1 HD 1080P">
@@ -482,7 +384,7 @@
 · País: R.U.</desc>
   </programme>
   <programme start="20250402230000 +0200" stop="20250403000300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 E21</title>
+    <title lang="es">Erasmus FC T24/25 · Betis - Sevilla, ¿el derbi español por excelencia?</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -560,5 +462,83 @@
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título.
 · País: Italia</desc>
+  </programme>
+  <programme start="20250404005400 +0200" stop="20250404060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250404060000 +0200" stop="20250404120000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250404120000 +0200" stop="20250404130200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Erasmus FC T24/25 E22</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
+· País: España</desc>
+  </programme>
+  <programme start="20250404130200 +0200" stop="20250404145400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Semifinales: Milan - Inter T24/25 · Copa de Italia</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250404145400 +0200" stop="20250404152300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League Stories T23/24 · Juan Sebastián Verón, la Brujita de la Premier</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una descripción completa de la Premier League en todo el mundo. Las últimas noticias, entrevistas, curiosidades e historias sobre la pasión de los aficionados por el fútbol inglés.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250404152300 +0200" stop="20250404171500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Semifinales: Empoli - Bolonia T24/25 · Copa de Italia</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250404171500 +0200" stop="20250404174600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Cesc Fábregas, el último sueño</title>
+    <desc lang="es">Documentales/Deportes | 2022 | TP
+· Cesc Fábregas vive su última etapa de futbolista disfrutando en el Como 1907 italiano. Allí ha repasado su carrera deportiva con DAZN.
+</desc>
+  </programme>
+  <programme start="20250404174600 +0200" stop="20250404194900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 30: Chelsea - Tottenham T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250404194900 +0200" stop="20250404201100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Decoded T2023 · Erling Haaland</title>
+    <desc lang="es">Deportes/Programa deportes | 2022 | TP
+· Llega 'Decoded', y la primera entrega está protagonizada por un delantero llamado a ser la próxima superestrella mundial: Erling Haaland.
+</desc>
+  </programme>
+  <programme start="20250404201100 +0200" stop="20250404221300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 30: Manchester City - Leicester T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250404221300 +0200" stop="20250405001500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Erasmus FC T24/25 E22</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
+· País: España</desc>
+  </programme>
+  <programme start="20250405001500 +0200" stop="20250405003600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
+· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel.
+· País: España</desc>
+  </programme>
+  <programme start="20250405003600 +0200" stop="20250405013900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Zepeda vs Farmer 2 T2025 · Boxeo: velada</title>
+    <desc lang="es">Deportes/Boxeo | 2025 | +18
+· William Zepeda y Tevin Farmer se vuelven a ver las caras por el título de peso ligero interino CMB.
+· País: México</desc>
   </programme>
 </tv>
