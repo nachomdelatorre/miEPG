@@ -1,133 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 02/04/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 03/04/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250402130000 +0200" stop="20250402134700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E20</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
-· País: España
-· Presenta: Andrea Segura, Sandra Riquelme.</desc>
-  </programme>
-  <programme start="20250402134700 +0200" stop="20250402154000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Copa de Italia T24/25 · Semifinales: Empoli - Bolonia</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250402154000 +0200" stop="20250402160300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League Stories T23/24 · Casemiro, El futbolista tiene que evolucionar siempre</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Carlos Casemiro es uno de los grandes mediocentros de la última década y dejó el Real Madrid justo tras ganar una nueva Champions League para embarcarse en un nuevo proyecto en el Manchester United. Votos: 10.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250402160300 +0200" stop="20250402180500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 30: Nottingham Forest - Manchester United</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *2.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250402180500 +0200" stop="20250402184700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Luis García, el goleador del 'Spanish Liverpool'</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
-· Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League. Votos: 10.
-· País: España</desc>
-  </programme>
-  <programme start="20250402184700 +0200" stop="20250402205000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 30: Wolverhampton - West Ham</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250402205000 +0200" stop="20250402230500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 30: Liverpool - Everton T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250402230500 +0200" stop="20250403000800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 · Betis - Sevilla, ¿el derbi español por excelencia?</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
-· País: España</desc>
-  </programme>
-  <programme start="20250403000800 +0200" stop="20250403004400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cara B - Cañada Real Galiana</title>
-    <desc lang="es">Documentales/Deportes | 2024 | TP | *6.0/10
-· El periodista Javi Valle acompaña a Adil, Ibra e Isma, tres jóvenes criados en el sector 6 de la Cañada Real de Madrid, para mostrar cómo el deporte puede llenar de ilusiones y esperanzas a los más jóvenes. Votos: 11.
-· Título original: Cara B | Cañada Real Galiana
-· País: España</desc>
-  </programme>
-  <programme start="20250403004400 +0200" stop="20250403010200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 10.
-</desc>
-  </programme>
-  <programme start="20250403010200 +0200" stop="20250403060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250403060000 +0200" stop="20250403130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250403130000 +0200" stop="20250403150400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 30: Bournemouth - Ipswich Town</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250403150400 +0200" stop="20250403155100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250403150400 +0200" stop="20250403153700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E20</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20250403155100 +0200" stop="20250403175300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250403153700 +0200" stop="20250403173900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 30: Newcastle - Brentford</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250403175300 +0200" stop="20250403182100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250403173900 +0200" stop="20250403180600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League Stories T23/24 · Las calles no olvidarán a Michu</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Una descripción completa de la Premier League en todo el mundo. Las últimas noticias, entrevistas, curiosidades e historias sobre la pasión de los aficionados por el fútbol inglés. Votos: 21.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250403180600 +0200" stop="20250403183400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T24/25 · ¿Cuál es el mejor partido de la historia?</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
 · La Premier League ha sido el escenario de algunos de los partidos más emocionantes en la historia del fútbol, llenos de giros inesperados, goles memorables y emociones a flor de piel. Votos: 10.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250403182100 +0200" stop="20250403202400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250403183400 +0200" stop="20250403203600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 30: Southampton - Crystal Palace</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250403202400 +0200" stop="20250403205000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250403203600 +0200" stop="20250403205000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Vuelta al mundo con el trofeo T2025 · Nueva York</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
 · El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 8.
 </desc>
   </programme>
-  <programme start="20250403205000 +0200" stop="20250403230100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250403205000 +0200" stop="20250403230600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 30: Chelsea - Tottenham T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250403230100 +0200" stop="20250404005400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Semifinales: Milan - Inter T24/25 · Copa de Italia</title>
+  <programme start="20250403230600 +0200" stop="20250404005600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Copa de Italia T24/25 · Semifinales: Milan - Inter</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título.
 · País: Italia</desc>
   </programme>
-  <programme start="20250404005400 +0200" stop="20250404060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250404005600 +0200" stop="20250404060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -146,7 +78,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250404130200 +0200" stop="20250404145400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Semifinales: Milan - Inter T24/25 · Copa de Italia</title>
+    <title lang="es">Copa de Italia T24/25 · Semifinales: Milan - Inter</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título.
 · País: Italia</desc>
@@ -182,9 +114,9 @@
 </desc>
   </programme>
   <programme start="20250404201100 +0200" stop="20250404221300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 30: Manchester City - Leicester T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <title lang="es">Premier League T24/25 · Jornada 30: Manchester City - Leicester</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
 · País: R.U.</desc>
   </programme>
   <programme start="20250404221300 +0200" stop="20250405001500 +0200" channel="DAZN 1 HD 1080P">
@@ -545,5 +477,47 @@
     <desc lang="es">Deportes/Pádel | 2025 | TP
 · La temporada del A1 Padel sigue su periplo argentino. Del 10 al 16 de marzo, la ciudad de Córdoba alberga el Villa María Open. Sobre la emblemática moqueta roja del circuito, un espectáculo de alto nivel.
 · País: Argentina</desc>
+  </programme>
+  <programme start="20250409010400 +0200" stop="20250409060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250409060000 +0200" stop="20250409130000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250409130000 +0200" stop="20250409185900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Hexagon Cup T2025 · Semifinal y final</title>
+    <desc lang="es">Deportes/Otros deportes | 2025 | TP | *6.0/10
+· El Madrid Arena acoge la segunda edición de la Hexagon Cup. Del 29 de enero al 2 de febrero, los mejores jugadores de pádel del mundo juegan en un nuevo e innovador formato por equipos. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250409185900 +0200" stop="20250409213600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam T2024 · Alcaraz - Sinner</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 11.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20250409213600 +0200" stop="20250409215600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 10.
+</desc>
+  </programme>
+  <programme start="20250409215600 +0200" stop="20250409234900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga de Campeones (F) T24/25 · Cuartos de final: Barcelona - Wolfsburgo</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 13.
+· País: España</desc>
+  </programme>
+  <programme start="20250409234900 +0200" stop="20250410015200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 31: Everton - Arsenal T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
   </programme>
 </tv>
