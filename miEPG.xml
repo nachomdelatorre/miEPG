@@ -1,69 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 05/04/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 06/04/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250405125600 +0200" stop="20250405132000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
-· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel.
-· País: España</desc>
-  </programme>
-  <programme start="20250405132000 +0200" stop="20250405155000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 31: Everton - Arsenal T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250405155000 +0200" stop="20250405182000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 31: West Ham - Bournemouth T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250405182000 +0200" stop="20250405203500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 31: Aston Villa - Nottingham Forest T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250405203500 +0200" stop="20250405210600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
-· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel.
-· País: España</desc>
-  </programme>
-  <programme start="20250405210600 +0200" stop="20250405220800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 E22</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
-· País: España</desc>
-  </programme>
-  <programme start="20250405220800 +0200" stop="20250406001900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 31: Crystal Palace - Brighton &amp; Hove Albion T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250406001900 +0200" stop="20250406010700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Fever Pitch T23/24 · Iraola se reúne con viejos amigos</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· David Fer y Nacho González entrevistan al rookie de la Premier League Andoni Iraola. Votos: 10.
-</desc>
-  </programme>
-  <programme start="20250406010700 +0200" stop="20250406060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250406060000 +0200" stop="20250406130100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250406130100 +0200" stop="20250406133500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Estados Unidos</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
@@ -91,8 +31,8 @@
   </programme>
   <programme start="20250406172000 +0200" stop="20250406193500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 31: Manchester Utd. - Manchester City T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La opción de ganar la UEL para llegar a la UCL debe ser el gran objetivo del M.United ahora en mitad de la tabla de la Premier lejos de Europa y del descenso. El M.City sigue adelante en FA Cup y lucha por recuperar la cuarta plaza en Premier. Votos: 3.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La opción de ganar la UEL para llegar a la UCL debe ser el gran objetivo del M.United ahora en mitad de la tabla de la Premier lejos de Europa y del descenso. El M.City sigue adelante en FA Cup y lucha por recuperar la cuarta plaza en Premier. Votos: 4.
 · País: R.U.</desc>
   </programme>
   <programme start="20250406193500 +0200" stop="20250406194900 +0200" channel="DAZN 1 HD 1080P">
@@ -236,8 +176,8 @@
   </programme>
   <programme start="20250407231900 +0200" stop="20250408011900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 31: Manchester Utd. - Manchester City T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La opción de ganar la UEL para llegar a la UCL debe ser el gran objetivo del M.United ahora en mitad de la tabla de la Premier lejos de Europa y del descenso. El M.City sigue adelante en FA Cup y lucha por recuperar la cuarta plaza en Premier. Votos: 3.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La opción de ganar la UEL para llegar a la UCL debe ser el gran objetivo del M.United ahora en mitad de la tabla de la Premier lejos de Europa y del descenso. El M.City sigue adelante en FA Cup y lucha por recuperar la cuarta plaza en Premier. Votos: 4.
 · País: R.U.</desc>
   </programme>
   <programme start="20250408011900 +0200" stop="20250408060000 +0200" channel="DAZN 1 HD 1080P">
@@ -376,9 +316,9 @@
 · País: España</desc>
   </programme>
   <programme start="20250409234900 +0200" stop="20250410015200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 31: Everton - Arsenal T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <title lang="es">Premier League T24/25 · Jornada 31: Everton - Arsenal</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
 · País: R.U.</desc>
   </programme>
   <programme start="20250410015200 +0200" stop="20250410060000 +0200" channel="DAZN 1 HD 1080P">
@@ -563,8 +503,68 @@
   </programme>
   <programme start="20250411233000 +0200" stop="20250412013000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 31: Manchester Utd. - Manchester City T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La opción de ganar la UEL para llegar a la UCL debe ser el gran objetivo del M.United ahora en mitad de la tabla de la Premier lejos de Europa y del descenso. El M.City sigue adelante en FA Cup y lucha por recuperar la cuarta plaza en Premier. Votos: 3.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La opción de ganar la UEL para llegar a la UCL debe ser el gran objetivo del M.United ahora en mitad de la tabla de la Premier lejos de Europa y del descenso. El M.City sigue adelante en FA Cup y lucha por recuperar la cuarta plaza en Premier. Votos: 4.
 · País: R.U.</desc>
+  </programme>
+  <programme start="20250412013000 +0200" stop="20250412060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250412060000 +0200" stop="20250412113000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250412113000 +0200" stop="20250412145000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Catar</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+</desc>
+  </programme>
+  <programme start="20250412145000 +0200" stop="20250412155000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Maverick Viñales: dos vidas</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 11.
+· País: España</desc>
+  </programme>
+  <programme start="20250412155000 +0200" stop="20250412202500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Catar</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+</desc>
+  </programme>
+  <programme start="20250412202500 +0200" stop="20250412212000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Espargabros</title>
+    <desc lang="es">Documentales/Deportes | 2025 | TP | *6.0/10
+· Dos carreras paralelas pero muy diferentes. Aleix y Pol Espargaró se enfrentan a los momentos más importantes de sus carreras deportivas tras la retirada de ambos de la competición. Votos: 12.
+· País: España</desc>
+  </programme>
+  <programme start="20250412212000 +0200" stop="20250412213500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Kepa Arrizabalaga</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
+· El futbolista del AFC Bournemouth repasa su trayectoria como el portero más caro de la historia tras fichar por el Chelsea y su actual andadura en el conjunto de las 'Cherries'.
+· País: España</desc>
+  </programme>
+  <programme start="20250412213500 +0200" stop="20250412234000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 32: Nottingham Forest - Everton</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250412234000 +0200" stop="20250413001000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Reyes, una vida dedicada al fútbol</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Repaso por la vida profesional de Jose Antonio Reyes, desde sus humildes inicios, su debut con el Sevilla FC y su paso por el Arsenal cuando todavía era un chaval.
+</desc>
+  </programme>
+  <programme start="20250413001000 +0200" stop="20250413011000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Catar T2025 · Sprint MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+</desc>
   </programme>
 </tv>
