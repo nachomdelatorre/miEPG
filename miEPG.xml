@@ -1,178 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 10/04/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 11/04/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250410130100 +0200" stop="20250410141500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 15.
-</desc>
-  </programme>
-  <programme start="20250410141500 +0200" stop="20250410160100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Rueda de prensa motos T2025 · Catar - Paddock Abierto</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
-</desc>
-  </programme>
-  <programme start="20250410160100 +0200" stop="20250410162700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pecco Bagnaia - Marc Márquez, cara a cara</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
-· Marc Márquez y Pecco Bagnaia se lo pasaron en grande en el evento de Ducati 'Campioni in Pista'. Después de 'picarse' esquiando dejaron una maravillosa charla en la que hablaron de su nueva relación, rencillas del pasado y el objetivo común. Votos: 10.
-</desc>
-  </programme>
-  <programme start="20250410162700 +0200" stop="20250410164400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250410164400 +0200" stop="20250410170100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Argentina</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250410170100 +0200" stop="20250410172600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Estados Unidos</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250410172600 +0200" stop="20250410181800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Las Américas T2025 · Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas. Votos: 1.
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250410181800 +0200" stop="20250410191800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Las Américas T2025 · Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
-· El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas. Votos: 1.
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250410191800 +0200" stop="20250410203000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Las Américas T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas. Votos: 9.
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250410203000 +0200" stop="20250410222000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 31: Everton - Arsenal</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 3.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250410222000 +0200" stop="20250410232100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Rueda de prensa motos T2025 · Catar - Paddock Abierto</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
-</desc>
-  </programme>
-  <programme start="20250410232100 +0200" stop="20250411014400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Iberian Supercars Endurance T2025 · Algarve Iberian Festival - Carrera 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP | *4.0/10
-· La Supercars Endurance, también conocida como Iberian Supercar Endurance, es una competición de automovilismo de resistencia que se celebra principalmente en circuitos de España y Portugal. La nueva temporada cuenta con seis pruebas puntuables. Votos: 1.
-· País: España y Portugal</desc>
-  </programme>
-  <programme start="20250411014400 +0200" stop="20250411020200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: Usyk vs. Fury 2 T2024 · Usyk vs Fury 2</title>
-    <desc lang="es">Deportes/Boxeo | 2024 | +18 | *6.0/10
-· Oleksandr Usyk y Tyson Fury se enfrentan 21 de diciembre de 2024 en el Kingdom Arena de Riad, Arabia Saudita. Votos: 10.
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20250411020200 +0200" stop="20250411060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250411060000 +0200" stop="20250411120000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250411120000 +0200" stop="20250411130000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250411120000 +0200" stop="20250411125500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Erasmus FC T24/25 E23</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González. Votos: 9.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González. Votos: 13.
 · País: España</desc>
   </programme>
-  <programme start="20250411130000 +0200" stop="20250411162500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250411125500 +0200" stop="20250411154700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Entrenamientos libres 1 T2025 · MotoGP - GP de Catar</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
 </desc>
   </programme>
-  <programme start="20250411162500 +0200" stop="20250411164000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250411154700 +0200" stop="20250411160400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo.
 · País: España</desc>
   </programme>
-  <programme start="20250411164000 +0200" stop="20250411165500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250411160400 +0200" stop="20250411162100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada.
 · País: España</desc>
   </programme>
-  <programme start="20250411165500 +0200" stop="20250411171500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250411162100 +0200" stop="20250411164500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Barcelona</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
+· El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada. Votos: 1.
 · País: España</desc>
   </programme>
-  <programme start="20250411171500 +0200" stop="20250411202000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250411164500 +0200" stop="20250411171000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Dream Team - Ducati</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250411171000 +0200" stop="20250411202700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Práctica T2025 · MotoGP - GP de Catar</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
 </desc>
   </programme>
-  <programme start="20250411202000 +0200" stop="20250411203500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250411202700 +0200" stop="20250411204400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 2.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250411203500 +0200" stop="20250411210000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250411204400 +0200" stop="20250411210200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Argentina</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250411210000 +0200" stop="20250411213000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250411210200 +0200" stop="20250411212600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Estados Unidos</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250411213000 +0200" stop="20250411222500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250411212600 +0200" stop="20250411223800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Las Américas T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
 · El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas. Votos: 9.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20250411222500 +0200" stop="20250411233000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250411223800 +0200" stop="20250411234000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Erasmus FC T24/25 E23</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González. Votos: 9.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González. Votos: 13.
 · País: España</desc>
   </programme>
-  <programme start="20250411233000 +0200" stop="20250412013000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250411234000 +0200" stop="20250412013100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 31: Manchester Utd. - Manchester City</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · La opción de ganar la UEL para llegar a la UCL debe ser el gran objetivo del M.United ahora en mitad de la tabla de la Premier lejos de Europa y del descenso. El M.City sigue adelante en FA Cup y lucha por recuperar la cuarta plaza en Premier. Votos: 17.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250412013000 +0200" stop="20250412060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250412013100 +0200" stop="20250412060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -186,8 +99,8 @@
   </programme>
   <programme start="20250412113000 +0200" stop="20250412145000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 5.
 </desc>
   </programme>
   <programme start="20250412145000 +0200" stop="20250412155000 +0200" channel="DAZN 1 HD 1080P">
@@ -198,8 +111,8 @@
   </programme>
   <programme start="20250412155000 +0200" stop="20250412202500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 3.
 </desc>
   </programme>
   <programme start="20250412202500 +0200" stop="20250412212000 +0200" channel="DAZN 1 HD 1080P">
@@ -228,8 +141,8 @@
   </programme>
   <programme start="20250413001000 +0200" stop="20250413011000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Catar T2025 · Sprint MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 2.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 7.
 </desc>
   </programme>
   <programme start="20250413011000 +0200" stop="20250413060000 +0200" channel="DAZN 1 HD 1080P">
@@ -246,8 +159,8 @@
   </programme>
   <programme start="20250413115000 +0200" stop="20250413140500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 25: FC Barcelona - Atlético de Madrid T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *2.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 3.
 · País: España</desc>
   </programme>
   <programme start="20250413140500 +0200" stop="20250413141800 +0200" channel="DAZN 1 HD 1080P">
@@ -265,38 +178,38 @@
   </programme>
   <programme start="20250413143000 +0200" stop="20250413154500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 3.
 </desc>
   </programme>
   <programme start="20250413154500 +0200" stop="20250413164000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *4.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 4.
 </desc>
   </programme>
   <programme start="20250413164000 +0200" stop="20250413175500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 5.
 </desc>
   </programme>
   <programme start="20250413175500 +0200" stop="20250413190000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Previo MotoGP T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 4.
 </desc>
   </programme>
   <programme start="20250413190000 +0200" stop="20250413195500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 5.
 </desc>
   </programme>
   <programme start="20250413195500 +0200" stop="20250413214500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Post Carreras T2025 · MotoGP - GP de Catar</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 5.
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 6.
 </desc>
   </programme>
   <programme start="20250413214500 +0200" stop="20250413220000 +0200" channel="DAZN 1 HD 1080P">
@@ -313,14 +226,14 @@
   </programme>
   <programme start="20250413230500 +0200" stop="20250414010500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 32: Wolverhampton - Tottenham</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 5.
 · País: R.U.</desc>
   </programme>
   <programme start="20250414010500 +0200" stop="20250414020500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 5.
 </desc>
   </programme>
   <programme start="20250414020500 +0200" stop="20250414023500 +0200" channel="DAZN 1 HD 1080P">
@@ -356,25 +269,25 @@
   <programme start="20250414153000 +0200" stop="20250414173500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 25: Athletic Club - Levante UD T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 5.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 11.
 · País: España</desc>
   </programme>
   <programme start="20250414173500 +0200" stop="20250414184000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *4.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 4.
 </desc>
   </programme>
   <programme start="20250414184000 +0200" stop="20250414194500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 5.
 </desc>
   </programme>
   <programme start="20250414194500 +0200" stop="20250414205000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 5.
 </desc>
   </programme>
   <programme start="20250414205000 +0200" stop="20250414230000 +0200" channel="DAZN 1 HD 1080P">
@@ -391,8 +304,8 @@
   </programme>
   <programme start="20250414231500 +0200" stop="20250415012500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 32: Brighton - Leicester</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 5.
 · País: R.U.</desc>
   </programme>
   <programme start="20250415012500 +0200" stop="20250415060000 +0200" channel="DAZN 1 HD 1080P">
@@ -409,26 +322,26 @@
   </programme>
   <programme start="20250415130000 +0200" stop="20250415140500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *4.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 4.
 </desc>
   </programme>
   <programme start="20250415140500 +0200" stop="20250415151000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 5.
 </desc>
   </programme>
   <programme start="20250415151000 +0200" stop="20250415161500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Catar</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 5.
 </desc>
   </programme>
   <programme start="20250415161500 +0200" stop="20250415180000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 25: FC Barcelona - Atlético de Madrid T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *2.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 3.
 · País: España</desc>
   </programme>
   <programme start="20250415180000 +0200" stop="20250415190500 +0200" channel="DAZN 1 HD 1080P">
@@ -440,8 +353,8 @@
   </programme>
   <programme start="20250415190500 +0200" stop="20250415192500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 2.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
@@ -505,8 +418,8 @@
   </programme>
   <programme start="20250416130000 +0200" stop="20250416150400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 32: Newcastle - Manchester United T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *2.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
   <programme start="20250416150400 +0200" stop="20250416151900 +0200" channel="DAZN 1 HD 1080P">
@@ -517,14 +430,14 @@
   </programme>
   <programme start="20250416151900 +0200" stop="20250416172100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 32: Manchester City - Crystal Palace T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
   <programme start="20250416172100 +0200" stop="20250416182300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Erasmus FC T24/25 E23</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González. Votos: 9.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González. Votos: 13.
 · País: España</desc>
   </programme>
   <programme start="20250416182300 +0200" stop="20250416185000 +0200" channel="DAZN 1 HD 1080P">
@@ -563,5 +476,72 @@
     <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
 · El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel.
 · País: España</desc>
+  </programme>
+  <programme start="20250417004500 +0200" stop="20250417060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250417060000 +0200" stop="20250417130000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250417130000 +0200" stop="20250417145400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 26: FC Barcelona - Sevilla FC T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20250417145400 +0200" stop="20250417154200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">La Central T24/25 E21</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 1.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20250417154200 +0200" stop="20250417174400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 29: Newcastle - Crystal Palace T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250417174400 +0200" stop="20250417181200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Reyes, una vida dedicada al fútbol</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Repaso por la vida profesional de Jose Antonio Reyes, desde sus humildes inicios, su debut con el Sevilla FC y su paso por el Arsenal cuando todavía era un chaval. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250417181200 +0200" stop="20250417201400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 32: Arsenal - Brentford T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *4.0/10
+· El Arsenal. que llega a casa tras su gran victoria frente al Real Madrid en Champions, se enfrenta en este partido al Brentford. Votos: 1.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250417201400 +0200" stop="20250417213400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">A1 Padel: Grand Master de Francia T2025 · Final: Sánchez - Florensa vs Pereyra - De Pascual</title>
+    <desc lang="es">Deportes/Pádel | 2025 | TP | *6.0/10
+· Una de las citas más importantes del calendario A1 Padel. Del 21 al 30 de marzo, la ciudad de Beausoleil alberga el Grand Master de Francia. Sobre la emblemática moqueta roja del circuito, un espectáculo de alto nivel con alguno de los mejores jugadores Votos: 6.
+· País: Francia</desc>
+  </programme>
+  <programme start="20250417213400 +0200" stop="20250417223600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Catar</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *4.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250417223600 +0200" stop="20250417233900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Catar</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 5.
+</desc>
+  </programme>
+  <programme start="20250417233900 +0200" stop="20250418004200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Catar</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 5.
+</desc>
   </programme>
 </tv>
