@@ -1,173 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 15/04/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 16/04/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250415130000 +0200" stop="20250415135800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Catar T2025 · Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 21.
-</desc>
-  </programme>
-  <programme start="20250415135800 +0200" stop="20250415145400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Catar T2025 · Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 24.
-</desc>
-  </programme>
-  <programme start="20250415145400 +0200" stop="20250415160600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Catar T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 23.
-</desc>
-  </programme>
-  <programme start="20250415160600 +0200" stop="20250415180000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F T24/25 · Jornada 25: FC Barcelona - Atlético de Madrid</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250415180000 +0200" stop="20250415184600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E21</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 1.
-· País: España
-· Presenta: Andrea Segura, Sandra Riquelme.</desc>
-  </programme>
-  <programme start="20250415184600 +0200" stop="20250415191100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 2.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250415191100 +0200" stop="20250415192900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Argentina</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250415192900 +0200" stop="20250415200000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Estados Unidos</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250415200000 +0200" stop="20250415202100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250415202100 +0200" stop="20250415204500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Dream Team - Ducati</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025. Votos: 1.
-· País: España</desc>
-  </programme>
-  <programme start="20250415204500 +0200" stop="20250416000100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Influencer Wars T1 · Borussia Dortmund - Barcelona</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
-· Personalidades de Internet analizan los partidos de fútbol más importantes. Votos: 1.
-</desc>
-  </programme>
-  <programme start="20250416000100 +0200" stop="20250416004700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E21</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 1.
-· País: España
-· Presenta: Andrea Segura, Sandra Riquelme.</desc>
-  </programme>
-  <programme start="20250416004700 +0200" stop="20250416021600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Doha - Carrera final</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *6.0/10
-· El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad. Votos: 8.
-</desc>
-  </programme>
-  <programme start="20250416021600 +0200" stop="20250416023400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 16.
-</desc>
-  </programme>
-  <programme start="20250416023400 +0200" stop="20250416060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250416060000 +0200" stop="20250416130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250416130000 +0200" stop="20250416150400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 32: Newcastle - Manchester United</title>
+  <programme start="20250416130000 +0200" stop="20250416150000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 32: Newcastle - Manchester Utd</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 4.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250416150400 +0200" stop="20250416151900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250416150000 +0200" stop="20250416152000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Kepa Arrizabalaga</title>
     <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
 · El futbolista del AFC Bournemouth repasa su trayectoria como el portero más caro de la historia tras fichar por el Chelsea y su actual andadura en el conjunto de las 'Cherries'.
 · País: España</desc>
   </programme>
-  <programme start="20250416151900 +0200" stop="20250416172100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 32: Manchester City - Crystal Palace</title>
+  <programme start="20250416152000 +0200" stop="20250416172000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 32: Arsenal - Brentford</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 3.
+· El Arsenal. que llega a casa tras su gran victoria frente al Real Madrid en Champions, se enfrenta en este partido al Brentford. Votos: 7.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250416172100 +0200" stop="20250416182300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250416172000 +0200" stop="20250416182500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Erasmus FC T24/25 · Bayern - Borussia Dortmund, la gran rivalidad de la Bundesliga</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González. Votos: 18.
 · País: España</desc>
   </programme>
-  <programme start="20250416182300 +0200" stop="20250416185000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250416182500 +0200" stop="20250416185000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Aitana Bonmati: ''Sigo siendo la misma''</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Aitana Bonmatí, doble ganadora del Balón de Oro y galardonada con el premio The Best. Votos: 12.
+· Aitana Bonmatí, doble ganadora del Balón de Oro y galardonada con el premio The Best. Votos: 13.
 · País: España</desc>
   </programme>
-  <programme start="20250416185000 +0200" stop="20250416210400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250416185000 +0200" stop="20250416210000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 26: FC Barcelona - Sevilla FC T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
 · País: España</desc>
   </programme>
-  <programme start="20250416210400 +0200" stop="20250416215100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250416210000 +0200" stop="20250416215000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E21</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
 · El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 1.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20250416215100 +0200" stop="20250416221900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250416215000 +0200" stop="20250416221500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T23/24 · Alexis McAllister, sueños de campeón</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
 · El jugador del Liverpool campeón del mundo con Argentina repasa los momentos de una vida marcada por y para el fútbol. Votos: 1.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250416221900 +0200" stop="20250417002100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250416221500 +0200" stop="20250417002000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 32: Liverpool - West Ham</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 3.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250417002100 +0200" stop="20250417004500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250417002000 +0200" stop="20250417004500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
-· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel.
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *8.0/10
+· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel. Votos: 2.
 · País: España</desc>
   </programme>
-  <programme start="20250417004500 +0200" stop="20250417060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250417004500 +0200" stop="20250417010700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Andbank GSeries T2025 · G2</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
+· Las GSeries son el campeonato de velocidad sobre hielo de referencia del sur de Europa. Votos: 11.
+</desc>
+  </programme>
+  <programme start="20250417010700 +0200" stop="20250417060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -181,8 +85,8 @@
   </programme>
   <programme start="20250417130000 +0200" stop="20250417145400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 26: FC Barcelona - Sevilla FC T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
 · País: España</desc>
   </programme>
   <programme start="20250417145400 +0200" stop="20250417154200 +0200" channel="DAZN 1 HD 1080P">
@@ -194,8 +98,8 @@
   </programme>
   <programme start="20250417154200 +0200" stop="20250417174400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 29: Newcastle - Crystal Palace T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 3.
 · País: R.U.</desc>
   </programme>
   <programme start="20250417174400 +0200" stop="20250417181200 +0200" channel="DAZN 1 HD 1080P">
@@ -328,7 +232,7 @@
   <programme start="20250419130000 +0200" stop="20250419132400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 16.
+· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 17.
 </desc>
   </programme>
   <programme start="20250419132400 +0200" stop="20250419153500 +0200" channel="DAZN 1 HD 1080P">
@@ -448,7 +352,7 @@
   <programme start="20250420175400 +0200" stop="20250420200500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinales: Barcelona - Chelsea T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 23.
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 24.
 · País: España</desc>
   </programme>
   <programme start="20250420200500 +0200" stop="20250420201500 +0200" channel="DAZN 1 HD 1080P">
@@ -589,7 +493,81 @@
   <programme start="20250421230500 +0200" stop="20250422010500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinales: Barcelona - Chelsea T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 23.
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 24.
 · País: España</desc>
+  </programme>
+  <programme start="20250422010500 +0200" stop="20250422060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250422060000 +0200" stop="20250422130000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250422130000 +0200" stop="20250422151000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 33: Leicester - Liverpool T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 6.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250422151000 +0200" stop="20250422154000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Luis García, el goleador del 'Spanish Liverpool'</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
+· Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League. Votos: 10.
+· País: España</desc>
+  </programme>
+  <programme start="20250422154000 +0200" stop="20250422155500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Desde el corazón de una final</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP
+· Detrás de un gran evento como la final de la UEFA Women Champions League, hay un gran equipo volcado para que no os perdáis ningún detalle de lo que ocurre dentro, y fuera del césped. El FC consigue su tercer título europeo.
+</desc>
+  </programme>
+  <programme start="20250422155500 +0200" stop="20250422180000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Semifinales: Barcelona - Chelsea T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 24.
+· País: España</desc>
+  </programme>
+  <programme start="20250422180000 +0200" stop="20250422190000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">La Central T24/25 E22</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 1.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20250422190000 +0200" stop="20250422205000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Semifinales: Arsenal - Olympique Lyon T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 3.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250422205000 +0200" stop="20250422230500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 34: Manchester City - Aston Villa T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 6.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250422230500 +0200" stop="20250422233000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Mikel Merino</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *10.0/10
+· El futbolista del Arsenal repasa su trayectoria, desde sus inicios en el Newcastle, su carrera en la Real Sociedad y su regreso a la Premier, ahora bajo los mandos de Mikel Arteta. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250422233000 +0200" stop="20250423003500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">La Central T24/25 E22</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 1.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20250423003500 +0200" stop="20250423012400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Espinosa vs Jiménez T2024 · Jimerr Espinosa vs Rogelio Jiménez</title>
+    <desc lang="es">Deportes/Boxeo | 2024 | +18 | *6.0/10
+· La Sala Urbana Venue de Ciudad de México acoge esta interesante velada que tiene el combate entre Jimerr Espinosa y Rogelio Jiménez como plato principal. Votos: 10.
+· País: México</desc>
   </programme>
 </tv>
