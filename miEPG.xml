@@ -1,87 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 19/04/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 20/04/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250419130100 +0200" stop="20250419132400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 17.
-</desc>
-  </programme>
-  <programme start="20250419132400 +0200" stop="20250419155000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Semifinales: Arsenal - Olympique Lyon T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 158.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250419155000 +0200" stop="20250419182000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 33: Everton - Manchester City T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 16.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250419182000 +0200" stop="20250419203500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 33: Aston Villa - Newcastle T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 13.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250419203500 +0200" stop="20250419205800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
-· El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019. Votos: 8.
-· País: España</desc>
-  </programme>
-  <programme start="20250419205800 +0200" stop="20250419224400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga de Campeones (F) T24/25 · Cuartos de final: Barcelona - Wolfsburgo</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 18.
-· País: España</desc>
-  </programme>
-  <programme start="20250419224400 +0200" stop="20250419235200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Catar T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 24.
-</desc>
-  </programme>
-  <programme start="20250419235200 +0200" stop="20250420002300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">More Than Machine T2025 · David vs. Goliath</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· Desde superar la pérdida de ex campeones del mundo hasta tutelar a la próxima generación de finalistas del podio, superar retos insuperables es todo en un día de trabajo para el M-Sport Ford World Rally. Votos: 6.
-· País: España</desc>
-  </programme>
-  <programme start="20250420002300 +0200" stop="20250420005200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">More Than Machine T2025 · Redención</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
-· Conocido por su clima impredecible, el rally de asfalto altamente técnico de Croacia es uno de los más destacados de la temporada del WRC. Votos: 9.
-· País: España</desc>
-  </programme>
-  <programme start="20250420005200 +0200" stop="20250420013000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">More Than Machine T2025 · Legado</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· Con el peso de las expectativas de uno de los equipos de rally con más historia, Malcolm y la tripulación de M-Sport están decididos a dar la campanada a mediados de año en Portugal y Cerdeña. Votos: 6.
-· País: España</desc>
-  </programme>
-  <programme start="20250420013000 +0200" stop="20250420033000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 33: West Ham - Southampton</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 8.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250420033000 +0200" stop="20250420060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250420060000 +0200" stop="20250420115000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250420115000 +0200" stop="20250420140400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 26: Levante - Deportivo T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
@@ -91,7 +13,7 @@
   <programme start="20250420140400 +0200" stop="20250420143500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Come On Fútbol! T2023 · Dani Olmo, el fútbol como arma de paz</title>
     <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
-· Nos adentramos de lleno en la vida de Dani Olmo, un futbolista comprometido con las causas sociales. Votos: 27.
+· Nos adentramos de lleno en la vida de Dani Olmo, un futbolista comprometido con las causas sociales. Votos: 31.
 · País: España</desc>
   </programme>
   <programme start="20250420143500 +0200" stop="20250420145000 +0200" channel="DAZN 1 HD 1080P">
@@ -103,7 +25,7 @@
   <programme start="20250420145000 +0200" stop="20250420170500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 33: Ipswich Town - Arsenal T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 10.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 11.
 · País: R.U.</desc>
   </programme>
   <programme start="20250420170500 +0200" stop="20250420172700 +0200" channel="DAZN 1 HD 1080P">
@@ -115,13 +37,13 @@
   <programme start="20250420172700 +0200" stop="20250420175400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position - Carlos Ezpeleta</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
-· Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 6.
+· Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 9.
 </desc>
   </programme>
   <programme start="20250420175400 +0200" stop="20250420203000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinales: Barcelona - Chelsea T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· El Barcelona quiere volver a la final de la Liga de Campeones, pero antes debe superar al Chelsea en semis. El encuentro de ida se disputa en el Johan Cruyff, donde las azulgranas pretenden imponer su oficio en esta competición. Votos: 148.
+· El Barcelona quiere volver a la final de la Liga de Campeones, pero antes debe superar al Chelsea en semis. El encuentro de ida se disputa en el Johan Cruyff, donde las azulgranas pretenden imponer su oficio en esta competición. Votos: 153.
 · País: España</desc>
   </programme>
   <programme start="20250420203000 +0200" stop="20250420204300 +0200" channel="DAZN 1 HD 1080P">
@@ -146,7 +68,7 @@
   <programme start="20250420220200 +0200" stop="20250420223800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">More Than Machine T2025 · Unidad</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· A medida que M-Sport se acerca al final de la temporada en Finlandia y Grecia, las tensiones comienzan a centrarse en asegurar pilotos para el próximo año. Votos: 7.
+· A medida que M-Sport se acerca al final de la temporada en Finlandia y Grecia, las tensiones comienzan a centrarse en asegurar pilotos para el próximo año. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20250420223800 +0200" stop="20250420230900 +0200" channel="DAZN 1 HD 1080P">
@@ -162,9 +84,9 @@
 · País: España</desc>
   </programme>
   <programme start="20250420235300 +0200" stop="20250421015300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 33: Everton - Manchester City T24/25 · Premier League</title>
+    <title lang="es">Premier League T24/25 · Jornada 33: Everton - Manchester City</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 16.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 17.
 · País: R.U.</desc>
   </programme>
   <programme start="20250421015300 +0200" stop="20250421060000 +0200" channel="DAZN 1 HD 1080P">
@@ -182,19 +104,19 @@
   <programme start="20250421130100 +0200" stop="20250421150200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 33: Ipswich Town - Arsenal T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 10.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 11.
 · País: R.U.</desc>
   </programme>
   <programme start="20250421150200 +0200" stop="20250421152900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Reyes, una vida dedicada al fútbol</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· Repaso por la vida profesional de Jose Antonio Reyes, desde sus humildes inicios, su debut con el Sevilla FC y su paso por el Arsenal cuando todavía era un chaval. Votos: 24.
+· Repaso por la vida profesional de Jose Antonio Reyes, desde sus humildes inicios, su debut con el Sevilla FC y su paso por el Arsenal cuando todavía era un chaval. Votos: 27.
 </desc>
   </programme>
   <programme start="20250421152900 +0200" stop="20250421164100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Las Américas T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas. Votos: 9.
+· El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas. Votos: 10.
 · País: EE.UU.</desc>
   </programme>
   <programme start="20250421164100 +0200" stop="20250421170500 +0200" channel="DAZN 1 HD 1080P">
@@ -212,8 +134,8 @@
   </programme>
   <programme start="20250421181700 +0200" stop="20250421184100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 2.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
@@ -226,13 +148,13 @@
   <programme start="20250421190300 +0200" stop="20250421192000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo. Votos: 2.
+· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo. Votos: 3.
 · País: España</desc>
   </programme>
   <programme start="20250421192000 +0200" stop="20250421193800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *10.0/10
+· La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada. Votos: 1.
 · País: España</desc>
   </programme>
   <programme start="20250421193800 +0200" stop="20250421200000 +0200" channel="DAZN 1 HD 1080P">
@@ -244,7 +166,7 @@
   <programme start="20250421200000 +0200" stop="20250421202700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T23/24 · Luka Modric, el toque croata</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Croacia, que cuenta con una población de menos de cuatro millones de habitantes, ha logrado un crecimiento brutal en el mundo del fútbol. Luka Modric fue uno de los primeros jugadores croatas en destacar en la Premier League. Votos: 13.
+· Croacia, que cuenta con una población de menos de cuatro millones de habitantes, ha logrado un crecimiento brutal en el mundo del fútbol. Luka Modric fue uno de los primeros jugadores croatas en destacar en la Premier League. Votos: 14.
 · País: R.U.</desc>
   </programme>
   <programme start="20250421202700 +0200" stop="20250421205000 +0200" channel="DAZN 1 HD 1080P">
@@ -262,7 +184,7 @@
   <programme start="20250421230500 +0200" stop="20250422005700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinales: Barcelona - Chelsea T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· El Barcelona quiere volver a la final de la Liga de Campeones, pero antes debe superar al Chelsea en semis. El encuentro de ida se disputa en el Johan Cruyff, donde las azulgranas pretenden imponer su oficio en esta competición. Votos: 148.
+· El Barcelona quiere volver a la final de la Liga de Campeones, pero antes debe superar al Chelsea en semis. El encuentro de ida se disputa en el Johan Cruyff, donde las azulgranas pretenden imponer su oficio en esta competición. Votos: 153.
 · País: España</desc>
   </programme>
   <programme start="20250422005700 +0200" stop="20250422011400 +0200" channel="DAZN 1 HD 1080P">
@@ -286,7 +208,7 @@
   <programme start="20250422130000 +0200" stop="20250422151000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 33: Leicester - Liverpool T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· El Liverpool quiere acortar plazos y celebrar cuanto antes su título de Premier League. Con 13 puntos de ventaja sobre el Arsenal y seis jornadas por disputar los de Arne Slot necesitan dos victorias o ganar y que caigan los Gunners. Votos: 143.
+· El Liverpool quiere acortar plazos y celebrar cuanto antes su título de Premier League. Con 13 puntos de ventaja sobre el Arsenal y seis jornadas por disputar los de Arne Slot necesitan dos victorias o ganar y que caigan los Gunners. Votos: 146.
 · País: R.U.</desc>
   </programme>
   <programme start="20250422151000 +0200" stop="20250422154000 +0200" channel="DAZN 1 HD 1080P">
@@ -304,26 +226,26 @@
   <programme start="20250422155500 +0200" stop="20250422180000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinales: Barcelona - Chelsea T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· El Barcelona quiere volver a la final de la Liga de Campeones, pero antes debe superar al Chelsea en semis. El encuentro de ida se disputa en el Johan Cruyff, donde las azulgranas pretenden imponer su oficio en esta competición. Votos: 148.
+· El Barcelona quiere volver a la final de la Liga de Campeones, pero antes debe superar al Chelsea en semis. El encuentro de ida se disputa en el Johan Cruyff, donde las azulgranas pretenden imponer su oficio en esta competición. Votos: 153.
 · País: España</desc>
   </programme>
   <programme start="20250422180000 +0200" stop="20250422190000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E22</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 7.
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 11.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
   <programme start="20250422190000 +0200" stop="20250422205000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Semifinales: Arsenal - Olympique Lyon T24/25 · Liga de Campeones (F)</title>
+    <title lang="es">Liga de Campeones (F) T24/25 · Semifinales: Arsenal - Olympique Lyon</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 158.
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 159.
 · País: R.U.</desc>
   </programme>
   <programme start="20250422205000 +0200" stop="20250422230500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 34: Manchester City - Aston Villa T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 11.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 12.
 · País: R.U.</desc>
   </programme>
   <programme start="20250422230500 +0200" stop="20250422233000 +0200" channel="DAZN 1 HD 1080P">
@@ -335,7 +257,7 @@
   <programme start="20250422233000 +0200" stop="20250423003500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E22</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 7.
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 11.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
@@ -360,20 +282,20 @@
   <programme start="20250423130000 +0200" stop="20250423140500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E22</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 7.
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 11.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
   <programme start="20250423140500 +0200" stop="20250423161000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 34: Manchester City - Aston Villa T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 11.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 12.
 · País: R.U.</desc>
   </programme>
   <programme start="20250423161000 +0200" stop="20250423163500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Decoded T2023 · Erling Haaland</title>
-    <desc lang="es">Deportes/Programa deportes | 2022 | TP
-· Llega 'Decoded', y la primera entrega está protagonizada por un delantero llamado a ser la próxima superestrella mundial: Erling Haaland.
+    <desc lang="es">Deportes/Programa deportes | 2022 | TP | *6.0/10
+· Llega 'Decoded', y la primera entrega está protagonizada por un delantero llamado a ser la próxima superestrella mundial: Erling Haaland. Votos: 5.
 </desc>
   </programme>
   <programme start="20250423163500 +0200" stop="20250423165500 +0200" channel="DAZN 1 HD 1080P">
@@ -417,7 +339,7 @@
   <programme start="20250423205300 +0200" stop="20250423231000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinales: Inter - Milan T24/25 · Copa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *4.0/10
-· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título. Votos: 2.
+· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título. Votos: 4.
 · País: Italia</desc>
   </programme>
   <programme start="20250423231000 +0200" stop="20250424005000 +0200" channel="DAZN 1 HD 1080P">
@@ -447,13 +369,13 @@
   <programme start="20250424130000 +0200" stop="20250424151000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinales: Inter - Milan T24/25 · Copa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *4.0/10
-· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título. Votos: 2.
+· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título. Votos: 4.
 · País: Italia</desc>
   </programme>
   <programme start="20250424151000 +0200" stop="20250424155500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E22</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 7.
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 11.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
@@ -500,9 +422,9 @@
 · País: Italia</desc>
   </programme>
   <programme start="20250424230500 +0200" stop="20250425001500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Dalton Smith vs Mathieu Germain T2025 · Boxeo: velada Smith vs Germain</title>
-    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *8.0/10
-· Dalton Smith y Mathieu Germain se enfrentan en Sheffield. Votos: 1.
+    <title lang="es">Boxeo: velada Smith vs Germain T2025 · Dalton Smith vs Mathieu Germain</title>
+    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *6.0/10
+· Dalton Smith y Mathieu Germain se enfrentan en Sheffield. Votos: 2.
 · País: R.U.</desc>
   </programme>
   <programme start="20250425001500 +0200" stop="20250425012100 +0200" channel="DAZN 1 HD 1080P">
@@ -526,7 +448,7 @@
   <programme start="20250425090000 +0200" stop="20250425115600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Entrenamientos libres 1 T2025 · MotoGP - GP de España</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 4.
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 10.
 · País: España</desc>
   </programme>
   <programme start="20250425115600 +0200" stop="20250425130100 +0200" channel="DAZN 1 HD 1080P">
@@ -545,7 +467,7 @@
   <programme start="20250425131500 +0200" stop="20250425161100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Práctica T2025 · MotoGP - GP de España</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 133.
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 139.
 · País: España</desc>
   </programme>
   <programme start="20250425161100 +0200" stop="20250425165800 +0200" channel="DAZN 1 HD 1080P">
@@ -562,8 +484,8 @@
   </programme>
   <programme start="20250425192000 +0200" stop="20250425213300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 27: Real Madrid - Madrid CFF T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *4.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 3.
 · País: España</desc>
   </programme>
   <programme start="20250425213300 +0200" stop="20250425220000 +0200" channel="DAZN 1 HD 1080P">
@@ -583,5 +505,71 @@
     <desc lang="es">Deportes/Boxeo | 2025 | +18
 · Fundora y Badillo se enfrentan en el Frontwave Arena en Oceanside, California.
 · País: EE.UU.</desc>
+  </programme>
+  <programme start="20250426005400 +0200" stop="20250426060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250426060000 +0200" stop="20250426084000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250426084000 +0200" stop="20250426115600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de España</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250426115600 +0200" stop="20250426121900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Dream Team - Ducati</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250426121900 +0200" stop="20250426125000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pol Position - Carlos Ezpeleta</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
+· Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 6.
+</desc>
+  </programme>
+  <programme start="20250426125000 +0200" stop="20250426170100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de España</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *2.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250426170100 +0200" stop="20250426172700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pecco Bagnaia - Marc Márquez, cara a cara</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Marc Márquez y Pecco Bagnaia se lo pasaron en grande en el evento de Ducati 'Campioni in Pista'. Después de 'picarse' esquiando dejaron una maravillosa charla en la que hablaron de su nueva relación, rencillas del pasado y el objetivo común. Votos: 14.
+</desc>
+  </programme>
+  <programme start="20250426172700 +0200" stop="20250426191900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 27: Real Madrid - Madrid CFF T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *4.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 3.
+· País: España</desc>
+  </programme>
+  <programme start="20250426191900 +0200" stop="20250426194600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Reyes, una vida dedicada al fútbol</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· Repaso por la vida profesional de Jose Antonio Reyes, desde sus humildes inicios, su debut con el Sevilla FC y su paso por el Arsenal cuando todavía era un chaval. Votos: 26.
+</desc>
+  </programme>
+  <programme start="20250426194600 +0200" stop="20250426214700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 34: Wolverhampton - Leicester</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250426214700 +0200" stop="20250426225000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Sprint MotoGP T2025 · MotoGP - GP de España</title>
+    <desc lang="es">Deportes/Motociclismo | TP | *6.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 140.
+· País: España</desc>
   </programme>
 </tv>
