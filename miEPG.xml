@@ -1,112 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 23/04/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 24/04/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250423130000 +0200" stop="20250423135500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E22</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F. Votos: 51.
-· País: España
-· Presenta: Andrea Segura, Sandra Riquelme.</desc>
-  </programme>
-  <programme start="20250423135500 +0200" stop="20250423155200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 34: Manchester City - Aston Villa</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 250.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250423155200 +0200" stop="20250423161400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2023 · Erling Haaland</title>
-    <desc lang="es">Deportes/Programa deportes | 2022 | TP | *6.0/10
-· Llega 'Decoded', y la primera entrega está protagonizada por un delantero llamado a ser la próxima superestrella mundial: Erling Haaland. Votos: 5.
-</desc>
-  </programme>
-  <programme start="20250423161400 +0200" stop="20250423163800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Estados Unidos</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250423163800 +0200" stop="20250423170000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Catar</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 6.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250423170000 +0200" stop="20250423185000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Copa de Italia T24/25 · Semifinales: Milan - Inter</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título. Votos: 12.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250423185000 +0200" stop="20250423191500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Massimo Moratti: El Romántico T1 E1</title>
-    <desc lang="es">Deportes/Programa deportes | 2021 | TP | *6.0/10
-· El expresidente del Inter de Milán, Massimo Moratti muestra, a través de su mirada, las dos décadas más brillantes pero también convulsas del club. Votos: 21.
-</desc>
-  </programme>
-  <programme start="20250423191500 +0200" stop="20250423195000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Massimo Moratti: El Romántico T1 E2</title>
-    <desc lang="es">Deportes/Programa deportes | 2021 | TP | *6.0/10
-· Segundo capítulo de la serie sobre el Inter de Moratti y cómo fue la llegada de Roberto Mancini. Votos: 22.
-</desc>
-  </programme>
-  <programme start="20250423195000 +0200" stop="20250423202000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Massimo Moratti: El Romántico T1 E3</title>
-    <desc lang="es">Deportes/Programa deportes | 2021 | TP | *6.0/10
-· Tercer capítulo de la serie de Moratti, donde relata la Liga de Campeones conseguida en 2010 en el Santiago Bernabéu. Votos: 24.
-</desc>
-  </programme>
-  <programme start="20250423202000 +0200" stop="20250423205000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Michu, el ídolo de Haaland</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
-· Erling Haaland, uno de los mejores jugadores del mundo, reconoce que es uno de sus ídolos. Votos: 12.
-· País: España</desc>
-  </programme>
-  <programme start="20250423205000 +0200" stop="20250423230000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Semifinales: Inter - Milan T24/25 · Copa de Italia</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título. Votos: 278.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250423230000 +0200" stop="20250424004000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">La caída de Maradona</title>
-    <desc lang="es">Documentales/Deportes | 2023 | +7 | *4.0/10
-· El 30 de junio de 1994, Diego Maradona, la mayor estrella del fútbol mundial, fue expulsado de la Copa del Mundo de EE.UU. tras no superar un control antidopaje después de un partido. La expulsión del Diego sorprendió al mundo del deporte. Votos: 10.
-</desc>
-  </programme>
-  <programme start="20250424004000 +0200" stop="20250424010700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: Usyk vs. Fury 2 T2024 · Usyk vs Fury 2</title>
-    <desc lang="es">Deportes/Boxeo | 2024 | +18 | *6.0/10
-· Oleksandr Usyk y Tyson Fury se enfrentan 21 de diciembre de 2024 en el Kingdom Arena de Riad, Arabia Saudita. Votos: 14.
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20250424010700 +0200" stop="20250424060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250424060000 +0200" stop="20250424130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250424130000 +0200" stop="20250424145200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Semifinales: Inter - Milan T24/25 · Copa de Italia</title>
+    <title lang="es">Copa de Italia T24/25 · Semifinales: Inter - Milan</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título. Votos: 278.
+· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título. Votos: 283.
 · País: Italia</desc>
   </programme>
   <programme start="20250424145200 +0200" stop="20250424151500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Dream Team - Ducati</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025. Votos: 3.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025. Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20250424151500 +0200" stop="20250424170100 +0200" channel="DAZN 1 HD 1080P">
@@ -115,16 +22,16 @@
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
 </desc>
   </programme>
-  <programme start="20250424170100 +0200" stop="20250424172200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250424170100 +0200" stop="20250424172600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position - Carlos Ezpeleta</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
-· Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 9.
+· Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 14.
 </desc>
   </programme>
-  <programme start="20250424172200 +0200" stop="20250424183500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250424172600 +0200" stop="20250424183500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Catar T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 27.
+· El Internacional de Lusail es un trazado de 5,4km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año. Votos: 29.
 </desc>
   </programme>
   <programme start="20250424183500 +0200" stop="20250424202800 +0200" channel="DAZN 1 HD 1080P">
@@ -151,13 +58,13 @@
 · Dalton Smith y Mathieu Germain se enfrentan en Sheffield. Votos: 2.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250425000300 +0200" stop="20250425011300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250425000300 +0200" stop="20250425011000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Zurdo vs. Billam Smith: Riyadh Season Latinos Night T2024 · Gilberto Ramírez vs Chris Billam - Smith</title>
     <desc lang="es">Deportes/Boxeo | 2024 | +18 | *6.0/10
 · Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh. Votos: 18.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250425011300 +0200" stop="20250425060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250425011000 +0200" stop="20250425060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -178,13 +85,13 @@
   <programme start="20250425115600 +0200" stop="20250425130100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">La vida en rojo</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 18.
+· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 25.
 </desc>
   </programme>
   <programme start="20250425130100 +0200" stop="20250425131500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 7.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
@@ -197,7 +104,7 @@
   <programme start="20250425161100 +0200" stop="20250425165800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Maverick Viñales: dos vidas</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 15.
+· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 17.
 · País: España</desc>
   </programme>
   <programme start="20250425165800 +0200" stop="20250425192000 +0200" channel="DAZN 1 HD 1080P">
@@ -209,13 +116,13 @@
   <programme start="20250425192000 +0200" stop="20250425213300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 27: Real Madrid - Madrid CFF T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 1181.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 1191.
 · País: España</desc>
   </programme>
   <programme start="20250425213300 +0200" stop="20250425220000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Mikel Merino</title>
     <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
-· El futbolista del Arsenal repasa su trayectoria, desde sus inicios en el Newcastle, su carrera en la Real Sociedad y su regreso a la Premier, ahora bajo los mandos de Mikel Arteta. Votos: 6.
+· El futbolista del Arsenal repasa su trayectoria, desde sus inicios en el Newcastle, su carrera en la Real Sociedad y su regreso a la Premier, ahora bajo los mandos de Mikel Arteta. Votos: 21.
 · País: España</desc>
   </programme>
   <programme start="20250425220000 +0200" stop="20250425235100 +0200" channel="DAZN 1 HD 1080P">
@@ -226,8 +133,8 @@
   </programme>
   <programme start="20250425235100 +0200" stop="20250426005400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Fundora vs Badillo: velada completa T2025 · Fundora vs Badillo</title>
-    <desc lang="es">Deportes/Boxeo | 2025 | +18
-· Fundora y Badillo se enfrentan en el Frontwave Arena en Oceanside, California.
+    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *8.0/10
+· Fundora y Badillo se enfrentan en el Frontwave Arena en Oceanside, California. Votos: 4.
 · País: EE.UU.</desc>
   </programme>
   <programme start="20250426005400 +0200" stop="20250426060000 +0200" channel="DAZN 1 HD 1080P">
@@ -245,7 +152,7 @@
   <programme start="20250426084000 +0200" stop="20250426115600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de España</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 6.
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 9.
 · País: España</desc>
   </programme>
   <programme start="20250426115600 +0200" stop="20250426121900 +0200" channel="DAZN 1 HD 1080P">
@@ -262,8 +169,8 @@
   </programme>
   <programme start="20250426125000 +0200" stop="20250426170100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de España</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 7.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *4.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 10.
 · País: España</desc>
   </programme>
   <programme start="20250426170100 +0200" stop="20250426172700 +0200" channel="DAZN 1 HD 1080P">
@@ -275,7 +182,7 @@
   <programme start="20250426172700 +0200" stop="20250426191900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 27: Real Madrid - Madrid CFF T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 1181.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 1191.
 · País: España</desc>
   </programme>
   <programme start="20250426191900 +0200" stop="20250426194600 +0200" channel="DAZN 1 HD 1080P">
@@ -293,7 +200,7 @@
   <programme start="20250426214700 +0200" stop="20250426225000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Sprint MotoGP T2025 · MotoGP - GP de España</title>
     <desc lang="es">Deportes/Motociclismo | TP | *6.0/10
-· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 784.
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 812.
 · País: España</desc>
   </programme>
   <programme start="20250426225000 +0200" stop="20250427060000 +0200" channel="DAZN 1 HD 1080P">
@@ -317,25 +224,25 @@
   <programme start="20250427104500 +0200" stop="20250427114000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de España</title>
     <desc lang="es">Deportes/Motociclismo | TP | *6.0/10
-· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 1711.
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 1726.
 · País: España</desc>
   </programme>
   <programme start="20250427114000 +0200" stop="20250427125500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de España</title>
     <desc lang="es">Deportes/Motociclismo | TP | *6.0/10
-· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 706.
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 716.
 · País: España</desc>
   </programme>
   <programme start="20250427125500 +0200" stop="20250427140000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Previo MotoGP T2025 · MotoGP - GP de España</title>
-    <desc lang="es">Deportes/Motociclismo | *6.0/10
+    <desc lang="es">Deportes/Motociclismo | TP | *6.0/10
 · El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 5.
 · País: España</desc>
   </programme>
   <programme start="20250427140000 +0200" stop="20250427145500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de España</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 793.
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 814.
 · País: España</desc>
   </programme>
   <programme start="20250427145500 +0200" stop="20250427162200 +0200" channel="DAZN 1 HD 1080P">
@@ -353,7 +260,7 @@
   <programme start="20250427171500 +0200" stop="20250427173200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Tailandia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 3.
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 5.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
@@ -379,8 +286,8 @@
   </programme>
   <programme start="20250427184100 +0200" stop="20250427204200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 34: Southampton - Fulham</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 3.
 · País: R.U.</desc>
   </programme>
   <programme start="20250427204200 +0200" stop="20250427210900 +0200" channel="DAZN 1 HD 1080P">
@@ -393,7 +300,7 @@
   <programme start="20250427210900 +0200" stop="20250427221100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de España</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 793.
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 814.
 · País: España</desc>
   </programme>
   <programme start="20250427221100 +0200" stop="20250427222500 +0200" channel="DAZN 1 HD 1080P">
@@ -405,7 +312,7 @@
   <programme start="20250427222500 +0200" stop="20250428001600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Semifinales: Chelsea - Barcelona T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 1256.
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 1318.
 · País: R.U.</desc>
   </programme>
   <programme start="20250428001600 +0200" stop="20250428021800 +0200" channel="DAZN 1 HD 1080P">
@@ -420,70 +327,243 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250428060000 +0200" stop="20250428100000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250428060000 +0200" stop="20250428130000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250428100000 +0200" stop="20250428140000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250428130000 +0200" stop="20250428145200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Semifinales: Chelsea - Barcelona T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 1318.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250428145200 +0200" stop="20250428154500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Una Premier League para la historia</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
+· Los mejores momentos de una temporada que muchos califican como histórica. Votos: 1.
+</desc>
+  </programme>
+  <programme start="20250428154500 +0200" stop="20250428173700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Copa de Italia T24/25 · Semifinales: Inter - Milan</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título. Votos: 283.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250428173700 +0200" stop="20250428183800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de España</title>
+    <desc lang="es">Deportes/Motociclismo | TP | *6.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 1726.
+· País: España</desc>
+  </programme>
+  <programme start="20250428183800 +0200" stop="20250428193900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de España</title>
+    <desc lang="es">Deportes/Motociclismo | TP | *6.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 716.
+· País: España</desc>
+  </programme>
+  <programme start="20250428193900 +0200" stop="20250428204100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de España</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 814.
+· País: España</desc>
+  </programme>
+  <programme start="20250428204100 +0200" stop="20250428205200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Mikel Merino</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
+· El futbolista del Arsenal repasa su trayectoria, desde sus inicios en el Newcastle, su carrera en la Real Sociedad y su regreso a la Premier, ahora bajo los mandos de Mikel Arteta. Votos: 21.
+· País: España</desc>
+  </programme>
+  <programme start="20250428205200 +0200" stop="20250428225400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 34: Liverpool - Tottenham T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1242.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250428225400 +0200" stop="20250428234900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Joyce vs Hrgovic T2025 · Joe Joyce vs Filip Hrgovic</title>
+    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *8.0/10
+· El Co-OP LIVE Arena de Manchester acoge esta velada de boxeo que tiene como combate estelar el enfrentamiento entre Joe Joyce y Filip Hrgovic. Votos: 6.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250428234900 +0200" stop="20250429060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250428140000 +0200" stop="20250428180000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250429060000 +0200" stop="20250429130000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250428180000 +0200" stop="20250428220000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250429130000 +0200" stop="20250429140200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de España</title>
+    <desc lang="es">Deportes/Motociclismo | TP | *6.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 1726.
+· País: España</desc>
+  </programme>
+  <programme start="20250429140200 +0200" stop="20250429150300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de España</title>
+    <desc lang="es">Deportes/Motociclismo | TP | *6.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 716.
+· País: España</desc>
+  </programme>
+  <programme start="20250429150300 +0200" stop="20250429160500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de España</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 814.
+· País: España</desc>
+  </programme>
+  <programme start="20250429160500 +0200" stop="20250429180000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Semifinales: Chelsea - Barcelona T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 1318.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250429180000 +0200" stop="20250429184600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">La Central T24/25 E23</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20250429184600 +0200" stop="20250429190700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
+· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel. Votos: 17.
+· País: España</desc>
+  </programme>
+  <programme start="20250429190700 +0200" stop="20250429193400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Reyes, una vida dedicada al fútbol</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· Repaso por la vida profesional de Jose Antonio Reyes, desde sus humildes inicios, su debut con el Sevilla FC y su paso por el Arsenal cuando todavía era un chaval. Votos: 28.
+</desc>
+  </programme>
+  <programme start="20250429193400 +0200" stop="20250429195600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pol Position - Carlos Ezpeleta</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
+· Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 14.
+</desc>
+  </programme>
+  <programme start="20250429195600 +0200" stop="20250429201800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · España</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250429201800 +0200" stop="20250429204000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Dare to Rise T1 · Roland Mikler</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· PICK Szeged en la Machineseeker EHF Champions League y que sigue en plena forma en su quinta década. Votos: 17.
+</desc>
+  </programme>
+  <programme start="20250429204000 +0200" stop="20250429223200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Cuartos de final: Bidasoa - Melsungen T24/25 · Liga Europea de la EHF</title>
+    <desc lang="es">Deportes/Balonmano | 2025 | TP | *8.0/10
+· La Liga Europea ocupa el segundo lugar en el escalafón de las competiciones continentales de balonmano. Comienza con una fase de clasificación, seguida de una fase de grupos; los mejores, pelean por el título en las eliminatorias. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250429223200 +0200" stop="20250429231800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">La Central T24/25 E23</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20250429231800 +0200" stop="20250430011100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 27: Real Madrid - Madrid CFF T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 1191.
+· País: España</desc>
+  </programme>
+  <programme start="20250430011100 +0200" stop="20250430060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250428220000 +0200" stop="20250429020000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250430060000 +0200" stop="20250430130000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250429020000 +0200" stop="20250429060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20250430130000 +0200" stop="20250430134700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">La Central T24/25 E23</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20250430134700 +0200" stop="20250430153800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Semifinales: Olympique Lyon - Arsenal T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 1293.
+· País: Francia</desc>
+  </programme>
+  <programme start="20250430153800 +0200" stop="20250430155200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Dare to Rise T1 · Roland Mikler</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· PICK Szeged en la Machineseeker EHF Champions League y que sigue en plena forma en su quinta década. Votos: 17.
 </desc>
   </programme>
-  <programme start="20250429060000 +0200" stop="20250429100000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250430155200 +0200" stop="20250430165300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de España</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 814.
+· País: España</desc>
   </programme>
-  <programme start="20250429100000 +0200" stop="20250429140000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250430165300 +0200" stop="20250430172100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · España</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250429140000 +0200" stop="20250429180000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250430172100 +0200" stop="20250430175200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">More Than Machine T2025 · David vs. Goliath</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Desde superar la pérdida de ex campeones del mundo hasta tutelar a la próxima generación de finalistas del podio, superar retos insuperables es todo en un día de trabajo para el M-Sport Ford World Rally. Votos: 6.
+· País: España</desc>
   </programme>
-  <programme start="20250429180000 +0200" stop="20250429220000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250430175200 +0200" stop="20250430182000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">More Than Machine T2025 · Redención</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Conocido por su clima impredecible, el rally de asfalto altamente técnico de Croacia es uno de los más destacados de la temporada del WRC. Votos: 10.
+· País: España</desc>
   </programme>
-  <programme start="20250429220000 +0200" stop="20250430020000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250430182000 +0200" stop="20250430185800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">More Than Machine T2025 · Legado</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Con el peso de las expectativas de uno de los equipos de rally con más historia, Malcolm y la tripulación de M-Sport están decididos a dar la campanada a mediados de año en Portugal y Cerdeña. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250430185800 +0200" stop="20250430195600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">More Than Machine T2025 · Sangre nueva</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Con el nuevo chico en el bloque, Martins Sesks, mostrando un ritmo impresionante, Adrien y Gregoire comienzan a sentir la presión mientras esta estrella en ascenso los lleva al límite. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250430195600 +0200" stop="20250430213300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga F T24/25 · Jornada 27: Real Sociedad - VCF Femenino</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20250430213300 +0200" stop="20250501000400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Final T2025 · A1 Padel: Open de Lanzarote</title>
+    <desc lang="es">Deportes/Pádel | 2025 | TP | *10.0/10
+· El circuito A1 Padel hace parada en la isla canaria de Lanzarote. Del 21 al 27 de abril, la Marina de Arrecife sirve de pista central de este abierto en el que compiten 32 parejas en busca del título. El torneo entrega 156.000 euros en premios. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250501000400 +0200" stop="20250501005900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Joyce vs Hrgovic T2025 · Joe Joyce vs Filip Hrgovic</title>
+    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *8.0/10
+· El Co-OP LIVE Arena de Manchester acoge esta velada de boxeo que tiene como combate estelar el enfrentamiento entre Joe Joyce y Filip Hrgovic. Votos: 6.
+· País: R.U.</desc>
   </programme>
 </tv>
