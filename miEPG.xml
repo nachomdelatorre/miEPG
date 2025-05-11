@@ -1,111 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 10/05/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 11/05/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250510083500 +0200" stop="20250510114700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Francia</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El icónico Circuito Bugatti de Le Mans acoge un año más el GP de Francia, sexta prueba del Mundial de motociclismo. El legendario trazado destaca por sus curvas cerradas y sus exigentes frenadas.
-· País: Francia</desc>
-  </programme>
-  <programme start="20250510114700 +0200" stop="20250510120900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Alberto Puig - Entrevista</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Alberto Puig, team manager de Honda en MotoGP, repasa la actualidad de la fábrica del ala dorada en el Mundial. El expiloto repasa su trayectoria deportiva en el campeonato.
-· País: España</desc>
-  </programme>
-  <programme start="20250510120900 +0200" stop="20250510123000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Barcelona</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada. Votos: 7.
-· País: España</desc>
-  </programme>
-  <programme start="20250510123000 +0200" stop="20250510170300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Francia</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El icónico Circuito Bugatti de Le Mans acoge un año más el GP de Francia, sexta prueba del Mundial de motociclismo. El legendario trazado destaca por sus curvas cerradas y sus exigentes frenadas.
-· País: Francia</desc>
-  </programme>
-  <programme start="20250510170300 +0200" stop="20250510173800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · El regreso</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· La intrahistoria del viaje de Marc Márquez, desde su adaptación a una moto y un entorno nuevos hasta su regreso a la senda de la victoria 1043 días después. Votos: 1.
-· País: España</desc>
-  </programme>
-  <programme start="20250510173800 +0200" stop="20250510175600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 22.
-</desc>
-  </programme>
-  <programme start="20250510175600 +0200" stop="20250510182000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
-· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel. Votos: 22.
-· País: España</desc>
-  </programme>
-  <programme start="20250510182000 +0200" stop="20250510204200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 36: Bournemouth - Aston Villa T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250510204200 +0200" stop="20250510210900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cuatro entrenadores vascos en la Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Andoni Iraola es el último técnico guipuzcoano en llegar a la Premier League de la mano del Bournemouth y se suma a Julen Lopetegui en el West Ham, y anteriormente en los Wolves, Unai Emery en el Aston Villa y Mikel Arteta en el Arsenal. Votos: 15.
-· País: España</desc>
-  </programme>
-  <programme start="20250510210900 +0200" stop="20250510212400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Monchi, un cazatalentos único</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
-· El programa entrevista a Ramón Rodríguez 'Monchi', el actual director deportivo del Aston Villa. El 'cazalentos' español por excelencia nos cuenta cómo está viviendo su primera experiencia en Inglaterra. Votos: 11.
-· País: España</desc>
-  </programme>
-  <programme start="20250510212400 +0200" stop="20250510214100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo. Votos: 13.
-· País: España</desc>
-  </programme>
-  <programme start="20250510214100 +0200" stop="20250510224200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Francia T2025 · Sprint MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El icónico Circuito Bugatti de Le Mans acoge un año más el GP de Francia, sexta prueba del Mundial de motociclismo. El legendario trazado destaca por sus curvas cerradas y sus exigentes frenadas.
-· País: Francia</desc>
-  </programme>
-  <programme start="20250510224200 +0200" stop="20250510225700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Kepa Arrizabalaga</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
-· El futbolista del AFC Bournemouth repasa su trayectoria como el portero más caro de la historia tras fichar por el Chelsea y su actual andadura en el conjunto de las 'Cherries'. Votos: 6.
-· País: España</desc>
-  </programme>
-  <programme start="20250510225700 +0200" stop="20250511010000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 36: Ipswich Town - Brentford</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250511010000 +0200" stop="20250511012600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League World T24/25 · Jose Antonio Reyes</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· El programa presenta la gran trayectoria de un futbolista admirado en España y en Inglaterra, donde triunfó como uno de los mejores jugadores del Arsenal. Votos: 15.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250511012600 +0200" stop="20250511060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250511060000 +0200" stop="20250511093000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250511093000 +0200" stop="20250511104500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Francia</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
@@ -163,7 +61,7 @@
   <programme start="20250511193900 +0200" stop="20250511214100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 36: Newcastle - Chelsea T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 531.
+· Newcastle y Chelsea se miden a tres jornadas del final de la Premier en plena lucha por una plaza en la Liga de Campeones. Son cuarto y quinto respectivamente. Votos: 533.
 · País: R.U.</desc>
   </programme>
   <programme start="20250511214100 +0200" stop="20250511220900 +0200" channel="DAZN 1 HD 1080P">
@@ -264,7 +162,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250512223400 +0200" stop="20250513003400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 36: Southampton - Manchester City T24/25 · Premier League</title>
+    <title lang="es">Premier League T24/25 · Jornada 36: Southampton - Manchester City</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
@@ -348,7 +246,7 @@
   <programme start="20250513202000 +0200" stop="20250513221000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 29: Real Betis Féminas - FC Barcelona T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 5.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250513221000 +0200" stop="20250513225500 +0200" channel="DAZN 1 HD 1080P">
@@ -361,7 +259,7 @@
   <programme start="20250513225500 +0200" stop="20250514004500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 29: Real Madrid - Costa Adeje Tenerife T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 3.
 · País: España</desc>
   </programme>
   <programme start="20250514004500 +0200" stop="20250514060000 +0200" channel="DAZN 1 HD 1080P">
@@ -493,7 +391,7 @@
 · País: Francia</desc>
   </programme>
   <programme start="20250515192100 +0200" stop="20250515212100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 36: Bournemouth - Aston Villa T24/25 · Premier League</title>
+    <title lang="es">Premier League T24/25 · Jornada 36: Bournemouth - Aston Villa</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
@@ -579,8 +477,8 @@
   </programme>
   <programme start="20250516205000 +0200" stop="20250516231500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 37: Chelsea - Manchester Utd. T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *2.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 4.
 · País: R.U.</desc>
   </programme>
   <programme start="20250516231500 +0200" stop="20250517002000 +0200" channel="DAZN 1 HD 1080P">
@@ -594,5 +492,71 @@
     <desc lang="es">Deportes/Boxeo | 2025 | +18 | *6.0/10
 · Salvi Jiménez llega a Inglaterra para su combate contra Ryan Garner por el EBU Superpluma. Votos: 12.
 · País: R.U.</desc>
+  </programme>
+  <programme start="20250517011800 +0200" stop="20250517060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250517060000 +0200" stop="20250517114500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250517114500 +0200" stop="20250517124500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Superpole T2025 · Mundial de Superbike - Most</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La quinta cita de la temporada es en el circuito checo de Most.
+· País: Italia y República Checa</desc>
+  </programme>
+  <programme start="20250517124500 +0200" stop="20250517131500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pol Position - Carlos Ezpeleta</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
+· Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 18.
+</desc>
+  </programme>
+  <programme start="20250517131500 +0200" stop="20250517133000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pol Position - Dr Charte</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Pol Espargaró mantiene una distendida charla con el doctor Ángel Charte, Director Médico del Campeonato del Mundo de MotoGP, para conocer de primera mano el espectacular mundo de esta competición.
+· País: España</desc>
+  </programme>
+  <programme start="20250517133000 +0200" stop="20250517171500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera 1 T2025 · Mundial de Superbike - Most</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Circuito de Most acoge la quinta cita de este campeonato. El italiano Nicolo Bulega llega como líder de la clasificación. El español Álvaro Bautista ocupa la tercera posición.
+· País: Italia y República Checa</desc>
+  </programme>
+  <programme start="20250517171500 +0200" stop="20250517173500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Alberto Puig - Entrevista</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Alberto Puig, team manager de Honda en MotoGP, repasa la actualidad de la fábrica del ala dorada en el Mundial. El expiloto repasa su trayectoria deportiva en el campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250517173500 +0200" stop="20250517194500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 37: Chelsea - Manchester Utd. T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 4.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250517194500 +0200" stop="20250517200000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Raya y Merino, combinación ganadora</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
+· Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
+· País: España</desc>
+  </programme>
+  <programme start="20250517200000 +0200" stop="20250518003500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Velada completa T2025 · Boxeo: velada Till vs Stewart</title>
+    <desc lang="es">Deportes/Boxeo | 2025 | TP
+· Misfits Boxing lleva a la localidad inglesa de Derby su velada número 21 de las X Series.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250518003500 +0200" stop="20250518005300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: Usyk vs. Fury 2 T2024 · Usyk vs Fury 2</title>
+    <desc lang="es">Deportes/Boxeo | 2024 | +18 | *6.0/10
+· Oleksandr Usyk y Tyson Fury se enfrentan 21 de diciembre de 2024 en el Kingdom Arena de Riad, Arabia Saudita. Votos: 18.
+· País: Arabia Saudí</desc>
   </programme>
 </tv>
