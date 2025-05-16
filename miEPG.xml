@@ -1,82 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 15/05/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 16/05/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250515125500 +0200" stop="20250515151000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Copa de Italia T24/25 · Final: Milan - Bolonia</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título. Votos: 1.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250515151000 +0200" stop="20250515164000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Francia T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El icónico Circuito Bugatti de Le Mans acoge un año más el GP de Francia, sexta prueba del Mundial de motociclismo. El legendario trazado destaca por sus curvas cerradas y sus exigentes frenadas. Votos: 4.
-· País: Francia</desc>
-  </programme>
-  <programme start="20250515164000 +0200" stop="20250515171000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Francia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250515171000 +0200" stop="20250515175500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Rookies Cup T2025 · Le Mans - Carrera 1</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· La Red Bull MotoGP Rookies Cup es una excelente cantera de pilotos. La competición se fundó en 2007 y, desde entonces, muchos de los participantes han progresado hacia el Mundial de motociclismo. Esta temporada cuenta con 7 rondas y 14 carreras.
-</desc>
-  </programme>
-  <programme start="20250515175500 +0200" stop="20250515181500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Dream Team - Ducati</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025. Votos: 5.
-· País: España</desc>
-  </programme>
-  <programme start="20250515181500 +0200" stop="20250515190500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de MotoE - Francia T2025 · Carrera 2</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas. La primera de ellas, en el circuito francés de Le Mans.
-· País: Francia</desc>
-  </programme>
-  <programme start="20250515190500 +0200" stop="20250515210500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 36: Bournemouth - Aston Villa</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250515210500 +0200" stop="20250515215500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2025 · Catar - Carrera 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP | *8.0/10
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi. Votos: 2.
-</desc>
-  </programme>
-  <programme start="20250515215500 +0200" stop="20250515225500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2025 · Catar - Carrera 2</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
-</desc>
-  </programme>
-  <programme start="20250515225500 +0200" stop="20250516010900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">A1 Padel: Open de Lanzarote T2025 · Final</title>
-    <desc lang="es">Deportes/Pádel | 2025 | TP | *6.0/10
-· El circuito A1 Padel hace parada en la isla canaria de Lanzarote. Del 21 al 27 de abril, la Marina de Arrecife sirve de pista central de este abierto en el que compiten 32 parejas en busca del título. El torneo entrega 156.000 euros en premios. Votos: 16.
-· País: España</desc>
-  </programme>
-  <programme start="20250516010900 +0200" stop="20250516060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250516060000 +0200" stop="20250516111000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250516111000 +0200" stop="20250516121200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO FP1 T2025 · Mundial de Superbike - Most</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
@@ -135,7 +62,7 @@
   <programme start="20250516205000 +0200" stop="20250516231500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 37: Chelsea - Manchester Utd. T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· Cada uno a su manera lucha por ser equipo Champions. El Chelsea intentando asegurar un puesto entre los cinco primeros y el Man United con la única opción de ganar la final de la UEL ante el Tottenham. La presión de Forest y A.Villa incomoda a los Blues. Votos: 6.
+· Cada uno a su manera lucha por ser equipo Champions. El Chelsea intentando asegurar un puesto entre los cinco primeros y el Man United con la única opción de ganar la final de la UEL ante el Tottenham. La presión de Forest y A.Villa incomoda a los Blues. Votos: 7.
 · País: R.U.</desc>
   </programme>
   <programme start="20250516231500 +0200" stop="20250517002000 +0200" channel="DAZN 1 HD 1080P">
@@ -163,7 +90,7 @@
 </desc>
   </programme>
   <programme start="20250517114500 +0200" stop="20250517124500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Superpole T2025 · Mundial de Superbike - Most</title>
+    <title lang="es">DIRECTO Superpole Race T2025 · Mundial de Superbike - Most</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · La quinta cita de la temporada es en el circuito checo de Most.
 · País: Italia y República Checa</desc>
@@ -195,7 +122,7 @@
   <programme start="20250517173500 +0200" stop="20250517194500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 37: Chelsea - Manchester Utd. T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· Cada uno a su manera lucha por ser equipo Champions. El Chelsea intentando asegurar un puesto entre los cinco primeros y el Man United con la única opción de ganar la final de la UEL ante el Tottenham. La presión de Forest y A.Villa incomoda a los Blues. Votos: 6.
+· Cada uno a su manera lucha por ser equipo Champions. El Chelsea intentando asegurar un puesto entre los cinco primeros y el Man United con la única opción de ganar la final de la UEL ante el Tottenham. La presión de Forest y A.Villa incomoda a los Blues. Votos: 7.
 · País: R.U.</desc>
   </programme>
   <programme start="20250517194500 +0200" stop="20250517200000 +0200" channel="DAZN 1 HD 1080P">
@@ -531,5 +458,97 @@
     <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi. Votos: 7.
 </desc>
+  </programme>
+  <programme start="20250522011600 +0200" stop="20250522060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250522060000 +0200" stop="20250522120000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250522120000 +0200" stop="20250522130500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Rueda de prensa motos T2025 · Gran Bretaña - Paddock Abierto</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250522130500 +0200" stop="20250522133000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Alberto Puig - Entrevista</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Alberto Puig, team manager de Honda en MotoGP, repasa la actualidad de la fábrica del ala dorada en el Mundial. El expiloto repasa su trayectoria deportiva en el campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250522133000 +0200" stop="20250522154500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 37: Brighton - Liverpool T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250522154500 +0200" stop="20250522165000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">La Central T24/25 E26</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20250522165000 +0200" stop="20250522184000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga de Campeones (F) T24/25 · Cuartos de final: Wolfsburgo - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 13.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20250522184000 +0200" stop="20250522190500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Aitana Bonmati: ''Sigo siendo la misma''</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Aitana Bonmatí, doble ganadora del Balón de Oro y galardonada con el premio The Best. Votos: 23.
+· País: España</desc>
+  </programme>
+  <programme start="20250522190500 +0200" stop="20250522205000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga de Campeones (F) T24/25 · Cuartos de final: Barcelona - Wolfsburgo</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 29.
+· País: España</desc>
+  </programme>
+  <programme start="20250522205000 +0200" stop="20250522210500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Desde el corazón de una final</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP | *6.0/10
+· Detrás de un gran evento como la final de la UEFA Women Champions League, hay un gran equipo volcado para que no os perdáis ningún detalle de lo que ocurre dentro, y fuera del césped. El FC consigue su tercer título europeo. Votos: 16.
+</desc>
+  </programme>
+  <programme start="20250522210500 +0200" stop="20250522220000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Rueda de prensa motos T2025 · Gran Bretaña - Paddock Abierto</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250522220000 +0200" stop="20250522222000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pol Position - Carlos Ezpeleta</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
+· Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 18.
+</desc>
+  </programme>
+  <programme start="20250522222000 +0200" stop="20250522232500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Francia T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· El icónico Circuito Bugatti de Le Mans acoge un año más el GP de Francia, sexta prueba del Mundial de motociclismo. El legendario trazado destaca por sus curvas cerradas y sus exigentes frenadas. Votos: 4.
+· País: Francia</desc>
+  </programme>
+  <programme start="20250522232500 +0200" stop="20250522235000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Francia</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250522235000 +0200" stop="20250523002000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Fisher vs. Allen 2 T2025 · Boxeo: velada Till vs Stewart</title>
+    <desc lang="es">Deportes/Boxeo | 2025 | +18
+· Misfits Boxing lleva a la localidad inglesa de Derby su velada número 21 de las X Series.
+· País: R.U.</desc>
   </programme>
 </tv>
