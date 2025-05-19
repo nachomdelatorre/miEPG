@@ -1,75 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 18/05/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 19/05/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250518115000 +0200" stop="20250518144600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 30: FC Barcelona - Athletic Club T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 3.
-· País: España</desc>
-  </programme>
-  <programme start="20250518144600 +0200" stop="20250518150500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Raya y Merino, combinación ganadora</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
-· Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
-· País: España</desc>
-  </programme>
-  <programme start="20250518150500 +0200" stop="20250518172000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 37: West Ham - Nottingham Forest T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250518172000 +0200" stop="20250518193600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 37: Arsenal - Newcastle T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250518193600 +0200" stop="20250518195200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Kepa Arrizabalaga</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
-· El futbolista del AFC Bournemouth repasa su trayectoria como el portero más caro de la historia tras fichar por el Chelsea y su actual andadura en el conjunto de las 'Cherries'. Votos: 6.
-· País: España</desc>
-  </programme>
-  <programme start="20250518195200 +0200" stop="20250518215500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 37: Everton - Southampton</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250518215500 +0200" stop="20250518225600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 E27</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
-· País: España</desc>
-  </programme>
-  <programme start="20250518225600 +0200" stop="20250519005700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 37: Aston Villa - Tottenham</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250519005700 +0200" stop="20250519011500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 22.
-</desc>
-  </programme>
-  <programme start="20250519011500 +0200" stop="20250519060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250519060000 +0200" stop="20250519130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250519130000 +0200" stop="20250519145200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga F T24/25 · Jornada 30: Sevilla - Eibar</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
@@ -183,9 +117,9 @@
 · Presenta: Natacha Alfageme.</desc>
   </programme>
   <programme start="20250520161500 +0200" stop="20250520180000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 30: FC Barcelona - Athletic Club T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 3.
+    <title lang="es">Liga F T24/25 · Jornada 30: FC Barcelona - Athletic Club</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20250520180000 +0200" stop="20250520190000 +0200" channel="DAZN 1 HD 1080P">
@@ -246,7 +180,7 @@
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
   <programme start="20250521140000 +0200" stop="20250521155000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 30: RCD Espanyol - Real Betis Féminas T24/25 · Liga F</title>
+    <title lang="es">Liga F T24/25 · Jornada 30: Espanyol - Betis</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
 · País: España</desc>
@@ -600,6 +534,108 @@
     <title lang="es">La caída de Maradona</title>
     <desc lang="es">Documentales/Deportes | 2023 | +7 | *6.0/10
 · El 30 de junio de 1994, Diego Maradona, la mayor estrella del fútbol mundial, fue expulsado de la Copa del Mundo de EE.UU. tras no superar un control antidopaje después de un partido. La expulsión del Diego sorprendió al mundo del deporte. Votos: 20.
+</desc>
+  </programme>
+  <programme start="20250525004600 +0200" stop="20250525060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250525060000 +0200" stop="20250525104000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250525104000 +0200" stop="20250525121500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Gran Bretaña</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250525121500 +0200" stop="20250525135500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Race Moto2 T2025 · MotoGP - GP de Gran Bretaña</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250525135500 +0200" stop="20250525140000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Previo MotoGP T2025 · MotoGP - GP de Gran Bretaña</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250525140000 +0200" stop="20250525153000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Grand Prix MotoGP T2025 · MotoGP - GP de Gran Bretaña</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250525153000 +0200" stop="20250525164500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Race Moto 3 T2025 · MotoGP - GP de Gran Bretaña</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250525164500 +0200" stop="20250525171200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Post Carreras T2025 · MotoGP - GP de Gran Bretaña</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250525171200 +0200" stop="20250525173300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Alberto Puig - Entrevista</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Alberto Puig, team manager de Honda en MotoGP, repasa la actualidad de la fábrica del ala dorada en el Mundial. El expiloto repasa su trayectoria deportiva en el campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250525173300 +0200" stop="20250525175300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pol Position - Dr Charte</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Pol Espargaró mantiene una distendida charla con el doctor Ángel Charte, Director Médico del Campeonato del Mundo de MotoGP, para conocer de primera mano el espectacular mundo de esta competición.
+· País: España</desc>
+  </programme>
+  <programme start="20250525175300 +0200" stop="20250525182700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Marc Marquez. All In: Ilusión · Marc Márquez: ALL IN: Ilusión</title>
+    <desc lang="es">Documentales/Deportes | 2023 | TP | *6.0/10
+· Febrero de 2022. Marc Márquez ha ganado más de lo que cualquiera podría soñar. Votos: 15.
+· País: España</desc>
+  </programme>
+  <programme start="20250525182700 +0200" stop="20250525185700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Marc Marquez. All In: Talento · Marc Márquez: ALL IN: Talento</title>
+    <desc lang="es">Documentales/Deportes | 2022 | TP | *6.0/10
+· El estilo de Marc en carrera le ha valido la admiración de millones de fans. Votos: 10.
+· País: España</desc>
+  </programme>
+  <programme start="20250525185700 +0200" stop="20250525192200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Decoded T2023 · Alexia Putellas</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
+· El espacio analiza el perfil futbolístico de la capitana del FC Barcelona, Alexia Putellas, y dos veces Balón de Oro. La blaugrana ha estado fuera de los terrenos de juego casi un año debido a una rotura de ligamento cruzado. Votos: 17.
+</desc>
+  </programme>
+  <programme start="20250525192200 +0200" stop="20250525211300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Final: Arsenal - Barcelona T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 2.
+· País: Portugal</desc>
+  </programme>
+  <programme start="20250525211300 +0200" stop="20250525221500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Grand Prix MotoGP T2025 · MotoGP - GP de Gran Bretaña</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250525221500 +0200" stop="20250526001800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 38: Liverpool - Crystal Palace</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250526001800 +0200" stop="20250526020000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
 </desc>
   </programme>
 </tv>
