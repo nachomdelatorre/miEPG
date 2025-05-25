@@ -1,108 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 24/05/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 25/05/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250524103500 +0200" stop="20250524134300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Gran Bretaña</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250524134300 +0200" stop="20250524140500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pol Position - Dr Charte</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Pol Espargaró mantiene una distendida charla con el doctor Ángel Charte, Director Médico del Campeonato del Mundo de MotoGP, para conocer de primera mano el espectacular mundo de esta competición.
-· País: España</desc>
-  </programme>
-  <programme start="20250524140500 +0200" stop="20250524143000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pol Position - Carlos Ezpeleta</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
-· Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 18.
-</desc>
-  </programme>
-  <programme start="20250524143000 +0200" stop="20250524190400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Gran Bretaña</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes. Votos: 1.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250524190400 +0200" stop="20250524193100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Entrevista - Gigi Dall'igna</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Entrevista a Gigi Dall'Igna, jefe de Ducati. El italiano no deja ningún tema sin tratar y habla abiertamente de la situación del equipo.
-</desc>
-  </programme>
-  <programme start="20250524193100 +0200" stop="20250524195900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Francia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250524195900 +0200" stop="20250524202800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · España</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 5.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250524202800 +0200" stop="20250524213100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Gran Bretaña: Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· El GP de Gran Bretaña se celebra el 7 de julio en el circuito de Silverstone en Reino Unido. La longitud del circuito es de 5,891 kilómetros. Durante la carrera se darán 52 vueltas al circuito cubriendo una distancia final de 306,332 kilómetros. Votos: 16.
-· País: España y R.U.</desc>
-  </programme>
-  <programme start="20250524213100 +0200" stop="20250524214700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">ADN de piloto T1 · Michelin</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Programa deportivo dedicado el mundo del motociclismo. Pol Espargaró descubre los secretos de los Grandes Premios y los circuitos. Votos: 12.
-· País: España
-· Presenta: Pol Espargaró.</desc>
-  </programme>
-  <programme start="20250524214700 +0200" stop="20250524220300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo. Votos: 13.
-· País: España</desc>
-  </programme>
-  <programme start="20250524220300 +0200" stop="20250524222100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada. Votos: 6.
-· País: España</desc>
-  </programme>
-  <programme start="20250524222100 +0200" stop="20250524223900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Barcelona</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El último episodio viaja hasta al GP de la Solidaridad, donde Pecco Bagnaia y el Ducati Lenovo Team lo dieron todo, asegurándose una extraordinaria undécima victoria para cerrar la temporada. Votos: 7.
-· País: España</desc>
-  </programme>
-  <programme start="20250524223900 +0200" stop="20250524234000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Gran Bretaña T2025 · Sprint MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250524234000 +0200" stop="20250525011000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">La caída de Maradona</title>
-    <desc lang="es">Documentales/Deportes | 2023 | +7 | *6.0/10
-· El 30 de junio de 1994, Diego Maradona, la mayor estrella del fútbol mundial, fue expulsado de la Copa del Mundo de EE.UU. tras no superar un control antidopaje después de un partido. La expulsión del Diego sorprendió al mundo del deporte. Votos: 20.
-</desc>
-  </programme>
-  <programme start="20250525011000 +0200" stop="20250525060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250525060000 +0200" stop="20250525103000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250525103000 +0200" stop="20250525111500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Gran Bretaña</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
@@ -170,9 +71,9 @@
 </desc>
   </programme>
   <programme start="20250525201400 +0200" stop="20250525220500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Final: Arsenal - Barcelona T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Arsenal y Barcelona pelean en Portugal por el título de campeonas de Europa. Votos: 8.
+    <title lang="es">Liga de Campeones (F) T24/25 · Final: Arsenal - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Arsenal y Barcelona pelean en Portugal por el título de campeonas de Europa. Votos: 26.
 · País: Portugal</desc>
   </programme>
   <programme start="20250525220500 +0200" stop="20250525230800 +0200" channel="DAZN 1 HD 1080P">
@@ -212,7 +113,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250526151400 +0200" stop="20250526161500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 · Las claves del Barça campeón</title>
+    <title lang="es">Erasmus FC T24/25 E27</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -249,7 +150,7 @@
 · País: R.U.</desc>
   </programme>
   <programme start="20250526214900 +0200" stop="20250526222200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: velada Till vs Stewart T2025 · Johnny Fisher vs Dave Allen</title>
+    <title lang="es">Boxeo: velada Till vs Stewart T2025 · Velada completa</title>
     <desc lang="es">Deportes/Boxeo | 2025 | TP | *10.0/10
 · Misfits Boxing lleva a la localidad inglesa de Derby su velada número 21 de las X Series. Votos: 1.
 · País: R.U.</desc>
@@ -298,9 +199,9 @@
 </desc>
   </programme>
   <programme start="20250527165400 +0200" stop="20250527180000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Final: Arsenal - Barcelona T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Arsenal y Barcelona pelean en Portugal por el título de campeonas de Europa. Votos: 8.
+    <title lang="es">Liga de Campeones (F) T24/25 · Final: Arsenal - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Arsenal y Barcelona pelean en Portugal por el título de campeonas de Europa. Votos: 26.
 · País: Portugal</desc>
   </programme>
   <programme start="20250527180000 +0200" stop="20250527185500 +0200" channel="DAZN 1 HD 1080P">
@@ -513,9 +414,9 @@
 </desc>
   </programme>
   <programme start="20250530130000 +0200" stop="20250530145200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Final: Arsenal - Barcelona T24/25 · Liga de Campeones (F)</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
-· Arsenal y Barcelona pelean en Portugal por el título de campeonas de Europa. Votos: 8.
+    <title lang="es">Liga de Campeones (F) T24/25 · Final: Arsenal - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Arsenal y Barcelona pelean en Portugal por el título de campeonas de Europa. Votos: 26.
 · País: Portugal</desc>
   </programme>
   <programme start="20250530145200 +0200" stop="20250530153800 +0200" channel="DAZN 1 HD 1080P">
@@ -532,7 +433,7 @@
 </desc>
   </programme>
   <programme start="20250530155100 +0200" stop="20250530175200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Erasmus FC T24/25 · Las claves del Barça campeón</title>
+    <title lang="es">Erasmus FC T24/25 E27</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -560,5 +461,114 @@
     <desc lang="es">Deportes/Pádel | 2025 | TP | *6.0/10
 · El circuito A1 Padel hace parada en la isla canaria de Lanzarote. Del 21 al 27 de abril, la Marina de Arrecife sirve de pista central de este abierto en el que compiten 32 parejas en busca del título. El torneo entrega 156.000 euros en premios. Votos: 16.
 · País: España</desc>
+  </programme>
+  <programme start="20250531002200 +0200" stop="20250531060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250531060000 +0200" stop="20250531130000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250531130000 +0200" stop="20250531142400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DTM - Oschersleben T2025 · Carrera 2</title>
+    <desc lang="es">Deportes/Automovilismo | 2025 | TP
+· La temporada 2025 del DTM arrancará del 25 al 27 de abril en la Motorsport Arena Oschersleben, destacando por su trazado técnico y excelente visibilidad para los espectadores. Este evento marcará el inicio de una intensa lucha por el título DTM.
+</desc>
+  </programme>
+  <programme start="20250531142400 +0200" stop="20250531143800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Dare to Rise T1 · Ludovic Fàbregas</title>
+    <desc lang="es">Deportes/Balonmano | 2024 | TP | *6.0/10
+· Ludovic Fàbregas es el primer protagonista de la serie 'Dare To Rise' de la EHF. Votos: 5.
+</desc>
+  </programme>
+  <programme start="20250531143800 +0200" stop="20250531145500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Dare to Rise T1 · Sander Sagosen &amp; Niklas Landin</title>
+    <desc lang="es">Deportes/Balonmano | 2024 | TP
+· Disfruta del segundo capítulo de la serie 'Dare to Rise', documental de la EHF Champions League, un episodio que trata las figuras de Sander Sagosen y Niklas Landin.
+</desc>
+  </programme>
+  <programme start="20250531145500 +0200" stop="20250531163900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Semifinales: Gyori ETO KC - Team Esbjerg T24/25 · Liga de Campeones de balonmano F</title>
+    <desc lang="es">Deportes/Balonmano | 2024 | TP
+· Las 16 mejores escuadras femeninas de balonmano del Viejo Continente disputan la EHF Champions League, la Copa de Europa de este deporte. El Gyori Audi ETO KC de Hungría es el campeón actual.
+· País: Hungría</desc>
+  </programme>
+  <programme start="20250531163900 +0200" stop="20250531165000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Dare to Rise T1 · Elias Ellefsen á Skipagotu</title>
+    <desc lang="es">Deportes/Balonmano | 2024 | TP | *10.0/10
+· En el tercer capítulo de la serie 'Dare to rise' de la EHF presentamos a Elias Ellefsen á Skipagotu, el jugador del THW Kiel, presente en la Final Four de la EHF Champions League. Votos: 1.
+</desc>
+  </programme>
+  <programme start="20250531165000 +0200" stop="20250531170200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Dare to Rise T1 · Fuchse Berlin &amp; Mathias Gidsel</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· A los 25 años, Mathias Gidsel ha conquistado casi todos los trofeos con los que un jugador profesional de balonmano puede soñar. Votos: 15.
+</desc>
+  </programme>
+  <programme start="20250531170200 +0200" stop="20250531175500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Balonmano DAZN T2022 · Una Final Four inolvidable</title>
+    <desc lang="es">Deportes/Programa deportes | 2022 | TP | *6.0/10
+· Revivimos en una película la Final Four de Colonia que ganó el Barcelona en la primavera de 2022 ante el Kielce polaco. Votos: 6.
+</desc>
+  </programme>
+  <programme start="20250531175500 +0200" stop="20250531193900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Semifinales: Metz Handball - Odense Handbold T24/25 · Liga de Campeones de balonmano F</title>
+    <desc lang="es">Deportes/Balonmano | 2025 | TP
+· Las 16 mejores escuadras femeninas de balonmano del Viejo Continente disputan la EHF Champions League, la Copa de Europa de este deporte. El Gyori Audi ETO KC de Hungría es el campeón actual.
+· País: Hungría</desc>
+  </programme>
+  <programme start="20250531193900 +0200" stop="20250531195200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Dare to Rise T1 · Roland Mikler</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· PICK Szeged en la Machineseeker EHF Champions League y que sigue en plena forma en su quinta década. Votos: 17.
+</desc>
+  </programme>
+  <programme start="20250531195200 +0200" stop="20250531201200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pol Position - Dr Charte</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Pol Espargaró mantiene una distendida charla con el doctor Ángel Charte, Director Médico del Campeonato del Mundo de MotoGP, para conocer de primera mano el espectacular mundo de esta competición.
+· País: España</desc>
+  </programme>
+  <programme start="20250531201200 +0200" stop="20250531211400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Gran Bretaña</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250531211400 +0200" stop="20250531214100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Gran Bretaña</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250531214100 +0200" stop="20250531224700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">La vida en rojo</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 30.
+</desc>
+  </programme>
+  <programme start="20250531224700 +0200" stop="20250531232700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de MotoE - Francia T2025 · Carrera 2</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP
+· El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas. La primera de ellas, en el circuito francés de Le Mans.
+· País: Francia</desc>
+  </programme>
+  <programme start="20250531232700 +0200" stop="20250601002100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Asia Talent Cup T2025 · Catar - Carrera 1</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP | *8.0/10
+· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250601002100 +0200" stop="20250601011600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Asia Talent Cup T2025 · Catar - Carrera 2</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP
+· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
+</desc>
   </programme>
 </tv>
