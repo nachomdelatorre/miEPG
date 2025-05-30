@@ -1,120 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 29/05/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 30/05/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250529130000 +0200" stop="20250529132300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pol Position - Carlos Ezpeleta</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
-· Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 18.
-</desc>
-  </programme>
-  <programme start="20250529132300 +0200" stop="20250529141900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Álex</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *10.0/10
-· En MotoGP no se regala nada y Álex Márquez ha tenido que luchar como el que más para asentarse en la parrilla. Dentro del casco se encuentra un piloto divertido con una historia que va a sorprender a muchos. Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20250529141900 +0200" stop="20250529152000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Martinator, voluntad de hierro</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *8.0/10
-· Escuchaba el rugido de los motores del Jarama desde su habitación y ahora pelea por ser campeón de MotoGP. Jorge Martín ha superado todos los límites de un deportista de élite para escalar la cima del motociclismo mundial. Votos: 13.
-· País: España</desc>
-  </programme>
-  <programme start="20250529152000 +0200" stop="20250529161800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">La Central T24/25 E27</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
-· País: España
-· Presenta: Andrea Segura, Sandra Riquelme.</desc>
-  </programme>
-  <programme start="20250529161800 +0200" stop="20250529221400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Hexagon Cup T2025 · Semifinal y final</title>
-    <desc lang="es">Deportes/Otros deportes | 2025 | TP | *6.0/10
-· El Madrid Arena acoge la segunda edición de la Hexagon Cup. Del 29 de enero al 2 de febrero, los mejores jugadores de pádel del mundo juegan en un nuevo e innovador formato por equipos. Votos: 14.
-· País: España</desc>
-  </programme>
-  <programme start="20250529221400 +0200" stop="20250529230400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Gran Bretaña T2025 · Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *4.0/10
-· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes. Votos: 3.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250529230400 +0200" stop="20250530000800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Gran Bretaña T2025 · Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250530000800 +0200" stop="20250530012600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Gran Bretaña T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes. Votos: 7.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250530012600 +0200" stop="20250530060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250530060000 +0200" stop="20250530130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250530130000 +0200" stop="20250530145200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250530130000 +0200" stop="20250530145800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga de Campeones (F) T24/25 · Final: Arsenal - Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · Arsenal y Barcelona pelean en Portugal por el título de campeonas de Europa. Votos: 27.
 · País: Portugal</desc>
   </programme>
-  <programme start="20250530145200 +0200" stop="20250530153800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250530145800 +0200" stop="20250530155600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">La Central T24/25 E27</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20250530153800 +0200" stop="20250530155100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250530155600 +0200" stop="20250530160900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Desde el corazón de una final</title>
     <desc lang="es">Documentales/Deportes | 2024 | TP | *6.0/10
 · Detrás de un gran evento como la final de la UEFA Women Champions League, hay un gran equipo volcado para que no os perdáis ningún detalle de lo que ocurre dentro, y fuera del césped. El FC consigue su tercer título europeo. Votos: 16.
 </desc>
   </programme>
-  <programme start="20250530155100 +0200" stop="20250530175200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250530160900 +0200" stop="20250530171000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Erasmus FC T24/25 · Las claves del Barça campeón</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
   </programme>
-  <programme start="20250530175200 +0200" stop="20250530195400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250530171000 +0200" stop="20250530191100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 38: Nottingham Forest - Chelsea</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
 · Nottingham Forest y Chelsea se citan en la última jornada de la Premier en un duelo directo por una plaza para la próxima edición de la Liga de Campeones. Votos: 4.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250530195400 +0200" stop="20250530200700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250530191100 +0200" stop="20250530192400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Kepa Arrizabalaga</title>
     <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
 · El futbolista del AFC Bournemouth repasa su trayectoria como el portero más caro de la historia tras fichar por el Chelsea y su actual andadura en el conjunto de las 'Cherries'. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250530200700 +0200" stop="20250530220800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 38: Manchester Utd. - Aston Villa</title>
+  <programme start="20250530192400 +0200" stop="20250530213100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 38: Manchester United - Aston Villa</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *2.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250530220800 +0200" stop="20250531002200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250530213100 +0200" stop="20250530234200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">A1 Padel: Open de Lanzarote T2025 · Final</title>
     <desc lang="es">Deportes/Pádel | 2025 | TP | *6.0/10
 · El circuito A1 Padel hace parada en la isla canaria de Lanzarote. Del 21 al 27 de abril, la Marina de Arrecife sirve de pista central de este abierto en el que compiten 32 parejas en busca del título. El torneo entrega 156.000 euros en premios. Votos: 16.
 · País: España</desc>
   </programme>
-  <programme start="20250531002200 +0200" stop="20250531060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250530234200 +0200" stop="20250531010000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Gran Bretaña T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes. Votos: 7.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250531010000 +0200" stop="20250531060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -487,5 +432,92 @@
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · Tras eliminar con comodidad al PSV los de Arteta se enfrentan al vigente campeón. Los blancos sufrieron para dejar en el camino al At.Madrid. Gunners y merengues son segundos en sus ligas. Votos: 25.
 · País: R.U.</desc>
+  </programme>
+  <programme start="20250604204600 +0200" stop="20250605060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">A1 Padel: Grand Master de Francia T2025 · Final: Sánchez - Florensa vs Pereyra - De Pascual</title>
+    <desc lang="es">Deportes/Pádel | 2025 | TP | *6.0/10
+· Una de las citas más importantes del calendario A1 Padel. Del 21 al 30 de marzo, la ciudad de Beausoleil alberga el Grand Master de Francia. Sobre la emblemática moqueta roja del circuito, un espectáculo de alto nivel con alguno de los mejores jugadores Votos: 44.
+· País: Francia</desc>
+  </programme>
+  <programme start="20250605060000 +0200" stop="20250605130000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250605130000 +0200" stop="20250605132800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Entrevista - Gigi Dall'igna</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Entrevista a Gigi Dall'Igna, jefe de Ducati. El italiano no deja ningún tema sin tratar y habla abiertamente de la situación del equipo.
+</desc>
+  </programme>
+  <programme start="20250605132800 +0200" stop="20250605142400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Aragón: Carrera Moto3</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· Retransmisión de las pruebas del Campeonato del Mundo de Motociclismo. Votos: 17.
+· País: España</desc>
+  </programme>
+  <programme start="20250605142400 +0200" stop="20250605152100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Aragón: Carrera Moto2</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· Retransmisión de las pruebas del Campeonato del Mundo de Motociclismo. Votos: 19.
+· País: España</desc>
+  </programme>
+  <programme start="20250605152100 +0200" stop="20250605160000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Aragón: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· Retransmisión de las pruebas del Campeonato del Mundo de Motociclismo. Votos: 21.
+· País: España</desc>
+  </programme>
+  <programme start="20250605160000 +0200" stop="20250605164100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Rueda de prensa motos T2025 · Aragón - Paddock Abierto</title>
+    <desc lang="es">Sin clasificar/SIN CLASIFICAR | 2025 | TP
+· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
+</desc>
+  </programme>
+  <programme start="20250605164100 +0200" stop="20250605171000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · España</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 5.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250605171000 +0200" stop="20250605173700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Francia</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250605173700 +0200" stop="20250605190900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jarama Classic - Carrera 1 T2025 · Iberian Supercars Endurance</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP
+· La Supercars Endurance, también conocida como Iberian Supercar Endurance, es una competición de automovilismo de resistencia que se celebra principalmente en circuitos de España y Portugal. La nueva temporada cuenta con seis pruebas puntuables.
+· País: España y Portugal</desc>
+  </programme>
+  <programme start="20250605190900 +0200" stop="20250605204000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jarama Classic - Carrera 2 T2025 · Iberian Supercars Endurance</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP
+· La Supercars Endurance, también conocida como Iberian Supercar Endurance, es una competición de automovilismo de resistencia que se celebra principalmente en circuitos de España y Portugal. La nueva temporada cuenta con seis pruebas puntuables.
+· País: España y Portugal</desc>
+  </programme>
+  <programme start="20250605204000 +0200" stop="20250605214100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Rueda de prensa motos T2025 · Aragón - Paddock Abierto</title>
+    <desc lang="es">Sin clasificar/SIN CLASIFICAR | 2025 | TP
+· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
+</desc>
+  </programme>
+  <programme start="20250605214100 +0200" stop="20250605224200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Gran Bretaña T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes. Votos: 7.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250605224200 +0200" stop="20250605231100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Gran Bretaña</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
   </programme>
 </tv>
