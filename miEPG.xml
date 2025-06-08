@@ -1,118 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 07/06/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 08/06/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250607083500 +0200" stop="20250607120300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Aragón</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos.
-· País: España</desc>
-  </programme>
-  <programme start="20250607120300 +0200" stop="20250607123000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pol Position T2025 · Quartararo</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El piloto del Monster Energy Yamaha y campeón del Mundo de MotoGP Fabio Quartararo, es el tercer invitado de Pol Espargaró en el espacio 'Pol Position'.
-· País: España</desc>
-  </programme>
-  <programme start="20250607123000 +0200" stop="20250607171900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Aragón</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *2.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 1.
-· País: España</desc>
-  </programme>
-  <programme start="20250607171900 +0200" stop="20250607174700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · España</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 5.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250607174700 +0200" stop="20250607181500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Francia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250607181500 +0200" stop="20250607183900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Gran Bretaña</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250607183900 +0200" stop="20250607200900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Doha - Carrera final</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *6.0/10
-· El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad. Votos: 11.
-</desc>
-  </programme>
-  <programme start="20250607200900 +0200" stop="20250607204400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · El regreso</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· La intrahistoria del viaje de Marc Márquez, desde su adaptación a una moto y un entorno nuevos hasta su regreso a la senda de la victoria 1043 días después. Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20250607204400 +0200" stop="20250607211900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · Negocios a 360 km/h</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· La decisión de Ducati centró la atención del 'mercato' mientras se avivaba la 'guerra' entre constructores para intentar destronar a la fábrica de Bolonia. Votos: 6.
-· País: España</desc>
-  </programme>
-  <programme start="20250607211900 +0200" stop="20250607214400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · La joven promesa</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· La llegada de una nueva estrella. Desde su debut, Acosta captó la atención de todos y ahora puedes saborear imágenes muy especiales de su campaña como rookie. Votos: 7.
-· País: España</desc>
-  </programme>
-  <programme start="20250607214400 +0200" stop="20250607222300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · La revancha - Parte I</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *10.0/10
-· El penúltimo episodio explora la situación de ambos aspirantes, Bagnaia y Martín, a medida que se acerca la recta final de la temporada. Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20250607222300 +0200" stop="20250607232400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Sprint T2025 · MotoGP - GP de Aragón</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 80.
-· País: España</desc>
-  </programme>
-  <programme start="20250607232400 +0200" stop="20250607235800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · La revancha - Parte II</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· Una radiografía completa de las carreras decisivas que llevaron a Martín a convertirse en Campeón del Mundo de MotoGP por primera vez. Votos: 1.
-· País: España</desc>
-  </programme>
-  <programme start="20250607235800 +0200" stop="20250608012000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DTM - Oschersleben T2025 · Carrera 2</title>
-    <desc lang="es">Deportes/Automovilismo | 2025 | TP
-· La temporada 2025 del DTM arrancará del 25 al 27 de abril en la Motorsport Arena Oschersleben, destacando por su trazado técnico y excelente visibilidad para los espectadores. Este evento marcará el inicio de una intensa lucha por el título DTM.
-</desc>
-  </programme>
-  <programme start="20250608012000 +0200" stop="20250608060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250608060000 +0200" stop="20250608093000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250608093000 +0200" stop="20250608103500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Aragón</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 85.
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 88.
 · País: España</desc>
   </programme>
   <programme start="20250608103500 +0200" stop="20250608114000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Aragón</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 85.
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 87.
 · País: España</desc>
   </programme>
   <programme start="20250608114000 +0200" stop="20250608125600 +0200" channel="DAZN 1 HD 1080P">
@@ -130,7 +31,7 @@
   <programme start="20250608135500 +0200" stop="20250608145500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Aragón</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 85.
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 86.
 · País: España</desc>
   </programme>
   <programme start="20250608145500 +0200" stop="20250608170600 +0200" channel="DAZN 1 HD 1080P">
@@ -146,9 +47,9 @@
 </desc>
   </programme>
   <programme start="20250608172900 +0200" stop="20250608183100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Sprint T2025 · MotoGP - GP de Aragón</title>
+    <title lang="es">MotoGP - GP de Aragón T2025 · Sprint</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 80.
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 85.
 · País: España</desc>
   </programme>
   <programme start="20250608183100 +0200" stop="20250608190200 +0200" channel="DAZN 1 HD 1080P">
@@ -158,7 +59,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250608190200 +0200" stop="20250608202400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera 1 T2025 · DTM - Zandvoort</title>
+    <title lang="es">DTM - Zandvoort T2025 · Carrera 1</title>
     <desc lang="es">Deportes/Motor | 2025 | TP
 · El circuito de Zandvoort en Países Bajos acoge la tercera prueba del campeonato.
 · País: Países Bajos</desc>
@@ -190,7 +91,7 @@
   <programme start="20250609000300 +0200" stop="20250609010600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Aragón</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 85.
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 86.
 · País: España</desc>
   </programme>
   <programme start="20250609010600 +0200" stop="20250609060000 +0200" channel="DAZN 1 HD 1080P">
@@ -234,7 +135,7 @@
   <programme start="20250609175100 +0200" stop="20250609185200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Aragón</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 85.
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 87.
 · País: España</desc>
   </programme>
   <programme start="20250609185200 +0200" stop="20250609195400 +0200" channel="DAZN 1 HD 1080P">
@@ -246,7 +147,7 @@
   <programme start="20250609195400 +0200" stop="20250609205500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Aragón</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 85.
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 86.
 · País: España</desc>
   </programme>
   <programme start="20250609205500 +0200" stop="20250609212200 +0200" channel="DAZN 1 HD 1080P">
@@ -294,7 +195,7 @@
   <programme start="20250610130000 +0200" stop="20250610140200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Aragón</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 85.
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 87.
 · País: España</desc>
   </programme>
   <programme start="20250610140200 +0200" stop="20250610150300 +0200" channel="DAZN 1 HD 1080P">
@@ -306,7 +207,7 @@
   <programme start="20250610150300 +0200" stop="20250610160400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Aragón</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 85.
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 86.
 · País: España</desc>
   </programme>
   <programme start="20250610160400 +0200" stop="20250610171100 +0200" channel="DAZN 1 HD 1080P">
@@ -317,7 +218,7 @@
 · Productora: Whisper Films.</desc>
   </programme>
   <programme start="20250610171100 +0200" stop="20250610175600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO MotorLand Aragón - Carrera 1 T2025 · Red Bull Rookies Cup</title>
+    <title lang="es">Red Bull Rookies Cup T2025 · MotorLand Aragón - Carrera 1</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · La Red Bull MotoGP Rookies Cup es una excelente cantera de pilotos. La competición se fundó en 2007 y, desde entonces, muchos de los participantes han progresado hacia el Mundial de motociclismo. Esta temporada cuenta con 7 rondas y 14 carreras.
 · País: España</desc>
@@ -553,7 +454,7 @@
   <programme start="20250612214900 +0200" stop="20250612225100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Aragón</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 85.
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 87.
 · País: España</desc>
   </programme>
   <programme start="20250612225100 +0200" stop="20250612235200 +0200" channel="DAZN 1 HD 1080P">
@@ -565,7 +466,7 @@
   <programme start="20250612235200 +0200" stop="20250613005500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Aragón</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 85.
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 86.
 · País: España</desc>
   </programme>
   <programme start="20250613005500 +0200" stop="20250613060000 +0200" channel="DAZN 1 HD 1080P">
@@ -595,7 +496,7 @@
   <programme start="20250613125300 +0200" stop="20250613135400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Aragón</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 85.
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 86.
 · País: España</desc>
   </programme>
   <programme start="20250613135400 +0200" stop="20250613142100 +0200" channel="DAZN 1 HD 1080P">
@@ -664,5 +565,97 @@
     <desc lang="es">Deportes/Boxeo | 2024 | +18 | *6.0/10
 · La Sala Urbana Venue de Ciudad de México acoge esta interesante velada que tiene el combate entre Jimerr Espinosa y Rogelio Jiménez como plato principal. Votos: 27.
 · País: México</desc>
+  </programme>
+  <programme start="20250614015100 +0200" stop="20250614060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250614060000 +0200" stop="20250614114500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250614114500 +0200" stop="20250614124600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Superpole T2025 · Pirelli Emilia-Romagna Round</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Circuito de Misano acoge la sexta cita de este campeonato. El italiano Nicolo Bulega llega como líder de la clasificación y quiere distanciarse al frente de la tabla ante su público. El español Álvaro Bautista ocupa la cuarta posición.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250614124600 +0200" stop="20250614130800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pol Position - Carlos Ezpeleta</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
+· Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 18.
+</desc>
+  </programme>
+  <programme start="20250614130800 +0200" stop="20250614133000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pol Position - Dr Charte</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Pol Espargaró mantiene una distendida charla con el doctor Ángel Charte, Director Médico del Campeonato del Mundo de MotoGP, para conocer de primera mano el espectacular mundo de esta competición.
+· País: España</desc>
+  </programme>
+  <programme start="20250614133000 +0200" stop="20250614170100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera 1 T2025 · Pirelli Emilia-Romagna Round</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Circuito de Misano acoge la sexta cita de este campeonato. El italiano Nicolo Bulega llega como líder de la clasificación y quiere distanciarse al frente de la tabla ante su público. El español Álvaro Bautista ocupa la cuarta posición. Votos: 120.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250614170100 +0200" stop="20250614172800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pol Position T2025 · Quartararo</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El piloto del Monster Energy Yamaha y campeón del Mundo de MotoGP Fabio Quartararo, es el tercer invitado de Pol Espargaró en el espacio 'Pol Position'.
+· País: España</desc>
+  </programme>
+  <programme start="20250614172800 +0200" stop="20250614182900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Aragón</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 86.
+· País: España</desc>
+  </programme>
+  <programme start="20250614182900 +0200" stop="20250614185600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Aragón</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250614185600 +0200" stop="20250614195200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Álex</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *10.0/10
+· En MotoGP no se regala nada y Álex Márquez ha tenido que luchar como el que más para asentarse en la parrilla. Dentro del casco se encuentra un piloto divertido con una historia que va a sorprender a muchos. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250614195200 +0200" stop="20250614210300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de España T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 864.
+· País: España</desc>
+  </programme>
+  <programme start="20250614210300 +0200" stop="20250614213200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · España</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 5.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250614213200 +0200" stop="20250614222500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Asia Talent Cup T2025 · Catar - Carrera 1</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP | *8.0/10
+· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250614222500 +0200" stop="20250614231800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Asia Talent Cup T2025 · Catar - Carrera 2</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP
+· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
+</desc>
+  </programme>
+  <programme start="20250614231800 +0200" stop="20250615005200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Dubrovnik - Carrera T2025 · E1 Series</title>
+    <desc lang="es">Deportes/Deporte acuático | 2025 | TP
+· Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
+</desc>
   </programme>
 </tv>
