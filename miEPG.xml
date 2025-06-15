@@ -1,113 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 14/06/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 15/06/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250614105000 +0200" stop="20250614113600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Superpole T2025 · Pirelli Emilia-Romagna Round</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Circuito de Misano acoge la sexta cita de este campeonato. El italiano Nicolo Bulega llega como líder de la clasificación y quiere distanciarse al frente de la tabla ante su público. El español Álvaro Bautista ocupa la cuarta posición.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250614113600 +0200" stop="20250614115900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pol Position - Carlos Ezpeleta</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
-· Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 18.
-</desc>
-  </programme>
-  <programme start="20250614115900 +0200" stop="20250614122000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pol Position - Dr Charte</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Pol Espargaró mantiene una distendida charla con el doctor Ángel Charte, Director Médico del Campeonato del Mundo de MotoGP, para conocer de primera mano el espectacular mundo de esta competición.
-· País: España</desc>
-  </programme>
-  <programme start="20250614122000 +0200" stop="20250614160100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera 1 T2025 · Pirelli Emilia-Romagna Round</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Circuito de Misano acoge la sexta cita de este campeonato. El italiano Nicolo Bulega llega como líder de la clasificación y quiere distanciarse al frente de la tabla ante su público. El español Álvaro Bautista ocupa la cuarta posición. Votos: 120.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250614160100 +0200" stop="20250614161500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pol Position T2025 · Quartararo</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El piloto del Monster Energy Yamaha y campeón del Mundo de MotoGP Fabio Quartararo, es el tercer invitado de Pol Espargaró en el espacio 'Pol Position'.
-· País: España</desc>
-  </programme>
-  <programme start="20250614161500 +0200" stop="20250614172200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Aragón T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 94.
-· País: España</desc>
-  </programme>
-  <programme start="20250614172200 +0200" stop="20250614174400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Aragón</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250614174400 +0200" stop="20250614184000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Álex</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *10.0/10
-· En MotoGP no se regala nada y Álex Márquez ha tenido que luchar como el que más para asentarse en la parrilla. Dentro del casco se encuentra un piloto divertido con una historia que va a sorprender a muchos. Votos: 2.
-· País: España</desc>
-  </programme>
-  <programme start="20250614184000 +0200" stop="20250614195000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de España T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen. Votos: 864.
-· País: España</desc>
-  </programme>
-  <programme start="20250614195000 +0200" stop="20250614202000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · España</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 5.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250614202000 +0200" stop="20250614211400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2025 · Catar - Carrera 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP | *8.0/10
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi. Votos: 2.
-</desc>
-  </programme>
-  <programme start="20250614211400 +0200" stop="20250614220700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2025 · Catar - Carrera 2</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
-</desc>
-  </programme>
-  <programme start="20250614220700 +0200" stop="20250614233700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Dubrovnik - Carrera final T2025 · E1 Series</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP
-· Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
-</desc>
-  </programme>
-  <programme start="20250614233700 +0200" stop="20250615001900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2024 · Zarco, encontrando el equilibrio</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
-· Programa de MotoGP. Votos: 3.
-</desc>
-  </programme>
-  <programme start="20250615001900 +0200" stop="20250615010000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2024 · Pedro Acosta, obligado a ganar</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
-· Coronado como campeón del mundo de Moto2, Pedro Acosta vuelve a su pueblo. Mazarrón es el hogar que ha visto crecer a la gran promesa del motociclismo actual hasta su desembarco en la categoría de MotoGP. Votos: 10.
-· País: España</desc>
-  </programme>
-  <programme start="20250615010000 +0200" stop="20250615060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250615060000 +0200" stop="20250615104500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250615104500 +0200" stop="20250615113500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Superpole Race T2025 · Pirelli Emilia-Romagna Round</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
@@ -247,7 +143,7 @@
 · País: R.U.</desc>
   </programme>
   <programme start="20250616234700 +0200" stop="20250617011500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Dubrovnik - Carrera final T2025 · E1 Series</title>
+    <title lang="es">E1 Series T2025 · Dubrovnik - Carrera final</title>
     <desc lang="es">Deportes/Deporte acuático | 2025 | TP
 · Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
 </desc>
@@ -331,7 +227,7 @@
 </desc>
   </programme>
   <programme start="20250618130000 +0200" stop="20250618143200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Dubrovnik - Carrera final T2025 · E1 Series</title>
+    <title lang="es">E1 Series T2025 · Dubrovnik - Carrera final</title>
     <desc lang="es">Deportes/Deporte acuático | 2025 | TP
 · Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
 </desc>
@@ -343,7 +239,7 @@
 </desc>
   </programme>
   <programme start="20250618144600 +0200" stop="20250618163700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Semifinales: Barcelona - Magdeburgo T24/25 · Liga de campeones de balonmano</title>
+    <title lang="es">Liga de campeones de balonmano T24/25 · Semifinales: Barcelona - Magdeburgo</title>
     <desc lang="es">Deportes/Balonmano | 2025 | TP
 · Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
 · País: Alemania</desc>
@@ -391,7 +287,7 @@
 </desc>
   </programme>
   <programme start="20250618235900 +0200" stop="20250619010300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Richardson Hitchins vs. George Kambosos Jr. T2025 · Boxeo: velada Hitchins vs Kambosos Jr</title>
+    <title lang="es">Boxeo: velada Hitchins vs Kambosos Jr T2025 · Richardson Hitchins vs. George Kambosos Jr</title>
     <desc lang="es">Deportes/Boxeo | 2025 | +18
 · Nueva York acoge esta velada de boxeo que tiene como combate estrella en enfrentamiento entre el estadounidense Richardson Hitchins y el australiano George Kambosos Jr.
 · País: Australia y EE.UU.</desc>
@@ -574,5 +470,92 @@
     <desc lang="es">Deportes/Boxeo | 2025 | +18
 · El Virgin Hotels de Las Vegas acoge esta interesante velada de boxeo que tiene como combate estrella el enfrentamiento entre Bektemir Melikuziev y Darius Fulghum.
 · País: EE.UU.</desc>
+  </programme>
+  <programme start="20250620215900 +0200" stop="20250621060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250621060000 +0200" stop="20250621083500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250621083500 +0200" stop="20250621115100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Italia</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250621115100 +0200" stop="20250621121800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
+· Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán.
+· País: España</desc>
+  </programme>
+  <programme start="20250621121800 +0200" stop="20250621123000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pol Position T2025 · Quartararo</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El piloto del Monster Energy Yamaha y campeón del Mundo de MotoGP Fabio Quartararo, es el tercer invitado de Pol Espargaró en el espacio 'Pol Position'.
+· País: España</desc>
+  </programme>
+  <programme start="20250621123000 +0200" stop="20250621164100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Italia</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250621164100 +0200" stop="20250621170300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Aragón</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250621170300 +0200" stop="20250621172700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Gran Bretaña</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250621172700 +0200" stop="20250621175500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Francia</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250621175500 +0200" stop="20250621192600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">E1 Series T2025 · Dubrovnik - Carrera final</title>
+    <desc lang="es">Deportes/Deporte acuático | 2025 | TP
+· Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
+</desc>
+  </programme>
+  <programme start="20250621192600 +0200" stop="20250621211900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam T2024 · Nadal - Djokovic</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 13.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20250621211900 +0200" stop="20250621222000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Italia T2025 · Sprint MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250621222000 +0200" stop="20250622001800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga de Campeones (F) T24/25 · Final: Arsenal - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Arsenal y Barcelona pelean en Portugal por el título de campeonas de Europa. Votos: 102.
+· País: Portugal</desc>
+  </programme>
+  <programme start="20250622001800 +0200" stop="20250622010800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Bostan vs Fawaz T2025 · George Liddard vs Derrick Osaze</title>
+    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *6.0/10
+· El Indigo at The O2 de Greenwich, en Londres, alberga la velada de boxeo que enfrenta en el combate principal a Junaid Bostan contra Bilal Fawaz. Votos: 12.
+· País: R.U.</desc>
   </programme>
 </tv>
