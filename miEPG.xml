@@ -1,142 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 17/06/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 18/06/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250617130000 +0200" stop="20250617150100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">FIM JuniorGP T2025 · Jerez - European Talent Cup</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El FIM JuniorGP (el antiguo Campeonato de España de Velocidad) es una excelente cantera para los pilotos que quieren dar el salto al Mundial de motociclismo. El calendario de esta temporada tiene siete fechas, cuatro de ellas en España.
-</desc>
-  </programme>
-  <programme start="20250617150100 +0200" stop="20250617171200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">FIM JuniorGP T2025 · Jerez - Carreras de Moto2 y STK</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El FIM JuniorGP (el antiguo Campeonato de España de Velocidad) es una excelente cantera para los pilotos que quieren dar el salto al Mundial de motociclismo. El calendario de esta temporada tiene siete fechas, cuatro de ellas en España.
-</desc>
-  </programme>
-  <programme start="20250617171200 +0200" stop="20250617191400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">FIM JuniorGP T2025 · Jerez - JuniorGP</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El circuito de Jerez acoge la segunda carrera del calendario 2025 de JuniorGP. Disfruta de todas las carreras de este JuniorGP.
-</desc>
-  </programme>
-  <programme start="20250617191400 +0200" stop="20250617192800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Kepa Arrizabalaga</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
-· El futbolista del AFC Bournemouth repasa su trayectoria como el portero más caro de la historia tras fichar por el Chelsea y su actual andadura en el conjunto de las 'Cherries'. Votos: 6.
-· País: España</desc>
-  </programme>
-  <programme start="20250617192800 +0200" stop="20250617212000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 23: Manchester City - Chelsea</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Semana durísima del Man City que intentará recuperar sensaciones en Premier frente al Chelsea. Los londinenses han perdido el hilo en liga y buscarán reivindicarse. Guardiola y Maresca necesitan una victoria curativa. Votos: 41.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250617212000 +0200" stop="20250617215200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
-· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas. Votos: 15.
-· País: España</desc>
-  </programme>
-  <programme start="20250617215200 +0200" stop="20250617235000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 16: Manchester City - Manchester United</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El derby de la ciudad de Manchester mide a dos equipos envueltos en una crisis de resultados y muy lejos de sus objetivos a inicios de la temporada. Votos: 47.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250617235000 +0200" stop="20250618004500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2025 · Tailandia - Carrera 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi. Votos: 1.
-</desc>
-  </programme>
-  <programme start="20250618004500 +0200" stop="20250618013700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2025 · Tailandia - Carrera 2</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi. Votos: 7.
-</desc>
-  </programme>
-  <programme start="20250618013700 +0200" stop="20250618060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250618060000 +0200" stop="20250618130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250618130000 +0200" stop="20250618143200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250618130000 +0200" stop="20250618143100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">E1 Series T2025 · Dubrovnik - Carrera</title>
     <desc lang="es">Deportes/Deporte acuático | 2025 | TP
 · Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
 </desc>
   </programme>
-  <programme start="20250618143200 +0200" stop="20250618144600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250618143100 +0200" stop="20250618144600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Dare to Rise T1 · Ludovic Fàbregas</title>
     <desc lang="es">Deportes/Balonmano | 2024 | TP | *6.0/10
 · Ludovic Fàbregas es el primer protagonista de la serie 'Dare To Rise' de la EHF. Votos: 5.
 </desc>
   </programme>
-  <programme start="20250618144600 +0200" stop="20250618163700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga de campeones de balonmano T24/25 · Semifinales: Barcelona - Magdeburgo</title>
-    <desc lang="es">Deportes/Balonmano | 2025 | TP
-· Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
-· País: Alemania</desc>
+  <programme start="20250618144600 +0200" stop="20250618163900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam T2024 · Nadal - Djokovic</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 13.
+· País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250618163700 +0200" stop="20250618170500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250618163900 +0200" stop="20250618170700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Balonmano DAZN T2022 · Una Final Four inolvidable</title>
     <desc lang="es">Deportes/Programa deportes | 2022 | TP | *6.0/10
 · Revivimos en una película la Final Four de Colonia que ganó el Barcelona en la primavera de 2022 ante el Kielce polaco. Votos: 6.
 </desc>
   </programme>
-  <programme start="20250618170500 +0200" stop="20250618185600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga de Campeones de balonmano</title>
-    <desc lang="es">Deportes/Balonmano | TP | *10.0/10
-· La Liga de Campeones es la máxima competición del balonmano continental. Votos: 1.
-</desc>
+  <programme start="20250618170700 +0200" stop="20250618192800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga de campeones de balonmano T24/25 · Final: Füchse Berlin - Madgeburgo</title>
+    <desc lang="es">Deportes/Balonmano | 2025 | TP
+· La Liga de Campeones es la máxima competición del balonmano continental.
+· País: Alemania</desc>
   </programme>
-  <programme start="20250618185600 +0200" stop="20250618191800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250618192800 +0200" stop="20250618195000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
     <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
 · El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel. Votos: 23.
 · País: España</desc>
   </programme>
-  <programme start="20250618191800 +0200" stop="20250618211100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250618195000 +0200" stop="20250618214300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 36: Liverpool - Arsenal</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 7.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250618211100 +0200" stop="20250618212300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250618214300 +0200" stop="20250618215600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Raya y Merino, combinación ganadora</title>
     <desc lang="es">Entretenimiento/Entrevista | 2025 | TP
 · Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
 · País: España</desc>
   </programme>
-  <programme start="20250618212300 +0200" stop="20250618231000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250618215600 +0200" stop="20250618234400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 24: Arsenal - Manchester City</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · Arsenal y Manchester City disputan un duelo clave para definir sus opciones en la Premier League. Amsbos equipos arracan el fin de semana en puestos Champions. Votos: 29.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250618231000 +0200" stop="20250618235900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250618234400 +0200" stop="20250619003400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Fever Pitch T23/24 · Iraola se reúne con viejos amigos</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· David Fer y Nacho González entrevistan al rookie de la Premier League Andoni Iraola. Votos: 15.
+· David Fer y Nacho González entrevistan al rookie de la Premier League Andoni Iraola. Votos: 16.
 </desc>
   </programme>
-  <programme start="20250618235900 +0200" stop="20250619010300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250619003400 +0200" stop="20250619012300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Boxeo: velada Hitchins vs Kambosos Jr T2025 · Richardson Hitchins vs. George Kambosos Jr</title>
     <desc lang="es">Deportes/Boxeo | 2025 | +18
 · Nueva York acoge esta velada de boxeo que tiene como combate estrella en enfrentamiento entre el estadounidense Richardson Hitchins y el australiano George Kambosos Jr.
 · País: Australia y EE.UU.</desc>
   </programme>
-  <programme start="20250619010300 +0200" stop="20250619060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250619012300 +0200" stop="20250619060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -525,6 +459,42 @@
 </desc>
   </programme>
   <programme start="20250624000000 +0200" stop="20250624040000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250624040000 +0200" stop="20250624080000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250624080000 +0200" stop="20250624120000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250624120000 +0200" stop="20250624160000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250624160000 +0200" stop="20250624200000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250624200000 +0200" stop="20250625000000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250625000000 +0200" stop="20250625040000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
