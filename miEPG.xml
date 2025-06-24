@@ -1,136 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 23/06/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 24/06/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250623130000 +0200" stop="20250623185700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Hexagon Cup T2025 · Semifinal y final</title>
-    <desc lang="es">Deportes/Otros deportes | 2025 | TP | *6.0/10
-· El Madrid Arena acoge la segunda edición de la Hexagon Cup. Del 29 de enero al 2 de febrero, los mejores jugadores de pádel del mundo juegan en un nuevo e innovador formato por equipos. Votos: 14.
-· País: España</desc>
-  </programme>
-  <programme start="20250623185700 +0200" stop="20250623195600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Italia T2025 · Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250623195600 +0200" stop="20250623205300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Italia T2025 · Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250623205300 +0200" stop="20250623220300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Italia T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder. Votos: 7.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250623220300 +0200" stop="20250623223600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Luis García, el goleador del 'Spanish Liverpool'</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
-· Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League. Votos: 35.
-· País: España</desc>
-  </programme>
-  <programme start="20250623223600 +0200" stop="20250624002600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 17: Tottenham - Liverpool</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 12.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250624002600 +0200" stop="20250624015400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Doha - Carrera final</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *6.0/10
-· El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad. Votos: 11.
-</desc>
-  </programme>
-  <programme start="20250624015400 +0200" stop="20250624060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250624060000 +0200" stop="20250624130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250624130000 +0200" stop="20250624131400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624130000 +0200" stop="20250624131500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Stories T23/24 · Casemiro, El futbolista tiene que evolucionar siempre</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · Carlos Casemiro es uno de los grandes mediocentros de la última década y dejó el Real Madrid justo tras ganar una nueva Champions League para embarcarse en un nuevo proyecto en el Manchester United. Votos: 20.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250624131400 +0200" stop="20250624141600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624131500 +0200" stop="20250624141300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Italia T2025 · Carrera Moto3</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder.
 · País: Italia</desc>
   </programme>
-  <programme start="20250624141600 +0200" stop="20250624151700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624141300 +0200" stop="20250624150900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Italia T2025 · Carrera Moto2</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder.
 · País: Italia</desc>
   </programme>
-  <programme start="20250624151700 +0200" stop="20250624161800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624150900 +0200" stop="20250624162000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Italia T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
 · El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder. Votos: 7.
 · País: Italia</desc>
   </programme>
-  <programme start="20250624161800 +0200" stop="20250624164000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624162000 +0200" stop="20250624164200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Aragón</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250624164000 +0200" stop="20250624170700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624164200 +0200" stop="20250624171000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Francia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250624170700 +0200" stop="20250624173100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624171000 +0200" stop="20250624173500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Gran Bretaña</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250624173100 +0200" stop="20250624174500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624173500 +0200" stop="20250624174800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position T2025 · Quartararo</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El piloto del Monster Energy Yamaha y campeón del Mundo de MotoGP Fabio Quartararo, es el tercer invitado de Pol Espargaró en el espacio 'Pol Position'.
 · País: España</desc>
   </programme>
-  <programme start="20250624174500 +0200" stop="20250624180500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624174800 +0200" stop="20250624180900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position - Dr Charte</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Pol Espargaró mantiene una distendida charla con el doctor Ángel Charte, Director Médico del Campeonato del Mundo de MotoGP, para conocer de primera mano el espectacular mundo de esta competición.
 · País: España</desc>
   </programme>
-  <programme start="20250624180500 +0200" stop="20250624182700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624180900 +0200" stop="20250624183100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position - Carlos Ezpeleta</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
 · Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 18.
 </desc>
   </programme>
-  <programme start="20250624182700 +0200" stop="20250624185000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624183100 +0200" stop="20250624185400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Dream Team - Ducati</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
 · El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250624185000 +0200" stop="20250624200000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624185400 +0200" stop="20250624200000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">La vida en rojo</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 31.
+· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 32.
 </desc>
   </programme>
   <programme start="20250624200000 +0200" stop="20250624202100 +0200" channel="DAZN 1 HD 1080P">
@@ -146,31 +92,31 @@
 · El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad. Votos: 11.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250624215500 +0200" stop="20250624220700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624215500 +0200" stop="20250624220800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Emery y Monchi, transformando el Aston Villa</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
 · Eneko Fernández viaja hasta Birmingham para charlar con Unai Emery y Monchi. Desde su llegada al Aston Villa, el entrenador guipuzcoano y el director deportivo no han hecho más que consolidar al equipo de Birmimgham. Votos: 12.
 · País: España</desc>
   </programme>
-  <programme start="20250624220700 +0200" stop="20250624223900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624220800 +0200" stop="20250624224000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
-· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas. Votos: 15.
+· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas. Votos: 16.
 · País: España</desc>
   </programme>
-  <programme start="20250624223900 +0200" stop="20250625003700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250624224000 +0200" stop="20250625003800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga de Campeones (F) T24/25 · Final: Arsenal - Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
 · Arsenal y Barcelona pelean en Portugal por el título de campeonas de Europa. Votos: 102.
 · País: Portugal</desc>
   </programme>
-  <programme start="20250625003700 +0200" stop="20250625012300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250625003800 +0200" stop="20250625012100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Boxeo: velada Till vs Stewart T2025 · Velada completa</title>
     <desc lang="es">Deportes/Boxeo | 2025 | +18 | *8.0/10
 · Misfits Boxing lleva a la localidad inglesa de Derby su velada número 21 de las X Series. Votos: 3.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250625012300 +0200" stop="20250625060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250625012100 +0200" stop="20250625060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -650,6 +596,42 @@
 · País: España</desc>
   </programme>
   <programme start="20250629235800 +0200" stop="20250630040000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250630040000 +0200" stop="20250630080000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250630080000 +0200" stop="20250630120000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250630120000 +0200" stop="20250630160000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250630160000 +0200" stop="20250630200000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250630200000 +0200" stop="20250701000000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250701000000 +0200" stop="20250701040000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
