@@ -1,155 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 30/06/2025 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 01/07/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250630130100 +0200" stop="20250630145100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Copa de Italia T24/25 · Semifinales: Inter - Milan</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título. Votos: 301.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250630145100 +0200" stop="20250630162200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">La caída de Maradona</title>
-    <desc lang="es">Documentales/Deportes | 2023 | +7 | *6.0/10
-· El 30 de junio de 1994, Diego Maradona, la mayor estrella del fútbol mundial, fue expulsado de la Copa del Mundo de EE.UU. tras no superar un control antidopaje después de un partido. La expulsión del Diego sorprendió al mundo del deporte. Votos: 24.
-</desc>
-  </programme>
-  <programme start="20250630162200 +0200" stop="20250630163800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
-· Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán. Votos: 5.
-· País: España</desc>
-  </programme>
-  <programme start="20250630163800 +0200" stop="20250630183500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 16: Manchester City - Manchester United</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El derby de la ciudad de Manchester mide a dos equipos envueltos en una crisis de resultados y muy lejos de sus objetivos a inicios de la temporada. Votos: 47.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250630183500 +0200" stop="20250630185400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Vuelta al mundo con el trofeo T2025 · Madrid</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El trofeo del Mundial de Clubes de la FIFA realiza una gira por las ciudades de los clubes participantes antes del arranque oficial del torneo. Votos: 23.
-</desc>
-  </programme>
-  <programme start="20250630185400 +0200" stop="20250630195500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250701130100 +0200" stop="20250701135800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Países Bajos T2025 · Carrera Moto3</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Gran Premio de los Países Bajos de motociclismo es una de las carreras más importantes y queridas del calendario de MotoGP. El circuito de Assen, una mezcla de curvas rápidas, chicanes y secciones técnicas, representa un desafío para los pilotos.
 · País: Países Bajos</desc>
   </programme>
-  <programme start="20250630195500 +0200" stop="20250630205600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250701135800 +0200" stop="20250701145500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Países Bajos T2025 · Carrera Moto2</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Gran Premio de los Países Bajos de motociclismo es una de las carreras más importantes y queridas del calendario de MotoGP. El circuito de Assen, una mezcla de curvas rápidas, chicanes y secciones técnicas, representa un desafío para los pilotos.
 · País: Países Bajos</desc>
   </programme>
-  <programme start="20250630205600 +0200" stop="20250630215800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250701145500 +0200" stop="20250701160400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Países Bajos T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
 · El Gran Premio de los Países Bajos de motociclismo es una de las carreras más importantes y queridas del calendario de MotoGP. El circuito de Assen, una mezcla de curvas rápidas, chicanes y secciones técnicas, representa un desafío para los pilotos. Votos: 4.
 · País: Países Bajos</desc>
   </programme>
-  <programme start="20250630215800 +0200" stop="20250630235600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 9: Arsenal - Liverpool</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· La derrota ante el Bournemouth jugando gran parte del encuentro con uno menos ha alejado a los de Arteta del primer puesto. El Liverpool solo ha perdido un partido oficial en toda la temporada y muestra un blindaje defensivo a prueba de todo. Votos: 27.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250630235600 +0200" stop="20250701012500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Lago Maggiore - Carreras finales</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP
-· Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250701012500 +0200" stop="20250701025300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Dubrovnik - Carrera final</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *8.0/10
-· Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes. Votos: 5.
-</desc>
-  </programme>
-  <programme start="20250701025300 +0200" stop="20250701060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250701060000 +0200" stop="20250701130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250701130000 +0200" stop="20250701140200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Países Bajos T2025 · Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Gran Premio de los Países Bajos de motociclismo es una de las carreras más importantes y queridas del calendario de MotoGP. El circuito de Assen, una mezcla de curvas rápidas, chicanes y secciones técnicas, representa un desafío para los pilotos.
-· País: Países Bajos</desc>
-  </programme>
-  <programme start="20250701140200 +0200" stop="20250701150300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Países Bajos T2025 · Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Gran Premio de los Países Bajos de motociclismo es una de las carreras más importantes y queridas del calendario de MotoGP. El circuito de Assen, una mezcla de curvas rápidas, chicanes y secciones técnicas, representa un desafío para los pilotos.
-· País: Países Bajos</desc>
-  </programme>
-  <programme start="20250701150300 +0200" stop="20250701160400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Países Bajos T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El Gran Premio de los Países Bajos de motociclismo es una de las carreras más importantes y queridas del calendario de MotoGP. El circuito de Assen, una mezcla de curvas rápidas, chicanes y secciones técnicas, representa un desafío para los pilotos. Votos: 4.
-· País: Países Bajos</desc>
-  </programme>
-  <programme start="20250701160400 +0200" stop="20250701164100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2025 · Pecco Bagnaia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP.
-</desc>
-  </programme>
-  <programme start="20250701164100 +0200" stop="20250701174800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250701160400 +0200" stop="20250701171500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Aragón T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
 · El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 95.
 · País: España</desc>
   </programme>
-  <programme start="20250701174800 +0200" stop="20250701181000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250701171500 +0200" stop="20250701173700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Aragón</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250701181000 +0200" stop="20250701192000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250701173700 +0200" stop="20250701184800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Italia T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
 · El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder. Votos: 8.
 · País: Italia</desc>
   </programme>
-  <programme start="20250701192000 +0200" stop="20250701194700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250701184800 +0200" stop="20250701191200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Italia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250701194700 +0200" stop="20250701203400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250701191200 +0200" stop="20250701200000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Maverick Viñales: dos vidas</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
 · Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 22.
 · País: España</desc>
   </programme>
-  <programme start="20250701203400 +0200" stop="20250701210100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250701200000 +0200" stop="20250701202100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Países Bajos</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250701210100 +0200" stop="20250701220200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250701202100 +0200" stop="20250701205200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de MotoE - Países Bajos T2025 · Carrera 1</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas. La primera de ellas, en el circuito francés de Le Mans.
 · País: Países Bajos</desc>
+  </programme>
+  <programme start="20250701205200 +0200" stop="20250701220200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
   <programme start="20250701220200 +0200" stop="20250701235300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 31: Everton - Arsenal</title>
@@ -595,6 +517,42 @@
 · País: R.U.</desc>
   </programme>
   <programme start="20250707015300 +0200" stop="20250707040000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250707040000 +0200" stop="20250707080000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250707080000 +0200" stop="20250707120000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250707120000 +0200" stop="20250707160000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250707160000 +0200" stop="20250707200000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250707200000 +0200" stop="20250708000000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250708000000 +0200" stop="20250708040000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
