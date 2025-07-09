@@ -1,102 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 08/07/2025 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 09/07/2025 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250708130100 +0200" stop="20250708133800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League Features T2 · Rodrigo Hernández, excepcionalmente normal</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
-· Repaso en general con todo lo relacionado con la Premier League. Votos: 18.
-</desc>
-  </programme>
-  <programme start="20250708133800 +0200" stop="20250708154600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 5: Manchester City - Arsenal</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El desgaste europeo puede ser clave en un duelo titánico. La pasada Premier se la llevó el City pero los gunners pelearon hasta el final. Haaland vive un momento excelso y los de Arteta están sabiendo sobreponerse a bajas importantes. Gran partido. Votos: 22.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250708154600 +0200" stop="20250708160200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
-· Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán. Votos: 5.
-· País: España</desc>
-  </programme>
-  <programme start="20250708160200 +0200" stop="20250708170900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Born Racers T1 · Sacrificio</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
-· La academia más rápida sobre dos ruedas sigue la trayectoria de ocho adolescentes. Votos: 1.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20250708170900 +0200" stop="20250708175400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Rookies Cup T2025 · Le Mans - Carrera 1</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· La Red Bull MotoGP Rookies Cup es una excelente cantera de pilotos. La competición se fundó en 2007 y, desde entonces, muchos de los participantes han progresado hacia el Mundial de motociclismo. Esta temporada cuenta con 7 rondas y 14 carreras. Votos: 1.
-</desc>
-  </programme>
-  <programme start="20250708175400 +0200" stop="20250708185000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Born Racers T1 · Rivalidad</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Born Racers, la academia más rápida sobre dos ruedas, sigue la trayectoria de ocho adolescentes que persiguen el sueño de llegar a lo más alto en el mundo de las carreras de motos. Votos: 11.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20250708185000 +0200" stop="20250708205200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">FIM JuniorGP T2025 · Jerez - JuniorGP</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El circuito de Jerez acoge la segunda carrera del calendario 2025 de JuniorGP. Disfruta de todas las carreras de este JuniorGP.
-</desc>
-  </programme>
-  <programme start="20250708205200 +0200" stop="20250708214800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Aragón T2025 · Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 89.
-· País: España</desc>
-  </programme>
-  <programme start="20250708214800 +0200" stop="20250708224600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Aragón T2025 · Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 86.
-· País: España</desc>
-  </programme>
-  <programme start="20250708224600 +0200" stop="20250708235300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Aragón T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos. Votos: 95.
-· País: España</desc>
-  </programme>
-  <programme start="20250708235300 +0200" stop="20250709011100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">A1 Padel: Grand Master de Francia T2025 · Final: Sánchez - Florensa vs Pereyra - De Pascual</title>
-    <desc lang="es">Deportes/Pádel | 2025 | TP | *6.0/10
-· Una de las citas más importantes del calendario A1 Padel. Del 21 al 30 de marzo, la ciudad de Beausoleil alberga el Grand Master de Francia. Sobre la emblemática moqueta roja del circuito, un espectáculo de alto nivel con alguno de los mejores jugadores Votos: 45.
-· País: Francia</desc>
-  </programme>
-  <programme start="20250709011100 +0200" stop="20250709060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250709060000 +0200" stop="20250709130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250709130000 +0200" stop="20250709185700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250709130100 +0200" stop="20250709185700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Hexagon Cup T2025 · Semifinal y final</title>
     <desc lang="es">Deportes/Otros deportes | 2025 | TP | *6.0/10
 · El Madrid Arena acoge la segunda edición de la Hexagon Cup. Del 29 de enero al 2 de febrero, los mejores jugadores de pádel del mundo juegan en un nuevo e innovador formato por equipos. Votos: 14.
 · País: España</desc>
   </programme>
-  <programme start="20250709185700 +0200" stop="20250709191900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250709185700 +0200" stop="20250709192000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position - Carlos Ezpeleta</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
 · Pol Espargaró mantiene una distendida charla con Carlos Ezpeleta, Director Deportivo de Dorna Sports, para conocer de primera mano el espectacular mundo de MotoGP. Votos: 18.
 </desc>
   </programme>
-  <programme start="20250709191900 +0200" stop="20250709201500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250709192000 +0200" stop="20250709201500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Álex</title>
     <desc lang="es">Deportes/Programa deportes | 2023 | TP | *10.0/10
 · En MotoGP no se regala nada y Álex Márquez ha tenido que luchar como el que más para asentarse en la parrilla. Dentro del casco se encuentra un piloto divertido con una historia que va a sorprender a muchos. Votos: 3.
@@ -108,31 +28,37 @@
 · El icónico Circuito Bugatti de Le Mans acoge un año más el GP de Francia, sexta prueba del Mundial de motociclismo. El legendario trazado destaca por sus curvas cerradas y sus exigentes frenadas. Votos: 4.
 · País: Francia</desc>
   </programme>
-  <programme start="20250709214400 +0200" stop="20250709215700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250709214400 +0200" stop="20250709215800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position T2025 · Quartararo</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El piloto del Monster Energy Yamaha y campeón del Mundo de MotoGP Fabio Quartararo, es el tercer invitado de Pol Espargaró en el espacio 'Pol Position'.
 · País: España</desc>
   </programme>
-  <programme start="20250709215700 +0200" stop="20250709223500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250709215800 +0200" stop="20250709222400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League Features T2 · Casemiro, todo por un sueño</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
+· Su palmarés le avala como uno de los mejores mediocentros defensivos del mundo. Pero no muchos conocen su historia, la de un niño brasileño que soñaba con ser futbolista profesional. Votos: 6.
+</desc>
+  </programme>
+  <programme start="20250709222400 +0200" stop="20250709230200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Features T2 · Rodrigo Hernández, excepcionalmente normal</title>
     <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
 · Repaso en general con todo lo relacionado con la Premier League. Votos: 18.
 </desc>
   </programme>
-  <programme start="20250709223500 +0200" stop="20250710002600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250709230200 +0200" stop="20250710005400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 23: Manchester City - Chelsea</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
 · Semana durísima del Man City que intentará recuperar sensaciones en Premier frente al Chelsea. Los londinenses han perdido el hilo en liga y buscarán reivindicarse. Guardiola y Maresca necesitan una victoria curativa. Votos: 41.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250710002600 +0200" stop="20250710004400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250710005400 +0200" stop="20250710010800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
     <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
 · Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250710004400 +0200" stop="20250710060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250710010800 +0200" stop="20250710060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -432,7 +358,7 @@
   <programme start="20250712212800 +0200" stop="20250712223800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Italia T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder. Votos: 8.
+· El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder. Votos: 9.
 · País: Italia</desc>
   </programme>
   <programme start="20250712223800 +0200" stop="20250712230500 +0200" channel="DAZN 1 HD 1080P">
@@ -466,43 +392,43 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250713060000 +0200" stop="20250713094000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250713060000 +0200" stop="20250713093000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250713094000 +0200" stop="20250713104500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250713093000 +0200" stop="20250713104500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Alemania</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
 · País: Alemania</desc>
   </programme>
-  <programme start="20250713104500 +0200" stop="20250713120000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250713104500 +0200" stop="20250713114000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Alemania</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
 · País: Alemania</desc>
   </programme>
-  <programme start="20250713120000 +0200" stop="20250713135500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250713114000 +0200" stop="20250713125500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Alemania</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
 · País: Alemania</desc>
   </programme>
-  <programme start="20250713135500 +0200" stop="20250713140000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250713125500 +0200" stop="20250713140000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Previo MotoGP T2025 · MotoGP - GP de Alemania</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
 · País: Alemania</desc>
   </programme>
-  <programme start="20250713140000 +0200" stop="20250713151000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250713140000 +0200" stop="20250713145500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Alemania</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
 · País: Alemania</desc>
   </programme>
-  <programme start="20250713151000 +0200" stop="20250713161200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250713145500 +0200" stop="20250713161200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Post Carreras T2025 · MotoGP - GP de Alemania</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
@@ -575,46 +501,181 @@
 · Oleksandr Usyk y Tyson Fury se enfrentan 21 de diciembre de 2024 en el Kingdom Arena de Riad, Arabia Saudita. Votos: 19.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250713234700 +0200" stop="20250714040000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250713234700 +0200" stop="20250714060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250714040000 +0200" stop="20250714080000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250714060000 +0200" stop="20250714130000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250714080000 +0200" stop="20250714120000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250714130000 +0200" stop="20250714145400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam T2024 · Nadal - Djokovic</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 13.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20250714145400 +0200" stop="20250714162400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">La caída de Maradona</title>
+    <desc lang="es">Documentales/Deportes | 2023 | +7 | *6.0/10
+· El 30 de junio de 1994, Diego Maradona, la mayor estrella del fútbol mundial, fue expulsado de la Copa del Mundo de EE.UU. tras no superar un control antidopaje después de un partido. La expulsión del Diego sorprendió al mundo del deporte. Votos: 24.
+</desc>
+  </programme>
+  <programme start="20250714162400 +0200" stop="20250714182500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 10: Tottenham - Aston Villa</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250714182500 +0200" stop="20250714183800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Emery y Monchi, transformando el Aston Villa</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
+· Eneko Fernández viaja hasta Birmingham para charlar con Unai Emery y Monchi. Desde su llegada al Aston Villa, el entrenador guipuzcoano y el director deportivo no han hecho más que consolidar al equipo de Birmimgham. Votos: 12.
+· País: España</desc>
+  </programme>
+  <programme start="20250714183800 +0200" stop="20250714185400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
+· Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250714185400 +0200" stop="20250714195500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Alemania</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20250714195500 +0200" stop="20250714205600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Alemania</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20250714205600 +0200" stop="20250714215700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Alemania</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20250714215700 +0200" stop="20250714235500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 31: Tottenham - Southampton</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 7.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250714235500 +0200" stop="20250715012900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">E1 Series T2025 · Lago Maggiore - Carreras finales</title>
+    <desc lang="es">Deportes/Deporte acuático | 2025 | TP
+· Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250715012900 +0200" stop="20250715025800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">E1 Series T2025 · Dubrovnik - Carrera final</title>
+    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *8.0/10
+· Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes. Votos: 5.
+</desc>
+  </programme>
+  <programme start="20250715025800 +0200" stop="20250715040800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Zurdo vs. Billam Smith: Riyadh Season Latinos Night T2024 · Gilberto Ramírez vs Chris Billam - Smith</title>
+    <desc lang="es">Deportes/Boxeo | 2024 | +18 | *6.0/10
+· Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh. Votos: 23.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20250715040800 +0200" stop="20250715060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250714120000 +0200" stop="20250714160000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250715060000 +0200" stop="20250715130000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250714160000 +0200" stop="20250714200000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20250715130000 +0200" stop="20250715140200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Alemania</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20250715140200 +0200" stop="20250715150300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Alemania</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20250715150300 +0200" stop="20250715160400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Alemania</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20250715160400 +0200" stop="20250715163900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Decoded T2025 · Pecco Bagnaia</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP.
 </desc>
   </programme>
-  <programme start="20250714200000 +0200" stop="20250715000000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250715163900 +0200" stop="20250715174900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Países Bajos T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· El Gran Premio de los Países Bajos de motociclismo es una de las carreras más importantes y queridas del calendario de MotoGP. El circuito de Assen, una mezcla de curvas rápidas, chicanes y secciones técnicas, representa un desafío para los pilotos. Votos: 4.
+· País: Países Bajos</desc>
   </programme>
-  <programme start="20250715000000 +0200" stop="20250715040000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20250715174900 +0200" stop="20250715181400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Países Bajos</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250715181400 +0200" stop="20250715192400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Italia T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder. Votos: 9.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250715192400 +0200" stop="20250715194900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Italia</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250715194900 +0200" stop="20250715200000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Maverick Viñales: dos vidas</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 22.
+· País: España</desc>
+  </programme>
+  <programme start="20250715200000 +0200" stop="20250715202700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Alemania</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250715202700 +0200" stop="20250715205900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de MotoE - Países Bajos T2025 · Carrera 1</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas. La primera de ellas, en el circuito francés de Le Mans.
+· País: Países Bajos</desc>
+  </programme>
+  <programme start="20250715205900 +0200" stop="20250715225400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 2: Tottenham - Everton</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 5.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250715225400 +0200" stop="20250715233000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de MotoE - Países Bajos T2025 · Carrera 2</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas. La primera de ellas, en el circuito francés de Le Mans.
+· País: Países Bajos</desc>
   </programme>
 </tv>
