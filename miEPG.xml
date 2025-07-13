@@ -1,146 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 12/07/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 13/07/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250712083500 +0200" stop="20250712120200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
-· País: Alemania</desc>
-  </programme>
-  <programme start="20250712120200 +0200" stop="20250712121400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">El contrato de Jorge Martin con Aprilia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El contrato de Jorge Martin con Aprilia.
-· País: España</desc>
-  </programme>
-  <programme start="20250712121400 +0200" stop="20250712123000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pol Position T2025 · Pedro de la Rosa</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Pedro de la Rosa se convierte en anfitrión de Pol Espargaró en el GP de España de F1.
-· País: España</desc>
-  </programme>
-  <programme start="20250712123000 +0200" stop="20250712171900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
-· País: Alemania</desc>
-  </programme>
-  <programme start="20250712171900 +0200" stop="20250712173600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo. Votos: 13.
-· País: España</desc>
-  </programme>
-  <programme start="20250712173600 +0200" stop="20250712182300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 22.
-· País: España</desc>
-  </programme>
-  <programme start="20250712182300 +0200" stop="20250712184600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Dream Team - Ducati</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025. Votos: 6.
-· País: España</desc>
-  </programme>
-  <programme start="20250712184600 +0200" stop="20250712193900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Espargabros</title>
-    <desc lang="es">Documentales/Deportes | 2025 | TP | *6.0/10
-· Dos carreras paralelas pero muy diferentes. Aleix y Pol Espargaró se enfrentan a los momentos más importantes de sus carreras deportivas tras la retirada de ambos de la competición. Votos: 31.
-· País: España</desc>
-  </programme>
-  <programme start="20250712193900 +0200" stop="20250712204300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Álex</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *10.0/10
-· En MotoGP no se regala nada y Álex Márquez ha tenido que luchar como el que más para asentarse en la parrilla. Dentro del casco se encuentra un piloto divertido con una historia que va a sorprender a muchos. Votos: 3.
-· País: España</desc>
-  </programme>
-  <programme start="20250712204300 +0200" stop="20250712221700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Lago Maggiore - Carreras finales</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP
-· Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250712221700 +0200" stop="20250712232600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Alemania T2025 · Sprint MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
-· País: Alemania</desc>
-  </programme>
-  <programme start="20250712232600 +0200" stop="20250712235200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Países Bajos</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250712235200 +0200" stop="20250713010100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Italia T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder. Votos: 9.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250713010100 +0200" stop="20250713060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250713060000 +0200" stop="20250713093000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250713093000 +0200" stop="20250713104500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250713104500 +0200" stop="20250713114000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250713114000 +0200" stop="20250713125500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250713125500 +0200" stop="20250713140000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Previo MotoGP T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250713140000 +0200" stop="20250713145500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250713145500 +0200" stop="20250713170400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Post Carreras T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250713170400 +0200" stop="20250713174000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Decoded T2025 · Pecco Bagnaia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP. Votos: 5.
 </desc>
   </programme>
   <programme start="20250713174000 +0200" stop="20250713184100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Alemania T2025 · Sprint MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 6.
 · País: Alemania</desc>
   </programme>
   <programme start="20250713184100 +0200" stop="20250713190700 +0200" channel="DAZN 1 HD 1080P">
@@ -182,14 +91,14 @@
   </programme>
   <programme start="20250713212300 +0200" stop="20250713222400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250713222400 +0200" stop="20250714002300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 6: Manchester United - Tottenham</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 3.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 4.
 · País: R.U.</desc>
   </programme>
   <programme start="20250714002300 +0200" stop="20250714004500 +0200" channel="DAZN 1 HD 1080P">
@@ -248,20 +157,20 @@
   </programme>
   <programme start="20250714185400 +0200" stop="20250714195500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250714195500 +0200" stop="20250714205600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250714205600 +0200" stop="20250714215700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250714215700 +0200" stop="20250714235500 +0200" channel="DAZN 1 HD 1080P">
@@ -302,26 +211,26 @@
   </programme>
   <programme start="20250715130000 +0200" stop="20250715140200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250715140200 +0200" stop="20250715150300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250715150300 +0200" stop="20250715160400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250715160400 +0200" stop="20250715163900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Decoded T2025 · Pecco Bagnaia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP. Votos: 5.
 </desc>
   </programme>
   <programme start="20250715163900 +0200" stop="20250715174900 +0200" channel="DAZN 1 HD 1080P">
@@ -585,8 +494,8 @@
   </programme>
   <programme start="20250718160600 +0200" stop="20250718164100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Decoded T2025 · Pecco Bagnaia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP. Votos: 5.
 </desc>
   </programme>
   <programme start="20250718164100 +0200" stop="20250718170300 +0200" channel="DAZN 1 HD 1080P">
@@ -603,8 +512,8 @@
   </programme>
   <programme start="20250718172600 +0200" stop="20250718182700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Alemania</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 5.
 · País: Alemania</desc>
   </programme>
   <programme start="20250718182700 +0200" stop="20250718185300 +0200" channel="DAZN 1 HD 1080P">
@@ -643,5 +552,96 @@
     <desc lang="es">Deportes/Boxeo | 2022 | +18 | *6.0/10
 · Oleksandr Usyk y Anthony Joshua vuelven a subirse al ring para verse las caras casi un año después con los títulos mundiales de WBA, IBF, WBO y IBO en juego. Votos: 10.
 </desc>
+  </programme>
+  <programme start="20250719001000 +0200" stop="20250719060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250719060000 +0200" stop="20250719083500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250719083500 +0200" stop="20250719115100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Chequia</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
+· País: República Checa</desc>
+  </programme>
+  <programme start="20250719115100 +0200" stop="20250719120300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mastantuono, sobre la llamada de Xabi: ''Me motivó a dar el salto al Madrid''</title>
+    <desc lang="es">Documentales/Deportes | 2025 | TP
+· Franco Mastantuono está siendo una de las sensaciones de este Mundial de Clubes. El jugador de River Plate de tan solo 17 años analiza todo lo que le está viviendo en su corta pero intensa carrera profesional tras el salto al primer equipo de River.
+· País: España</desc>
+  </programme>
+  <programme start="20250719120300 +0200" stop="20250719123000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
+· Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250719123000 +0200" stop="20250719164100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Chequia</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
+· País: República Checa</desc>
+  </programme>
+  <programme start="20250719164100 +0200" stop="20250719170400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Entrevista - Gigi Dall'igna</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
+· Entrevista a Gigi Dall'Igna, jefe de Ducati. El italiano no deja ningún tema sin tratar y habla abiertamente de la situación del equipo. Votos: 1.
+</desc>
+  </programme>
+  <programme start="20250719170400 +0200" stop="20250719180500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Alemania T2025 · Sprint MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 6.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20250719180500 +0200" stop="20250719190600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Martinator, voluntad de hierro</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *8.0/10
+· Escuchaba el rugido de los motores del Jarama desde su habitación y ahora pelea por ser campeón de MotoGP. Jorge Martín ha superado todos los límites de un deportista de élite para escalar la cima del motociclismo mundial. Votos: 13.
+· País: España</desc>
+  </programme>
+  <programme start="20250719190600 +0200" stop="20250719200700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Goodwood Members' Meeting T2025 · Día 4</title>
+    <desc lang="es">Deportes/Motor | 2025 | TP
+· Grandes debutantes, F1 clásicos, VR lunar en Future Lab, acrobacias aéreas y la icónica subida a la colina bajo un ambiente festivo.
+</desc>
+  </programme>
+  <programme start="20250719200700 +0200" stop="20250719203300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Países Bajos</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250719203300 +0200" stop="20250719213400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Chequia T2025 · Sprint MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
+· País: República Checa</desc>
+  </programme>
+  <programme start="20250719213400 +0200" stop="20250719230500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">E1 Series T2025 · Mónaco: Carreras finales</title>
+    <desc lang="es">Sin clasificar/SIN CLASIFICAR | 2025 | TP
+· Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
+· País: Mónaco</desc>
+  </programme>
+  <programme start="20250719230500 +0200" stop="20250719231900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Kepa Arrizabalaga</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
+· El futbolista del AFC Bournemouth repasa su trayectoria como el portero más caro de la historia tras fichar por el Chelsea y su actual andadura en el conjunto de las 'Cherries'. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250719231900 +0200" stop="20250720012100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 38: Nottingham Forest - Chelsea</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Nottingham Forest y Chelsea se citan en la última jornada de la Premier en un duelo directo por una plaza para la próxima edición de la Liga de Campeones. Votos: 257.
+· País: R.U.</desc>
   </programme>
 </tv>
