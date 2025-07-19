@@ -1,301 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 18/07/2025 11:38" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 19/07/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250718085500 +0200" stop="20250718115300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Entrenamientos libres 1 T2025 · MotoGP - GP de Chequia</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
-· El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 2.
-· País: República Checa</desc>
-  </programme>
-  <programme start="20250718115300 +0200" stop="20250718122000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Alemania</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250718122000 +0200" stop="20250718131000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM. Votos: 22.
-· País: España</desc>
-  </programme>
-  <programme start="20250718131000 +0200" stop="20250718161800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Práctica T2025 · MotoGP - GP de Chequia</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 1.
-· País: República Checa</desc>
-  </programme>
-  <programme start="20250718161800 +0200" stop="20250718165300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2025 · Pecco Bagnaia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP. Votos: 5.
-</desc>
-  </programme>
-  <programme start="20250718165300 +0200" stop="20250718171600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Entrevista - Gigi Dall'igna</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
-· Entrevista a Gigi Dall'Igna, jefe de Ducati. El italiano no deja ningún tema sin tratar y habla abiertamente de la situación del equipo. Votos: 1.
-</desc>
-  </programme>
-  <programme start="20250718171600 +0200" stop="20250718173800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Dream Team - Ducati</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025. Votos: 8.
-· País: España</desc>
-  </programme>
-  <programme start="20250718173800 +0200" stop="20250718184400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Alemania T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 12.
-· País: Alemania</desc>
-  </programme>
-  <programme start="20250718184400 +0200" stop="20250718191000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Países Bajos</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250718191000 +0200" stop="20250718201900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Países Bajos T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El Gran Premio de los Países Bajos de motociclismo es una de las carreras más importantes y queridas del calendario de MotoGP. El circuito de Assen, una mezcla de curvas rápidas, chicanes y secciones técnicas, representa un desafío para los pilotos. Votos: 4.
-· País: Países Bajos</desc>
-  </programme>
-  <programme start="20250718201900 +0200" stop="20250718205300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · Negocios a 360 km/h</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· La decisión de Ducati centró la atención del 'mercato' mientras se avivaba la 'guerra' entre constructores para intentar destronar a la fábrica de Bolonia. Votos: 6.
-· País: España</desc>
-  </programme>
-  <programme start="20250718205300 +0200" stop="20250718224000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Rueda de prensa motos T2025 · Chequia - Paddock Abierto</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
-· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas. Votos: 1.
-· País: República Checa</desc>
-  </programme>
-  <programme start="20250718224000 +0200" stop="20250718235800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">A1 Padel: Grand Master de Francia T2025 · Final: Sánchez - Florensa vs Pereyra - De Pascual</title>
-    <desc lang="es">Deportes/Pádel | 2025 | TP | *6.0/10
-· Una de las citas más importantes del calendario A1 Padel. Del 21 al 30 de marzo, la ciudad de Beausoleil alberga el Grand Master de Francia. Sobre la emblemática moqueta roja del circuito, un espectáculo de alto nivel con alguno de los mejores jugadores Votos: 46.
-· País: Francia</desc>
-  </programme>
-  <programme start="20250718235800 +0200" stop="20250719010900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: velada Usyk vs Joshua II T2022 · Oleksandr Usyk vs Anthony Joshua</title>
-    <desc lang="es">Deportes/Boxeo | 2022 | +18 | *6.0/10
-· Oleksandr Usyk y Anthony Joshua vuelven a subirse al ring para verse las caras casi un año después con los títulos mundiales de WBA, IBF, WBO y IBO en juego. Votos: 10.
-</desc>
-  </programme>
-  <programme start="20250719010900 +0200" stop="20250719060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250719060000 +0200" stop="20250719083500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250719083500 +0200" stop="20250719115100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250719083500 +0200" stop="20250719115800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Chequia</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 2.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250719115100 +0200" stop="20250719120300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250719115800 +0200" stop="20250719121100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Mastantuono, sobre la llamada de Xabi: ''Me motivó a dar el salto al Madrid''</title>
     <desc lang="es">Documentales/Deportes | 2025 | TP
 · Franco Mastantuono está siendo una de las sensaciones de este Mundial de Clubes. El jugador de River Plate de tan solo 17 años analiza todo lo que le está viviendo en su corta pero intensa carrera profesional tras el salto al primer equipo de River.
 · País: España</desc>
   </programme>
-  <programme start="20250719120300 +0200" stop="20250719123000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250719121100 +0200" stop="20250719123000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
     <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
 · Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250719123000 +0200" stop="20250719164100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250719123000 +0200" stop="20250719171900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Chequia</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
+· El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 1.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250719164100 +0200" stop="20250719170400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250719171900 +0200" stop="20250719174100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Entrevista - Gigi Dall'igna</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
 · Entrevista a Gigi Dall'Igna, jefe de Ducati. El italiano no deja ningún tema sin tratar y habla abiertamente de la situación del equipo. Votos: 1.
 </desc>
   </programme>
-  <programme start="20250719170400 +0200" stop="20250719180500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250719174100 +0200" stop="20250719182300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Alemania T2025 · Sprint MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *6.0/10
-· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 8.
+· Marc Márquez aterriza en uno de sus circuitos predilectos, Sachsenring, donde ha dominado en multitud de ocasiones. El GP de Alemania, undécima prueba del campeonato, marca el ecuador de la temporada. Votos: 9.
 · País: Alemania</desc>
   </programme>
-  <programme start="20250719180500 +0200" stop="20250719190600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250719182300 +0200" stop="20250719192300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Martinator, voluntad de hierro</title>
     <desc lang="es">Deportes/Programa deportes | 2023 | TP | *8.0/10
 · Escuchaba el rugido de los motores del Jarama desde su habitación y ahora pelea por ser campeón de MotoGP. Jorge Martín ha superado todos los límites de un deportista de élite para escalar la cima del motociclismo mundial. Votos: 13.
 · País: España</desc>
   </programme>
-  <programme start="20250719190600 +0200" stop="20250719200700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250719192300 +0200" stop="20250719212100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Goodwood Members' Meeting T2025 · Día 4</title>
     <desc lang="es">Deportes/Motor | 2025 | TP
 · Grandes debutantes, F1 clásicos, VR lunar en Future Lab, acrobacias aéreas y la icónica subida a la colina bajo un ambiente festivo.
 </desc>
   </programme>
-  <programme start="20250719200700 +0200" stop="20250719203300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250719212100 +0200" stop="20250719214600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Países Bajos</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250719203300 +0200" stop="20250719213400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250719214600 +0200" stop="20250719224800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Chequia T2025 · Sprint MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250719213400 +0200" stop="20250719230500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250719224800 +0200" stop="20250720001700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">E1 Series T2025 · Mónaco: Carreras finales</title>
     <desc lang="es">Sin clasificar/SIN CLASIFICAR | 2025 | TP
 · Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
 · País: Mónaco</desc>
   </programme>
-  <programme start="20250719230500 +0200" stop="20250719231900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720001700 +0200" stop="20250720003100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Kepa Arrizabalaga</title>
     <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
 · El futbolista del AFC Bournemouth repasa su trayectoria como el portero más caro de la historia tras fichar por el Chelsea y su actual andadura en el conjunto de las 'Cherries'. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250719231900 +0200" stop="20250720012100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720003100 +0200" stop="20250720023000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 38: Nottingham Forest - Chelsea</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
 · Nottingham Forest y Chelsea se citan en la última jornada de la Premier en un duelo directo por una plaza para la próxima edición de la Liga de Campeones. Votos: 258.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250720012100 +0200" stop="20250720060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720023000 +0200" stop="20250720060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250720060000 +0200" stop="20250720094000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720060000 +0200" stop="20250720093000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250720094000 +0200" stop="20250720110000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720093000 +0200" stop="20250720103500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Chequia</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250720110000 +0200" stop="20250720121500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720103500 +0200" stop="20250720114000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Chequia</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 4.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250720121500 +0200" stop="20250720135500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720114000 +0200" stop="20250720125500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Chequia</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250720135500 +0200" stop="20250720140000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720125500 +0200" stop="20250720140000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Previo MotoGP T2025 · MotoGP - GP de Chequia</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250720140000 +0200" stop="20250720151000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720140000 +0200" stop="20250720145000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Chequia</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250720151000 +0200" stop="20250720161200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720145000 +0200" stop="20250720170400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Post Carreras T2025 · MotoGP - GP de Chequia</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *4.0/10
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 2.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250720161200 +0200" stop="20250720162300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720170400 +0200" stop="20250720171500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position T2025 · Pedro de la Rosa</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Pedro de la Rosa se convierte en anfitrión de Pol Espargaró en el GP de España de F1.
 · País: España</desc>
   </programme>
-  <programme start="20250720162300 +0200" stop="20250720163700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720171500 +0200" stop="20250720172900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position T2025 · Quartararo</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · El piloto del Monster Energy Yamaha y campeón del Mundo de MotoGP Fabio Quartararo, es el tercer invitado de Pol Espargaró en el espacio 'Pol Position'.
 · País: España</desc>
   </programme>
-  <programme start="20250720163700 +0200" stop="20250720165700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720172900 +0200" stop="20250720174900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position - Dr Charte</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Pol Espargaró mantiene una distendida charla con el doctor Ángel Charte, Director Médico del Campeonato del Mundo de MotoGP, para conocer de primera mano el espectacular mundo de esta competición.
 · País: España</desc>
   </programme>
-  <programme start="20250720165700 +0200" stop="20250720171800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720174900 +0200" stop="20250720181000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Alberto Puig - Entrevista</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Alberto Puig, team manager de Honda en MotoGP, repasa la actualidad de la fábrica del ala dorada en el Mundial. El expiloto repasa su trayectoria deportiva en el campeonato.
 · País: España</desc>
   </programme>
-  <programme start="20250720171800 +0200" stop="20250720174100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720181000 +0200" stop="20250720183300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Entrevista - Gigi Dall'igna</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
 · Entrevista a Gigi Dall'Igna, jefe de Ducati. El italiano no deja ningún tema sin tratar y habla abiertamente de la situación del equipo. Votos: 1.
 </desc>
   </programme>
-  <programme start="20250720174100 +0200" stop="20250720181600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720183300 +0200" stop="20250720190800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Decoded T2025 · Pecco Bagnaia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
 · El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP. Votos: 5.
 </desc>
   </programme>
-  <programme start="20250720181600 +0200" stop="20250720184800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720190800 +0200" stop="20250720194100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de MotoE - Países Bajos T2025 · Carrera 1</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas. La primera de ellas, en el circuito francés de Le Mans.
 · País: Países Bajos</desc>
   </programme>
-  <programme start="20250720184800 +0200" stop="20250720192200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720194100 +0200" stop="20250720201600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de MotoE - Países Bajos T2025 · Carrera 2</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas. La primera de ellas, en el circuito francés de Le Mans.
 · País: Países Bajos</desc>
   </programme>
-  <programme start="20250720192200 +0200" stop="20250720202400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720201600 +0200" stop="20250720211700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Chequia</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250720202400 +0200" stop="20250720204000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720211700 +0200" stop="20250720213400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Tailandia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
 · El episodio se adentra en el drama del GP de Tailandia 2024 en el que Pecco Bagnaia y el Ducati Lenovo Team se enfrentan al aspirante al título Jorge Martín en un emocionante duelo. Votos: 13.
 · País: España</desc>
   </programme>
-  <programme start="20250720204000 +0200" stop="20250720225400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720213400 +0200" stop="20250720234500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">A1 Padel: Open de Lanzarote T2025 · Final</title>
     <desc lang="es">Deportes/Pádel | 2025 | TP | *6.0/10
 · El circuito A1 Padel hace parada en la isla canaria de Lanzarote. Del 21 al 27 de abril, la Marina de Arrecife sirve de pista central de este abierto en el que compiten 32 parejas en busca del título. El torneo entrega 156.000 euros en premios. Votos: 16.
 · País: España</desc>
   </programme>
-  <programme start="20250720225400 +0200" stop="20250721060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250720234500 +0200" stop="20250721010700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DTM - Oschersleben T2025 · Carrera 2</title>
+    <desc lang="es">Deportes/Automovilismo | 2025 | TP
+· La temporada 2025 del DTM arrancará del 25 al 27 de abril en la Motorsport Arena Oschersleben, destacando por su trazado técnico y excelente visibilidad para los espectadores. Este evento marcará el inicio de una intensa lucha por el título DTM.
+</desc>
+  </programme>
+  <programme start="20250721010700 +0200" stop="20250721060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -636,5 +544,84 @@
     <desc lang="es">Deportes/Motociclismo | 2025 | TP
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
 · País: República Checa</desc>
+  </programme>
+  <programme start="20250725002000 +0200" stop="20250725060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250725060000 +0200" stop="20250725101500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250725101500 +0200" stop="20250725111600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO FP1 T2025 · Mundial de Superbike - Balaton Park</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Circuito de Balaton Park se incorpora al calendario del Mundial de Superbike. El nuevo trazado húngaro acoge la octava cita de este campeonato. Sus siete curvas a la derecha y diez a la izquierda conforman un trazado único.
+· País: Hungría</desc>
+  </programme>
+  <programme start="20250725111600 +0200" stop="20250725115800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">SBK Features T2023 · El retorno</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP
+· Álvaro Bautista regresó a Ducati en 2022 por el recuerdo de la buena temporada de 2019.
+</desc>
+  </programme>
+  <programme start="20250725115800 +0200" stop="20250725125900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Chequia</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
+· País: República Checa</desc>
+  </programme>
+  <programme start="20250725125900 +0200" stop="20250725140500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Aragón</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250725140500 +0200" stop="20250725173600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO FP2 T2025 · Mundial de Superbike - Balaton Park</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP
+· El Circuito de Balaton Park se incorpora al calendario del Mundial de Superbike. El nuevo trazado húngaro acoge la octava cita de este campeonato. Sus siete curvas a la derecha y diez a la izquierda conforman un trazado único.
+· País: Hungría</desc>
+  </programme>
+  <programme start="20250725173600 +0200" stop="20250725180000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features T2024 · Jonathan Rea: Irrepetible</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Nueve temporadas, seis títulos y un legado de leyenda. Revive el viaje irrepetible de Jonathan Rea y Kawasaki que marcó una época en el Mundial de Superbikes.
+</desc>
+  </programme>
+  <programme start="20250725180000 +0200" stop="20250725181800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Superbikes: The Showdown</title>
+    <desc lang="es">Deportes/Motor | 2023 | TP
+· Solo un punto separaba de la gloria a Colin Edwards y Troy Bayliss a su llegada a Imola en 2002, el resto es un duelo para la historia del motoclismo.
+</desc>
+  </programme>
+  <programme start="20250725181800 +0200" stop="20250725190700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Toprak Razgatlioglu, la mayor hazaña</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
+· El fichaje de Toprak Razgatlioglu por BMW fue la historia que definió el Mundial de WSBK de 2024. En una temporada marcada por las historias de superación de varios pilotos, el ascenso del turco y BMW contra todo pronóstico. Votos: 1.
+</desc>
+  </programme>
+  <programme start="20250725190700 +0200" stop="20250726010300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Hexagon Cup T2025 · Semifinal y final</title>
+    <desc lang="es">Deportes/Otros deportes | 2025 | TP | *6.0/10
+· El Madrid Arena acoge la segunda edición de la Hexagon Cup. Del 29 de enero al 2 de febrero, los mejores jugadores de pádel del mundo juegan en un nuevo e innovador formato por equipos. Votos: 14.
+· País: España</desc>
+  </programme>
+  <programme start="20250726010300 +0200" stop="20250726023500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">E1 Series T2025 · Mónaco: Carreras finales</title>
+    <desc lang="es">Sin clasificar/SIN CLASIFICAR | 2025 | TP
+· Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
+· País: Mónaco</desc>
+  </programme>
+  <programme start="20250726023500 +0200" stop="20250726024800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Pol Position T2025 · Pedro de la Rosa</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Pedro de la Rosa se convierte en anfitrión de Pol Espargaró en el GP de España de F1.
+· País: España</desc>
   </programme>
 </tv>
