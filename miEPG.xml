@@ -1,174 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 23/07/2025 11:38" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 24/07/2025 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250723130000 +0200" stop="20250723135700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Rookies Cup T2025 · Sachsenring - Carrera 1</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· La Red Bull MotoGP Rookies Cup es una excelente cantera de pilotos. La competición se fundó en 2007 y, desde entonces, muchos de los participantes han progresado hacia el Mundial de motociclismo. Esta temporada cuenta con 7 rondas y 14 carreras.
-· País: Alemania</desc>
-  </programme>
-  <programme start="20250723135700 +0200" stop="20250723144900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Rookies Cup T2025 · Sachsenring - Carrera 2</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP
-· La Red Bull MotoGP Rookies Cup es una excelente cantera de pilotos. La competición se fundó en 2007 y, desde entonces, muchos de los participantes han progresado hacia el Mundial de motociclismo. Esta temporada cuenta con 7 rondas y 14 carreras.
-· País: Alemania</desc>
-  </programme>
-  <programme start="20250723144900 +0200" stop="20250723154500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Álex</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *8.0/10
-· En MotoGP no se regala nada y Álex Márquez ha tenido que luchar como el que más para asentarse en la parrilla. Dentro del casco se encuentra un piloto divertido con una historia que va a sorprender a muchos. Votos: 5.
-· País: España</desc>
-  </programme>
-  <programme start="20250723154500 +0200" stop="20250723160600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Chequia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250723160600 +0200" stop="20250723163200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Alberto Puig - Entrevista</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Alberto Puig, team manager de Honda en MotoGP, repasa la actualidad de la fábrica del ala dorada en el Mundial. El expiloto repasa su trayectoria deportiva en el campeonato.
-· País: España</desc>
-  </programme>
-  <programme start="20250723163200 +0200" stop="20250723190900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">6 Kings Slam T2024 · Alcaraz - Sinner</title>
-    <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
-· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 12.
-· País: Arabia Saudí</desc>
-  </programme>
-  <programme start="20250723190900 +0200" stop="20250723193600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League Stories T23/24 · Luka Modric, el toque croata</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Croacia, que cuenta con una población de menos de cuatro millones de habitantes, ha logrado un crecimiento brutal en el mundo del fútbol. Luka Modric fue uno de los primeros jugadores croatas en destacar en la Premier League. Votos: 14.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250723193600 +0200" stop="20250723195700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2023 · Erling Haaland</title>
-    <desc lang="es">Deportes/Programa deportes | 2022 | TP | *6.0/10
-· Llega 'Decoded', y la primera entrega está protagonizada por un delantero llamado a ser la próxima superestrella mundial: Erling Haaland. Votos: 9.
-</desc>
-  </programme>
-  <programme start="20250723195700 +0200" stop="20250723215100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 3: Manchester United - Liverpool</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Después de la derrota ante el Brighton, los de ten Hag tienen la oportunidad de resarcirse en un duelo clásico del fútbol inglés. El Liverpool ha empezado a buen nivel con dos victorias consecutivas en la era Slot. Votos: 15.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250723215100 +0200" stop="20250723234300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 35: Chelsea - Liverpool</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La lucha por los puestos de UCL es el principal aliciente del tramo final de la temporada en Premier. Los londinenses necesitan atar los tres puntos. Con la Premier League en el bolsillo el Liverpool remata una temporada triunfal. Votos: 531.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250723234300 +0200" stop="20250723235600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Kepa Arrizabalaga</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
-· El futbolista del AFC Bournemouth repasa su trayectoria como el portero más caro de la historia tras fichar por el Chelsea y su actual andadura en el conjunto de las 'Cherries'. Votos: 6.
-· País: España</desc>
-  </programme>
-  <programme start="20250723235600 +0200" stop="20250724010300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Matchroom Boxing: Rodriguez vs Cafu T2025 · Velada completa</title>
-    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *8.0/10
-· Jesse Rodriguez vs Phumelela Cafu en el Matchroom Boxing de The Ford Center at the Star. Votos: 2.
-</desc>
-  </programme>
-  <programme start="20250724010300 +0200" stop="20250724060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250724060000 +0200" stop="20250724130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250724130000 +0200" stop="20250724133600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Marc Marquez. All In: Campeón · Marc Márquez: ALL IN: Campeón</title>
     <desc lang="es">Documentales/Deportes | 2022 | TP | *6.0/10
 · Para volver a ser campeón, Marc necesita pasar una vez más por el quirófano. Votos: 17.
 · País: España</desc>
   </programme>
-  <programme start="20250724133600 +0200" stop="20250724141100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250724133600 +0200" stop="20250724141200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Marc Marquez. All In: Pasión · Marc Márquez: ALL IN: Pasión</title>
     <desc lang="es">Documentales/Deportes | 2022 | TP | *6.0/10
 · Al despertar de la cirugía, Marc dice unas palabras que reflejan el competidor que es. Votos: 12.
 · País: España</desc>
   </programme>
-  <programme start="20250724141100 +0200" stop="20250724144800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250724141200 +0200" stop="20250724144900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Marc Marquez. All In · Volver</title>
     <desc lang="es">Deportes/Programa deportes | 2022 | TP | *6.0/10
 · Marc regresa a la competición, pero comete un error en la primera vuelta y se retira. Votos: 17.
 · País: España</desc>
   </programme>
-  <programme start="20250724144800 +0200" stop="20250724171300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250724144900 +0200" stop="20250724171400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Goodwood Members' Meeting T2025 · Día 3</title>
     <desc lang="es">Deportes/Motor | 2025 | TP
 · Grandes debutantes, F1 clásicos, VR lunar en Future Lab, acrobacias aéreas y la icónica subida a la colina bajo un ambiente festivo.
 </desc>
   </programme>
-  <programme start="20250724171300 +0200" stop="20250724174100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250724171400 +0200" stop="20250724173900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Chequia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250724174100 +0200" stop="20250724175200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250724173900 +0200" stop="20250724175100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position T2025 · Pedro de la Rosa</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Pedro de la Rosa se convierte en anfitrión de Pol Espargaró en el GP de España de F1.
 · País: España</desc>
   </programme>
-  <programme start="20250724175200 +0200" stop="20250724184500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250724175100 +0200" stop="20250724184400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Espargabros</title>
     <desc lang="es">Documentales/Deportes | 2025 | TP | *6.0/10
 · Dos carreras paralelas pero muy diferentes. Aleix y Pol Espargaró se enfrentan a los momentos más importantes de sus carreras deportivas tras la retirada de ambos de la competición. Votos: 31.
 · País: España</desc>
   </programme>
-  <programme start="20250724184500 +0200" stop="20250724200700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250724184400 +0200" stop="20250724200600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DTM - Norisring T2025 · Carrera 1</title>
     <desc lang="es">Deportes/Automovilismo | 2025 | TP
 · El circuito urbano de Norisring, en Núremberg, acoge la cuarta prueba del campeonato. El austriaco Lucas Auer llega como líder con 91 puntos en la tabla, seguido del germano René Rast (75) y del turco Ayhancan Güven (73).
 · País: Alemania</desc>
   </programme>
-  <programme start="20250724200700 +0200" stop="20250724204200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250724200600 +0200" stop="20250724204100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Decoded T2025 · Pecco Bagnaia</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
 · El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP. Votos: 5.
 </desc>
   </programme>
-  <programme start="20250724204200 +0200" stop="20250724211400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250724204100 +0200" stop="20250724211200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Luis García, el goleador del 'Spanish Liverpool'</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
 · Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League. Votos: 40.
 · País: España</desc>
   </programme>
-  <programme start="20250724211400 +0200" stop="20250724221500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250724211200 +0200" stop="20250724221700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250724221700 +0200" stop="20250724231100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Chequia T2025 · Carrera Moto3</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 6.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250724221500 +0200" stop="20250724231700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250724231100 +0200" stop="20250725001000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Chequia T2025 · Carrera Moto2</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 1.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250724231700 +0200" stop="20250725002000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250725001000 +0200" stop="20250725011200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Chequia T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 4.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250725002000 +0200" stop="20250725060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250725011200 +0200" stop="20250725060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -200,8 +121,8 @@
   </programme>
   <programme start="20250725125900 +0200" stop="20250725140500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Aragón</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 3.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
@@ -279,8 +200,8 @@
   </programme>
   <programme start="20250726155600 +0200" stop="20250726162300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Chequia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
@@ -430,22 +351,22 @@
   </programme>
   <programme start="20250728160400 +0200" stop="20250728163200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Chequia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
   <programme start="20250728163200 +0200" stop="20250728165900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Alemania</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
   <programme start="20250728165900 +0200" stop="20250728172400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Países Bajos</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
@@ -580,5 +501,108 @@
     <desc lang="es">Deportes/Motor | 2025 | TP
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
 </desc>
+  </programme>
+  <programme start="20250730011500 +0200" stop="20250730060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250730060000 +0200" stop="20250730130000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250730130000 +0200" stop="20250730133200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">More Than Machine T2025 · David vs. Goliath</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Desde superar la pérdida de ex campeones del mundo hasta tutelar a la próxima generación de finalistas del podio, superar retos insuperables es todo en un día de trabajo para el M-Sport Ford World Rally. Votos: 7.
+· País: España</desc>
+  </programme>
+  <programme start="20250730133200 +0200" stop="20250730140000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">More Than Machine T2025 · Redención</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Conocido por su clima impredecible, el rally de asfalto altamente técnico de Croacia es uno de los más destacados de la temporada del WRC. Votos: 10.
+· País: España</desc>
+  </programme>
+  <programme start="20250730140000 +0200" stop="20250730143800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">More Than Machine T2025 · Legado</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Con el peso de las expectativas de uno de los equipos de rally con más historia, Malcolm y la tripulación de M-Sport están decididos a dar la campanada a mediados de año en Portugal y Cerdeña. Votos: 11.
+· País: España</desc>
+  </programme>
+  <programme start="20250730143800 +0200" stop="20250730151200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">More Than Machine T2025 · Sangre nueva</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Con el nuevo chico en el bloque, Martins Sesks, mostrando un ritmo impresionante, Adrien y Gregoire comienzan a sentir la presión mientras esta estrella en ascenso los lleva al límite. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250730151200 +0200" stop="20250730154700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">More Than Machine T2025 · Unidad</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
+· A medida que M-Sport se acerca al final de la temporada en Finlandia y Grecia, las tensiones comienzan a centrarse en asegurar pilotos para el próximo año. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250730154700 +0200" stop="20250730161900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">More Than Machine T2025 · Presión</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Con la vista puesta en 2025, el equipo de M-Sport prueba a sus posibles pilotos para la próxima temporada, decidido a encontrar a su próximo contendiente principal. Votos: 16.
+· País: España</desc>
+  </programme>
+  <programme start="20250730161900 +0200" stop="20250730170300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">More Than Machine T2025 · Punto de ebullición</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Las tensiones llegan a un punto de ebullición al final de la temporada, cuando el equipo M-Sport se enfrenta a Europa Central y Japón. Votos: 11.
+· País: España</desc>
+  </programme>
+  <programme start="20250730170300 +0200" stop="20250730180400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Chequia T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
+· El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 4.
+· País: República Checa</desc>
+  </programme>
+  <programme start="20250730180400 +0200" stop="20250730183100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Chequia</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250730183100 +0200" stop="20250730202400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam T2024 · Nadal - Djokovic</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 13.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20250730202400 +0200" stop="20250730205800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">El mentor de Rafa</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Toni Nadal, mentor de Rafa Nadal habla sobre la retirada del tenista balear, que culminará su carrera deportiva con este Six Kings Slam y la Copa Davis que se disputa en Málaga el próximo mes. Votos: 19.
+· País: España</desc>
+  </programme>
+  <programme start="20250730205800 +0200" stop="20250730211000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mastantuono, sobre la llamada de Xabi: ''Me motivó a dar el salto al Madrid''</title>
+    <desc lang="es">Documentales/Deportes | 2025 | TP
+· Franco Mastantuono está siendo una de las sensaciones de este Mundial de Clubes. El jugador de River Plate de tan solo 17 años analiza todo lo que le está viviendo en su corta pero intensa carrera profesional tras el salto al primer equipo de River.
+· País: España</desc>
+  </programme>
+  <programme start="20250730211000 +0200" stop="20250730230300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League T24/25 · Jornada 13: Liverpool - Manchester City</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Liverpool lidera la Premier con autoridad y Arne Slot sigue demostrando su gran impacto en los reds. Cinco derrotas oficiales consecutivas y a ocho puntos del primer puesto, el Man City vive una situación inédita que intentara revertir en Anfield. Votos: 49.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250730230300 +0200" stop="20250730231500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Raya y Merino, combinación ganadora</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *8.0/10
+· Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250730231500 +0200" stop="20250731005300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">6 Kings Slam T2024 · Nadal - Alcaraz</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'. Votos: 25.
+· País: Arabia Saudí</desc>
   </programme>
 </tv>
