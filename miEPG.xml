@@ -1,187 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 28/07/2025 11:38" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 29/07/2025 11:38" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250728130000 +0200" stop="20250728135600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Chequia T2025 · Carrera Moto3</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 6.
-· País: República Checa</desc>
-  </programme>
-  <programme start="20250728135600 +0200" stop="20250728145400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Chequia T2025 · Carrera Moto2</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *10.0/10
-· El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 1.
-· País: República Checa</desc>
-  </programme>
-  <programme start="20250728145400 +0200" stop="20250728155700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Chequia T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos. Votos: 4.
-· País: República Checa</desc>
-  </programme>
-  <programme start="20250728155700 +0200" stop="20250728162200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Chequia</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250728162200 +0200" stop="20250728164500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Alemania</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *4.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250728164500 +0200" stop="20250728171000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Países Bajos</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *8.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250728171000 +0200" stop="20250728172400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pol Position T2025 · Quartararo</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El piloto del Monster Energy Yamaha y campeón del Mundo de MotoGP Fabio Quartararo, es el tercer invitado de Pol Espargaró en el espacio 'Pol Position'.
-· País: España</desc>
-  </programme>
-  <programme start="20250728172400 +0200" stop="20250728174400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pol Position - Dr Charte</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Pol Espargaró mantiene una distendida charla con el doctor Ángel Charte, Director Médico del Campeonato del Mundo de MotoGP, para conocer de primera mano el espectacular mundo de esta competición.
-· País: España</desc>
-  </programme>
-  <programme start="20250728174400 +0200" stop="20250728180700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Entrevista - Gigi Dall'igna</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
-· Entrevista a Gigi Dall'Igna, jefe de Ducati. El italiano no deja ningún tema sin tratar y habla abiertamente de la situación del equipo. Votos: 1.
-</desc>
-  </programme>
-  <programme start="20250728180700 +0200" stop="20250728183000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Dream Team - Ducati</title>
-    <desc lang="es">Deportes/Motociclismo | 2025 | TP | *8.0/10
-· El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025. Votos: 8.
-· País: España</desc>
-  </programme>
-  <programme start="20250728183000 +0200" stop="20250728193500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 36.
-</desc>
-  </programme>
-  <programme start="20250728193500 +0200" stop="20250728210400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Dubrovnik - Carrera final</title>
-    <desc lang="es">Deportes/Deporte acuático | 2025 | TP | *6.0/10
-· Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes. Votos: 7.
-</desc>
-  </programme>
-  <programme start="20250728210400 +0200" stop="20250728211700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Emery y Monchi, transformando el Aston Villa</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
-· Eneko Fernández viaja hasta Birmingham para charlar con Unai Emery y Monchi. Desde su llegada al Aston Villa, el entrenador guipuzcoano y el director deportivo no han hecho más que consolidar al equipo de Birmimgham. Votos: 12.
-· País: España</desc>
-  </programme>
-  <programme start="20250728211700 +0200" stop="20250728231400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 16: Manchester City - Manchester United</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El derby de la ciudad de Manchester mide a dos equipos envueltos en una crisis de resultados y muy lejos de sus objetivos a inicios de la temporada. Votos: 47.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250728231400 +0200" stop="20250728235100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League Features T2 · Rodrigo Hernández, excepcionalmente normal</title>
-    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
-· Repaso en general con todo lo relacionado con la Premier League. Votos: 20.
-</desc>
-  </programme>
-  <programme start="20250728235100 +0200" stop="20250729003600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: velada Till vs Stewart T2025 · Velada completa</title>
-    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *8.0/10
-· Misfits Boxing lleva a la localidad inglesa de Derby su velada número 21 de las X Series. Votos: 6.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250729003600 +0200" stop="20250729011100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: velada Fundora vs Badillo T2025 · Gabriela Fundora vs Marilyn Badillo</title>
-    <desc lang="es">Deportes/Boxeo | 2025 | +18 | *6.0/10
-· Fundora y Badillo se enfrentan en el Frontwave Arena en Oceanside, California. Votos: 8.
-· País: EE.UU.</desc>
-  </programme>
-  <programme start="20250729011100 +0200" stop="20250729012800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250729012800 +0200" stop="20250729060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250729060000 +0200" stop="20250729130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250729130000 +0200" stop="20250729150100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250729130000 +0200" stop="20250729150000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">FIM JuniorGP T2025 · Jerez - European Talent Cup</title>
     <desc lang="es">Deportes/Motor | 2025 | TP
 · El FIM JuniorGP (el antiguo Campeonato de España de Velocidad) es una excelente cantera para los pilotos que quieren dar el salto al Mundial de motociclismo. El calendario de esta temporada tiene siete fechas, cuatro de ellas en España.
 </desc>
   </programme>
-  <programme start="20250729150100 +0200" stop="20250729171100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250729150000 +0200" stop="20250729171100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">FIM JuniorGP T2025 · Jerez - Carreras de Moto2 y STK</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *6.0/10
 · El FIM JuniorGP (el antiguo Campeonato de España de Velocidad) es una excelente cantera para los pilotos que quieren dar el salto al Mundial de motociclismo. El calendario de esta temporada tiene siete fechas, cuatro de ellas en España. Votos: 1.
 </desc>
   </programme>
-  <programme start="20250729171100 +0200" stop="20250729191300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250729171100 +0200" stop="20250729191200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">FIM JuniorGP T2025 · Jerez - JuniorGP</title>
     <desc lang="es">Deportes/Motor | 2025 | TP
 · El circuito de Jerez acoge la segunda carrera del calendario 2025 de JuniorGP. Disfruta de todas las carreras de este JuniorGP.
 </desc>
   </programme>
-  <programme start="20250729191300 +0200" stop="20250729192400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250729191200 +0200" stop="20250729192500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Raya y Merino, combinación ganadora</title>
     <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *8.0/10
 · Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga. Votos: 1.
 · País: España</desc>
   </programme>
-  <programme start="20250729192400 +0200" stop="20250729211800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250729192500 +0200" stop="20250729211800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 36: Liverpool - Arsenal</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 11.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250729211800 +0200" stop="20250729213900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250729211800 +0200" stop="20250729214000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
     <desc lang="es">Entretenimiento/Entrevista | 2025 | TP | *6.0/10
 · El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel. Votos: 23.
 · País: España</desc>
   </programme>
-  <programme start="20250729213900 +0200" stop="20250729232700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250729214000 +0200" stop="20250729232700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 24: Arsenal - Manchester City</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · Arsenal y Manchester City disputan un duelo clave para definir sus opciones en la Premier League. Amsbos equipos arracan el fin de semana en puestos Champions. Votos: 30.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250729232700 +0200" stop="20250730002000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250729232700 +0200" stop="20250730002100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Asia Talent Cup T2025 · Catar - Carrera 1</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *8.0/10
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi. Votos: 2.
 </desc>
   </programme>
-  <programme start="20250730002000 +0200" stop="20250730011500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250730002100 +0200" stop="20250730011300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Asia Talent Cup T2025 · Catar - Carrera 2</title>
     <desc lang="es">Deportes/Motor | 2025 | TP
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
 </desc>
   </programme>
-  <programme start="20250730011500 +0200" stop="20250730060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250730011300 +0200" stop="20250730060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -636,5 +513,41 @@
     <desc lang="es">Deportes/Boxeo | 2025 | +18 | *8.0/10
 · Misfits Boxing lleva a la localidad inglesa de Derby su velada número 21 de las X Series. Votos: 6.
 · País: R.U.</desc>
+  </programme>
+  <programme start="20250804004800 +0200" stop="20250804060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250804060000 +0200" stop="20250804100000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250804100000 +0200" stop="20250804140000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250804140000 +0200" stop="20250804180000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250804180000 +0200" stop="20250804220000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250804220000 +0200" stop="20250805020000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
 </tv>
