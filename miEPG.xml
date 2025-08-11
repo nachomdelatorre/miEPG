@@ -1,105 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 10/08/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 11/08/2025 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250810130100 +0200" stop="20250810131500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Raya y Merino, combinación ganadora</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *8/10
-· Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
-· País: España</desc>
-  </programme>
-  <programme start="20250810131500 +0200" stop="20250810145000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera 2 T2025 · DTM - Nürburgring</title>
-    <desc lang="es">Deportes,Automovilismo | 2025 | TP
-· El DTM llega al legendario Nürburgring para vivir una cita clave del campeonato. Promete emoción pura, duelos al límite y estrategia milimétrica en un trazado corto, técnico y repleto de historia. La batalla por el título se intensifica.
-· País: Alemania</desc>
-  </programme>
-  <programme start="20250810145000 +0200" stop="20250810164300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">FIM JuniorGP T2025 · Magny Cours - JuniorGP</title>
-    <desc lang="es">Deportes,Motor | 2025 | TP
-· El FIM JuniorGP (el antiguo Campeonato de España de Velocidad) es una excelente cantera para los pilotos que quieren dar el salto al Mundial de motociclismo. El calendario de esta temporada tiene siete fechas, cuatro de ellas en España.
-</desc>
-  </programme>
-  <programme start="20250810164300 +0200" stop="20250810191300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">FIM JuniorGP T2025 · Magny Cours - Carreras de Moto2 y STK</title>
-    <desc lang="es">Deportes,Motor | 2025 | TP
-· El FIM JuniorGP (el antiguo Campeonato de España de Velocidad) es una excelente cantera para los pilotos que quieren dar el salto al Mundial de motociclismo. El calendario de esta temporada tiene siete fechas, cuatro de ellas en España.
-</desc>
-  </programme>
-  <programme start="20250810191300 +0200" stop="20250810194700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Marc Marquez. All In: Ilusión · Marc Márquez: ALL IN: Ilusión</title>
-    <desc lang="es">Documentales,Deportes | 2023 | TP | *6.4/10
-· Febrero de 2022. Marc Márquez ha ganado más de lo que cualquiera podría soñar.
-· País: España</desc>
-  </programme>
-  <programme start="20250810194700 +0200" stop="20250810201800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Marc Marquez. All In: Talento · Marc Márquez: ALL IN: Talento</title>
-    <desc lang="es">Documentales,Deportes | 2022 | TP | *6.4/10
-· El estilo de Marc en carrera le ha valido la admiración de millones de fans.
-· País: España</desc>
-  </programme>
-  <programme start="20250810201800 +0200" stop="20250810203500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ducati y Pecco Bagnaia en busca de la gloria T1 · Malasia</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.6/10
-· La lucha por el título se intensifica en Malasia, donde Pecco Bagnaia se enfrenta de nuevo a Jorge Martín. En España, la tormenta Dana arrasa Valencia y añade tensión al final de la temporada.
-· País: España</desc>
-  </programme>
-  <programme start="20250810203500 +0200" stop="20250810211100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Marc Marquez. All In: Pasión · Marc Márquez: ALL IN: Pasión</title>
-    <desc lang="es">Documentales,Deportes | 2022 | TP | *6.2/10
-· Al despertar de la cirugía, Marc dice unas palabras que reflejan el competidor que es.
-· País: España</desc>
-  </programme>
-  <programme start="20250810211100 +0200" stop="20250810214700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Marc Marquez. All In · Volver</title>
-    <desc lang="es">Deportes,Programa deportes | 2022 | TP | *6.2/10
-· Marc regresa a la competición, pero comete un error en la primera vuelta y se retira.
-· País: España</desc>
-  </programme>
-  <programme start="20250810214700 +0200" stop="20250810220900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Alberto Puig - Entrevista</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP
-· Alberto Puig, team manager de Honda en MotoGP, repasa la actualidad de la fábrica del ala dorada en el Mundial. El expiloto repasa su trayectoria deportiva en el campeonato.
-· País: España</desc>
-  </programme>
-  <programme start="20250810220900 +0200" stop="20250810223700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">25 años de emociones, 25 años del Circuit</title>
-    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *5.4/10
-· Historia del circuito Ricardo Tormo de Cheste. Ubicado en Valencia, las curvas de este legendario trazado inaugurado en 1999 ha sido testigo de grandes batallas finales en el mundo del automovilismo y motociclismo.
-· País: España</desc>
-  </programme>
-  <programme start="20250810223700 +0200" stop="20250810224900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mastantuono, sobre la llamada de Xabi: ''Me motivó a dar el salto al Madrid''</title>
-    <desc lang="es">Documentales,Deportes | 2025 | TP
-· Franco Mastantuono está siendo una de las sensaciones de este Mundial de Clubes. El jugador de River Plate de tan solo 17 años analiza todo lo que le está viviendo en su corta pero intensa carrera profesional tras el salto al primer equipo de River.
-· País: España</desc>
-  </programme>
-  <programme start="20250810224900 +0200" stop="20250811004300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 36: Liverpool - Arsenal</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250811004300 +0200" stop="20250811010300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *6.2/10
-· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel.
-· País: España</desc>
-  </programme>
-  <programme start="20250811010300 +0200" stop="20250811060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250811060000 +0200" stop="20250811130100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250811130100 +0200" stop="20250811133600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Marc Marquez. All In: Campeón · Marc Márquez: ALL IN: Campeón</title>
     <desc lang="es">Documentales,Deportes | 2022 | TP | *6.2/10
@@ -629,5 +533,89 @@
     <desc lang="es">Deportes,Fútbol | 2025 | TP
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
+  </programme>
+  <programme start="20250817011100 +0200" stop="20250817060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250817060000 +0200" stop="20250817093000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250817093000 +0200" stop="20250817110000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Austria</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+· Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250817110000 +0200" stop="20250817123000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Austria</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+· Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250817123000 +0200" stop="20250817140000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Austria</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+· Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250817140000 +0200" stop="20250817150000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Austria</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+· Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250817150000 +0200" stop="20250817161800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Post Carreras T2025 · MotoGP - GP de Austria</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+· Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250817161800 +0200" stop="20250817163400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *6/10
+· Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán.
+· País: España</desc>
+  </programme>
+  <programme start="20250817163400 +0200" stop="20250817183600 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 1: Wolverhampton - Manchester City T25/26 · Premier League</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | TP
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250817183600 +0200" stop="20250817190800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features T2025 · Entrevista a Marc Márquez - 200 veces al límite</title>
+    <desc lang="es">Sin clasificar,SIN CLASIFICAR | 2025 | TP
+· Programa de MotoGP.
+</desc>
+  </programme>
+  <programme start="20250817190800 +0200" stop="20250817200900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Austria</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+· Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250817200900 +0200" stop="20250817211500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Cesc Fábregas, el último sueño</title>
+    <desc lang="es">Documentales,Deportes | 2022 | TP | *6.4/10
+· Cesc Fábregas vive su última etapa de futbolista disfrutando en el Como 1907 italiano. Allí ha repasado su carrera deportiva con DAZN.
+</desc>
+  </programme>
+  <programme start="20250817211500 +0200" stop="20250817231000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Primera ronda: Milan - Bari T25/26 · Copa de Italia</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | TP
+· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250817231000 +0200" stop="20250818004200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">La caída de Maradona</title>
+    <desc lang="es">Documentales,Deportes | 2023 | +7 | *5.6/10
+· El 30 de junio de 1994, Diego Maradona, la mayor estrella del fútbol mundial, fue expulsado de la Copa del Mundo de EE.UU. tras no superar un control antidopaje después de un partido. La expulsión del Diego sorprendió al mundo del deporte.
+</desc>
   </programme>
 </tv>
