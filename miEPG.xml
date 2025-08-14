@@ -1,200 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 13/08/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 14/08/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250813130000 +0200" stop="20250813134900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ronaldo - El Presidente T1 · El escándalo</title>
-    <desc lang="es">Deportes,Programa deportes | 2021 | TP | *6.4/10
-· Una investigación por amaño de partidos irrumpe en la vida del Real Valladolid y su excapitán Borja Fernández acaba detenido.
-· País: España</desc>
-  </programme>
-  <programme start="20250813134900 +0200" stop="20250813143800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ronaldo - El Presidente T1 · Consejos</title>
-    <desc lang="es">Deportes,Programa deportes | 2021 | TP | *6.6/10
-· Los consejos de 'O fenômeno' Ronaldo serán claves para terminar con la sequía goleadora de Sandro, exdelantero del Barça y del Everton.
-· País: España</desc>
-  </programme>
-  <programme start="20250813143800 +0200" stop="20250813152600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Ronaldo - El Presidente T1 · Se abre el mercado</title>
-    <desc lang="es">Deportes,Programa deportes | 2021 | TP | *6.6/10
-· Es época de fichajes y Ronaldo se interesa por el mercado y recuerda su traspaso más polémico del Barça al Inter en la temporada 1996/97.
-· País: España</desc>
-  </programme>
-  <programme start="20250813152600 +0200" stop="20250813160700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · El regreso</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *7/10
-· La intrahistoria del viaje de Marc Márquez, desde su adaptación a una moto y un entorno nuevos hasta su regreso a la senda de la victoria 1043 días después.
-· País: España</desc>
-  </programme>
-  <programme start="20250813160700 +0200" stop="20250813164100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Solo puede quedar uno T1 · Negocios a 360 km/h</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.2/10
-· La decisión de Ducati centró la atención del 'mercato' mientras se avivaba la 'guerra' entre constructores para intentar destronar a la fábrica de Bolonia.
-· País: España</desc>
-  </programme>
-  <programme start="20250813164100 +0200" stop="20250813173700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Rookies Cup T2025 · Sachsenring - Carrera 1</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP
-· La Red Bull MotoGP Rookies Cup es una excelente cantera de pilotos. La competición se fundó en 2007 y, desde entonces, muchos de los participantes han progresado hacia el Mundial de motociclismo. Esta temporada cuenta con 7 rondas y 14 carreras.
-· País: Alemania</desc>
-  </programme>
-  <programme start="20250813173700 +0200" stop="20250813182900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Rookies Cup T2025 · Sachsenring - Carrera 2</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP
-· La Red Bull MotoGP Rookies Cup es una excelente cantera de pilotos. La competición se fundó en 2007 y, desde entonces, muchos de los participantes han progresado hacia el Mundial de motociclismo. Esta temporada cuenta con 7 rondas y 14 carreras.
-· País: Alemania</desc>
-  </programme>
-  <programme start="20250813182900 +0200" stop="20250813202800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T24/25 · Jornada 37: Aston Villa - Tottenham</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250813202800 +0200" stop="20250813205100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2024 | TP | *5.6/10
-· El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
-· País: España</desc>
-  </programme>
-  <programme start="20250813205100 +0200" stop="20250813221000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Gran Bretaña T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.6/10
-· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250813221000 +0200" stop="20250813223400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Gran Bretaña</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250813223400 +0200" stop="20250813234100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Tailandia T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *8.2/10
-· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
-· País: Tailandia</desc>
-  </programme>
-  <programme start="20250813234100 +0200" stop="20250814001200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pecco Bagnaia - Marc Márquez, cara a cara</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6/10
-· Marc Márquez y Pecco Bagnaia se lo pasaron en grande en el evento de Ducati 'Campioni in Pista'. Después de 'picarse' esquiando dejaron una maravillosa charla en la que hablaron de su nueva relación, rencillas del pasado y el objetivo común.
-</desc>
-  </programme>
-  <programme start="20250814001200 +0200" stop="20250814010100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: velada Hitchins vs Kambosos Jr T2025 · Richardson Hitchins vs. George Kambosos Jr</title>
-    <desc lang="es">Deportes,Boxeo | 2025 | +18 | *4.6/10
-· Nueva York acoge esta velada de boxeo que tiene como combate estrella en enfrentamiento entre el estadounidense Richardson Hitchins y el australiano George Kambosos Jr.
-· País: Australia y EE.UU.</desc>
-  </programme>
-  <programme start="20250814010100 +0200" stop="20250814060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250814060000 +0200" stop="20250814130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250814130000 +0200" stop="20250814134200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250814130000 +0200" stop="20250814134100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Ronaldo - El Presidente T1 · Viejos amigos</title>
     <desc lang="es">Deportes,Programa deportes | 2021 | TP | *6.6/10
 · El Real Madrid visita Pucela, un acontecimiento único para El Presidente, Ronaldo, que vuelve a encontrarse con viejos compañeros y amigos.
 · País: España</desc>
   </programme>
-  <programme start="20250814134200 +0200" stop="20250814144100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250814134100 +0200" stop="20250814145000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Ronaldo - El Presidente T1 · 11 finales</title>
     <desc lang="es">Deportes,Programa deportes | 2021 | TP | *6/10
 · En marzo de 2020 la pandemia paralizó el mundo y el Real Valladolid tuvo que afrontar 11 finales en las que Ronaldo se jugaba su reputación y su dinero.
 · País: España</desc>
   </programme>
-  <programme start="20250814144100 +0200" stop="20250814151500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250814145000 +0200" stop="20250814151500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Chequia</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *2/10
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *4/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250814151500 +0200" stop="20250814155600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250814151500 +0200" stop="20250814170100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Rueda de prensa motos T2025 · Austria - Paddock Abierto</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
 </desc>
   </programme>
-  <programme start="20250814155600 +0200" stop="20250814165200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250814170100 +0200" stop="20250814175700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Álex</title>
     <desc lang="es">Deportes,Programa deportes | 2023 | TP | *8.8/10
 · En MotoGP no se regala nada y Álex Márquez ha tenido que luchar como el que más para asentarse en la parrilla. Dentro del casco se encuentra un piloto divertido con una historia que va a sorprender a muchos.
 · País: España</desc>
   </programme>
-  <programme start="20250814165200 +0200" stop="20250814172100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250814175700 +0200" stop="20250814182500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · España</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250814172100 +0200" stop="20250814182100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250814182500 +0200" stop="20250814192600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Martinator, voluntad de hierro</title>
     <desc lang="es">Deportes,Programa deportes | 2023 | TP | *7/10
 · Escuchaba el rugido de los motores del Jarama desde su habitación y ahora pelea por ser campeón de MotoGP. Jorge Martín ha superado todos los límites de un deportista de élite para escalar la cima del motociclismo mundial.
 · País: España</desc>
   </programme>
-  <programme start="20250814182100 +0200" stop="20250814184500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250814192600 +0200" stop="20250814195000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Catar</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP | *4.6/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250814184500 +0200" stop="20250814190800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250814195000 +0200" stop="20250814201300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Entrevista - Gigi Dall'igna</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP | *2/10
 · Entrevista a Gigi Dall'Igna, jefe de Ducati. El italiano no deja ningún tema sin tratar y habla abiertamente de la situación del equipo.
 </desc>
   </programme>
-  <programme start="20250814190800 +0200" stop="20250814204000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250814201300 +0200" stop="20250814214400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Rueda de prensa motos T2025 · Chequia - Paddock Abierto</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP | *5.4/10
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250814204000 +0200" stop="20250814211200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250814214400 +0200" stop="20250814221600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Luis García, el goleador del 'Spanish Liverpool'</title>
     <desc lang="es">Entretenimiento,Entrevista | 2024 | TP | *5.8/10
 · Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League.
 · País: España</desc>
   </programme>
-  <programme start="20250814211200 +0200" stop="20250814231900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250814221600 +0200" stop="20250815002300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T24/25 · Jornada 34: Liverpool - Tottenham</title>
     <desc lang="es">Deportes,Fútbol | 2025 | TP | *6/10
 · El Liverpool recibe en Anfield al Tottenham sabiendo que un empate le coronará campeón de Inglaterra por vigésima ocasión y por segunda vez en era Premier.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250814231900 +0200" stop="20250814233500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815002300 +0200" stop="20250815004000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
     <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *6/10
 · Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán.
 · País: España</desc>
   </programme>
-  <programme start="20250814233500 +0200" stop="20250815003600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815004000 +0200" stop="20250815022600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Rueda de prensa motos T2025 · Austria - Paddock Abierto</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
 </desc>
   </programme>
-  <programme start="20250815003600 +0200" stop="20250815012500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815022600 +0200" stop="20250815031500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Boxeo: velada Espinosa vs Jiménez T2024 · Jimerr Espinosa vs Rogelio Jiménez</title>
     <desc lang="es">Deportes,Boxeo | 2024 | +18 | *6.4/10
 · La Sala Urbana Venue de Ciudad de México acoge esta interesante velada que tiene el combate entre Jimerr Espinosa y Rogelio Jiménez como plato principal.
 · País: México</desc>
   </programme>
-  <programme start="20250815012500 +0200" stop="20250815060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815031500 +0200" stop="20250815060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -206,165 +109,167 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250815085500 +0200" stop="20250815115100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815085500 +0200" stop="20250815115200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Entrenamientos libres 1 T2025 · MotoGP - GP de Austria</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250815115100 +0200" stop="20250815131000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Austria: Carrera MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2024 | TP | *7/10
-· El circuito de Spielberg acoge una nueva prueba del Mundial de MotoGP 2024. El mano a mano entre Pecco Bagnaia, y Jorge Martín vivirá un nuevo capítulo en Austria tras recuperar el madrileño el liderato.
-· País: Austria y España</desc>
+  <programme start="20250815115200 +0200" stop="20250815131000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Austria</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+· Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
+· País: Austria</desc>
   </programme>
-  <programme start="20250815131000 +0200" stop="20250815161600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815131000 +0200" stop="20250815161800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Práctica T2025 · MotoGP - GP de Austria</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250815161600 +0200" stop="20250815171600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815161800 +0200" stop="20250815171900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Martinator, voluntad de hierro</title>
     <desc lang="es">Deportes,Programa deportes | 2023 | TP | *7/10
 · Escuchaba el rugido de los motores del Jarama desde su habitación y ahora pelea por ser campeón de MotoGP. Jorge Martín ha superado todos los límites de un deportista de élite para escalar la cima del motociclismo mundial.
 · País: España</desc>
   </programme>
-  <programme start="20250815171600 +0200" stop="20250815182000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815171900 +0200" stop="20250815182200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Chequia T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP | *8.6/10
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250815182000 +0200" stop="20250815184500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815182200 +0200" stop="20250815184700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Chequia</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *2/10
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *4/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250815184500 +0200" stop="20250815194600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815184700 +0200" stop="20250815203300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Rueda de prensa motos T2025 · Austria - Paddock Abierto</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
 </desc>
   </programme>
-  <programme start="20250815194600 +0200" stop="20250815202100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815203300 +0200" stop="20250815204900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Decoded T2025 · Pecco Bagnaia</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6/10
 · El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP.
 </desc>
   </programme>
-  <programme start="20250815202100 +0200" stop="20250815205000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Luis García, el goleador del 'Spanish Liverpool'</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2024 | TP | *5.8/10
-· Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League.
-· País: España</desc>
-  </programme>
-  <programme start="20250815205000 +0200" stop="20250815225100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815205000 +0200" stop="20250815230500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 1: Liverpool - Bournemouth T25/26 · Premier League</title>
     <desc lang="es">Deportes,Fútbol | 2025 | TP
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250815225100 +0200" stop="20250815230400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815230500 +0200" stop="20250815232600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Kepa Arrizabalaga</title>
     <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *6.6/10
 · El futbolista del AFC Bournemouth repasa su trayectoria como el portero más caro de la historia tras fichar por el Chelsea y su actual andadura en el conjunto de las 'Cherries'.
 · País: España</desc>
   </programme>
-  <programme start="20250815230400 +0200" stop="20250816004100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250815232600 +0200" stop="20250816010600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">E1 Series T2025 · Mónaco: Carreras finales</title>
     <desc lang="es">Deportes,Deporte acuático | 2025 | TP
 · Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
 · País: Mónaco</desc>
   </programme>
-  <programme start="20250816004100 +0200" stop="20250816060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250816010600 +0200" stop="20250816060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250816060000 +0200" stop="20250816083500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250816060000 +0200" stop="20250816083200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250816083500 +0200" stop="20250816115100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250816083200 +0200" stop="20250816115100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Austria</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250816115100 +0200" stop="20250816122300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250816115100 +0200" stop="20250816122500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP Features T2025 · Entrevista a Marc Márquez - 200 veces al límite</title>
     <desc lang="es">Sin clasificar,SIN CLASIFICAR | 2025 | TP
 · Programa de MotoGP.
 </desc>
   </programme>
-  <programme start="20250816122300 +0200" stop="20250816132600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250816122500 +0200" stop="20250816171900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Austria</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+· Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250816171900 +0200" stop="20250816174300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Tailandia</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.2/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250816174300 +0200" stop="20250816175700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Estados Unidos</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250816175700 +0200" stop="20250816190000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Chequia T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP | *8.6/10
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250816132600 +0200" stop="20250816133800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250816190000 +0200" stop="20250816191100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position T2025 · Pedro de la Rosa</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP
 · Pedro de la Rosa se convierte en anfitrión de Pol Espargaró en el GP de España de F1.
 · País: España</desc>
   </programme>
-  <programme start="20250816133800 +0200" stop="20250816143000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250816191100 +0200" stop="20250816195200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Chequia T2025 · Sprint MotoGP</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP | *10/10
 · El Mundial de motociclismo regresa a uno de los circuitos más emblemáticos del calendario, el de Brno, donde no se corría desde 2020. Y lo hace justo antes del parón estival de la competición. El trazado, con 14 curvas, pone al límite a los pilotos.
 · País: República Checa</desc>
   </programme>
-  <programme start="20250816143000 +0200" stop="20250816184100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Austria</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP
-· Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
-· País: Austria</desc>
-  </programme>
-  <programme start="20250816184100 +0200" stop="20250816191600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2025 · Pecco Bagnaia</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6/10
-· El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP.
-</desc>
-  </programme>
-  <programme start="20250816191600 +0200" stop="20250816211400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250816195200 +0200" stop="20250816215000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Goodwood Members' Meeting T2025 · Día 4</title>
     <desc lang="es">Deportes,Motor | 2025 | TP
 · Grandes debutantes, F1 clásicos, VR lunar en Future Lab, acrobacias aéreas y la icónica subida a la colina bajo un ambiente festivo.
 </desc>
   </programme>
-  <programme start="20250816211400 +0200" stop="20250816213900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250816215000 +0200" stop="20250816221500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Chequia</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *2/10
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *4/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250816213900 +0200" stop="20250816224000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250816221500 +0200" stop="20250816231600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Austria</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250816224000 +0200" stop="20250816230700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250816231600 +0200" stop="20250816234300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Cuatro entrenadores vascos en la Premier League</title>
     <desc lang="es">Deportes,Fútbol | 2025 | TP | *5.8/10
 · Andoni Iraola es el último técnico guipuzcoano en llegar a la Premier League de la mano del Bournemouth y se suma a Julen Lopetegui en el West Ham, y anteriormente en los Wolves, Unai Emery en el Aston Villa y Mikel Arteta en el Arsenal.
 · País: España</desc>
   </programme>
-  <programme start="20250816230700 +0200" stop="20250817011100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250816234300 +0200" stop="20250817014600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 1: Liverpool - Bournemouth T25/26 · Premier League</title>
     <desc lang="es">Deportes,Fútbol | 2025 | TP
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250817011100 +0200" stop="20250817060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250817014600 +0200" stop="20250817060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -376,82 +281,90 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250817093000 +0200" stop="20250817110000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Austria</title>
+  <programme start="20250817093000 +0200" stop="20250817103500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carreras T2025 · MotoGP - GP de Austria</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250817110000 +0200" stop="20250817123000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250817103500 +0200" stop="20250817114000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Austria</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250817123000 +0200" stop="20250817140000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250817114000 +0200" stop="20250817125500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Austria</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250817140000 +0200" stop="20250817150000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250817125500 +0200" stop="20250817140000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carreras T2025 · MotoGP - GP de Austria</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+· Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250817140000 +0200" stop="20250817145000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Austria</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250817150000 +0200" stop="20250817161800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Post Carreras T2025 · MotoGP - GP de Austria</title>
+  <programme start="20250817145000 +0200" stop="20250817170400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Carreras T2025 · MotoGP - GP de Austria</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250817161800 +0200" stop="20250817163400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250817170400 +0200" stop="20250817172400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Catar</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *4.6/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250817172400 +0200" stop="20250817174500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Francia</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *5.6/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250817174500 +0200" stop="20250817180100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
     <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *6/10
 · Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán.
 · País: España</desc>
   </programme>
-  <programme start="20250817163400 +0200" stop="20250817183600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250817180100 +0200" stop="20250817200200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 1: Wolverhampton - Manchester City T25/26 · Premier League</title>
     <desc lang="es">Deportes,Fútbol | 2025 | TP
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250817183600 +0200" stop="20250817190800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2025 · Entrevista a Marc Márquez - 200 veces al límite</title>
-    <desc lang="es">Sin clasificar,SIN CLASIFICAR | 2025 | TP
-· Programa de MotoGP.
+  <programme start="20250817200200 +0200" stop="20250817202500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Entrevista - Gigi Dall'igna</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *2/10
+· Entrevista a Gigi Dall'Igna, jefe de Ducati. El italiano no deja ningún tema sin tratar y habla abiertamente de la situación del equipo.
 </desc>
   </programme>
-  <programme start="20250817190800 +0200" stop="20250817200900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250817202500 +0200" stop="20250817210800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Austria</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250817200900 +0200" stop="20250817211500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cesc Fábregas, el último sueño</title>
-    <desc lang="es">Documentales,Deportes | 2022 | TP | *6.4/10
-· Cesc Fábregas vive su última etapa de futbolista disfrutando en el Como 1907 italiano. Allí ha repasado su carrera deportiva con DAZN.
-</desc>
-  </programme>
-  <programme start="20250817211500 +0200" stop="20250817231000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250817210800 +0200" stop="20250817231600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Primera ronda: Milan - Bari T25/26 · Copa de Italia</title>
     <desc lang="es">Deportes,Fútbol | 2025 | TP
 · La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
 · País: Italia</desc>
   </programme>
-  <programme start="20250817231000 +0200" stop="20250818004200 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250817231600 +0200" stop="20250818060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">La caída de Maradona</title>
     <desc lang="es">Documentales,Deportes | 2023 | +7 | *5.6/10
 · El 30 de junio de 1994, Diego Maradona, la mayor estrella del fútbol mundial, fue expulsado de la Copa del Mundo de EE.UU. tras no superar un control antidopaje después de un partido. La expulsión del Diego sorprendió al mundo del deporte.
-</desc>
-  </programme>
-  <programme start="20250818004200 +0200" stop="20250818060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
 </desc>
   </programme>
   <programme start="20250818060000 +0200" stop="20250818130000 +0200" channel="DAZN 1 HD 1080P">
@@ -462,7 +375,7 @@
   </programme>
   <programme start="20250818130000 +0200" stop="20250818150200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 1: Manchester Utd. - Arsenal T25/26 · Premier League</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *7.8/10
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *8/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
@@ -484,43 +397,43 @@
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250818173100 +0200" stop="20250818182300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250818173100 +0200" stop="20250818183300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de Austria</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250818182300 +0200" stop="20250818203400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Primera ronda: Spezia - Sampdoria T25/26 · Copa de Italia</title>
+  <programme start="20250818183300 +0200" stop="20250818202400 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Primera ronda: Milan - Bari T25/26 · Copa de Italia</title>
     <desc lang="es">Deportes,Fútbol | 2025 | TP
 · La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
 · País: Italia</desc>
   </programme>
-  <programme start="20250818203400 +0200" stop="20250818205000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250818202400 +0200" stop="20250818205000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier Corner by Guiness 0,0 T2025 · Raya y Merino, combinación ganadora</title>
     <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *8/10
 · Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
 · País: España</desc>
   </programme>
-  <programme start="20250818205000 +0200" stop="20250818230100 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250818205000 +0200" stop="20250818225300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 1: Leeds - Everton T25/26 · Premier League</title>
     <desc lang="es">Deportes,Fútbol | 2025 | TP
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250818230100 +0200" stop="20250818232800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250818225300 +0200" stop="20250818232000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Reyes, una vida dedicada al fútbol</title>
     <desc lang="es">Deportes,Fútbol | 2024 | TP | *6.4/10
 · Repaso por la vida profesional de Jose Antonio Reyes, desde sus humildes inicios, su debut con el Sevilla FC y su paso por el Arsenal cuando todavía era un chaval.
 </desc>
   </programme>
-  <programme start="20250818232800 +0200" stop="20250819004800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250818232000 +0200" stop="20250819004000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">A1 Padel: Grand Master de Francia T2025 · Final: Sánchez - Florensa vs Pereyra - De Pascual</title>
     <desc lang="es">Deportes,Pádel | 2025 | TP | *5.6/10
 · Una de las citas más importantes del calendario A1 Padel. Del 21 al 30 de marzo, la ciudad de Beausoleil alberga el Grand Master de Francia. Sobre la emblemática moqueta roja del circuito, un espectáculo de alto nivel con alguno de los mejores jugadores.
 · País: Francia</desc>
   </programme>
-  <programme start="20250819004800 +0200" stop="20250819060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250819004000 +0200" stop="20250819060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -583,7 +496,7 @@
   </programme>
   <programme start="20250819190800 +0200" stop="20250819193300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Chequia</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *2/10
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *4/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
@@ -630,5 +543,85 @@
     <desc lang="es">Deportes,Boxeo | 2025 | +18 | *6/10
 · Jesse Rodriguez vs Phumelela Cafu en el Matchroom Boxing de The Ford Center at the Star.
 · País: EE.UU.</desc>
+  </programme>
+  <programme start="20250820011100 +0200" stop="20250820060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250820060000 +0200" stop="20250820130000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250820130000 +0200" stop="20250820140200 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de MotoE - Austria T2025 · Carrera 1</title>
+    <desc lang="es">Sin clasificar,SIN CLASIFICAR | 2025 | TP
+· El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250820140200 +0200" stop="20250820150300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de MotoE - Austria T2025 · Carrera 2</title>
+    <desc lang="es">Sin clasificar,SIN CLASIFICAR | 2025 | TP
+· El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250820150300 +0200" stop="20250820161000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Born Racers T1 · Sacrificio</title>
+    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *4/10
+· La academia más rápida sobre dos ruedas sigue la trayectoria de ocho adolescentes.
+· País: Austria
+· Productora: Whisper Films.</desc>
+  </programme>
+  <programme start="20250820161000 +0200" stop="20250820171100 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Red Bull Rookies Cup T2025 · Red Bull Ring: Spielberg - Carrera 1</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+· La Red Bull MotoGP Rookies Cup es una excelente cantera de pilotos. La competición se fundó en 2007 y, desde entonces, muchos de los participantes han progresado hacia el Mundial de motociclismo. Esta temporada cuenta con 7 rondas y 14 carreras.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250820171100 +0200" stop="20250820180700 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Born Racers T1 · Rivalidad</title>
+    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *6.2/10
+· Born Racers, la academia más rápida sobre dos ruedas, sigue la trayectoria de ocho adolescentes que persiguen el sueño de llegar a lo más alto en el mundo de las carreras de motos.
+· País: Austria
+· Productora: Whisper Films.</desc>
+  </programme>
+  <programme start="20250820180700 +0200" stop="20250820190800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Red Bull Ring: Spielberg - Carrera 2 T2025 · Red Bull Rookies Cup</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+· La Red Bull MotoGP Rookies Cup es una excelente cantera de pilotos. La competición se fundó en 2007 y, desde entonces, muchos de los participantes han progresado hacia el Mundial de motociclismo. Esta temporada cuenta con 7 rondas y 14 carreras.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250820190800 +0200" stop="20250820193900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Cesc Fábregas, el último sueño</title>
+    <desc lang="es">Documentales,Deportes | 2022 | TP | *6.4/10
+· Cesc Fábregas vive su última etapa de futbolista disfrutando en el Como 1907 italiano. Allí ha repasado su carrera deportiva con DAZN.
+</desc>
+  </programme>
+  <programme start="20250820193900 +0200" stop="20250820213000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Copa de Italia T25/26 · Como - Südtirol</title>
+    <desc lang="es">Sin clasificar,SIN CLASIFICAR | 2025 | TP
+· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250820213000 +0200" stop="20250820215800 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League Stories T23/24 · Juan Sebastián Verón, la Brujita de la Premier</title>
+    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *5.6/10
+· Una descripción completa de la Premier League en todo el mundo. Las últimas noticias, entrevistas, curiosidades e historias sobre la pasión de los aficionados por el fútbol inglés.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250820215800 +0200" stop="20250820234900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Primera ronda: Milan - Bari T25/26 · Copa de Italia</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | TP
+· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250820234900 +0200" stop="20250821014900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Goodwood Members' Meeting T2025 · Día 4</title>
+    <desc lang="es">Deportes,Motor | 2025 | TP
+· Grandes debutantes, F1 clásicos, VR lunar en Future Lab, acrobacias aéreas y la icónica subida a la colina bajo un ambiente festivo.
+</desc>
   </programme>
 </tv>
