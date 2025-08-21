@@ -1,115 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 20/08/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 21/08/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250820130000 +0200" stop="20250820135200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2025 · Malasia - Carrera 1</title>
-    <desc lang="es">Deportes,Motor | 2025 | TP
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
-</desc>
-  </programme>
-  <programme start="20250820135200 +0200" stop="20250820143100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de MotoE - Austria T2025 · Carrera 2</title>
-    <desc lang="es">Sin clasificar,SIN CLASIFICAR | 2025 | TP
-· El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas.
-· País: Austria</desc>
-  </programme>
-  <programme start="20250820143100 +0200" stop="20250820153800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Born Racers T1 · Sacrificio</title>
-    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *4/10
-· La academia más rápida sobre dos ruedas sigue la trayectoria de ocho adolescentes.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20250820153800 +0200" stop="20250820165000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Red Bull Rookies Cup T2025 · Red Bull Ring: Spielberg - Carrera 1</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP
-· La Red Bull MotoGP Rookies Cup es una excelente cantera de pilotos. La competición se fundó en 2007 y, desde entonces, muchos de los participantes han progresado hacia el Mundial de motociclismo. Esta temporada cuenta con 7 rondas y 14 carreras.
-· País: Austria</desc>
-  </programme>
-  <programme start="20250820165000 +0200" stop="20250820174600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Born Racers T1 · Rivalidad</title>
-    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *6.2/10
-· Born Racers, la academia más rápida sobre dos ruedas, sigue la trayectoria de ocho adolescentes que persiguen el sueño de llegar a lo más alto en el mundo de las carreras de motos.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20250820174600 +0200" stop="20250820184300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2025 · Malasia - Carrera 2</title>
-    <desc lang="es">Deportes,Motor | 2025 | TP
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
-</desc>
-  </programme>
-  <programme start="20250820184300 +0200" stop="20250820191400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Cesc Fábregas, el último sueño</title>
-    <desc lang="es">Documentales,Deportes | 2022 | TP | *7/10
-· Cesc Fábregas vive su última etapa de futbolista disfrutando en el Como 1907 italiano. Allí ha repasado su carrera deportiva con DAZN.
-</desc>
-  </programme>
-  <programme start="20250820191400 +0200" stop="20250820210600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Copa de Italia T25/26 · Primera ronda: Como - Südtirol</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP
-· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250820210600 +0200" stop="20250820213300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League Stories T23/24 · Juan Sebastián Verón, la Brujita de la Premier</title>
-    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *5.6/10
-· Una descripción completa de la Premier League en todo el mundo. Las últimas noticias, entrevistas, curiosidades e historias sobre la pasión de los aficionados por el fútbol inglés.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250820213300 +0200" stop="20250820232000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Copa de Italia T25/26 · Primera ronda: Milan - Bari</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP
-· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250820232000 +0200" stop="20250821010100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Goodwood Members' Meeting T2025 · Día 4</title>
-    <desc lang="es">Deportes,Motor | 2025 | TP
-· Grandes debutantes, F1 clásicos, VR lunar en Future Lab, acrobacias aéreas y la icónica subida a la colina bajo un ambiente festivo.
-</desc>
-  </programme>
-  <programme start="20250821010100 +0200" stop="20250821014900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250821014900 +0200" stop="20250821060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250821060000 +0200" stop="20250821130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250821130000 +0200" stop="20250821132300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250821130000 +0200" stop="20250821132400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Entrevista - Gigi Dall'igna</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP | *2/10
 · Entrevista a Gigi Dall'Igna, jefe de Ducati. El italiano no deja ningún tema sin tratar y habla abiertamente de la situación del equipo.
 </desc>
   </programme>
-  <programme start="20250821132300 +0200" stop="20250821142500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250821132400 +0200" stop="20250821144200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Rueda de prensa motos T2025 · Austria - Paddock Abierto</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
 </desc>
   </programme>
-  <programme start="20250821142500 +0200" stop="20250821145200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Austria</title>
-    <desc lang="es">Sin clasificar,SIN CLASIFICAR | 2025 | TP | *10/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20250821145200 +0200" stop="20250821151500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250821144200 +0200" stop="20250821151500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP Features T2025 · Entrevista a Marc Márquez - 200 veces al límite</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP
 · Programa de MotoGP.
@@ -117,61 +24,61 @@
   </programme>
   <programme start="20250821151500 +0200" stop="20250821170100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Rueda de prensa motos T2025 · Hungría - Paddock Abierto</title>
-    <desc lang="es">Sin clasificar,SIN CLASIFICAR | 2025 | TP
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
 </desc>
   </programme>
-  <programme start="20250821170100 +0200" stop="20250821175700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250821170100 +0200" stop="20250821180500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Álex</title>
     <desc lang="es">Deportes,Programa deportes | 2023 | TP | *7.4/10
 · En MotoGP no se regala nada y Álex Márquez ha tenido que luchar como el que más para asentarse en la parrilla. Dentro del casco se encuentra un piloto divertido con una historia que va a sorprender a muchos.
 · País: España</desc>
   </programme>
-  <programme start="20250821175700 +0200" stop="20250821182300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250821180500 +0200" stop="20250821183200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Features T3 · Juan Mata, el elegido de Old Trafford</title>
     <desc lang="es">Deportes,Programa deportes | 2024 | TP
 · Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.
 </desc>
   </programme>
-  <programme start="20250821182300 +0200" stop="20250821202500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250821183200 +0200" stop="20250821202700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T25/26 · Jornada 1: Manchester Utd. - Arsenal</title>
     <desc lang="es">Deportes,Fútbol | 2025 | *7/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250821202500 +0200" stop="20250821210000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2025 · Pecco Bagnaia</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *5.8/10
-· El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP.
-</desc>
-  </programme>
-  <programme start="20250821210000 +0200" stop="20250821224600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250821202700 +0200" stop="20250821221300 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Rueda de prensa motos T2025 · Hungría - Paddock Abierto</title>
-    <desc lang="es">Sin clasificar,SIN CLASIFICAR | 2025 | TP
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
 </desc>
   </programme>
-  <programme start="20250821224600 +0200" stop="20250821234700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Martinator, voluntad de hierro</title>
-    <desc lang="es">Deportes,Programa deportes | 2023 | TP | *7/10
-· Escuchaba el rugido de los motores del Jarama desde su habitación y ahora pelea por ser campeón de MotoGP. Jorge Martín ha superado todos los límites de un deportista de élite para escalar la cima del motociclismo mundial.
-· País: España</desc>
-  </programme>
-  <programme start="20250821234700 +0200" stop="20250822004800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250821221300 +0200" stop="20250821230700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Austria T2025 · Carrera Moto3</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *10/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *7/10
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
-  <programme start="20250822004800 +0200" stop="20250822014900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250821230700 +0200" stop="20250822000500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Austria T2025 · Carrera Moto2</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6/10
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
+  </programme>
+  <programme start="20250822000500 +0200" stop="20250822010500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Austria T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.6/10
+· Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
+· País: Austria</desc>
+  </programme>
+  <programme start="20250822010500 +0200" stop="20250822014900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
   <programme start="20250822014900 +0200" stop="20250822025200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Austria T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.2/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.6/10
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
@@ -189,13 +96,13 @@
   </programme>
   <programme start="20250822085500 +0200" stop="20250822115100 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Entrenamientos libres 1 T2025 · MotoGP - GP de Hungría</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *4/10
 · Tras 33 de ausencia, Hungría regresa al calendario del Mundial de motociclismo. El nuevo circuito de Balaton Park acoge la 14ª cita del campeonato. Sus siete curvas a la derecha y diez a la izquierda conforman un trazado único para máquinas y pilotos.
 · País: Hungría</desc>
   </programme>
   <programme start="20250822115100 +0200" stop="20250822125200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Rueda de prensa motos T2025 · Hungría - Paddock Abierto</title>
-    <desc lang="es">Sin clasificar,SIN CLASIFICAR | 2025 | TP
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
 </desc>
   </programme>
@@ -231,7 +138,7 @@
   </programme>
   <programme start="20250822184000 +0200" stop="20250822194200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Austria T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.2/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.6/10
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
@@ -280,7 +187,7 @@
   </programme>
   <programme start="20250823083500 +0200" stop="20250823091500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Hungría</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *4/10
 · Tras 33 de ausencia, Hungría regresa al calendario del Mundial de motociclismo. El nuevo circuito de Balaton Park acoge la 14ª cita del campeonato. Sus siete curvas a la derecha y diez a la izquierda conforman un trazado único para máquinas y pilotos.
 · País: Hungría</desc>
   </programme>
@@ -304,13 +211,13 @@
   </programme>
   <programme start="20250823111500 +0200" stop="20250823143000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Austria T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.2/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.6/10
 · Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
 · País: Austria</desc>
   </programme>
   <programme start="20250823143000 +0200" stop="20250823184000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Hungría</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *4/10
 · Tras 33 de ausencia, Hungría regresa al calendario del Mundial de motociclismo. El nuevo circuito de Balaton Park acoge la 14ª cita del campeonato. Sus siete curvas a la derecha y diez a la izquierda conforman un trazado único para máquinas y pilotos.
 · País: Hungría</desc>
   </programme>
@@ -391,13 +298,13 @@
   </programme>
   <programme start="20250824110000 +0200" stop="20250824123000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto3 T2025 · MotoGP - GP de Hungría</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *7/10
 · Tras 33 de ausencia, Hungría regresa al calendario del Mundial de motociclismo. El nuevo circuito de Balaton Park acoge la 14ª cita del campeonato. Sus siete curvas a la derecha y diez a la izquierda conforman un trazado único para máquinas y pilotos.
 · País: Hungría</desc>
   </programme>
   <programme start="20250824123000 +0200" stop="20250824140000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Hungría</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *7/10
 · Tras 33 de ausencia, Hungría regresa al calendario del Mundial de motociclismo. El nuevo circuito de Balaton Park acoge la 14ª cita del campeonato. Sus siete curvas a la derecha y diez a la izquierda conforman un trazado único para máquinas y pilotos.
 · País: Hungría</desc>
   </programme>
@@ -528,6 +435,42 @@
 </desc>
   </programme>
   <programme start="20250826220000 +0200" stop="20250827020000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250827020000 +0200" stop="20250827060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250827060000 +0200" stop="20250827100000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250827100000 +0200" stop="20250827140000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250827140000 +0200" stop="20250827180000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250827180000 +0200" stop="20250827220000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250827220000 +0200" stop="20250828020000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
