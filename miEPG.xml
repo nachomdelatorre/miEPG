@@ -1,108 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 23/08/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 24/08/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250823083500 +0200" stop="20250823114700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Camino a la pole T2025 · MotoGP - GP de Hungría</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.6/10
-· Tras 33 de ausencia, Hungría regresa al calendario del Mundial de motociclismo. El nuevo circuito de Balaton Park acoge la 14ª cita del campeonato. Sus siete curvas a la derecha y diez a la izquierda conforman un trazado único para máquinas y pilotos.
-· País: Hungría</desc>
-  </programme>
-  <programme start="20250823114700 +0200" stop="20250823120200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Zubimendi</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | TP
-· El recién llegado al Arsenal y ex de la Real Sociedad, Martín Zubimendi, repasa su trayectoria con Eneko en esta nueva edición de Premier Corner.
-· País: España</desc>
-  </programme>
-  <programme start="20250823120200 +0200" stop="20250823122500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Decoded T2025 · Pecco Bagnaia</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *5.8/10
-· El programa analiza el estilo de Francesco Bagnaia, el piloto que ha devuelto la gloria a Ducati en el Mundial de MotoGP.
-</desc>
-  </programme>
-  <programme start="20250823122500 +0200" stop="20250823171800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Sábado al Sprint T2025 · MotoGP - GP de Hungría</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *5.6/10
-· Tras 33 de ausencia, Hungría regresa al calendario del Mundial de motociclismo. El nuevo circuito de Balaton Park acoge la 14ª cita del campeonato. Sus siete curvas a la derecha y diez a la izquierda conforman un trazado único para máquinas y pilotos.
-· País: Hungría</desc>
-  </programme>
-  <programme start="20250823171800 +0200" stop="20250823173100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Inside Ducati T1 · Gran Bretaña</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP
-· Más INSIDE con Riccardo Savin, Director de Proyecto de MotoGP en Ducati Corse, quien explica detalladamente la larga jornada de un ingeniero en la pista. Además, una bandera roja repentina que cambió el destino de la carrera.
-</desc>
-  </programme>
-  <programme start="20250823173100 +0200" stop="20250823174400 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Inside Ducati T1 · Aragón</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP
-· Dominio total de Marc Márquez, que se impone en el Gran Premio de Aragón tras liderar todas las sesiones, ganar la Sprint y marcar el nuevo récord histórico de vuelta en la clasificación.
-</desc>
-  </programme>
-  <programme start="20250823174400 +0200" stop="20250823175900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Inside Ducati T1 · Italia</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP
-· Comenzamos nuestro viaje con una breve parada en Florencia, donde los pilotos se encontraban inmersos en una partida de ajedrez muy particular, y luego regresamos a Borgo Panigale para descubrir el Ducati Lenovo Remote Garage.
-</desc>
-  </programme>
-  <programme start="20250823175900 +0200" stop="20250823190100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Espargabros</title>
-    <desc lang="es">Documentales,Deportes | 2025 | TP | *6/10
-· Dos carreras paralelas pero muy diferentes. Aleix y Pol Espargaró se enfrentan a los momentos más importantes de sus carreras deportivas tras la retirada de ambos de la competición.
-· País: España</desc>
-  </programme>
-  <programme start="20250823190100 +0200" stop="20250823191500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Pol Position T2025 · Quartararo</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *8/10
-· El piloto del Monster Energy Yamaha y campeón del Mundo de MotoGP Fabio Quartararo, es el tercer invitado de Pol Espargaró en el espacio 'Pol Position'.
-· País: España</desc>
-  </programme>
-  <programme start="20250823191500 +0200" stop="20250823201600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Hungría T2025 · Sprint MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP
-· Tras 33 de ausencia, Hungría regresa al calendario del Mundial de motociclismo. El nuevo circuito de Balaton Park acoge la 14ª cita del campeonato. Sus siete curvas a la derecha y diez a la izquierda conforman un trazado único para máquinas y pilotos.
-· País: Hungría</desc>
-  </programme>
-  <programme start="20250823201600 +0200" stop="20250823203600 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *6/10
-· Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán.
-· País: España</desc>
-  </programme>
-  <programme start="20250823203600 +0200" stop="20250823223800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 2: Manchester City - Tottenham T25/26 · Premier League</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | *7.6/10
-· Tras una temporada dolorosa por debajo de sus expectativas el Man City se ha rearmado para volver a aspirar a todo con Pep Guardiola a los mandos. El Tottenham cambió de técnico a pesar del título de UEL y con Thomas Frank quiere volver a codearse con lo.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250823223800 +0200" stop="20250823234000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Austria T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.6/10
-· Situado en el paisaje alpino de Estiria, el Red Bull Ring cuenta con una diferencia de altitud de 65 metros entre diferentes tramos del trazado, lo que favorece velocidades muy altas y frenadas fuertes.
-· País: Austria</desc>
-  </programme>
-  <programme start="20250823234000 +0200" stop="20250824011300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Lago Maggiore - Carreras finales</title>
-    <desc lang="es">Deportes,Deporte acuático | 2025 | TP | *6/10
-· Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
-· País: Italia</desc>
-  </programme>
-  <programme start="20250824011300 +0200" stop="20250824060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250824060000 +0200" stop="20250824093000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20250824093000 +0200" stop="20250824103500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Warm Up T2025 · MotoGP - GP de Hungría</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *8.6/10
 · Tras 33 de ausencia, Hungría regresa al calendario del Mundial de motociclismo. El nuevo circuito de Balaton Park acoge la 14ª cita del campeonato. Sus siete curvas a la derecha y diez a la izquierda conforman un trazado único para máquinas y pilotos.
 · País: Hungría</desc>
   </programme>
@@ -192,7 +96,7 @@
 · País: Hungría</desc>
   </programme>
   <programme start="20250824223200 +0200" stop="20250825003300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 2: Arsenal - Leeds T25/26 · Premier League</title>
+    <title lang="es">Premier League T25/26 · Jornada 2: Arsenal - Leeds</title>
     <desc lang="es">Deportes,Fútbol | 2025 | TP
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
@@ -362,8 +266,8 @@
 · País: España</desc>
   </programme>
   <programme start="20250826211200 +0200" stop="20250826231200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 2: Manchester City - Tottenham T25/26 · Premier League</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | *7.6/10
+    <title lang="es">Premier League T25/26 · Jornada 2: Manchester City - Tottenham</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | *7.8/10
 · Tras una temporada dolorosa por debajo de sus expectativas el Man City se ha rearmado para volver a aspirar a todo con Pep Guardiola a los mandos. El Tottenham cambió de técnico a pesar del título de UEL y con Thomas Frank quiere volver a codearse con lo.
 · País: R.U.</desc>
   </programme>
@@ -380,7 +284,7 @@
 · País: R.U.</desc>
   </programme>
   <programme start="20250827001600 +0200" stop="20250827011700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Velada completa T2025 · Rafferty vs. Chamberlain</title>
+    <title lang="es">Rafferty vs. Chamberlain T2025 · Velada completa</title>
     <desc lang="es">Deportes,Boxeo | 2025 | +18
 · Retransmisión de los mejores combates del momento y noticias de la actualidad del mundo del pugilismo.
 </desc>
@@ -404,7 +308,7 @@
 </desc>
   </programme>
   <programme start="20250827130000 +0200" stop="20250827140200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera 1 T2025 · Mundial de MotoE - Hungría</title>
+    <title lang="es">Mundial de MotoE - Hungría T2025 · Carrera 1</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas.
 · País: Austria</desc>
@@ -452,8 +356,8 @@
 · País: España</desc>
   </programme>
   <programme start="20250827183400 +0200" stop="20250827203500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 2: Brentford - Aston Villa T25/26 · Premier League</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP
+    <title lang="es">Premier League T25/26 · Jornada 2: Brentford - Aston Villa</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
@@ -506,7 +410,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250828133200 +0200" stop="20250828143300 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Carrera 1 T2025 · DTM - Sachsenring</title>
+    <title lang="es">DTM - Sachsenring T2025 · Carrera 1</title>
     <desc lang="es">Deportes,Automovilismo | 2025 | TP
 · El circuito de Sachsenring acoge la sexta prueba del campeonato. La cabeza del campeonato está muy igualada con varios pilotos separados por escasos puntos.
 · País: Alemania</desc>
@@ -656,7 +560,7 @@
 </desc>
   </programme>
   <programme start="20250829203000 +0200" stop="20250829223000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 2: Arsenal - Leeds T25/26 · Premier League</title>
+    <title lang="es">Premier League T25/26 · Jornada 2: Arsenal - Leeds</title>
     <desc lang="es">Deportes,Fútbol | 2025 | TP
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
@@ -668,8 +572,8 @@
 · País: España</desc>
   </programme>
   <programme start="20250829224000 +0200" stop="20250830004000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 2: Manchester City - Tottenham T25/26 · Premier League</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | *7.6/10
+    <title lang="es">Premier League T25/26 · Jornada 2: Manchester City - Tottenham</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | *7.8/10
 · Tras una temporada dolorosa por debajo de sus expectativas el Man City se ha rearmado para volver a aspirar a todo con Pep Guardiola a los mandos. El Tottenham cambió de técnico a pesar del título de UEL y con Thomas Frank quiere volver a codearse con lo.
 · País: R.U.</desc>
   </programme>
@@ -678,5 +582,85 @@
     <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *6/10
 · Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán.
 · País: España</desc>
+  </programme>
+  <programme start="20250830005400 +0200" stop="20250830060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250830060000 +0200" stop="20250830130000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250830130000 +0200" stop="20250830132000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *6.2/10
+· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel.
+· País: España</desc>
+  </programme>
+  <programme start="20250830132000 +0200" stop="20250830153500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 3: Chelsea - Fulham T25/26 · Premier League</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | TP
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250830153500 +0200" stop="20250830155000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Zubimendi</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | TP
+· El recién llegado al Arsenal y ex de la Real Sociedad, Martín Zubimendi, repasa su trayectoria con Eneko en esta nueva edición de Premier Corner.
+· País: España</desc>
+  </programme>
+  <programme start="20250830155000 +0200" stop="20250830180500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 3: Tottenham - Bournemouth T25/26 · Premier League</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | TP
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250830180500 +0200" stop="20250830182000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Kepa Arrizabalaga</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *6.6/10
+· El futbolista del AFC Bournemouth repasa su trayectoria como el portero más caro de la historia tras fichar por el Chelsea y su actual andadura en el conjunto de las 'Cherries'.
+· País: España</desc>
+  </programme>
+  <programme start="20250830182000 +0200" stop="20250830203000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 3: Leeds - Newcastle T25/26 · Premier League</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | TP
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250830203000 +0200" stop="20250830204000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Catar</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *4.6/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250830204000 +0200" stop="20250830215000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP - GP de Catar T2025 · Carrera MotoGP</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.8/10
+· El Internacional de Lusail es un trazado de 5,4 km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.
+</desc>
+  </programme>
+  <programme start="20250830215000 +0200" stop="20250830221500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Catar</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *4.6/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20250830221500 +0200" stop="20250831002000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 3: Manchester United - Burnley T25/26 · Premier League</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | TP
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250831002000 +0200" stop="20250831010900 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Boxeo: velada Hitchins vs Kambosos Jr T2025 · Richardson Hitchins vs. George Kambosos Jr</title>
+    <desc lang="es">Deportes,Boxeo | 2025 | +18 | *5.6/10
+· Nueva York acoge esta velada de boxeo que tiene como combate estrella en enfrentamiento entre el estadounidense Richardson Hitchins y el australiano George Kambosos Jr.
+· País: Australia y EE.UU.</desc>
   </programme>
 </tv>
