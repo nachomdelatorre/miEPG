@@ -1,170 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 17/09/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 18/09/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20250917130000 +0200" stop="20250917140200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de MotoE - San Marino T2025 · Carrera 2</title>
-    <desc lang="es">Deportes,Motor | 2025 | TP | *8/10
-· El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas.
-</desc>
-  </programme>
-  <programme start="20250917140200 +0200" stop="20250917150800 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *5.6/10
-· Documental sobre Ducati, la fuerza mayor de MotoGP.
-</desc>
-  </programme>
-  <programme start="20250917150800 +0200" stop="20250917170500 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Goodwood Members' Meeting T2025 · Día 4</title>
-    <desc lang="es">Deportes,Motor | 2025 | TP | *7.2/10
-· Grandes debutantes, F1 clásicos, VR lunar en Future Lab, acrobacias aéreas y la icónica subida a la colina bajo un ambiente festivo.
-</desc>
-  </programme>
-  <programme start="20250917170500 +0200" stop="20250917172000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Revelado - Julián Álvarez</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6/10
-· El jugador argentino ha aterrizado de pie en el Atlético de Madrid y se ha convertido en una pieza clave.
-</desc>
-  </programme>
-  <programme start="20250917172000 +0200" stop="20250917192000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga F T25/26 · Jornada 3: Atlético de Madrid - Levante UD</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6.6/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-  </programme>
-  <programme start="20250917192000 +0200" stop="20250917193700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0: Martín T2025 · Zubimendi</title>
-    <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *3/10
-· El recién llegado al Arsenal y ex de la Real Sociedad, Martín Zubimendi, repasa su trayectoria con Eneko en esta nueva edición de Premier Corner.
-· País: España</desc>
-  </programme>
-  <programme start="20250917193700 +0200" stop="20250917213200 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T25/26 · Jornada 4: Arsenal - Nottingham Forest</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *7/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250917213200 +0200" stop="20250917215900 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League Features T3 · Juan Mata, el elegido de Old Trafford</title>
-    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *5.6/10
-· Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.
-</desc>
-  </programme>
-  <programme start="20250917215900 +0200" stop="20250918000100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T25/26 · Jornada 4: Manchester City - Manchester Utd</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6/10
-· El derby de Manchester llega en la cuarta jornada de la Premier con claras urgencias para los dos equipos después de que ambos lleguen con solo una victoria por bando.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20250918000100 +0200" stop="20250918010100 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxing Show T2025 · Crocker vs. Donovan 2: Velada completa</title>
-    <desc lang="es">Deportes,Boxeo | 2025 | +18
-· Espacio dedicado al mundo del boxeo.
-</desc>
-  </programme>
-  <programme start="20250918010100 +0200" stop="20250918060000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250918060000 +0200" stop="20250918130000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20250918130000 +0200" stop="20250918140900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250918130100 +0200" stop="20250918140200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Catalunya T2025 · Carrera MotoGP</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP | *5.6/10
 · El GP de Catalunya es la 15ª prueba del Mundial de motociclismo.
 · País: España</desc>
   </programme>
-  <programme start="20250918140900 +0200" stop="20250918143700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250918140200 +0200" stop="20250918143200 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Cataluña</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250918143700 +0200" stop="20250918144800 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250918143200 +0200" stop="20250918144400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position T2025 · Pedro de la Rosa</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *10/10
 · Pedro de la Rosa se convierte en anfitrión de Pol Espargaró en el GP de España de F1.
 · País: España</desc>
   </programme>
-  <programme start="20250918144800 +0200" stop="20250918154900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250918144400 +0200" stop="20250918152800 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de MotoE - San Marino T2025 · Carrera 2</title>
-    <desc lang="es">Deportes,Motor | 2025 | TP | *8/10
+    <desc lang="es">Deportes,Motor | 2025 | TP | *6/10
 · El Mundial de motos eléctricas cumple su séptima temporada como referente de de energía renovable. En esta campaña, el certamen cuenta con 14 carreras distribuidas en siete paradas.
 </desc>
   </programme>
-  <programme start="20250918154900 +0200" stop="20250918165600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250918152800 +0200" stop="20250918163400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Born Racers T1 · Sacrificio</title>
-    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *4/10
+    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *7/10
 · La academia más rápida sobre dos ruedas sigue la trayectoria de ocho adolescentes.
 · País: Austria
 · Productora: Whisper Films.</desc>
   </programme>
-  <programme start="20250918165600 +0200" stop="20250918175700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250918163400 +0200" stop="20250918172700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Red Bull Rookies Cup T2025 · Misano - Carrera 1</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6/10
 · La Red Bull MotoGP Rookies Cup es una excelente cantera de pilotos. La competición se fundó en 2007 y, desde entonces, muchos de los participantes han progresado hacia el Mundial de motociclismo. Esta temporada cuenta con 7 rondas y 14 carreras.
 </desc>
   </programme>
-  <programme start="20250918175700 +0200" stop="20250918190300 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250918172700 +0200" stop="20250918184000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Born Racers T1 · Reconocimiento</title>
     <desc lang="es">Deportes,Programa deportes | 2024 | TP | *6.4/10
 · El futuro de nuestros novatos se decidirá de forma dramática en el último fin de semana de carreras de la temporada.
 · País: Austria
 · Productora: Whisper Films.</desc>
   </programme>
-  <programme start="20250918190300 +0200" stop="20250918191700 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Dare to Rise T1 · Ludovic Fàbregas</title>
-    <desc lang="es">Deportes,Balonmano | 2024 | TP | *6/10
-· Ludovic Fàbregas es el primer protagonista de la serie 'Dare To Rise' de la EHF.
-</desc>
-  </programme>
-  <programme start="20250918191700 +0200" stop="20250918203400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250918184000 +0200" stop="20250918202000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga de Campeones de balonmano T25/26 · Jornada 1: Barcelona - GOG</title>
     <desc lang="es">Deportes,Balonmano | 2025 | TP | *6/10
 · Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
 · País: España</desc>
   </programme>
-  <programme start="20250918203500 +0200" stop="20250918222700 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250918202000 +0200" stop="20250918203500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Dare to Rise T1 · Roland Mikler</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6/10
+· PICK Szeged en la Machineseeker EHF Champions League y que sigue en plena forma en su quinta década.
+</desc>
+  </programme>
+  <programme start="20250918203500 +0200" stop="20250918222600 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 2: Barcelona - Magdeburgo T25/26 · Liga de Campeones de balonmano</title>
-    <desc lang="es">Deportes,Balonmano | 2025 | TP | *6.6/10
+    <desc lang="es">Deportes,Balonmano | 2025 | TP | *7.6/10
 · Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
 · País: España</desc>
   </programme>
-  <programme start="20250918222700 +0200" stop="20250918225400 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250918222600 +0200" stop="20250918225000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · San Marino</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6/10
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *7/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20250918225400 +0200" stop="20250918235500 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250918225000 +0200" stop="20250918234700 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de San Marino T2025 · Race Moto3</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP | *5.6/10
 · El GP de San Marino es la decimosexta prueba de la temporada. El circuito de Misano es conocido por sus desafiantes características técnicas, curvas rápidas y cambios de elevación, lo que lo convierte en un lugar emocionante.
 · País: Italia</desc>
   </programme>
-  <programme start="20250918235500 +0200" stop="20250919005600 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250918234700 +0200" stop="20250919004400 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de San Marino T2025 · Race Moto2</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP
 · El GP de San Marino es la decimosexta prueba de la temporada. El circuito de Misano es conocido por sus desafiantes características técnicas, curvas rápidas y cambios de elevación, lo que lo convierte en un lugar emocionante.
 · País: Italia</desc>
   </programme>
-  <programme start="20250919005600 +0200" stop="20250919015900 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250919004400 +0200" stop="20250919014900 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de San Marino T2025 · Race MotoGP</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP | *7.6/10
 · El GP de San Marino es la decimosexta prueba de la temporada. El circuito de Misano es conocido por sus desafiantes características técnicas, curvas rápidas y cambios de elevación, lo que lo convierte en un lugar emocionante.
 · País: Italia</desc>
   </programme>
-  <programme start="20250919015900 +0200" stop="20250919060000 +0200" channel="DAZN 1 HD 1080P">
+  <programme start="20250919014900 +0200" stop="20250919060000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -178,7 +106,7 @@
   </programme>
   <programme start="20250919130000 +0200" stop="20250919145500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Goodwood Members' Meeting T2025 · Día 4</title>
-    <desc lang="es">Deportes,Motor | 2025 | TP | *7.2/10
+    <desc lang="es">Deportes,Motor | 2025 | TP | *7.8/10
 · Grandes debutantes, F1 clásicos, VR lunar en Future Lab, acrobacias aéreas y la icónica subida a la colina bajo un ambiente festivo.
 </desc>
   </programme>
@@ -204,7 +132,7 @@
   </programme>
   <programme start="20250919163500 +0200" stop="20250919174000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">MotoGP - GP de Argentina T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *7.6/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *7.4/10
 · Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
 · País: Argentina</desc>
   </programme>
@@ -217,7 +145,7 @@
   </programme>
   <programme start="20250919175500 +0200" stop="20250919181500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Dream Team - Ducati</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *7.2/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *7/10
 · El equipo Ducati Lenovo es un verdadero 'Dream Team' esta temporada 2025.
 · País: España</desc>
   </programme>
@@ -249,19 +177,19 @@
   </programme>
   <programme start="20250919202000 +0200" stop="20250919222000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T25/26 · Jornada 4: Arsenal - Nottingham Forest</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *7/10
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *7.4/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
   <programme start="20250919222000 +0200" stop="20250919223000 +0200" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Zubimendi</title>
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Martín Zubimendi</title>
     <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *3/10
 · El recién llegado al Arsenal y ex de la Real Sociedad, Martín Zubimendi, repasa su trayectoria con Eneko en esta nueva edición de Premier Corner.
 · País: España</desc>
   </programme>
   <programme start="20250919223000 +0200" stop="20250920003000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T25/26 · Jornada 4: Manchester City - Manchester Utd</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6/10
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6.2/10
 · El derby de Manchester llega en la cuarta jornada de la Premier con claras urgencias para los dos equipos después de que ambos lleguen con solo una victoria por bando.
 · País: R.U.</desc>
   </programme>
@@ -315,7 +243,7 @@
   </programme>
   <programme start="20250920230000 +0200" stop="20250920232500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Features T3 · Juan Mata, el elegido de Old Trafford</title>
-    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *5.6/10
+    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *6.4/10
 · Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.
 </desc>
   </programme>
@@ -364,7 +292,7 @@
   </programme>
   <programme start="20250921145000 +0200" stop="20250921170500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 5: Sunderland - Aston Villa T25/26 · Premier League</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6/10
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6.4/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premie, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: R.U.</desc>
   </programme>
@@ -376,7 +304,7 @@
   </programme>
   <programme start="20250921172000 +0200" stop="20250921193000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 5: Arsenal - Manchester City T25/26 · Premier League</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6/10
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *5.6/10
 · El Arsenal viene de ganar al N.Forest con un Zubimendi estelar y el Man City apabulló al United en el derby de Mánchester. Dos pesos pesados que aspiran a disputarle la Premier al vigente campeón Liverpool y que no pueden fallar.
 · País: R.U.</desc>
   </programme>
@@ -424,13 +352,13 @@
   </programme>
   <programme start="20250922130000 +0200" stop="20250922145000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Copa de Italia T25/26 · Primera ronda: Como - Südtirol</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6/10
 · La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
 · País: Italia</desc>
   </programme>
   <programme start="20250922145000 +0200" stop="20250922151500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Features T3 · Juan Mata, el elegido de Old Trafford</title>
-    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *5.6/10
+    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *6.4/10
 · Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.
 </desc>
   </programme>
@@ -456,7 +384,7 @@
   </programme>
   <programme start="20250922170000 +0200" stop="20250922191000 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 4: Sevilla - FC Barcelona T25/26 · Liga F</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6/10
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *5.8/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
   </programme>
@@ -468,7 +396,7 @@
   </programme>
   <programme start="20250922192500 +0200" stop="20250922213500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 4: Real Madrid - Deportivo Abanca T25/26 · Liga F</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6/10
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *5.6/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
   </programme>
@@ -516,7 +444,7 @@
   </programme>
   <programme start="20250923140000 +0200" stop="20250923142500 +0200" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · San Marino</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6/10
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *7/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
@@ -574,5 +502,77 @@
     <desc lang="es">Deportes,Boxeo | 2025 | +18 | *6/10
 · Retransmisión de los mejores combates del momento y noticias de la actualidad del mundo del pugilismo.
 · País: R.U.</desc>
+  </programme>
+  <programme start="20250924010300 +0200" stop="20250924060000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250924060000 +0200" stop="20250924130000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250924130000 +0200" stop="20250924132500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier League Stories T24/25 · La rivalidad que definió al rey</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *5.6/10
+· Los enfrentamientos entre Arsène Wenger y Sir Alex Ferguson marcaron una de las rivalidades más emblemáticas de la historia de la Premier League.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250924132500 +0200" stop="20250924134000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Premier Corner by Guiness 0,0 T2025 · Martín Zubimendi</title>
+    <desc lang="es">Entretenimiento,Entrevista | 2025 | TP | *3/10
+· El recién llegado al Arsenal y ex de la Real Sociedad, Martín Zubimendi, repasa su trayectoria con Eneko en esta nueva edición de Premier Corner.
+· País: España</desc>
+  </programme>
+  <programme start="20250924134000 +0200" stop="20250924144000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Póker FC T2025 E1</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP
+· Programa que repasa los mejores momentos de cada jornada en las cuatro grandes ligas del fútbol europeo.
+· País: España</desc>
+  </programme>
+  <programme start="20250924144000 +0200" stop="20250924165300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Segunda ronda: Milan - Lecce T25/26 · Copa de Italia</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6/10
+· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250924165300 +0200" stop="20250924205300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Segunda ronda: Parma - Spezia T25/26 · Copa de Italia</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6/10
+· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250924205300 +0200" stop="20250924230500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Segunda ronda: Como - Sassuolo T25/26 · Copa de Italia</title>
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6.2/10
+· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250924230500 +0200" stop="20250924233500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Cesc Fábregas, el último sueño</title>
+    <desc lang="es">Documentales,Deportes | 2022 | TP | *6.6/10
+· Cesc Fábregas vive su última etapa de futbolista disfrutando en el Como 1907 italiano. Allí ha repasado su carrera deportiva con DAZN.
+</desc>
+  </programme>
+  <programme start="20250924233500 +0200" stop="20250924235500 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Los hermanos Van Steenis, la magia de lo imposible</title>
+    <desc lang="es">Deportes,Boxeo | 2025 | TP
+· Los Hermanos Van Steenis transforman cada presentación en una experiencia inolvidable.
+</desc>
+  </programme>
+  <programme start="20250924235500 +0200" stop="20250925005300 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Rafferty vs. Chamberlain T2025 · Velada completa</title>
+    <desc lang="es">Deportes,Boxeo | 2025 | +18 | *8/10
+· Retransmisión de los mejores combates del momento y noticias de la actualidad del mundo del pugilismo.
+</desc>
+  </programme>
+  <programme start="20250925005300 +0200" stop="20250925020000 +0200" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
 </tv>
