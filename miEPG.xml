@@ -1,139 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 06/11/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 07/11/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20251106130000 +0100" stop="20251106135300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2025 · Malasia - Carrera 1</title>
-    <desc lang="es">Deportes,Motor | 2025 | TP | *6.2/10
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
-  </programme>
-  <programme start="20251106135300 +0100" stop="20251106144600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Asia Talent Cup T2025 · Malasia - Carrera 2</title>
-    <desc lang="es">Deportes,Motor | 2025 | TP | *6.0/10
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
-  </programme>
-  <programme start="20251106144600 +0100" stop="20251106150900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Inside Ducati T1 · GP Indonesia</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.2/10
-· Recapitulación de lo que dejó el Gran Premio de Indonesia con la caída de Marc Márquez y la no puntuación de Pecco Bagnaia.</desc>
-  </programme>
-  <programme start="20251106150900 +0100" stop="20251106161500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Malasia T2025 · Grand Prix MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.2/10
-· El Mundial de motociclismo continúa con su periplo asiático. El GP de Malasia se celebra en el Circuito Internacional de Sepang del 24 al 26 de octubre.</desc>
-  </programme>
-  <programme start="20251106161500 +0100" stop="20251106180100 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Rueda de prensa motos T2025 · Portugal - Paddock Abierto</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
-  </programme>
-  <programme start="20251106180100 +0100" stop="20251106190300 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · GP de Portugal: Carrera MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2024 | TP | *4.8/10
-· El exigente Autodromo Internacional do Algarve es el escenario de la segunda cita de la temporada. El circuito combina rectas largas y quince curvas cerradas que ponen a prueba tanto a los pilotos como a las máquinas.
-· País: Portugal</desc>
-  </programme>
-  <programme start="20251106190300 +0100" stop="20251106193600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP Features T2025 · Entrevista a Marc Márquez - 200 veces al límite</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.2/10
-· Programa de MotoGP.</desc>
-  </programme>
-  <programme start="20251106193600 +0100" stop="20251106212900 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Premier League T25/26 · Jornada 10: Sunderland - Everton</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6.4/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-  </programme>
-  <programme start="20251106212900 +0100" stop="20251106231500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Rueda de prensa motos T2025 · Portugal - Paddock Abierto</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
-  </programme>
-  <programme start="20251106231500 +0100" stop="20251107001500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: velada Allen vs Makhmudov T2025 · Dave Allen vs Arslanbek Makhmudov</title>
-    <desc lang="es">Deportes,Boxeo | 2025 | +18 | *6.0/10
-· Dave Allen afrontará un enorme desafío el próximo 11 de octubre cuando se enfrente al temido peso pesado Arslanbek Makhmudov.
-· País: Reino Unido</desc>
-  </programme>
-  <programme start="20251107001500 +0100" stop="20251107010600 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Queensberry Promotions T2025 · Buatsi vs Parker</title>
-    <desc lang="es">Deportes,Boxeo | 2025 | +18 | *6.2/10
-· Los británicos Joshua Buatsi y Zach Parker se enfrentan en la división de peso semipesado el 1 de noviembre en el Co-op Live Arena de Manchester, Reino Unido.
-· País: Reino Unido</desc>
-  </programme>
-  <programme start="20251107010600 +0100" stop="20251107060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">· Programa por determinar...</desc>
-  </programme>
-  <programme start="20251107060000 +0100" stop="20251107092500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">· Programa por determinar...</desc>
-  </programme>
-  <programme start="20251107092500 +0100" stop="20251107122500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251107095500 +0100" stop="20251107124800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Entrenamientos libres 1 T2025 · MotoGP - GP de Portugal</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP | *5.6/10
 · El GP de Portugal es la 21ª prueba del Mundial de motociclismo.
 · País: Portugal</desc>
   </programme>
-  <programme start="20251107122500 +0100" stop="20251107133500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Malasia T2025 · Grand Prix MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.2/10
-· El Mundial de motociclismo continúa con su periplo asiático. El GP de Malasia se celebra en el Circuito Internacional de Sepang del 24 al 26 de octubre.</desc>
+  <programme start="20251107124800 +0100" stop="20251107131100 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Australia</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20251107133500 +0100" stop="20251107141000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251107131100 +0100" stop="20251107134500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Marc, más que un regreso</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Descubre los entresijos del mayor regreso de la historia del deporte mientras Marc Márquez, el recién coronado campeón del mundo de MotoGP, y su entorno más cercano reviven la historia inédita de su camino de vuelta a la cima.
+· País: España</desc>
+  </programme>
+  <programme start="20251107134500 +0100" stop="20251107141000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Malasia</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP | *5.8/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20251107141000 +0100" stop="20251107170000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251107141000 +0100" stop="20251107171300 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Práctica T2025 · MotoGP - GP de Portugal</title>
     <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.0/10
 · El GP de Portugal es la 21ª prueba del Mundial de motociclismo.
 · País: Portugal</desc>
   </programme>
-  <programme start="20251107170000 +0100" stop="20251107175000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251107171300 +0100" stop="20251107181400 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Ronda 2 T2025 · Indonesia</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
 · La Global Series son la máxima competición de MotoGP a nivel de eSports.</desc>
   </programme>
-  <programme start="20251107175000 +0100" stop="20251107185000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251107181400 +0100" stop="20251107200000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Rueda de prensa motos T2025 · Portugal - Paddock Abierto</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
   </programme>
-  <programme start="20251107185000 +0100" stop="20251107195500 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251107200000 +0100" stop="20251107210200 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Mundial de motociclismo T2024 · GP de Portugal: Carrera MotoGP</title>
     <desc lang="es">Deportes,Motociclismo | 2024 | TP | *4.8/10
 · El exigente Autodromo Internacional do Algarve es el escenario de la segunda cita de la temporada. El circuito combina rectas largas y quince curvas cerradas que ponen a prueba tanto a los pilotos como a las máquinas.
 · País: Portugal</desc>
   </programme>
-  <programme start="20251107195500 +0100" stop="20251107210000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251107210200 +0100" stop="20251107220600 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Póker FC T2025 E6</title>
     <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
   </programme>
-  <programme start="20251107210000 +0100" stop="20251107225000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251107220600 +0100" stop="20251108000300 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T25/26 · Jornada 10: Manchester City - Bournemouth</title>
     <desc lang="es">Deportes,Fútbol | 2025 | TP | *6.4/10
 · El Manchester City se mide al Bournemouth, equiipo revelación de la Premier. Los de Iraola arrancan la décima jornada en la segunda plaza a cutro puntos del líder Arsenal.
 · País: Reino Unido</desc>
   </programme>
-  <programme start="20251107225000 +0100" stop="20251107233000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251108000300 +0100" stop="20251108004100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League Features T2 · Rodrigo Hernández, excepcionalmente normal</title>
     <desc lang="es">Deportes,Programa deportes | 2023 | TP | *6.0/10
 · Repaso en general con todo lo relacionado con la Premier League.</desc>
   </programme>
-  <programme start="20251107233000 +0100" stop="20251108010700 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251108004100 +0100" stop="20251108021800 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">E1 Series T2025 · Lagos - Carreras finales</title>
     <desc lang="es">Deportes,Deporte acuático | 2025 | TP | *6.0/10
 · Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.</desc>
   </programme>
-  <programme start="20251108010700 +0100" stop="20251108060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251108021800 +0100" stop="20251108060000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">· Programa por determinar...</desc>
   </programme>
@@ -149,7 +90,7 @@
   </programme>
   <programme start="20251108123000 +0100" stop="20251108125000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Marc, al otro lado del box</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.2/10
 · Documental sobre Marc Márquez que descubre la figura del piloto a través de los testimonios de sus excompañeros de box (Pol Espargaró, Joan Mir, Jorge Lorenzo, Dani Pedrosa o Álex Márquez).</desc>
   </programme>
   <programme start="20251108125000 +0100" stop="20251108131000 +0100" channel="DAZN 1 HD 1080P">
@@ -225,7 +166,7 @@
   </programme>
   <programme start="20251109121500 +0100" stop="20251109135500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera Moto2 T2025 · MotoGP - GP de Portugal</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *5.8/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.0/10
 · El GP de Portugal es la 21ª prueba del Mundial de motociclismo.
 · País: Portugal</desc>
   </programme>
@@ -259,7 +200,7 @@
 · Documental sobre Marc Márquez que descubre la figura del piloto a través de los testimonios de sus excompañeros de box (Pol Espargaró, Joan Mir, Jorge Lorenzo, Dani Pedrosa o Álex Márquez).</desc>
   </programme>
   <programme start="20251109175500 +0100" stop="20251109192500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Miami - Carreras finales</title>
+    <title lang="es">Miami - Carreras finales T2025 · E1 Series</title>
     <desc lang="es">Deportes,Deporte acuático | 2025 | TP | *5.6/10
 · Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
 · País: Estados Unidos</desc>
@@ -296,7 +237,7 @@
     <desc lang="es">· Programa por determinar...</desc>
   </programme>
   <programme start="20251110130000 +0100" stop="20251110143000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Miami - Carreras finales</title>
+    <title lang="es">Miami - Carreras finales T2025 · E1 Series</title>
     <desc lang="es">Deportes,Deporte acuático | 2025 | TP | *5.6/10
 · Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
 · País: Estados Unidos</desc>
@@ -331,7 +272,7 @@
   </programme>
   <programme start="20251110191000 +0100" stop="20251110201000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Carrera Moto2 T2025 · MotoGP - GP de Portugal</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *5.8/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.0/10
 · El GP de Portugal es la 21ª prueba del Mundial de motociclismo.
 · País: Portugal</desc>
   </programme>
@@ -378,7 +319,7 @@
   </programme>
   <programme start="20251111140000 +0100" stop="20251111150000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Carrera Moto2 T2025 · MotoGP - GP de Portugal</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *5.8/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.0/10
 · El GP de Portugal es la 21ª prueba del Mundial de motociclismo.
 · País: Portugal</desc>
   </programme>
@@ -389,7 +330,7 @@
 · País: Portugal</desc>
   </programme>
   <programme start="20251111160000 +0100" stop="20251111173000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">E1 Series T2025 · Miami - Carreras finales</title>
+    <title lang="es">Miami - Carreras finales T2025 · E1 Series</title>
     <desc lang="es">Deportes,Deporte acuático | 2025 | TP | *5.6/10
 · Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
 · País: Estados Unidos</desc>
@@ -412,13 +353,13 @@
   </programme>
   <programme start="20251111204000 +0100" stop="20251111223000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 3: Saint - Raphael - Bidasoa T25/26 · Liga Europea de la EHF</title>
-    <desc lang="es">Deportes,Balonmano | 2025 | TP | *5.8/10
+    <desc lang="es">Deportes,Balonmano | 2025 | TP | *6.0/10
 · La Liga Europea ocupa el segundo lugar en el escalafón de las competiciones continentales de balonmano. Comienza con una fase de clasificación, seguida de una fase de grupos; los mejores, pelean por el título en las eliminatorias.
 · País: Francia</desc>
   </programme>
   <programme start="20251111223000 +0100" stop="20251111225000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Código MotoGP T2025 · Portugal</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
@@ -430,13 +371,13 @@
   </programme>
   <programme start="20251111234000 +0100" stop="20251112000500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Pol Position T2025 · Santi Hernández</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *5.8/10
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Pol Espargaró entrevista personalidades del mundo del motor. El programa relata las mejores historias del motociclismo.
 · País: España</desc>
   </programme>
   <programme start="20251112000500 +0100" stop="20251112010500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Póker FC T2025 E7</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
   </programme>
@@ -456,13 +397,13 @@
   </programme>
   <programme start="20251112134500 +0100" stop="20251112144500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Póker FC T2025 E7</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
   </programme>
   <programme start="20251112144500 +0100" stop="20251112163500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Liga F T25/26 · Jornada 10: RCD Espanyol - Real Sociedad</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *4.6/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
   </programme>
@@ -505,5 +446,82 @@
     <desc lang="es">Deportes,Fútbol | 2025 | TP
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
+  </programme>
+  <programme start="20251113011500 +0100" stop="20251113060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251113060000 +0100" stop="20251113130000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251113130000 +0100" stop="20251113142500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de MotoGP T2023 · Carrera MotoGP</title>
+    <desc lang="es">Deportes,Motociclismo | 2023 | TP | *7.0/10
+· El circuito Ricardo Tormo es un año más el escenario de la última prueba de la temporada del Mundial de motociclismo. Los miles de aficionados que se acercan a Cheste homenajearán a los campeones de las diferentes categorías.
+· País: España</desc>
+  </programme>
+  <programme start="20251113142500 +0100" stop="20251113150000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">25 años de emociones, 25 años del Circuit</title>
+    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *5.2/10
+· Historia del circuito Ricardo Tormo de Cheste. Ubicado en Valencia, las curvas de este legendario trazado inaugurado en 1999 ha sido testigo de grandes batallas finales en el mundo del automovilismo y motociclismo.
+· País: España</desc>
+  </programme>
+  <programme start="20251113150000 +0100" stop="20251113160000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Rueda de prensa motos T2025 · Valencia - Paddock Abierto</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP
+· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
+  </programme>
+  <programme start="20251113160000 +0100" stop="20251113170000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · Carrera MotoGP</title>
+    <desc lang="es">Deportes,Motociclismo | 2024 | TP | *6.4/10
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.
+· País: España</desc>
+  </programme>
+  <programme start="20251113170000 +0100" stop="20251113173500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Código MotoGP T2025 · Portugal</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20251113173500 +0100" stop="20251113192500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Liga de Campeones de balonmano T25/26 · Jornada 6: Wisla Plock - Barcelona</title>
+    <desc lang="es">Deportes,Balonmano | 2025 | TP | *6.0/10
+· Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
+· País: Polonia</desc>
+  </programme>
+  <programme start="20251113192500 +0100" stop="20251113193500 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Dare to Rise T1 · Elias Ellefsen á Skipagotu</title>
+    <desc lang="es">Deportes,Balonmano | 2024 | TP | *7.0/10
+· En el tercer capítulo de la serie 'Dare to rise' de la EHF presentamos a Elias Ellefsen á Skipagotu, el jugador del THW Kiel, presente en la Final Four de la EHF Champions League.</desc>
+  </programme>
+  <programme start="20251113193500 +0100" stop="20251113202800 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Dare to Rise T1 · Time for champions</title>
+    <desc lang="es">Deportes,Balonmano | 2025 | TP | *6.0/10
+· Una temporada de balonmano condensada en un documental, para que sientas la máxima emoción en tu piel.</desc>
+  </programme>
+  <programme start="20251113202800 +0100" stop="20251113223000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">DIRECTO Jornada 7: Barcelona - Wisla Plock T25/26 · Liga de Campeones de balonmano</title>
+    <desc lang="es">Deportes,Balonmano | 2025 | TP | *6.0/10
+· Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
+· País: España</desc>
+  </programme>
+  <programme start="20251113223000 +0100" stop="20251113233000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Rueda de prensa motos T2025 · Valencia - Paddock Abierto</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP
+· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
+  </programme>
+  <programme start="20251113233000 +0100" stop="20251114003000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Carrera MotoGP T2025 · MotoGP - GP de Portugal</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.0/10
+· El GP de Portugal es la 21ª prueba del Mundial de motociclismo.
+· País: Portugal</desc>
+  </programme>
+  <programme start="20251114003000 +0100" stop="20251114010000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Vergil Ortiz Jr vs. Erikson Lubin T2025 · Boxeo: velada Ortiz Jr. vs Lubin</title>
+    <desc lang="es">Deportes,Boxeo | 2025 | +18 | *5.8/10
+· El Dickies Arena de Fort Worth (Texas) acoge esta velada de boxeo que tiene como combate estrella el enfrentamiento entre Vergil Ortiz Jr. y Erickson Lubin por el título WBC del peso superwélter.
+· País: Estados Unidos</desc>
   </programme>
 </tv>
