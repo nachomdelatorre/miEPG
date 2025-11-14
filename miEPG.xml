@@ -1,89 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 13/11/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 14/11/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20251113130000 +0100" stop="20251113142500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de MotoGP T2023 · Carrera MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2023 | TP | *7.0/10
-· El circuito Ricardo Tormo es un año más el escenario de la última prueba de la temporada del Mundial de motociclismo. Los miles de aficionados que se acercan a Cheste homenajearán a los campeones de las diferentes categorías.
-· País: España</desc>
-  </programme>
-  <programme start="20251113142500 +0100" stop="20251113150000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">25 años de emociones, 25 años del Circuit</title>
-    <desc lang="es">Deportes,Programa deportes | 2024 | TP | *5.6/10
-· Historia del circuito Ricardo Tormo de Cheste. Ubicado en Valencia, las curvas de este legendario trazado inaugurado en 1999 ha sido testigo de grandes batallas finales en el mundo del automovilismo y motociclismo.
-· País: España</desc>
-  </programme>
-  <programme start="20251113150000 +0100" stop="20251113160000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Rueda de prensa motos T2025 · Valencia - Paddock Abierto</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
-  </programme>
-  <programme start="20251113160000 +0100" stop="20251113170000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Mundial de motociclismo T2024 · Carrera MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2024 | TP | *6.4/10
-· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.
-· País: España</desc>
-  </programme>
-  <programme start="20251113170000 +0100" stop="20251113173500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Código MotoGP T2025 · Portugal</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20251113173500 +0100" stop="20251113192500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Liga de Campeones de balonmano T25/26 · Jornada 6: Wisla Plock - Barcelona</title>
-    <desc lang="es">Deportes,Balonmano | 2025 | TP | *6.0/10
-· Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
-· País: Polonia</desc>
-  </programme>
-  <programme start="20251113192500 +0100" stop="20251113193500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Dare to Rise T1 · Elias Ellefsen á Skipagotu</title>
-    <desc lang="es">Deportes,Balonmano | 2024 | TP | *6.0/10
-· En el tercer capítulo de la serie 'Dare to rise' de la EHF presentamos a Elias Ellefsen á Skipagotu, el jugador del THW Kiel, presente en la Final Four de la EHF Champions League.</desc>
-  </programme>
-  <programme start="20251113193500 +0100" stop="20251113202800 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Dare to Rise T1 · Time for champions</title>
-    <desc lang="es">Deportes,Balonmano | 2025 | TP | *6.0/10
-· Una temporada de balonmano condensada en un documental, para que sientas la máxima emoción en tu piel.</desc>
-  </programme>
-  <programme start="20251113202800 +0100" stop="20251113223000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">DIRECTO Jornada 7: Barcelona - Wisla Plock T25/26 · Liga de Campeones de balonmano</title>
-    <desc lang="es">Deportes,Balonmano | 2025 | TP | *6.0/10
-· Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
-· País: España</desc>
-  </programme>
-  <programme start="20251113223000 +0100" stop="20251113233000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Rueda de prensa motos T2025 · Valencia - Paddock Abierto</title>
-    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
-  </programme>
-  <programme start="20251113233000 +0100" stop="20251114003000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">MotoGP - GP de Portugal T2025 · Carrera MotoGP</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.2/10
-· El GP de Portugal es la 21ª prueba del Mundial de motociclismo.
-· País: Portugal</desc>
-  </programme>
-  <programme start="20251114003000 +0100" stop="20251114010000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Boxeo: velada Ortiz Jr. vs Lubin T2025 · Vergil Ortiz Jr vs. Erikson Lubin</title>
-    <desc lang="es">Deportes,Boxeo | 2025 | +18 | *6.0/10
-· El Dickies Arena de Fort Worth (Texas) acoge esta velada de boxeo que tiene como combate estrella el enfrentamiento entre Vergil Ortiz Jr. y Erickson Lubin por el título WBC del peso superwélter.
-· País: Estados Unidos</desc>
-  </programme>
-  <programme start="20251114010000 +0100" stop="20251114060000 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">· Programa por determinar...</desc>
-  </programme>
-  <programme start="20251114060000 +0100" stop="20251114085500 +0100" channel="DAZN 1 HD 1080P">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">· Programa por determinar...</desc>
-  </programme>
   <programme start="20251114085500 +0100" stop="20251114115500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Entrenamientos libres 1 T2025 · MotoGP - GP de la Comunitat Valenciana</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.0/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.2/10
 · Tras la ausencia obligada de 2024 por las consecuencias de la dana, el Mundial de motociclismo vuelve al circuito Ricardo Tormo para poner el broche final a la temporada. Como siempre en la última prueba, es momento para homenajear a los campeones.
 · País: España</desc>
   </programme>
@@ -102,7 +25,7 @@
   </programme>
   <programme start="20251114131000 +0100" stop="20251114131500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Práctica T2025 · MotoGP - GP de la Comunitat Valenciana</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.4/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.6/10
 · Tras la ausencia obligada de 2024 por las consecuencias de la dana, el Mundial de motociclismo vuelve al circuito Ricardo Tormo para poner el broche final a la temporada. Como siempre en la última prueba, es momento para homenajear a los campeones.
 · País: España</desc>
   </programme>
@@ -207,18 +130,18 @@
   </programme>
   <programme start="20251115191000 +0100" stop="20251115204000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">E1 Series T2025 · Miami - Carreras finales</title>
-    <desc lang="es">Deportes,Deporte acuático | 2025 | TP | *5.6/10
+    <desc lang="es">Deportes,Deporte acuático | 2025 | TP | *6.2/10
 · Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
 · País: Estados Unidos</desc>
   </programme>
   <programme start="20251115204000 +0100" stop="20251115222000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">E1 Series T2025 · Lagos - Carreras finales</title>
-    <desc lang="es">Deportes,Deporte acuático | 2025 | TP | *6.0/10
+    <desc lang="es">Deportes,Deporte acuático | 2025 | TP | *5.8/10
 · Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.</desc>
   </programme>
   <programme start="20251115222000 +0100" stop="20251115232000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Sprint MotoGP T2025 · MotoGP - GP de la Comunitat Valenciana</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.0/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.2/10
 · Tras la ausencia obligada de 2024 por las consecuencias de la dana, el Mundial de motociclismo vuelve al circuito Ricardo Tormo para poner el broche final a la temporada. Como siempre en la última prueba, es momento para homenajear a los campeones.
 · País: España</desc>
   </programme>
@@ -273,7 +196,7 @@
   </programme>
   <programme start="20251116140000 +0100" stop="20251116145500 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Carrera MotoGP T2025 · MotoGP - GP de la Comunitat Valenciana</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.0/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *5.8/10
 · Tras la ausencia obligada de 2024 por las consecuencias de la dana, el Mundial de motociclismo vuelve al circuito Ricardo Tormo para poner el broche final a la temporada. Como siempre en la última prueba, es momento para homenajear a los campeones.
 · País: España</desc>
   </programme>
@@ -319,7 +242,7 @@
   </programme>
   <programme start="20251116220000 +0100" stop="20251116230000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Carrera MotoGP T2025 · MotoGP - GP de la Comunitat Valenciana</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.0/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *5.8/10
 · Tras la ausencia obligada de 2024 por las consecuencias de la dana, el Mundial de motociclismo vuelve al circuito Ricardo Tormo para poner el broche final a la temporada. Como siempre en la última prueba, es momento para homenajear a los campeones.
 · País: España</desc>
   </programme>
@@ -387,7 +310,7 @@
   </programme>
   <programme start="20251117201000 +0100" stop="20251117211100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Carrera MotoGP T2025 · MotoGP - GP de la Comunitat Valenciana</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.0/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *5.8/10
 · Tras la ausencia obligada de 2024 por las consecuencias de la dana, el Mundial de motociclismo vuelve al circuito Ricardo Tormo para poner el broche final a la temporada. Como siempre en la última prueba, es momento para homenajear a los campeones.
 · País: España</desc>
   </programme>
@@ -398,13 +321,13 @@
   </programme>
   <programme start="20251117213800 +0100" stop="20251117232900 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Premier League T25/26 · Jornada 11: Tottenham - Manchester United</title>
-    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6.4/10
+    <desc lang="es">Deportes,Fútbol | 2025 | TP | *6.6/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
   </programme>
   <programme start="20251117232900 +0100" stop="20251118010000 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">E1 Series T2025 · Miami - Carreras finales</title>
-    <desc lang="es">Deportes,Deporte acuático | 2025 | TP | *5.6/10
+    <desc lang="es">Deportes,Deporte acuático | 2025 | TP | *6.2/10
 · Las E1 Series son una competición de lanchas eléctricas. En su segunda temporada, vuelve a contar con personalidades de la talla de Tom Brady, Will Smith, Marc Anthony o LeBron James como dueños de los equipos participantes.
 · País: Estados Unidos</desc>
   </programme>
@@ -493,7 +416,7 @@
   </programme>
   <programme start="20251119004800 +0100" stop="20251119015100 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">Carrera MotoGP T2025 · MotoGP - GP de la Comunitat Valenciana</title>
-    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *6.0/10
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *5.8/10
 · Tras la ausencia obligada de 2024 por las consecuencias de la dana, el Mundial de motociclismo vuelve al circuito Ricardo Tormo para poner el broche final a la temporada. Como siempre en la última prueba, es momento para homenajear a los campeones.
 · País: España</desc>
   </programme>
@@ -547,7 +470,7 @@
   </programme>
   <programme start="20251119203500 +0100" stop="20251119222700 +0100" channel="DAZN 1 HD 1080P">
     <title lang="es">DIRECTO Jornada 8: PSG - Barcelona T25/26 · Liga de Campeones de balonmano</title>
-    <desc lang="es">Deportes,Balonmano | 2025 | TP | *6.0/10
+    <desc lang="es">Deportes,Balonmano | 2025 | TP | *6.4/10
 · Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
 · País: Francia</desc>
   </programme>
@@ -568,5 +491,51 @@
     <desc lang="es">Deportes,Boxeo | 2025 | +18 | *6.4/10
 · Los británicos Joshua Buatsi y Zach Parker se enfrentan en la división de peso semipesado el 1 de noviembre en el Co-op Live Arena de Manchester, Reino Unido.
 · País: Reino Unido</desc>
+  </programme>
+  <programme start="20251120005900 +0100" stop="20251120060000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251120060000 +0100" stop="20251120130000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251120130000 +0100" stop="20251120135300 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Asia Talent Cup T2025 · Indonesia - Carrera 1</title>
+    <desc lang="es">Deportes,Motor | 2025 | TP | *6.0/10
+· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
+  </programme>
+  <programme start="20251120135300 +0100" stop="20251120144600 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Asia Talent Cup T2025 · Indonesia - Carrera 2</title>
+    <desc lang="es">Deportes,Motor | 2025 | TP | *6.0/10
+· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
+  </programme>
+  <programme start="20251120144600 +0100" stop="20251120150000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Inside Ducati T1 · GP Indonesia</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.2/10
+· Recapitulación de lo que dejó el Gran Premio de Indonesia con la caída de Marc Márquez y la no puntuación de Pecco Bagnaia.</desc>
+  </programme>
+  <programme start="20251120150000 +0100" stop="20251120160700 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Mundial de motociclismo T2024 · Carrera MotoGP</title>
+    <desc lang="es">Deportes,Motociclismo | 2024 | TP | *6.4/10
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir.
+· País: España</desc>
+  </programme>
+  <programme start="20251120160700 +0100" stop="20251120170800 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Carrera MotoGP T2025 · MotoGP - GP de la Comunitat Valenciana</title>
+    <desc lang="es">Deportes,Motociclismo | 2025 | TP | *5.8/10
+· Tras la ausencia obligada de 2024 por las consecuencias de la dana, el Mundial de motociclismo vuelve al circuito Ricardo Tormo para poner el broche final a la temporada. Como siempre en la última prueba, es momento para homenajear a los campeones.
+· País: España</desc>
+  </programme>
+  <programme start="20251120170800 +0100" stop="20251120174000 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">MotoGP Features T2025 · Entrevista a Marc Márquez - 200 veces al límite</title>
+    <desc lang="es">Deportes,Programa deportes | 2025 | TP | *6.4/10
+· Programa de MotoGP.</desc>
+  </programme>
+  <programme start="20251120174000 +0100" stop="20251120233600 +0100" channel="DAZN 1 HD 1080P">
+    <title lang="es">Hexagon Cup T2025 · Semifinal y final</title>
+    <desc lang="es">Deportes,Otros deportes | 2025 | TP | *5.8/10
+· El Madrid Arena acoge la segunda edición de la Hexagon Cup. Del 29 de enero al 2 de febrero, los mejores jugadores de pádel del mundo juegan en un nuevo e innovador formato por equipos.
+· País: España</desc>
   </programme>
 </tv>
