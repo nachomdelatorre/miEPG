@@ -1,149 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 25/11/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 26/11/2025 11:35" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-  <programme start="20251125130000 +0100" stop="20251125141300 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Las Américas T2025 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.8/10
-· El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
-· País: Estados Unidos</desc>
-  </programme>
-  <programme start="20251125141300 +0100" stop="20251125143700 +0100" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2025 · Estados Unidos</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20251125143700 +0100" stop="20251125154500 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Catar T2025 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.4/10
-· El Internacional de Lusail es un trazado de 5,4 km con curvas rápidas y largas rectas, ideal para motos con gran potencia y estabilidad. La iluminación nocturna, añade, además, un toque especial al gran premio. Catar acoge la cuarta cita del año.</desc>
-  </programme>
-  <programme start="20251125154500 +0100" stop="20251125161600 +0100" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2025 · Catar</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-  </programme>
-  <programme start="20251125161600 +0100" stop="20251125164300 +0100" channel="DAZN 1 HD 1080P">
-    <title>Claude Makélélé, una posición irremplazable</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
-· Claude Makélélé reflexiona sobre su carrera profesional.</desc>
-  </programme>
-  <programme start="20251125164300 +0100" stop="20251125184000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Liga F T25/26 · Jornada 12: Real Madrid - SD Eibar</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-  </programme>
-  <programme start="20251125184000 +0100" stop="20251125204000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 5: Skanderborg Aarhus - Granollers T25/26 · Liga Europea de la EHF</title>
-    <desc>Deportes,Balonmano | 2025 | TP | *6.6/10
-· La Liga Europea ocupa el segundo lugar en el escalafón de las competiciones continentales de balonmano. Comienza con una fase de clasificación, seguida de una fase de grupos; los mejores, pelean por el título en las eliminatorias.
-· País: Dinamarca</desc>
-  </programme>
-  <programme start="20251125204000 +0100" stop="20251125223200 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 5: Ademar León - Kadetten Schaffhausen T25/26 · Liga Europea de la EHF</title>
-    <desc>Deportes,Balonmano | 2025 | TP | *5.8/10
-· La Liga Europea ocupa el segundo lugar en el escalafón de las competiciones continentales de balonmano. Comienza con una fase de clasificación, seguida de una fase de grupos; los mejores, pelean por el título en las eliminatorias.
-· País: España</desc>
-  </programme>
-  <programme start="20251125223200 +0100" stop="20251126002600 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 12: Liverpool - Nottingham Forest</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-  </programme>
-  <programme start="20251126002600 +0100" stop="20251126012600 +0100" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T2025 E8</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
-  </programme>
-  <programme start="20251126012600 +0100" stop="20251126060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20251126060000 +0100" stop="20251126130000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
   <programme start="20251126130000 +0100" stop="20251126145200 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 5: Skanderborg Aarhus - Granollers T25/26 · Liga Europea de la EHF</title>
+    <title>Liga Europea de la EHF T25/26 · Jornada 5: Skanderborg Aarhus - Granollers</title>
     <desc>Deportes,Balonmano | 2025 | TP | *6.6/10
 · La Liga Europea ocupa el segundo lugar en el escalafón de las competiciones continentales de balonmano. Comienza con una fase de clasificación, seguida de una fase de grupos; los mejores, pelean por el título en las eliminatorias.
 · País: Dinamarca</desc>
   </programme>
-  <programme start="20251126145200 +0100" stop="20251126155300 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251126145200 +0100" stop="20251126160600 +0100" channel="DAZN 1 HD 1080P">
     <title>Póker FC T2025 E8</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
   </programme>
-  <programme start="20251126155300 +0100" stop="20251126175400 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251126160600 +0100" stop="20251126180200 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 12: Manchester United - Everton</title>
     <desc>Deportes,Fútbol | 2025 | TP | *5.6/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
   </programme>
-  <programme start="20251126175400 +0100" stop="20251126182100 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251126180200 +0100" stop="20251126182900 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League Features T3 · Juan Mata, el elegido de Old Trafford</title>
     <desc>Deportes,Programa deportes | 2024 | TP | *5.4/10
 · Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.</desc>
   </programme>
-  <programme start="20251126182100 +0100" stop="20251126195000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251126182900 +0100" stop="20251126195800 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Francia T2025 · Carrera MotoGP</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.2/10
 · El icónico Circuito Bugatti de Le Mans acoge un año más el GP de Francia, sexta prueba del Mundial de motociclismo. El legendario trazado destaca por sus curvas cerradas y sus exigentes frenadas.
 · País: Francia</desc>
   </programme>
-  <programme start="20251126195000 +0100" stop="20251126201800 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251126195800 +0100" stop="20251126202600 +0100" channel="DAZN 1 HD 1080P">
     <title>Código MotoGP T2025 · Francia</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *5.6/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20251126201800 +0100" stop="20251126213700 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251126202600 +0100" stop="20251126214500 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Gran Bretaña T2025 · Carrera MotoGP</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
 · La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
 · País: Reino Unido</desc>
   </programme>
-  <programme start="20251126213700 +0100" stop="20251126220100 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251126214500 +0100" stop="20251126220900 +0100" channel="DAZN 1 HD 1080P">
     <title>Código MotoGP T2025 · Gran Bretaña</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
   </programme>
-  <programme start="20251126220100 +0100" stop="20251126221600 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251126220900 +0100" stop="20251126222300 +0100" channel="DAZN 1 HD 1080P">
     <title>Revelado - Julián Álvarez</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · El jugador argentino ha aterrizado de pie en el Atlético de Madrid y se ha convertido en una pieza clave.</desc>
   </programme>
-  <programme start="20251126221600 +0100" stop="20251127001700 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251126222300 +0100" stop="20251127001900 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 12: Newcastle - Manchester City</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.4/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
   </programme>
-  <programme start="20251127001700 +0100" stop="20251127004400 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251127001900 +0100" stop="20251127004600 +0100" channel="DAZN 1 HD 1080P">
     <title>Mohamed Salah, el faraón moderno de Anfield</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.4/10
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
 · Anfield, Mohamed Salah ha tejido una historia de esfuerzo, talento y humildad.</desc>
   </programme>
-  <programme start="20251127004400 +0100" stop="20251127013100 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251127004600 +0100" stop="20251127012900 +0100" channel="DAZN 1 HD 1080P">
     <title>Boxeo: velada Conway vs Liddard T2025 · Velada completa</title>
     <desc>Deportes,Boxeo | 2025 | +18 | *6.0/10
 · Londres acoge un fantástico combate nacional en el peso medio, con el regreso de Kieron Conway (23-3-1) para enfrentarse al invicto George Liddard (12-0).
 · País: Reino Unido</desc>
   </programme>
-  <programme start="20251127013100 +0100" stop="20251127060000 +0100" channel="DAZN 1 HD 1080P">
+  <programme start="20251127012900 +0100" stop="20251127060000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
   </programme>
@@ -205,7 +137,7 @@
   </programme>
   <programme start="20251127223900 +0100" stop="20251128004000 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 12: Burnley - Chelsea</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2025 | TP | *6.4/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
   </programme>
@@ -235,7 +167,7 @@
   </programme>
   <programme start="20251128154500 +0100" stop="20251128160000 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 12: Arsenal - Tottenham</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.6/10
+    <desc>Deportes,Fútbol | 2025 | TP | *6.4/10
 · El Arsenal defiende su condición de líder ante el Tottenham en un partido de máxima rivalidad entre los dos equipos del norte de Londres.
 · País: Reino Unido</desc>
   </programme>
@@ -253,7 +185,7 @@
   </programme>
   <programme start="20251128184800 +0100" stop="20251128204900 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 12: Liverpool - Nottingham Forest</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
+    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
   </programme>
@@ -280,7 +212,7 @@
   </programme>
   <programme start="20251128230700 +0100" stop="20251129013400 +0100" channel="DAZN 1 HD 1080P">
     <title>Goodwood Members' Meeting T2025 · Día 3</title>
-    <desc>Deportes,Motor | 2025 | TP | *7.6/10
+    <desc>Deportes,Motor | 2025 | TP | *6.8/10
 · Grandes debutantes, F1 clásicos, VR lunar en Future Lab, acrobacias aéreas y la icónica subida a la colina bajo un ambiente festivo.</desc>
   </programme>
   <programme start="20251129013400 +0100" stop="20251129060000 +0100" channel="DAZN 1 HD 1080P">
@@ -499,5 +431,84 @@
     <desc>Deportes,Automovilismo | 2025 | TP | *6.0/10
 · El circuito de Sachsenring acoge la sexta prueba del campeonato. La cabeza del campeonato está muy igualada con varios pilotos separados por escasos puntos.
 · País: Alemania</desc>
+  </programme>
+  <programme start="20251202013300 +0100" stop="20251202060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251202060000 +0100" stop="20251202130000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251202130000 +0100" stop="20251202135500 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Argentina T2025 · Carrera Moto3</title>
+    <desc>Deportes,Motociclismo | 2025 | TP | *7.6/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
+· País: Argentina</desc>
+  </programme>
+  <programme start="20251202135500 +0100" stop="20251202145000 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Argentina T2025 · Carrera Moto2</title>
+    <desc>Deportes,Motociclismo | 2025 | TP | *6.8/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
+· País: Argentina</desc>
+  </programme>
+  <programme start="20251202145000 +0100" stop="20251202155500 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Argentina T2025 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2025 | TP | *6.6/10
+· Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
+· País: Argentina</desc>
+  </programme>
+  <programme start="20251202155500 +0100" stop="20251202161000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Código MotoGP T2025 · Argentina</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20251202161000 +0100" stop="20251202163000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Pol Position - Dr Charte</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *4.0/10
+· Pol Espargaró mantiene una distendida charla con el doctor Ángel Charte, Director Médico del Campeonato del Mundo de MotoGP, para conocer de primera mano el espectacular mundo de esta competición.
+· País: España</desc>
+  </programme>
+  <programme start="20251202163000 +0100" stop="20251202173000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Ronda 2 T2025 · Indonesia</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· La Global Series son la máxima competición de MotoGP a nivel de eSports.</desc>
+  </programme>
+  <programme start="20251202173000 +0100" stop="20251202192000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Copa de Italia T25/26 · Segunda ronda: Como - Sassuolo</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
+· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
+· País: Italia</desc>
+  </programme>
+  <programme start="20251202192000 +0100" stop="20251202195000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Cesc Fábregas, el último sueño</title>
+    <desc>Documentales,Deportes | 2022 | TP | *6.2/10
+· Cesc Fábregas vive su última etapa de futbolista disfrutando en el Como 1907 italiano. Allí ha repasado su carrera deportiva con DAZN.</desc>
+  </programme>
+  <programme start="20251202195000 +0100" stop="20251202202000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 T2025 · David Silva</title>
+    <desc>Entretenimiento,Entrevista | 2025 | TP | *5.6/10
+· La leyenda del Mánchester City, David Silva, repasa su época dorada en la Premier League: estilo de juego, momentos decisivos, sus relaciones en los vestuarios.
+· País: España</desc>
+  </programme>
+  <programme start="20251202202000 +0100" stop="20251202223000 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 14: Fulham - Manchester City T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+  </programme>
+  <programme start="20251202223000 +0100" stop="20251203000000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Yaya Touré, poesía en zancadas</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Recorremos la extraordinaria trayectoria de uno de los centrocampistas más emblemáticos de la Premier League, Yaya Touré, desde sus humildes comienzos en Bouaké, Costa de Marfil, hasta su ascenso a la élite del fútbol europeo.
+· País: España</desc>
+  </programme>
+  <programme start="20251203000000 +0100" stop="20251203010000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Póker FC T2025 E9</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.6/10
+· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
+· País: España</desc>
   </programme>
 </tv>
