@@ -1,180 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 09/12/2025 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 10/12/2025 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20251209130000 +0100" stop="20251209135000 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Gran Bretaña T2025 · Carrera Moto3</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *5.8/10
-· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251209135000 +0100" stop="20251209145400 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Gran Bretaña T2025 · Carrera Moto2</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
-· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251209145400 +0100" stop="20251209161400 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Gran Bretaña T2025 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
-· La séptima ronda del campeonato mundial promete intensidad y emoción. Con el GP de Gran Bretaña se cumple el primer tercio de la temporada y los errores comienzan a pagarse. El circuito de Silverstone es conocido por sus curvas exigentes.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251209161400 +0100" stop="20251209163800 +0100" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2025 · Gran Bretaña</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-	</programme>
-	<programme start="20251209163800 +0100" stop="20251209174300 +0100" channel="DAZN 1 HD 1080P">
-    <title>Decoded T2025 · Jorge Lorenzo</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.4/10
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.</desc>
-	</programme>
-	<programme start="20251209174300 +0100" stop="20251209181100 +0100" channel="DAZN 1 HD 1080P">
-    <title>Sepang Clash: 10 años después</title>
-    <desc>Documentales,Deportes | 2025 | TP | *6.2/10
-· 'Sepang Clash: 10 años después' ofrece una exploración en profundidad del Gran Premio de Malasia de 2015, un momento decisivo en la historia de MotoGP centrado en la feroz rivalidad entre Valentino Rossi y Marc Márquez.</desc>
-	</programme>
-	<programme start="20251209181100 +0100" stop="20251209183200 +0100" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2025 · Malasia</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-	</programme>
-	<programme start="20251209183200 +0100" stop="20251209185500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Marc, al otro lado del box</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Documental sobre Marc Márquez que descubre la figura del piloto a través de los testimonios de sus excompañeros de box (Pol Espargaró, Joan Mir, Jorge Lorenzo, Dani Pedrosa o Álex Márquez).</desc>
-	</programme>
-	<programme start="20251209185500 +0100" stop="20251209200000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Decoded T2025 · Jorge Lorenzo</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.4/10
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.</desc>
-	</programme>
-	<programme start="20251209200000 +0100" stop="20251209205300 +0100" channel="DAZN 1 HD 1080P">
-    <title>Decoded</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.</desc>
-	</programme>
-	<programme start="20251209205300 +0100" stop="20251209212000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Edwin van der Sar, el guardián que definió una generación</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
-· Con elegancia, reflejos felinos y una mente táctica privilegiada, Edwin van der Sar redefinió el papel del portero moderno. Formado en la escuela del Ajax, conquistó Europa con su serenidad y liderazgo.
-· País: España</desc>
-	</programme>
-	<programme start="20251209212000 +0100" stop="20251209232100 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 15: Wolverhampton - Manchester United</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251209232100 +0100" stop="20251209234800 +0100" channel="DAZN 1 HD 1080P">
-    <title>Claude Makélélé, una posición irremplazable</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
-· Claude Makélélé reflexiona sobre su carrera profesional.</desc>
-	</programme>
-	<programme start="20251209234800 +0100" stop="20251210001900 +0100" channel="DAZN 1 HD 1080P">
-    <title>Cesc Fábregas, el último sueño</title>
-    <desc>Documentales,Deportes | 2022 | TP | *6.2/10
-· Cesc Fábregas vive su última etapa de futbolista disfrutando en el Como 1907 italiano. Allí ha repasado su carrera deportiva con DAZN.</desc>
-	</programme>
-	<programme start="20251210001900 +0100" stop="20251210012200 +0100" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T2025 E10</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
-	</programme>
-	<programme start="20251210012200 +0100" stop="20251210060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251210060000 +0100" stop="20251210130000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251210130000 +0100" stop="20251210135700 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251210130100 +0100" stop="20251210135700 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Aragón T2025 · Carrera Moto3</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.2/10
 · El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos.
 · País: España</desc>
 	</programme>
-	<programme start="20251210135700 +0100" stop="20251210145400 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251210135700 +0100" stop="20251210145500 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Aragón T2025 · Carrera Moto2</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
 · El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos.
 · País: España</desc>
 	</programme>
-	<programme start="20251210145400 +0100" stop="20251210160200 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251210145500 +0100" stop="20251210160200 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Aragón T2025 · Carrera MotoGP</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
 · El Mundial de MotoGP vive su octava carrera con el GP de Aragón. MotorLand es uno de los trazados favoritos de Marc Márquez, donde se ha impuesto en seis ocasiones. Las 17 curvas y los desniveles de Alcañiz ponen a prueba a todos los pilotos.
 · País: España</desc>
 	</programme>
-	<programme start="20251210160200 +0100" stop="20251210162300 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251210160200 +0100" stop="20251210162400 +0100" channel="DAZN 1 HD 1080P">
     <title>Código MotoGP T2025 · Aragón</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.4/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
 	</programme>
-	<programme start="20251210162300 +0100" stop="20251210163700 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251210162400 +0100" stop="20251210163700 +0100" channel="DAZN 1 HD 1080P">
     <title>Inside Ducati T1 · Aragón</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.4/10
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Dominio total de Marc Márquez, que se impone en el Gran Premio de Aragón tras liderar todas las sesiones, ganar la Sprint y marcar el nuevo récord histórico de vuelta en la clasificación.</desc>
 	</programme>
 	<programme start="20251210163700 +0100" stop="20251210170400 +0100" channel="DAZN 1 HD 1080P">
     <title>Yaya Touré, poesía en zancadas</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
 · Recorremos la extraordinaria trayectoria de uno de los centrocampistas más emblemáticos de la Premier League, Yaya Touré, desde sus humildes comienzos en Bouaké, Costa de Marfil, hasta su ascenso a la élite del fútbol europeo.
 · País: España</desc>
 	</programme>
-	<programme start="20251210170400 +0100" stop="20251210185600 +0100" channel="DAZN 1 HD 1080P">
-    <title>Liga F T25/26 · Jornada 13: RCD Espanyol - Madrid CFF</title>
+	<programme start="20251210170400 +0100" stop="20251210191300 +0100" channel="DAZN 1 HD 1080P">
+    <title>Liga F T25/26 · Jornada 13: Espanyol - Madrid CFF</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
-	<programme start="20251210185600 +0100" stop="20251210192300 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251210191300 +0100" stop="20251210194000 +0100" channel="DAZN 1 HD 1080P">
     <title>Mohamed Salah, el faraón moderno de Anfield</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
 · Anfield, Mohamed Salah ha tejido una historia de esfuerzo, talento y humildad.</desc>
 	</programme>
-	<programme start="20251210192300 +0100" stop="20251210212400 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251210194000 +0100" stop="20251210214100 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 15: Leeds - Liverpool</title>
     <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20251210212400 +0100" stop="20251210222500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T2025 E10</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
+	<programme start="20251210214100 +0100" stop="20251210225100 +0100" channel="DAZN 1 HD 1080P">
+    <title>Póker FC T2025 · Leyendas reds en apuros</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *5.6/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
-	<programme start="20251210222500 +0100" stop="20251210223700 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251210225100 +0100" stop="20251210230300 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier Corner by Guiness 0,0 T2025 · Raya y Merino, combinación ganadora</title>
     <desc>Entretenimiento,Entrevista | 2025 | TP | *5.6/10
 · Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
 · País: España</desc>
 	</programme>
-	<programme start="20251210223700 +0100" stop="20251210225000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251210230300 +0100" stop="20251210231600 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier Corner by Guiness 0,0 T2025 · Martín Zubimendi</title>
     <desc>Entretenimiento,Entrevista | 2025 | TP | *6.2/10
 · El recién llegado al Arsenal y ex de la Real Sociedad, Martín Zubimendi, repasa su trayectoria con Eneko en esta nueva edición de Premier Corner.
 · País: España</desc>
 	</programme>
-	<programme start="20251210225000 +0100" stop="20251211005300 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251210231600 +0100" stop="20251211011600 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 15: Aston Villa - Arsenal</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.4/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20251211005300 +0100" stop="20251211060000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251211011600 +0100" stop="20251211060000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -227,7 +134,7 @@
 	</programme>
 	<programme start="20251211181700 +0100" stop="20251211191800 +0100" channel="DAZN 1 HD 1080P">
     <title>Gala FIM MotoGP Awards</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · La ceremonia de entrega de premios de la FIM Awards cierra la temporada 2025. El evento homenajea a los mejores pilotos de las tres categorías durante todo el campeonato.
 · País: España</desc>
 	</programme>
@@ -239,7 +146,7 @@
 	</programme>
 	<programme start="20251211211900 +0100" stop="20251211214600 +0100" channel="DAZN 1 HD 1080P">
     <title>Yaya Touré, poesía en zancadas</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
 · Recorremos la extraordinaria trayectoria de uno de los centrocampistas más emblemáticos de la Premier League, Yaya Touré, desde sus humildes comienzos en Bouaké, Costa de Marfil, hasta su ascenso a la élite del fútbol europeo.
 · País: España</desc>
 	</programme>
@@ -372,8 +279,8 @@
 · País: España</desc>
 	</programme>
 	<programme start="20251213172500 +0100" stop="20251213182500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T2025 E10</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
+    <title>Póker FC T2025 · Leyendas reds en apuros</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *5.6/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
@@ -513,6 +420,30 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
 	<programme start="20251215220000 +0100" stop="20251216020000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251216020000 +0100" stop="20251216060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251216060000 +0100" stop="20251216100000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251216100000 +0100" stop="20251216140000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251216140000 +0100" stop="20251216180000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251216180000 +0100" stop="20251216220000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251216220000 +0100" stop="20251217020000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
