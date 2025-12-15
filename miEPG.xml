@@ -1,70 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 14/12/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 15/12/2025 11:38" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20251214115000 +0100" stop="20251214140300 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 14: SD Eibar - Atlético de Madrid T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.6/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-	</programme>
-	<programme start="20251214140300 +0100" stop="20251214142100 +0100" channel="DAZN 1 HD 1080P">
-    <title>Revelado - Julián Álvarez</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
-· El jugador argentino ha aterrizado de pie en el Atlético de Madrid y se ha convertido en una pieza clave.</desc>
-	</programme>
-	<programme start="20251214142100 +0100" stop="20251214145000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Yaya Touré, poesía en zancadas</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.4/10
-· Recorremos la extraordinaria trayectoria de uno de los centrocampistas más emblemáticos de la Premier League, Yaya Touré, desde sus humildes comienzos en Bouaké, Costa de Marfil, hasta su ascenso a la élite del fútbol europeo.
-· País: España</desc>
-	</programme>
-	<programme start="20251214145000 +0100" stop="20251214172000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 16: Crystal Palace - Manchester City T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251214172000 +0100" stop="20251214194100 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 16: Brentford - Leeds T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251214194100 +0100" stop="20251214205100 +0100" channel="DAZN 1 HD 1080P">
-    <title>Decoded T2025 · Jorge Lorenzo</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.6/10
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.</desc>
-	</programme>
-	<programme start="20251214205100 +0100" stop="20251214220000 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Catalunya T2025 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *5.8/10
-· El GP de Catalunya es la 15ª prueba del Mundial de motociclismo.
-· País: España</desc>
-	</programme>
-	<programme start="20251214220000 +0100" stop="20251214222500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2025 · Cataluña</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-	</programme>
-	<programme start="20251214222500 +0100" stop="20251215022500 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 15: Denver Broncos - Green Bay Packers T25/26 · NFL</title>
-    <desc>Deportes,Fútbol americano | 2025 | TP | *6.2/10
-· La NFL es la liga de fútbol americano estadounidense.
-· País: Estados Unidos</desc>
-	</programme>
-	<programme start="20251215022500 +0100" stop="20251215060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251215060000 +0100" stop="20251215125600 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
 	<programme start="20251215125600 +0100" stop="20251215135300 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Alemania T2025 · Carrera Moto3</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.6/10
@@ -95,31 +34,25 @@
     <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
 · Programa de MotoGP.</desc>
 	</programme>
-	<programme start="20251215165000 +0100" stop="20251215184100 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251215165000 +0100" stop="20251215185500 +0100" channel="DAZN 1 HD 1080P">
     <title>Liga F T25/26 · Jornada 14: FC Badalona Women - FC Barcelona</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
-	<programme start="20251215184100 +0100" stop="20251215185700 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
-    <desc>Entretenimiento,Entrevista | 2025 | TP | *5.8/10
-· Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán.
-· País: España</desc>
-	</programme>
-	<programme start="20251215185700 +0100" stop="20251215205000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 16: Crystal Palace - Manchester City T25/26 · Premier League</title>
+	<programme start="20251215185500 +0100" stop="20251215205000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier League T25/26 · Jornada 16: Crystal Palace - Manchester City</title>
     <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20251215205000 +0100" stop="20251215231100 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 16: Manchester Utd. - Bournemouth T25/26 · Premier League</title>
+	<programme start="20251215205000 +0100" stop="20251215231000 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 16: Manchester United - Bournemouth T25/26 · Premier League</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20251215231100 +0100" stop="20251215233800 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251215231000 +0100" stop="20251215233800 +0100" channel="DAZN 1 HD 1080P">
     <title>Edwin van der Sar, el guardián que definió una generación</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
 · Con elegancia, reflejos felinos y una mente táctica privilegiada, Edwin van der Sar redefinió el papel del portero moderno. Formado en la escuela del Ajax, conquistó Europa con su serenidad y liderazgo.
@@ -171,7 +104,7 @@
 · País: Italia</desc>
 	</programme>
 	<programme start="20251216174700 +0100" stop="20251216193900 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 14: SD Eibar - Atlético de Madrid T25/26 · Liga F</title>
+    <title>Liga F T25/26 · Jornada 14: SD Eibar - Atlético de Madrid</title>
     <desc>Deportes,Fútbol | 2025 | TP | *5.6/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
@@ -182,20 +115,20 @@
 · El jugador argentino ha aterrizado de pie en el Atlético de Madrid y se ha convertido en una pieza clave.</desc>
 	</programme>
 	<programme start="20251216195300 +0100" stop="20251216215400 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 16: Manchester Utd. - Bournemouth T25/26 · Premier League</title>
+    <title>Jornada 16: Manchester United - Bournemouth T25/26 · Premier League</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20251216215400 +0100" stop="20251216221800 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier Corner by Guiness 0,0 · Quique Sánchez Flores, director incansable de grandes banquillos</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.4/10
+    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
 · Eneko Fernández se siente a charlar con uno de los entrenadores españoles más reconocido. Quique Sánchez Flores repasa su trayectoria en 12 equipos, en 5 países diferentes, haciendo mención especial a los de la Premier League.
 · País: España</desc>
 	</programme>
 	<programme start="20251216221800 +0100" stop="20251217001900 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 16: Arsenal - Wolverhampton</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.4/10
+    <desc>Deportes,Fútbol | 2025 | TP | *6.6/10
 · Los gunners han perdido su aura de invencibilidad y si bien mantienen el liderato se han dejado ocho puntos en el camino en las últimas cinco jornadas. Wolverhampton no sabe lo que es ganar y desde la vigésima plaza ve la salvación a trece puntos.
 · País: Reino Unido</desc>
 	</programme>
@@ -397,7 +330,7 @@
 	</programme>
 	<programme start="20251219205000 +0100" stop="20251219225000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Semifinales: Bolonia - Inter T25/26 · Supercopa de Italia</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2025 | TP | *5.4/10
 · La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
 	</programme>
@@ -440,7 +373,7 @@
 	</programme>
 	<programme start="20251220155000 +0100" stop="20251220180000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 17: Manchester City - West Ham T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -485,5 +418,83 @@
     <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
 · Las categorías de 160cc y 190cc llegan con ganas mientras la gran World Series Final regresa al Circuit Ricardo Tormo.
 · País: España</desc>
+	</programme>
+	<programme start="20251221010500 +0100" stop="20251221060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251221060000 +0100" stop="20251221130000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251221130000 +0100" stop="20251221145000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Semifinales: Nápoles - Milan T25/26 · Supercopa de Italia</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
+· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.
+· País: Arabia Saudí</desc>
+	</programme>
+	<programme start="20251221145000 +0100" stop="20251221150000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 T2025 · Raya y Merino, combinación ganadora</title>
+    <desc>Entretenimiento,Entrevista | 2025 | TP | *5.6/10
+· Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
+· País: España</desc>
+	</programme>
+	<programme start="20251221150000 +0100" stop="20251221165000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Semifinales: Bolonia - Inter T25/26 · Supercopa de Italia</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *5.4/10
+· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.
+· País: Arabia Saudí</desc>
+	</programme>
+	<programme start="20251221165000 +0100" stop="20251221172000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier League Stories T25/26 · Sunderland, el retorno de los Black Cats</title>
+    <desc>Deportes,Programa deportes | 2025 | TP
+· El resurgir de los Black Cats, la vuelta a la élite del fútbol inglés de uno de los grandes de la historia.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20251221172000 +0100" stop="20251221193000 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 17: Aston Villa - Manchester Utd. T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *5.6/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20251221193000 +0100" stop="20251221195000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
+    <desc>Entretenimiento,Entrevista | 2024 | TP | *5.8/10
+· El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
+· País: España</desc>
+	</programme>
+	<programme start="20251221195000 +0100" stop="20251221214000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jornada 17: Manchester City - West Ham T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20251221214000 +0100" stop="20251221220000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 T2025 · David Silva</title>
+    <desc>Entretenimiento,Entrevista | 2025 | TP | *5.8/10
+· La leyenda del Mánchester City, David Silva, repasa su época dorada en la Premier League: estilo de juego, momentos decisivos, sus relaciones en los vestuarios.
+· País: España</desc>
+	</programme>
+	<programme start="20251221220000 +0100" stop="20251221222500 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jornada 17: Tottenham - Liverpool T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20251221222500 +0100" stop="20251222000000 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 16: Detroit Lions - Pittsburgh Steelers T25/26 · NFL</title>
+    <desc>Deportes,Fútbol americano | 2025 | TP | *6.0/10
+· La NFL es la liga de fútbol americano estadounidense.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20251222000000 +0100" stop="20251222010000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Boxeo: Usyk vs. Fury 2 T2024 · Usyk vs Fury 2</title>
+    <desc>Deportes,Boxeo | 2024 | +18 | *6.0/10
+· Oleksandr Usyk y Tyson Fury se enfrentan 21 de diciembre de 2024 en el Kingdom Arena de Riad, Arabia Saudita.
+· País: Arabia Saudí</desc>
+	</programme>
+	<programme start="20251222010000 +0100" stop="20251222020000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
 </tv>
