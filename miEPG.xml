@@ -1,75 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 20/12/2025 11:33" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 21/12/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20251220125100 +0100" stop="20251220132000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Claude Makélélé, una posición irremplazable</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
-· Claude Makélélé reflexiona sobre su carrera profesional.</desc>
-	</programme>
-	<programme start="20251220132000 +0100" stop="20251220155000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 17: Newcastle - Chelsea T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251220155000 +0100" stop="20251220182000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 17: Manchester City - West Ham T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251220182000 +0100" stop="20251220205000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 17: Tottenham - Liverpool T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.6/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251220205000 +0100" stop="20251220231000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 17: Everton - Arsenal T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251220231000 +0100" stop="20251220233500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 · Quique Sánchez Flores, director incansable de grandes banquillos</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.4/10
-· Eneko Fernández se siente a charlar con uno de los entrenadores españoles más reconocido. Quique Sánchez Flores repasa su trayectoria en 12 equipos, en 5 países diferentes, haciendo mención especial a los de la Premier League.
-· País: España</desc>
-	</programme>
-	<programme start="20251220233500 +0100" stop="20251221001400 +0100" channel="DAZN 1 HD 1080P">
-    <title>FIM MiniGP World Series T2025 · Valencia - Carrera 1</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *5.8/10
-· Las categorías de 160cc y 190cc llegan con ganas mientras la gran World Series Final regresa al Circuit Ricardo Tormo.
-· País: España</desc>
-	</programme>
-	<programme start="20251221001400 +0100" stop="20251221011100 +0100" channel="DAZN 1 HD 1080P">
-    <title>FIM MiniGP World Series T2025 · Valencia - Carrera 2</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
-· Las categorías de 160cc y 190cc llegan con ganas mientras la gran World Series Final regresa al Circuit Ricardo Tormo.
-· País: España</desc>
-	</programme>
-	<programme start="20251221011100 +0100" stop="20251221060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251221060000 +0100" stop="20251221125600 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251221125600 +0100" stop="20251221144800 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251221125600 +0100" stop="20251221150000 +0100" channel="DAZN 1 HD 1080P">
     <title>Supercopa de Italia T25/26 · Semifinales: Nápoles - Milan</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
 · La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
-	</programme>
-	<programme start="20251221144800 +0100" stop="20251221150000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2025 · Raya y Merino, combinación ganadora</title>
-    <desc>Entretenimiento,Entrevista | 2025 | TP | *5.6/10
-· Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
-· País: España</desc>
 	</programme>
 	<programme start="20251221150000 +0100" stop="20251221165100 +0100" channel="DAZN 1 HD 1080P">
     <title>Supercopa de Italia T25/26 · Semifinales: Bolonia - Inter</title>
@@ -96,7 +35,7 @@
 · País: España</desc>
 	</programme>
 	<programme start="20251221200800 +0100" stop="20251221215900 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 17: Manchester City - West Ham T25/26 · Premier League</title>
+    <title>Premier League T25/26 · Jornada 17: Manchester City - West Ham</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
@@ -170,14 +109,14 @@
 · País: España</desc>
 	</programme>
 	<programme start="20251222195300 +0100" stop="20251222215700 +0100" channel="DAZN 1 HD 1080P">
-    <title>Final T25/26 · Supercopa de Italia</title>
+    <title>DIRECTO Final T25/26 · Supercopa de Italia</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
 · La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
 	</programme>
 	<programme start="20251222215700 +0100" stop="20251223000000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 17: Tottenham - Liverpool T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.6/10
+    <title>Premier League T25/26 · Jornada 17: Tottenham - Liverpool</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.8/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -329,8 +268,8 @@
 · País: España</desc>
 	</programme>
 	<programme start="20251224183500 +0100" stop="20251224202500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 17: Everton - Arsenal T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
+    <title>Premier League T25/26 · Jornada 17: Everton - Arsenal</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -341,8 +280,8 @@
 · País: España</desc>
 	</programme>
 	<programme start="20251224212500 +0100" stop="20251224231500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 17: Newcastle - Chelsea T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
+    <title>Premier League T25/26 · Jornada 17: Newcastle - Chelsea</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -401,6 +340,30 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
 	<programme start="20251226220000 +0100" stop="20251227020000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251227020000 +0100" stop="20251227060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251227060000 +0100" stop="20251227100000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251227100000 +0100" stop="20251227140000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251227140000 +0100" stop="20251227180000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251227180000 +0100" stop="20251227220000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251227220000 +0100" stop="20251228020000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
