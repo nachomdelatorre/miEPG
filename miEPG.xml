@@ -1,65 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 21/12/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 22/12/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20251221125600 +0100" stop="20251221150000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Supercopa de Italia T25/26 · Semifinales: Nápoles - Milan</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
-· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.
-· País: Arabia Saudí</desc>
-	</programme>
-	<programme start="20251221150000 +0100" stop="20251221165100 +0100" channel="DAZN 1 HD 1080P">
-    <title>Supercopa de Italia T25/26 · Semifinales: Bolonia - Inter</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.6/10
-· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.
-· País: Arabia Saudí</desc>
-	</programme>
-	<programme start="20251221165100 +0100" stop="20251221172000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League Stories T25/26 · Sunderland, el retorno de los Black Cats</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.6/10
-· El resurgir de los Black Cats, la vuelta a la élite del fútbol inglés de uno de los grandes de la historia.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251221172000 +0100" stop="20251221194100 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 17: Aston Villa - Manchester United T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.6/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251221194100 +0100" stop="20251221200800 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
-    <desc>Entretenimiento,Entrevista | 2024 | TP | *5.8/10
-· El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
-· País: España</desc>
-	</programme>
-	<programme start="20251221200800 +0100" stop="20251221215900 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 17: Manchester City - West Ham</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.2/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251221215900 +0100" stop="20251221222500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2025 · David Silva</title>
-    <desc>Entretenimiento,Entrevista | 2025 | TP | *5.8/10
-· La leyenda del Mánchester City, David Silva, repasa su época dorada en la Premier League: estilo de juego, momentos decisivos, sus relaciones en los vestuarios.
-· País: España</desc>
-	</programme>
-	<programme start="20251221222500 +0100" stop="20251222012000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 16: Pittsburgh Steelers - Detroit Lions T25/26 · NFL</title>
-    <desc>Deportes,Fútbol americano | 2025 | TP | *6.0/10
-· La NFL es la liga de fútbol americano estadounidense.
-· País: Estados Unidos</desc>
-	</programme>
-	<programme start="20251222012000 +0100" stop="20251222060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251222060000 +0100" stop="20251222125500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
 	<programme start="20251222125500 +0100" stop="20251222135200 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de San Marino T2025 · Race Moto3</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.4/10
@@ -85,38 +29,32 @@
 · País: España
 · Presenta: Natacha Alfageme.</desc>
 	</programme>
-	<programme start="20251222161700 +0100" stop="20251222172300 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251222161700 +0100" stop="20251222172000 +0100" channel="DAZN 1 HD 1080P">
     <title>Decoded T2025 · Jorge Lorenzo</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.6/10
 · Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.</desc>
 	</programme>
-	<programme start="20251222172300 +0100" stop="20251222191400 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251222172000 +0100" stop="20251222192600 +0100" channel="DAZN 1 HD 1080P">
     <title>Supercopa de Italia T25/26 · Semifinales: Bolonia - Inter</title>
     <desc>Deportes,Fútbol | 2025 | TP | *5.6/10
 · La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
 	</programme>
-	<programme start="20251222191400 +0100" stop="20251222194100 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251222192600 +0100" stop="20251222195000 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League Stories T23/24 · Luka Modric, el toque croata</title>
     <desc>Deportes,Programa deportes | 2024 | TP | *6.4/10
 · Croacia, que cuenta con una población de menos de cuatro millones de habitantes, ha logrado un crecimiento brutal en el mundo del fútbol. Luka Modric fue uno de los primeros jugadores croatas en destacar en la Premier League.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20251222194100 +0100" stop="20251222195300 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2025 · Raya y Merino, combinación ganadora</title>
-    <desc>Entretenimiento,Entrevista | 2025 | TP | *5.6/10
-· Programa de entrevistas a los futbolistas más destacados de la Premier League. Los deportistas analizan sus trayectorias profesionales y repasan los mejores momentos de laliga.
-· País: España</desc>
-	</programme>
-	<programme start="20251222195300 +0100" stop="20251222215700 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251222195000 +0100" stop="20251222215500 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Final T25/26 · Supercopa de Italia</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
 · La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
 	</programme>
-	<programme start="20251222215700 +0100" stop="20251223000000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251222215500 +0100" stop="20251223000000 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 17: Tottenham - Liverpool</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.8/10
+    <desc>Deportes,Fútbol | 2025 | TP | *7.0/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -165,7 +103,7 @@
 	</programme>
 	<programme start="20251223162500 +0100" stop="20251223165500 +0100" channel="DAZN 1 HD 1080P">
     <title>Marc, más que un regreso</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
 · Descubre los entresijos del mayor regreso de la historia del deporte mientras Marc Márquez, el recién coronado campeón del mundo de MotoGP, y su entorno más cercano reviven la historia inédita de su camino de vuelta a la cima.
 · País: España</desc>
 	</programme>
@@ -194,7 +132,7 @@
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20251223214000 +0100" stop="20251223233000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 17: Aston Villa - Manchester United T25/26 · Premier League</title>
+    <title>Premier League T25/26 · Jornada 17: Aston Villa - Manchester United</title>
     <desc>Deportes,Fútbol | 2025 | TP | *5.6/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
@@ -364,6 +302,30 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
 	<programme start="20251227220000 +0100" stop="20251228020000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251228020000 +0100" stop="20251228060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251228060000 +0100" stop="20251228100000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251228100000 +0100" stop="20251228140000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251228140000 +0100" stop="20251228180000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251228180000 +0100" stop="20251228220000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251228220000 +0100" stop="20251229020000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
