@@ -1,155 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 22/12/2025 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 23/12/2025 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20251222125500 +0100" stop="20251222135200 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de San Marino T2025 · Race Moto3</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.4/10
-· El GP de San Marino es la decimosexta prueba de la temporada. El circuito de Misano es conocido por sus desafiantes características técnicas, curvas rápidas y cambios de elevación, lo que lo convierte en un lugar emocionante.
-· País: Italia</desc>
-	</programme>
-	<programme start="20251222135200 +0100" stop="20251222144900 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de San Marino T2025 · Race Moto2</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.8/10
-· El GP de San Marino es la decimosexta prueba de la temporada. El circuito de Misano es conocido por sus desafiantes características técnicas, curvas rápidas y cambios de elevación, lo que lo convierte en un lugar emocionante.
-· País: Italia</desc>
-	</programme>
-	<programme start="20251222144900 +0100" stop="20251222155400 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de San Marino T2025 · Race MotoGP</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.2/10
-· El GP de San Marino es la decimosexta prueba de la temporada. El circuito de Misano es conocido por sus desafiantes características técnicas, curvas rápidas y cambios de elevación, lo que lo convierte en un lugar emocionante.
-· País: Italia</desc>
-	</programme>
-	<programme start="20251222155400 +0100" stop="20251222161700 +0100" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2025 · San Marino</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-	</programme>
-	<programme start="20251222161700 +0100" stop="20251222172000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Decoded T2025 · Jorge Lorenzo</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.6/10
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.</desc>
-	</programme>
-	<programme start="20251222172000 +0100" stop="20251222192600 +0100" channel="DAZN 1 HD 1080P">
-    <title>Supercopa de Italia T25/26 · Semifinales: Bolonia - Inter</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.6/10
-· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.
-· País: Arabia Saudí</desc>
-	</programme>
-	<programme start="20251222192600 +0100" stop="20251222195000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League Stories T23/24 · Luka Modric, el toque croata</title>
-    <desc>Deportes,Programa deportes | 2024 | TP | *6.4/10
-· Croacia, que cuenta con una población de menos de cuatro millones de habitantes, ha logrado un crecimiento brutal en el mundo del fútbol. Luka Modric fue uno de los primeros jugadores croatas en destacar en la Premier League.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251222195000 +0100" stop="20251222215500 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Final T25/26 · Supercopa de Italia</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
-· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.
-· País: Arabia Saudí</desc>
-	</programme>
-	<programme start="20251222215500 +0100" stop="20251223000000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 17: Tottenham - Liverpool</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *7.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20251223000000 +0100" stop="20251223003000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Massimo Moratti: El Romántico T1 E1</title>
-    <desc>Deportes,Programa deportes | 2021 | TP | *6.0/10
-· El expresidente del Inter de Milán, Massimo Moratti muestra, a través de su mirada, las dos décadas más brillantes pero también convulsas del club.</desc>
-	</programme>
-	<programme start="20251223003000 +0100" stop="20251223010100 +0100" channel="DAZN 1 HD 1080P">
-    <title>Massimo Moratti: El Romántico T1 E3</title>
-    <desc>Deportes,Programa deportes | 2021 | TP | *6.0/10
-· Tercer capítulo de la serie de Moratti, donde relata la Liga de Campeones conseguida en 2010 en el Santiago Bernabéu.</desc>
-	</programme>
-	<programme start="20251223010100 +0100" stop="20251223060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251223060000 +0100" stop="20251223130000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20251223130000 +0100" stop="20251223135500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251223130100 +0100" stop="20251223135600 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Japón T2025 · Carrera Moto3</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *5.8/10
 · El Mundial de motociclismo inicia su periplo asiático y oceánico con la disputa del GP de Japón, 17ª prueba de la temporada. El legendario circuito de Motegi, con sus célebres rectas gemelas, permite alcanzar grandes velocidades.
 · País: Japón</desc>
 	</programme>
-	<programme start="20251223135500 +0100" stop="20251223145000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251223135600 +0100" stop="20251223145400 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Japón T2025 · Carrera Moto2</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.2/10
 · El Mundial de motociclismo inicia su periplo asiático y oceánico con la disputa del GP de Japón, 17ª prueba de la temporada. El legendario circuito de Motegi, con sus célebres rectas gemelas, permite alcanzar grandes velocidades.
 · País: Japón</desc>
 	</programme>
-	<programme start="20251223145000 +0100" stop="20251223160000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251223145400 +0100" stop="20251223160300 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Japón T2025 · Carrera MotoGP</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
 · El Mundial de motociclismo inicia su periplo asiático y oceánico con la disputa del GP de Japón, 17ª prueba de la temporada. El legendario circuito de Motegi, con sus célebres rectas gemelas, permite alcanzar grandes velocidades.
 · País: Japón</desc>
 	</programme>
-	<programme start="20251223160000 +0100" stop="20251223162500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251223160300 +0100" stop="20251223162700 +0100" channel="DAZN 1 HD 1080P">
     <title>Código MotoGP T2025 · Japón</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
 	</programme>
-	<programme start="20251223162500 +0100" stop="20251223165500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251223162700 +0100" stop="20251223170100 +0100" channel="DAZN 1 HD 1080P">
     <title>Marc, más que un regreso</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
 · Descubre los entresijos del mayor regreso de la historia del deporte mientras Marc Márquez, el recién coronado campeón del mundo de MotoGP, y su entorno más cercano reviven la historia inédita de su camino de vuelta a la cima.
 · País: España</desc>
 	</programme>
-	<programme start="20251223165500 +0100" stop="20251223190000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Final T25/26 · Supercopa de Italia</title>
+	<programme start="20251223170100 +0100" stop="20251223185300 +0100" channel="DAZN 1 HD 1080P">
+    <title>Supercopa de Italia T25/26 · Final: Nápoles - Bolonia</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
 · La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Nápoles (campeón de la Serie A), Bolonia (vencedor de la Copa), Inter y Milan son los equipos que compiten por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
 	</programme>
-	<programme start="20251223190000 +0100" stop="20251223192000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251223185300 +0100" stop="20251223191600 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
     <desc>Entretenimiento,Entrevista | 2024 | TP | *5.8/10
 · El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
 · País: España</desc>
 	</programme>
-	<programme start="20251223192000 +0100" stop="20251223211000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 17: Fulham - Nottingham Forest T25/26 · Premier League</title>
+	<programme start="20251223191600 +0100" stop="20251223211700 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier League T25/26 · Jornada 17: Fulham - Nottingham Forest</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20251223211000 +0100" stop="20251223214000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251223211700 +0100" stop="20251223214500 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League Stories T25/26 · Sunderland, el retorno de los Black Cats</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *5.6/10
 · El resurgir de los Black Cats, la vuelta a la élite del fútbol inglés de uno de los grandes de la historia.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20251223214000 +0100" stop="20251223233000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251223214500 +0100" stop="20251223234000 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 17: Aston Villa - Manchester United</title>
     <desc>Deportes,Fútbol | 2025 | TP | *5.6/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20251223233000 +0100" stop="20251224000000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251223234000 +0100" stop="20251224001300 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
     <desc>Entretenimiento,Entrevista | 2024 | TP | *5.8/10
 · Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas.
 · País: España</desc>
 	</programme>
-	<programme start="20251224000000 +0100" stop="20251224010000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251224001300 +0100" stop="20251224011300 +0100" channel="DAZN 1 HD 1080P">
     <title>Póker FC T2025 E12</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
-	<programme start="20251224010000 +0100" stop="20251224060000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20251224011300 +0100" stop="20251224060000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -201,7 +129,7 @@
 	</programme>
 	<programme start="20251224181000 +0100" stop="20251224183500 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier Corner by Guiness 0,0 · Quique Sánchez Flores, director incansable de grandes banquillos</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.4/10
 · Eneko Fernández se siente a charlar con uno de los entrenadores españoles más reconocido. Quique Sánchez Flores repasa su trayectoria en 12 equipos, en 5 países diferentes, haciendo mención especial a los de la Premier League.
 · País: España</desc>
 	</programme>
@@ -326,6 +254,30 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
 	<programme start="20251228220000 +0100" stop="20251229020000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251229020000 +0100" stop="20251229060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251229060000 +0100" stop="20251229100000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251229100000 +0100" stop="20251229140000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251229140000 +0100" stop="20251229180000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251229180000 +0100" stop="20251229220000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20251229220000 +0100" stop="20251230020000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
