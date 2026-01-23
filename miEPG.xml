@@ -1,159 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 22/01/2026 11:42" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 23/01/2026 11:40" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260122130000 +0100" stop="20260122150300 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 22: Brighton &amp; Hove Albion - Bournemouth</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260122150300 +0100" stop="20260122153000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Mohamed Salah, el faraón moderno de Anfield</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Anfield, Mohamed Salah ha tejido una historia de esfuerzo, talento y humildad.</desc>
-	</programme>
-	<programme start="20260122153000 +0100" stop="20260122160900 +0100" channel="DAZN 1 HD 1080P">
-    <title>Volver T1 · Caer</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.2/10
-· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
-· País: España</desc>
-	</programme>
-	<programme start="20260122160900 +0100" stop="20260122165300 +0100" channel="DAZN 1 HD 1080P">
-    <title>Volver T1 · Levantarse</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.6/10
-· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
-· País: España</desc>
-	</programme>
-	<programme start="20260122165300 +0100" stop="20260122175100 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Catalunya T2025 · Carrera Moto3</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
-· El GP de Catalunya es la 15ª prueba del Mundial de motociclismo.
-· País: España</desc>
-	</programme>
-	<programme start="20260122175100 +0100" stop="20260122185100 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Catalunya T2025 · Carrera Moto3</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
-· El GP de Catalunya es la 15ª prueba del Mundial de motociclismo.
-· País: España</desc>
-	</programme>
-	<programme start="20260122185100 +0100" stop="20260122195900 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Catalunya T2025 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.4/10
-· El GP de Catalunya es la 15ª prueba del Mundial de motociclismo.
-· País: España</desc>
-	</programme>
-	<programme start="20260122195900 +0100" stop="20260122201600 +0100" channel="DAZN 1 HD 1080P">
-    <title>Inside Ducati T1 · GP Cataluña</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Programa que ofrece una visión entre bastidores del equipo Ducati Lenovo en la temporada de MotoGP.</desc>
-	</programme>
-	<programme start="20260122201600 +0100" stop="20260122211100 +0100" channel="DAZN 1 HD 1080P">
-    <title>Álex</title>
-    <desc>Deportes,Programa deportes | 2023 | TP | *6.0/10
-· En MotoGP no se regala nada y Álex Márquez ha tenido que luchar como el que más para asentarse en la parrilla. Dentro del casco se encuentra un piloto divertido con una historia que va a sorprender a muchos.
-· País: España</desc>
-	</programme>
-	<programme start="20260122211100 +0100" stop="20260122213400 +0100" channel="DAZN 1 HD 1080P">
-    <title>Marc, al otro lado del box</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Documental sobre Marc Márquez que descubre la figura del piloto a través de los testimonios de sus excompañeros de box (Pol Espargaró, Joan Mir, Jorge Lorenzo, Dani Pedrosa o Álex Márquez).</desc>
-	</programme>
-	<programme start="20260122213400 +0100" stop="20260122232500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 21: Arsenal - Liverpool</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
-· El Arsenal recibe al Liverpool con el objetivo de buscar la que sería su sexta victoria consecutiva en Premier. Los Reds son cuartos y están invictos desde noviembre.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260122232500 +0100" stop="20260123003100 +0100" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E14</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.2/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
-	</programme>
-	<programme start="20260123003100 +0100" stop="20260123010000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Sandor Martín: The American Dream</title>
-    <desc>Deportes,Programa deportes | 2022 | TP | *7.6/10
-· Esta es la historia del combate entre Mikey Esta es la historia del combate entre Mikey García y Sandor Martín en California, contada en primera persona por el boxeador español, quien hizo realidad su sueño de niño.
-· País: España</desc>
-	</programme>
-	<programme start="20260123010000 +0100" stop="20260123060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260123060000 +0100" stop="20260123130000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
 	<programme start="20260123130000 +0100" stop="20260123143500 +0100" channel="DAZN 1 HD 1080P">
     <title>E1 Series T2025 · Yeda - Carrera final</title>
     <desc>Deportes,Deporte acuático | 2025 | TP | *6.2/10
 · El comienzo de la Serie E1 en Jeddah, donde las lanchas eléctricas se combina con la grandeza de la ciudad.
 · País: Arabia Saudí</desc>
 	</programme>
-	<programme start="20260123143500 +0100" stop="20260123151500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260123143500 +0100" stop="20260123151700 +0100" channel="DAZN 1 HD 1080P">
     <title>More Than Machine T2026 · Que empiecen los juegos</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Un nuevo rey ha sido coronado, pero los tiburones ya están al acecho. Lidera la caza el ocho veces campeón del mundo, que aún no puede alejarse.
 · País: España</desc>
 	</programme>
-	<programme start="20260123151500 +0100" stop="20260123160000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260123151700 +0100" stop="20260123160300 +0100" channel="DAZN 1 HD 1080P">
     <title>More Than Machine T2026 · La fortuna favorece a los valientes</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Programa que repasa la actualidad sobre el Campeonato Mundial de Rally.
 · País: España</desc>
 	</programme>
-	<programme start="20260123160000 +0100" stop="20260123165500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260123160300 +0100" stop="20260123165900 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de San Marino T2025 · Race Moto3</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.6/10
+    <desc>Deportes,Motociclismo | 2025 | TP | *6.8/10
 · El GP de San Marino es la decimosexta prueba de la temporada. El circuito de Misano es conocido por sus desafiantes características técnicas, curvas rápidas y cambios de elevación, lo que lo convierte en un lugar emocionante.
 · País: Italia</desc>
 	</programme>
-	<programme start="20260123165500 +0100" stop="20260123175500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260123165900 +0100" stop="20260123175700 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de San Marino T2025 · Race Moto2</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.8/10
 · El GP de San Marino es la decimosexta prueba de la temporada. El circuito de Misano es conocido por sus desafiantes características técnicas, curvas rápidas y cambios de elevación, lo que lo convierte en un lugar emocionante.
 · País: Italia</desc>
 	</programme>
-	<programme start="20260123175500 +0100" stop="20260123190000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260123175700 +0100" stop="20260123190300 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de San Marino T2025 · Race MotoGP</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
 · El GP de San Marino es la decimosexta prueba de la temporada. El circuito de Misano es conocido por sus desafiantes características técnicas, curvas rápidas y cambios de elevación, lo que lo convierte en un lugar emocionante.
 · País: Italia</desc>
 	</programme>
-	<programme start="20260123190000 +0100" stop="20260123192500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260123190300 +0100" stop="20260123193600 +0100" channel="DAZN 1 HD 1080P">
     <title>Código MotoGP T2025 · San Marino</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
 	</programme>
-	<programme start="20260123192500 +0100" stop="20260123212500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260123193600 +0100" stop="20260123213100 +0100" channel="DAZN 1 HD 1080P">
     <title>Liga F T25/26 · Jornada 16: Alhama CF ElPozo - FC Barcelona</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
-	<programme start="20260123212500 +0100" stop="20260123222500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260123213100 +0100" stop="20260123223600 +0100" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E14</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.2/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
-	<programme start="20260123222500 +0100" stop="20260124003000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260123223600 +0100" stop="20260124003500 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 22: Manchester Utd. - Manchester City</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · El derby de Mánchester mide a dos equipos sin margen de error. El United, fuera de la FA Cup y de los puestos Champions. El City, a seis puntos del líder Arsenal.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20260124003000 +0100" stop="20260124005500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260124003500 +0100" stop="20260124010000 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League Features T3 · Juan Mata, el elegido de Old Trafford</title>
     <desc>Deportes,Programa deportes | 2024 | TP | *5.6/10
 · Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.</desc>
 	</programme>
-	<programme start="20260124005500 +0100" stop="20260124060000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260124010000 +0100" stop="20260124060000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -169,19 +86,19 @@
 	</programme>
 	<programme start="20260124132000 +0100" stop="20260124155000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 23: West Ham - Sunderland T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20260124155000 +0100" stop="20260124182000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 23: Manchester City - Wolverhampton T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.8/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20260124182000 +0100" stop="20260124202000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 23: Bournemouth - Liverpool T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -225,7 +142,7 @@
 	</programme>
 	<programme start="20260125115000 +0100" stop="20260125140000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 17: Real Sociedad - SD Eibar T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -243,13 +160,13 @@
 	</programme>
 	<programme start="20260125145000 +0100" stop="20260125172000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 23: Newcastle - Aston Villa T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20260125172000 +0100" stop="20260125193000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 23: Arsenal - Manchester Utd. T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Dos empates consecutivos han frenado el ímpetu del Arsenal que además llega con el desgaste del partido de UCL. El Man United superó con holgura al Man City, el “efecto Carrick” se verá puesto a prueba.
 · País: Reino Unido</desc>
 	</programme>
@@ -265,7 +182,7 @@
 · Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.</desc>
 	</programme>
 	<programme start="20260125210000 +0100" stop="20260126000000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 21: Denver Broncos - New England Patriots T25/26 · NFL</title>
+    <title>DIRECTO Jornada 21: New England Patriots - Denver Broncos T25/26 · NFL</title>
     <desc>Deportes,Fútbol americano | 2026 | TP | *6.0/10
 · La NFL es la liga de fútbol americano estadounidense.
 · País: Estados Unidos</desc>
@@ -285,7 +202,7 @@
 	</programme>
 	<programme start="20260126130000 +0100" stop="20260126150000 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 23: Brentford - Nottingham Forest</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -309,7 +226,7 @@
 	</programme>
 	<programme start="20260126172000 +0100" stop="20260126183500 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Japón T2025 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
+    <desc>Deportes,Motociclismo | 2025 | TP | *5.8/10
 · El Mundial de motociclismo inicia su periplo asiático y oceánico con la disputa del GP de Japón, 17ª prueba de la temporada. El legendario circuito de Motegi, con sus célebres rectas gemelas, permite alcanzar grandes velocidades.
 · País: Japón</desc>
 	</programme>
@@ -333,7 +250,7 @@
 	</programme>
 	<programme start="20260126205000 +0100" stop="20260126230000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 23: Everton - Leeds T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *7.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -358,7 +275,7 @@
 	</programme>
 	<programme start="20260127130000 +0100" stop="20260127150000 +0100" channel="DAZN 1 HD 1080P">
     <title>Jornada 23: Everton - Leeds T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *7.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -407,7 +324,7 @@
 	</programme>
 	<programme start="20260127230500 +0100" stop="20260128000500 +0100" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E15</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.4/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
@@ -426,13 +343,13 @@
 	</programme>
 	<programme start="20260128130000 +0100" stop="20260128150000 +0100" channel="DAZN 1 HD 1080P">
     <title>Jornada 23: Manchester City - Wolverhampton T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.8/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20260128150000 +0100" stop="20260128160000 +0100" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E15</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.4/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
@@ -455,7 +372,7 @@
 	</programme>
 	<programme start="20260128192000 +0100" stop="20260128202000 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Australia T2025 · Carrera Moto2</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
+    <desc>Deportes,Motociclismo | 2025 | TP | *6.2/10
 · La temporada apura sus últimos sorbos. El circuito de Phillip Island alberga el GP de Australia, uno de los de mayor tradición en el Mundial de motociclismo. Marc Márquez ya es campeón, pero la emoción de las carreras sigue viva en todas las cilindradas.
 · País: Australia</desc>
 	</programme>
@@ -483,5 +400,68 @@
     <desc>Deportes,eSports | 2025 | TP | *6.2/10
 · La Global Series son la máxima competición de MotoGP a nivel de eSports. La tercera ronda de la temporada se disputa durante la Milan Games Week. Los circuitos simulados son el de Aragón para el Sprint, y los de Le Mans y Mugello para las carreras.
 · País: Italia</desc>
+	</programme>
+	<programme start="20260129011400 +0100" stop="20260129060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260129060000 +0100" stop="20260129130000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260129130000 +0100" stop="20260129150000 +0100" channel="DAZN 1 HD 1080P">
+    <title>NFL</title>
+    <desc>Deportes,Fútbol americano | 2025 | TP | *6.2/10
+· La pasión, la estrategia, la fuerza y la inteligencia se combinan en el deporte que paraliza Estados Unidos. La NFL busca al equipo más completo, que se coronará en la Super Bowl que se disputará en Santa Clara el 8 de febrero.
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260129150000 +0100" stop="20260129163000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jeddah: Carreras Finales T2026 · E1 Series</title>
+    <desc>Deportes,Deporte acuático | 2026 | TP | *6.4/10
+· Las E1 Series son una competición de lanchas eléctricas y que celebra su tercera temporada.</desc>
+	</programme>
+	<programme start="20260129163000 +0100" stop="20260129171500 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Malasia T2025 · Moto3</title>
+    <desc>Deportes,Motociclismo | 2025 | TP | *5.8/10
+· El Mundial de motociclismo continúa con su periplo asiático. El GP de Malasia se celebra en el Circuito Internacional de Sepang del 24 al 26 de octubre.</desc>
+	</programme>
+	<programme start="20260129171500 +0100" stop="20260129182000 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Malasia T2025 · Moto2</title>
+    <desc>Deportes,Motociclismo | 2025 | TP | *6.2/10
+· El Mundial de motociclismo continúa con su periplo asiático. El GP de Malasia se celebra en el Circuito Internacional de Sepang del 24 al 26 de octubre.</desc>
+	</programme>
+	<programme start="20260129182000 +0100" stop="20260129192500 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Malasia T2025 · Grand Prix MotoGP</title>
+    <desc>Deportes,Motociclismo | 2025 | TP | *5.6/10
+· El Mundial de motociclismo continúa con su periplo asiático. El GP de Malasia se celebra en el Circuito Internacional de Sepang del 24 al 26 de octubre.</desc>
+	</programme>
+	<programme start="20260129192500 +0100" stop="20260129195000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Mohamed Salah, el faraón moderno de Anfield</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Anfield, Mohamed Salah ha tejido una historia de esfuerzo, talento y humildad.</desc>
+	</programme>
+	<programme start="20260129195000 +0100" stop="20260129215000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jornada 23: Bournemouth - Liverpool T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260129215000 +0100" stop="20260129220000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 T2025 · Martín Zubimendi</title>
+    <desc>Entretenimiento,Entrevista | 2025 | TP | *6.2/10
+· El recién llegado al Arsenal y ex de la Real Sociedad, Martín Zubimendi, repasa su trayectoria con Eneko en esta nueva edición de Premier Corner.
+· País: España</desc>
+	</programme>
+	<programme start="20260129220000 +0100" stop="20260130000000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jornada 23: Arsenal - Manchester Utd. T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· Dos empates consecutivos han frenado el ímpetu del Arsenal que además llega con el desgaste del partido de UCL. El Man United superó con holgura al Man City, el “efecto Carrick” se verá puesto a prueba.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260130000000 +0100" stop="20260130010000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Velada completa T2026 · Raymond Muratalla vs. Andy Cruz</title>
+    <desc>Deportes,Boxeo | 2026 | +18 | *6.4/10
+· Las Vegas acoge un emocionante combate entre dos pesos ligeros invictos, en el que el actual campeón de la FIB, Raymond Muratalla, busca defender su título frente a Andy Cruz.
+· País: Estados Unidos</desc>
 	</programme>
 </tv>
