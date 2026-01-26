@@ -1,70 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 25/01/2026 11:36" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 26/01/2026 11:39" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260125115000 +0100" stop="20260125140300 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 17: Real Sociedad - SD Eibar T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-	</programme>
-	<programme start="20260125140300 +0100" stop="20260125142600 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
-    <desc>Entretenimiento,Entrevista | 2025 | TP | *6.2/10
-· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel.
-· País: España</desc>
-	</programme>
-	<programme start="20260125142600 +0100" stop="20260125145000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
-    <desc>Entretenimiento,Entrevista | 2024 | TP | *5.8/10
-· El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
-· País: España</desc>
-	</programme>
-	<programme start="20260125145000 +0100" stop="20260125172000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 23: Newcastle - Aston Villa T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260125172000 +0100" stop="20260125193900 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 23: Arsenal - Manchester Utd. T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Dos empates consecutivos han frenado el ímpetu del Arsenal que además llega con el desgaste del partido de UCL. El Man United superó con holgura al Man City, el “efecto Carrick” se verá puesto a prueba.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260125193900 +0100" stop="20260125201300 +0100" channel="DAZN 1 HD 1080P">
-    <title>Volver T1 · Ganar</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
-· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
-· País: España</desc>
-	</programme>
-	<programme start="20260125201300 +0100" stop="20260125210000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Volver T1 · Levantarse</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
-· País: España</desc>
-	</programme>
-	<programme start="20260125210000 +0100" stop="20260126000100 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 21: Denver Broncos - New England Patriots T25/26 · NFL</title>
-    <desc>Deportes,Fútbol americano | 2026 | TP | *5.8/10
-· La NFL es la liga de fútbol americano estadounidense.
-· País: Estados Unidos</desc>
-	</programme>
-	<programme start="20260126000100 +0100" stop="20260126010500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Decoded T2025 · Jorge Lorenzo</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.6/10
-· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.</desc>
-	</programme>
-	<programme start="20260126010500 +0100" stop="20260126060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260126060000 +0100" stop="20260126130200 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
 	<programme start="20260126130200 +0100" stop="20260126150400 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 23: Brentford - Nottingham Forest</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
@@ -195,7 +134,7 @@
 	</programme>
 	<programme start="20260127230500 +0100" stop="20260128000500 +0100" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E15</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.4/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
@@ -220,7 +159,7 @@
 	</programme>
 	<programme start="20260128150000 +0100" stop="20260128160000 +0100" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E15</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.4/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
@@ -237,7 +176,7 @@
 	</programme>
 	<programme start="20260128182000 +0100" stop="20260128192000 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Australia T2025 · Carrera Moto3</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *5.8/10
+    <desc>Deportes,Motociclismo | 2025 | TP | *5.6/10
 · La temporada apura sus últimos sorbos. El circuito de Phillip Island alberga el GP de Australia, uno de los de mayor tradición en el Mundial de motociclismo. Marc Márquez ya es campeón, pero la emoción de las carreras sigue viva en todas las cilindradas.
 · País: Australia</desc>
 	</programme>
@@ -293,7 +232,7 @@
 	</programme>
 	<programme start="20260129163000 +0100" stop="20260129171500 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Malasia T2025 · Moto3</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *5.6/10
+    <desc>Deportes,Motociclismo | 2025 | TP | *5.8/10
 · El Mundial de motociclismo continúa con su periplo asiático. El GP de Malasia se celebra en el Circuito Internacional de Sepang del 24 al 26 de octubre.</desc>
 	</programme>
 	<programme start="20260129171500 +0100" stop="20260129182000 +0100" channel="DAZN 1 HD 1080P">
@@ -324,8 +263,8 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260129220000 +0100" stop="20260130000000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 23: Arsenal - Manchester Utd. T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <title>Premier League T25/26 · Jornada 23: Arsenal - Manchester Utd</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · Dos empates consecutivos han frenado el ímpetu del Arsenal que además llega con el desgaste del partido de UCL. El Man United superó con holgura al Man City, el “efecto Carrick” se verá puesto a prueba.
 · País: Reino Unido</desc>
 	</programme>
@@ -406,7 +345,7 @@
 	</programme>
 	<programme start="20260131115000 +0100" stop="20260131140300 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 18: Atlético de Madrid - Granada CF T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -417,7 +356,7 @@
 	</programme>
 	<programme start="20260131141700 +0100" stop="20260131151900 +0100" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E15</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.4/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
@@ -446,9 +385,86 @@
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20260131225900 +0100" stop="20260201000200 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 21: Denver Broncos - New England Patriots T25/26 · NFL</title>
-    <desc>Deportes,Fútbol americano | 2026 | TP | *5.8/10
+    <title>NFL T25/26 · Jornada 21: Denver Broncos - New England Patriots</title>
+    <desc>Deportes,Fútbol americano | 2026 | TP | *6.2/10
 · La NFL es la liga de fútbol americano estadounidense.
 · País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260201000200 +0100" stop="20260201060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260201060000 +0100" stop="20260201115000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260201115000 +0100" stop="20260201140000 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 18: Deportivo Abanca - Real Madrid T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260201140000 +0100" stop="20260201141500 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
+    <desc>Entretenimiento,Entrevista | 2025 | TP | *6.0/10
+· Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán.
+· País: España</desc>
+	</programme>
+	<programme start="20260201141500 +0100" stop="20260201145000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier League Features T3 · Juan Mata, el elegido de Old Trafford</title>
+    <desc>Deportes,Programa deportes | 2024 | TP | *5.6/10
+· Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.</desc>
+	</programme>
+	<programme start="20260201145000 +0100" stop="20260201172000 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 24: Manchester Utd. - Fulham T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.8/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260201172000 +0100" stop="20260201193000 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 24: Tottenham - Manchester City T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260201193000 +0100" stop="20260201201000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Volver T1 E4</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
+· País: España</desc>
+	</programme>
+	<programme start="20260201201000 +0100" stop="20260201204500 +0100" channel="DAZN 1 HD 1080P">
+    <title>Volver T1 · Ganar</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
+· País: España</desc>
+	</programme>
+	<programme start="20260201204500 +0100" stop="20260201213000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Volver T1 · Levantarse</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
+· País: España</desc>
+	</programme>
+	<programme start="20260201213000 +0100" stop="20260201221000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Volver T1 · Caer</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
+· País: España</desc>
+	</programme>
+	<programme start="20260201221000 +0100" stop="20260202000000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier League T25/26 · Jornada 24: Brighton - Everton</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260202000000 +0100" stop="20260202005400 +0100" channel="DAZN 1 HD 1080P">
+    <title>Boxeo: velada Martín vs Kurylenko T2025 · Sandor Martín vs Yanis Kurylenko</title>
+    <desc>Deportes,Boxeo | 2025 | +18 | *6.6/10
+· Sandor vuelve a casa tras su combate en marzo de este año frente a Alberto Puello en el Barclays Center de Brooklyn (EE. UU.). Los jueces le dieron la victoria a Puello en una controvertida decisión.
+· País: España</desc>
+	</programme>
+	<programme start="20260202005400 +0100" stop="20260202020000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
 </tv>
