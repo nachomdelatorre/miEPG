@@ -1,77 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 28/01/2026 11:42" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 29/01/2026 11:50" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260128130000 +0100" stop="20260128145300 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 23: Manchester City - Wolverhampton</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260128145300 +0100" stop="20260128155400 +0100" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E15</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
-	</programme>
-	<programme start="20260128155400 +0100" stop="20260128174500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Copa de Italia T25/26 · Octavos de final: Fiorentina - Como</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *7.4/10
-· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
-· País: Italia</desc>
-	</programme>
-	<programme start="20260128174500 +0100" stop="20260128181700 +0100" channel="DAZN 1 HD 1080P">
-    <title>Cesc Fábregas, el último sueño</title>
-    <desc>Documentales,Deportes | 2022 | TP | *6.2/10
-· Cesc Fábregas vive su última etapa de futbolista disfrutando en el Como 1907 italiano. Allí ha repasado su carrera deportiva con DAZN.</desc>
-	</programme>
-	<programme start="20260128181700 +0100" stop="20260128191300 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Australia T2025 · Carrera Moto3</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *5.6/10
-· La temporada apura sus últimos sorbos. El circuito de Phillip Island alberga el GP de Australia, uno de los de mayor tradición en el Mundial de motociclismo. Marc Márquez ya es campeón, pero la emoción de las carreras sigue viva en todas las cilindradas.
-· País: Australia</desc>
-	</programme>
-	<programme start="20260128191300 +0100" stop="20260128201100 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Australia T2025 · Carrera Moto2</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
-· La temporada apura sus últimos sorbos. El circuito de Phillip Island alberga el GP de Australia, uno de los de mayor tradición en el Mundial de motociclismo. Marc Márquez ya es campeón, pero la emoción de las carreras sigue viva en todas las cilindradas.
-· País: Australia</desc>
-	</programme>
-	<programme start="20260128201100 +0100" stop="20260128211800 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Australia T2025 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.2/10
-· La temporada apura sus últimos sorbos. El circuito de Phillip Island alberga el GP de Australia, uno de los de mayor tradición en el Mundial de motociclismo. Marc Márquez ya es campeón, pero la emoción de las carreras sigue viva en todas las cilindradas.
-· País: Australia</desc>
-	</programme>
-	<programme start="20260128211800 +0100" stop="20260128214200 +0100" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2025 · Australia</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-	</programme>
-	<programme start="20260128214200 +0100" stop="20260129001400 +0100" channel="DAZN 1 HD 1080P">
-    <title>NFL T25/26 · Jornada 21: Denver Broncos - New England Patriots</title>
-    <desc>Deportes,Fútbol americano | 2026 | TP | *6.2/10
-· La NFL es la liga de fútbol americano estadounidense.
-· País: Estados Unidos</desc>
-	</programme>
-	<programme start="20260129001400 +0100" stop="20260129013800 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP Global Series Ronda 3 T2025 · Carreras</title>
-    <desc>Deportes,eSports | 2025 | TP | *6.2/10
-· La Global Series son la máxima competición de MotoGP a nivel de eSports. La tercera ronda de la temporada se disputa durante la Milan Games Week. Los circuitos simulados son el de Aragón para el Sprint, y los de Le Mans y Mugello para las carreras.
-· País: Italia</desc>
-	</programme>
-	<programme start="20260129013800 +0100" stop="20260129050000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260129050000 +0100" stop="20260129090000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
 	<programme start="20260129090000 +0100" stop="20260129130000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
@@ -89,7 +21,7 @@
 	</programme>
 	<programme start="20260129163000 +0100" stop="20260129171500 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Malasia T2025 · Moto3</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *5.8/10
+    <desc>Deportes,Motociclismo | 2025 | TP | *5.6/10
 · El Mundial de motociclismo continúa con su periplo asiático. El GP de Malasia se celebra en el Circuito Internacional de Sepang del 24 al 26 de octubre.</desc>
 	</programme>
 	<programme start="20260129171500 +0100" stop="20260129182000 +0100" channel="DAZN 1 HD 1080P">
@@ -127,7 +59,7 @@
 	</programme>
 	<programme start="20260130000000 +0100" stop="20260130010000 +0100" channel="DAZN 1 HD 1080P">
     <title>Raymond Muratalla vs. Andy Cruz T2026 · Velada completa</title>
-    <desc>Deportes,Boxeo | 2026 | TP | *6.2/10
+    <desc>Deportes,Boxeo | 2026 | +18 | *6.2/10
 · Las Vegas acoge un emocionante combate entre dos pesos ligeros invictos, en el que el actual campeón de la FIB, Raymond Muratalla, busca defender su título frente a Andy Cruz.
 · País: Estados Unidos</desc>
 	</programme>
@@ -212,7 +144,7 @@
 · El jugador argentino ha aterrizado de pie en el Atlético de Madrid y se ha convertido en una pieza clave.</desc>
 	</programme>
 	<programme start="20260131141700 +0100" stop="20260131151900 +0100" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E15</title>
+    <title>Póker FC T25/26 · Lamine y Vinicius brillan de nuevo</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
@@ -231,13 +163,13 @@
 	</programme>
 	<programme start="20260131182000 +0100" stop="20260131205000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 24: Chelsea - West Ham T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20260131205000 +0100" stop="20260131225900 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 24: Liverpool - Newcastle T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -257,7 +189,7 @@
 	</programme>
 	<programme start="20260201115000 +0100" stop="20260201140000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 18: Deportivo Abanca - Real Madrid T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -310,7 +242,7 @@
 	</programme>
 	<programme start="20260201221000 +0100" stop="20260202000000 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 24: Brighton - Everton</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -369,6 +301,30 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
 	<programme start="20260203220000 +0100" stop="20260204020000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260204020000 +0100" stop="20260204060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260204060000 +0100" stop="20260204100000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260204100000 +0100" stop="20260204140000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260204140000 +0100" stop="20260204180000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260204180000 +0100" stop="20260204220000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260204220000 +0100" stop="20260205020000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
