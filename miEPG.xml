@@ -1,68 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 13/02/2026 11:51" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 14/02/2026 11:42" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260213130000 +0100" stop="20260213154800 +0100" channel="DAZN 1 HD 1080P">
-    <title>NFL T25/26 · Campeonato de conferencia: Seattle Seahawks - Los Angeles Rams</title>
-    <desc>Deportes,Fútbol americano | 2026 | TP | *6.4/10
-· La pasión, la estrategia, la fuerza y la inteligencia se combinan en el deporte que paraliza Estados Unidos. La NFL busca al equipo más completo, que se coronará en la Super Bowl que se disputará en Santa Clara el 8 de febrero.
-· País: Estados Unidos</desc>
-	</programme>
-	<programme start="20260213154800 +0100" stop="20260213192200 +0100" channel="DAZN 1 HD 1080P">
-    <title>NFL T25/26 · Super Bowl: Seattle Seahawks - New England Patriots</title>
-    <desc>Deportes,Fútbol americano | 2026 | TP | *6.6/10
-· Santa Clara acoge la fiesta final de la NFL, la Super Bowl. Los campeones de la Conferencia Nacional, los Seattle Seahawks, se miden a sus homólogos de la Americana, los New England Patritots, en busca del anillo. Bad Bunny realiza el show del descanso.
-· País: Estados Unidos</desc>
-	</programme>
-	<programme start="20260213192200 +0100" stop="20260213195800 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP Test T25/26 · Día 1 - Test de Sepang</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
-· La pretemporada de MotoGP 2026 comienza en Valencia y termina en Buriram del 18 de noviembre al 22 de febrero.</desc>
-	</programme>
-	<programme start="20260213195800 +0100" stop="20260213204100 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP Test T25/26 · Día 2 - Test de Sepang</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
-· La pretemporada de MotoGP 2026 comienza en Valencia y termina en Buriram del 18 de noviembre al 22 de febrero.</desc>
-	</programme>
-	<programme start="20260213204100 +0100" stop="20260213213200 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP Test T25/26 · Día 3 - Test de Sepang</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.4/10
-· La pretemporada de MotoGP 2026 comienza en Valencia y termina en Buriram del 18 de noviembre al 22 de febrero.</desc>
-	</programme>
-	<programme start="20260213213200 +0100" stop="20260213232900 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 26: Brentford - Arsenal</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260213232900 +0100" stop="20260213234200 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 · Mikel Arteta</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.6/10
-· Entrevista a Mikel Arteta, técnico del Arsenal que ha vuelto a ilusionar a la afición 'gunner' y promete hacer grandes cosas en el conjunto del norte de Londres.
-· País: España</desc>
-	</programme>
-	<programme start="20260213234200 +0100" stop="20260214005000 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Tailandia T2025 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.6/10
-· La espera ha terminado. ¡Arranca el Mundial de MotoGP! El Circuito Internacional de Chang en Buriram alberga el GP de Tailandia, que inaugura uno de los campeonatos con mayor expectación de los últimos años.
-· País: Tailandia</desc>
-	</programme>
-	<programme start="20260214005000 +0100" stop="20260214012200 +0100" channel="DAZN 1 HD 1080P">
-    <title>Marc, más que un regreso</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
-· Descubre los entresijos del mayor regreso de la historia del deporte mientras Marc Márquez, el recién coronado campeón del mundo de MotoGP, y su entorno más cercano reviven la historia inédita de su camino de vuelta a la cima.
-· País: España</desc>
-	</programme>
-	<programme start="20260214012200 +0100" stop="20260214060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260214060000 +0100" stop="20260214115000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
 	<programme start="20260214115000 +0100" stop="20260214140300 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 20: FC Badalona Women - Costa Adeje Tenerife T25/26 · Liga F</title>
     <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
@@ -74,25 +15,25 @@
     <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
 · El jugador argentino ha aterrizado de pie en el Atlético de Madrid y se ha convertido en una pieza clave.</desc>
 	</programme>
-	<programme start="20260214141800 +0100" stop="20260214151600 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260214141800 +0100" stop="20260214151700 +0100" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E17</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
-	<programme start="20260214151600 +0100" stop="20260214154600 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260214151700 +0100" stop="20260214154900 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League Stories T24/25 · La rivalidad que definió al rey</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
 · Los enfrentamientos entre Arsène Wenger y Sir Alex Ferguson marcaron una de las rivalidades más emblemáticas de la historia de la Premier League.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20260214154600 +0100" stop="20260214174900 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260214154900 +0100" stop="20260214175200 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 26: Sunderland - Liverpool</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20260214174900 +0100" stop="20260214182000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260214175200 +0100" stop="20260214182000 +0100" channel="DAZN 1 HD 1080P">
     <title>Mohamed Salah, el faraón moderno de Anfield</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
 · Anfield, Mohamed Salah ha tejido una historia de esfuerzo, talento y humildad.</desc>
@@ -103,43 +44,43 @@
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
-	<programme start="20260214203300 +0100" stop="20260214210000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260214203300 +0100" stop="20260214210500 +0100" channel="DAZN 1 HD 1080P">
     <title>Ricky Rubio: El retorno de una leyenda</title>
     <desc>Deportes,Baloncesto | 2026 | TP | *6.4/10
 · Tras años en la élite mundial, Ricky regresa al lugar donde todo empezó: el Joventut de Badalona. En esta entrevista, repasa su carrera y su lucha con la salud mental. Un regreso emocional que revela cómo recuperó la magia del baloncesto.
 · País: España</desc>
 	</programme>
-	<programme start="20260214210000 +0100" stop="20260214230300 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260214210500 +0100" stop="20260214230700 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 25: Liverpool - Manchester City</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · Liverpool y Manchester City se miden con Anfiled con los Reds intentando meterse en puestos Champions, y los de Guardiola continuar peleando por el título de la Premier.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20260214230300 +0100" stop="20260214234200 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260214230700 +0100" stop="20260214234600 +0100" channel="DAZN 1 HD 1080P">
     <title>Volver T1 · Caer</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
 · País: España</desc>
 	</programme>
-	<programme start="20260214234200 +0100" stop="20260215002600 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260214234600 +0100" stop="20260215003000 +0100" channel="DAZN 1 HD 1080P">
     <title>Volver T1 · Levantarse</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
 · Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
 · País: España</desc>
 	</programme>
-	<programme start="20260215002600 +0100" stop="20260215010200 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260215003000 +0100" stop="20260215010600 +0100" channel="DAZN 1 HD 1080P">
     <title>Volver T1 · Ganar</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
 · Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
 · País: España</desc>
 	</programme>
-	<programme start="20260215010200 +0100" stop="20260215014200 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260215010600 +0100" stop="20260215014300 +0100" channel="DAZN 1 HD 1080P">
     <title>Volver T1 E4</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
 · País: España</desc>
 	</programme>
-	<programme start="20260215014200 +0100" stop="20260215060000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260215014300 +0100" stop="20260215060000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -172,8 +113,8 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260215155000 +0100" stop="20260215180300 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 20: RCD Espanyol - DUX Logroño T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <title>DIRECTO Jornada 20: Espanyol - DUX Logroño T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -184,7 +125,7 @@
 	</programme>
 	<programme start="20260215182000 +0100" stop="20260215203300 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 20: Atlético de Madrid - Madrid CFF T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -218,21 +159,21 @@
 · Las categorías de 160cc y 190cc llegan con ganas mientras la gran World Series Final regresa al Circuit Ricardo Tormo.
 · País: España</desc>
 	</programme>
-	<programme start="20260216005000 +0100" stop="20260216010600 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260216005000 +0100" stop="20260216010300 +0100" channel="DAZN 1 HD 1080P">
     <title>Pol Position T2025 · Quartararo</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.8/10
 · El piloto del Monster Energy Yamaha y campeón del Mundo de MotoGP Fabio Quartararo, es el tercer invitado de Pol Espargaró en el espacio 'Pol Position'.
 · País: España</desc>
 	</programme>
-	<programme start="20260216010600 +0100" stop="20260216060000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260216010300 +0100" stop="20260216060000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20260216060000 +0100" stop="20260216130000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260216060000 +0100" stop="20260216130100 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
-	<programme start="20260216130000 +0100" stop="20260216170300 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260216130100 +0100" stop="20260216170300 +0100" channel="DAZN 1 HD 1080P">
     <title>Hexagon Cup T2026 · Fase regular: Día 5</title>
     <desc>Deportes,Pádel | 2026 | TP | *5.6/10
 · La Caja Mágica de Madrid acoge la tercera edición de la Hexagon Cup. Del 28 de enero al 1 de febrero, los mejores jugadores de pádel del mundo juegan en un nuevo e innovador formato por equipos.
@@ -266,13 +207,13 @@
 · Tras el debut en Tailandia, el Mundial de motociclismo se desplaza a Argentina. El circuito de Termas de Río Hondo vuelve a albergar un gran premio tras la cancelación del de la pasada campaña. Su trazado rápido y técnico pone a prueba a los pilotos.
 · País: Argentina</desc>
 	</programme>
-	<programme start="20260217000600 +0100" stop="20260217010300 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260217000600 +0100" stop="20260217010000 +0100" channel="DAZN 1 HD 1080P">
     <title>Boxeo: velada Martín vs Kurylenko T2025 · Sandor Martín vs Yanis Kurylenko</title>
     <desc>Deportes,Boxeo | 2025 | +18 | *6.4/10
 · Sandor vuelve a casa tras su combate en marzo de este año frente a Alberto Puello en el Barclays Center de Brooklyn (EE. UU.). Los jueces le dieron la victoria a Puello en una controvertida decisión.
 · País: España</desc>
 	</programme>
-	<programme start="20260217010300 +0100" stop="20260217060000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260217010000 +0100" stop="20260217060000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -356,7 +297,7 @@
 	</programme>
 	<programme start="20260218163500 +0100" stop="20260218183500 +0100" channel="DAZN 1 HD 1080P">
     <title>Jornada 20: Athletic Club - Real Sociedad T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -477,5 +418,58 @@
     <desc>Deportes,Motociclismo | 2025 | TP | *6.2/10
 · El circuito de Mugello acoge la novena prueba del Mundial de motociclismo, el GP de Italia. El trazado toscano es icónico, con curvas rápidas y una recta principal que permite alcanzar velocidades superiores a los 350 km/h. Marc Márquez llega líder.
 · País: Italia</desc>
+	</programme>
+	<programme start="20260220010000 +0100" stop="20260220060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260220060000 +0100" stop="20260220130000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260220130000 +0100" stop="20260220170300 +0100" channel="DAZN 1 HD 1080P">
+    <title>Hexagon Cup T2026 · Fase regular: Día 5</title>
+    <desc>Deportes,Pádel | 2026 | TP | *5.6/10
+· La Caja Mágica de Madrid acoge la tercera edición de la Hexagon Cup. Del 28 de enero al 1 de febrero, los mejores jugadores de pádel del mundo juegan en un nuevo e innovador formato por equipos.
+· País: España</desc>
+	</programme>
+	<programme start="20260220170300 +0100" stop="20260220185800 +0100" channel="DAZN 1 HD 1080P">
+    <title>Copa de Italia T25/26 · Cuartos de final: Inter - Torino</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
+· País: Italia</desc>
+	</programme>
+	<programme start="20260220185800 +0100" stop="20260220192900 +0100" channel="DAZN 1 HD 1080P">
+    <title>Cesc Fábregas, el último sueño</title>
+    <desc>Documentales,Deportes | 2022 | TP | *6.2/10
+· Cesc Fábregas vive su última etapa de futbolista disfrutando en el Como 1907 italiano. Allí ha repasado su carrera deportiva con DAZN.</desc>
+	</programme>
+	<programme start="20260220192900 +0100" stop="20260220212100 +0100" channel="DAZN 1 HD 1080P">
+    <title>Copa de Italia T25/26 · Cuartos de final: Atalanta - Juventus</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
+· País: Italia</desc>
+	</programme>
+	<programme start="20260220212100 +0100" stop="20260220225100 +0100" channel="DAZN 1 HD 1080P">
+    <title>La caída de Maradona</title>
+    <desc>Documentales,Deportes | 2023 | +7 | *6.0/10
+· El 30 de junio de 1994, Diego Maradona, la mayor estrella del fútbol mundial, fue expulsado de la Copa del Mundo de EE.UU. tras no superar un control antidopaje después de un partido. La expulsión del Diego sorprendió al mundo del deporte.</desc>
+	</programme>
+	<programme start="20260220225100 +0100" stop="20260221000100 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Países Bajos T2025 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2025 | TP | *5.6/10
+· El Gran Premio de los Países Bajos de motociclismo es una de las carreras más importantes y queridas del calendario de MotoGP. El circuito de Assen, una mezcla de curvas rápidas, chicanes y secciones técnicas, representa un desafío para los pilotos.
+· País: Países Bajos</desc>
+	</programme>
+	<programme start="20260221000100 +0100" stop="20260221001300 +0100" channel="DAZN 1 HD 1080P">
+    <title>Inside Ducati T1 · Países bajos</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
+· Marc Márquez logró de manera perfecta la sexta victoria.</desc>
+	</programme>
+	<programme start="20260221001300 +0100" stop="20260221004200 +0100" channel="DAZN 1 HD 1080P">
+    <title>Boxeo: velada Kabayel vs Knyba T2026 · Velada completa</title>
+    <desc>Deportes,Boxeo | 2026 | TP | *5.6/10
+· La localidad de Oberhausen (Alemania) acoge este combate entre Agit Kabayel y Damian Knyba.
+· País: Alemania</desc>
 	</programme>
 </tv>
