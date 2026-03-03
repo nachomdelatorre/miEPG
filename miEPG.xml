@@ -1,138 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 02/03/2026 11:50" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 03/03/2026 11:51" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260302130000 +0100" stop="20260302150000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 28: Liverpool - West Ham</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260302150000 +0100" stop="20260302154500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E19</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.6/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
-	</programme>
-	<programme start="20260302154500 +0100" stop="20260302174500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 28: Wolverhampton - Aston Villa</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260302174500 +0100" stop="20260302180500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
-    <desc>Entretenimiento,Entrevista | 2024 | TP | *5.8/10
-· El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
-· País: España</desc>
-	</programme>
-	<programme start="20260302180500 +0100" stop="20260302190500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260303130000 +0100" stop="20260303135500 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Tailandia T2026 · Carrera Moto3</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *6.6/10
 · La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
 · País: Tailandia</desc>
 	</programme>
-	<programme start="20260302190500 +0100" stop="20260302200500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260303135500 +0100" stop="20260303150800 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Tailandia T2026 · Carrera Moto2</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
 · La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
 · País: Tailandia</desc>
 	</programme>
-	<programme start="20260302200500 +0100" stop="20260302210500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260303150800 +0100" stop="20260303161000 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Tailandia T2026 · Carrera MotoGP</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *7.0/10
 · La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
 · País: Tailandia</desc>
 	</programme>
-	<programme start="20260302210500 +0100" stop="20260302230500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 28: Arsenal - Chelsea</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
-· Líderes con cinco pts de ventaja sobre el Man City, los gunners afrontan una temporada en la que todo es posible. Los de Arteta ya eliminaron al Chelsea en semis de Copa de la Liga. Los blues han tropezado en las dos últiams jornadas.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260302230500 +0100" stop="20260302232000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 · Mikel Arteta</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
-· Entrevista a Mikel Arteta, técnico del Arsenal que ha vuelto a ilusionar a la afición 'gunner' y promete hacer grandes cosas en el conjunto del norte de Londres.
-· País: España</desc>
-	</programme>
-	<programme start="20260302232000 +0100" stop="20260303004600 +0100" channel="DAZN 1 HD 1080P">
-    <title>E1 Series T2026 · Jeddah: Carreras Finales</title>
-    <desc>Deportes,Deporte acuático | 2026 | TP | *6.6/10
-· Las E1 Series son una competición de lanchas eléctricas y que celebra su tercera temporada.</desc>
-	</programme>
-	<programme start="20260303004600 +0100" stop="20260303060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260303060000 +0100" stop="20260303130000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260303130000 +0100" stop="20260303140000 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Tailandia T2026 · Carrera Moto3</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.6/10
-· La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
-· País: Tailandia</desc>
-	</programme>
-	<programme start="20260303140000 +0100" stop="20260303150000 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Tailandia T2026 · Carrera Moto2</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
-· La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
-· País: Tailandia</desc>
-	</programme>
-	<programme start="20260303150000 +0100" stop="20260303160000 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Tailandia T2026 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *7.0/10
-· La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
-· País: Tailandia</desc>
-	</programme>
-	<programme start="20260303160000 +0100" stop="20260303163000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260303161000 +0100" stop="20260303164300 +0100" channel="DAZN 1 HD 1080P">
     <title>Fabio Quartararo, el camino hacia la redención</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · The Redemption Road sigue a Fabio Quartararo, una de las estrellas más carismáticas de MotoGP, y a Yamaha en su lucha por volver a la cima de este deporte.</desc>
 	</programme>
-	<programme start="20260303163000 +0100" stop="20260303184000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260303164300 +0100" stop="20260303184000 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 28: Leeds - Manchester City</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20260303184000 +0100" stop="20260303204500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260303184000 +0100" stop="20260303203200 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Main Round: Kiel - Bidasoa T25/26 · Liga Europea de la EHF</title>
     <desc>Deportes,Balonmano | 2026 | TP | *5.8/10
 · La Liga Europea ocupa el segundo lugar en el escalafón de las competiciones continentales de balonmano. Comienza con una fase de clasificación, seguida de una fase de grupos; los mejores, pelean por el título en las eliminatorias.
 · País: Alemania</desc>
 	</programme>
-	<programme start="20260303204500 +0100" stop="20260303210500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260303203200 +0100" stop="20260303204600 +0100" channel="DAZN 1 HD 1080P">
+    <title>Revelado - Julián Álvarez</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· El jugador argentino ha aterrizado de pie en el Atlético de Madrid y se ha convertido en una pieza clave.</desc>
+	</programme>
+	<programme start="20260303204600 +0100" stop="20260303210500 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 · Mikel Arteta</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Entrevista a Mikel Arteta, técnico del Arsenal que ha vuelto a ilusionar a la afición 'gunner' y promete hacer grandes cosas en el conjunto del norte de Londres.
+· País: España</desc>
+	</programme>
+	<programme start="20260303210500 +0100" stop="20260303232600 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 29: Wolverhampton - Liverpool T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260303232600 +0100" stop="20260303235400 +0100" channel="DAZN 1 HD 1080P">
     <title>Código MotoGP T2026 · Tailandia</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
 	</programme>
-	<programme start="20260303210500 +0100" stop="20260303231500 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 29: Wolverhampton - Liverpool T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260303231500 +0100" stop="20260304000000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E20</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
-	</programme>
-	<programme start="20260304000000 +0100" stop="20260304010000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260303235400 +0100" stop="20260304000000 +0100" channel="DAZN 1 HD 1080P">
     <title>Boxeo: Velada T2026 · Navarrete vs Nuñez</title>
     <desc>Deportes,Boxeo | 2026 | +18 | *6.2/10
 · Emanuel Navarrete y Eduardo Núñez se ven las caras en el Desert Diamond Arena de Arizona, Estados Unidos.</desc>
 	</programme>
-	<programme start="20260304010000 +0100" stop="20260304060000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260304000000 +0100" stop="20260304005500 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260304005500 +0100" stop="20260304060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Póker FC T25/26 E20</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
+· País: España</desc>
 	</programme>
 	<programme start="20260304060000 +0100" stop="20260304130000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
@@ -168,7 +112,7 @@
 	</programme>
 	<programme start="20260304202000 +0100" stop="20260304223000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 29: Brighton &amp; Hove Albion - Arsenal T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -230,7 +174,7 @@
 	</programme>
 	<programme start="20260305205000 +0100" stop="20260305230000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 29: Tottenham - Crystal Palace T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -249,7 +193,7 @@
 	</programme>
 	<programme start="20260306003000 +0100" stop="20260306004500 +0100" channel="DAZN 1 HD 1080P">
     <title>Presentaciones MotoGP T2025 · Marc Márquez: todo al rojo Ducati</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
+    <desc>Deportes,Motociclismo | 2025 | TP | *6.2/10
 · Los equipos de MotoGP presentan sus novedades de cara a la nueva temporada.</desc>
 	</programme>
 	<programme start="20260306004500 +0100" stop="20260306060000 +0100" channel="DAZN 1 HD 1080P">
@@ -268,7 +212,7 @@
 	</programme>
 	<programme start="20260306154800 +0100" stop="20260306174400 +0100" channel="DAZN 1 HD 1080P">
     <title>Jornada 29: Tottenham - Crystal Palace T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -279,7 +223,7 @@
 	</programme>
 	<programme start="20260306181100 +0100" stop="20260306200200 +0100" channel="DAZN 1 HD 1080P">
     <title>Semifinales: Como - Inter T25/26 · Copa de Italia</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
 · País: Italia</desc>
 	</programme>
@@ -331,13 +275,13 @@
 	</programme>
 	<programme start="20260307174100 +0100" stop="20260307193700 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 28: Wolverhampton - Aston Villa</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20260307193700 +0100" stop="20260307195700 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 28: Arsenal - Chelsea</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.8/10
 · Líderes con cinco pts de ventaja sobre el Man City, los gunners afrontan una temporada en la que todo es posible. Los de Arteta ya eliminaron al Chelsea en semis de Copa de la Liga. Los blues han tropezado en las dos últiams jornadas.
 · País: Reino Unido</desc>
 	</programme>
@@ -363,7 +307,7 @@
 	</programme>
 	<programme start="20260308163400 +0100" stop="20260308183100 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 28: Liverpool - West Ham</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -413,5 +357,93 @@
     <desc>Deportes,Programa deportes | 2022 | +18 | *6.2/10
 · Esta es la historia del combate entre Mikey Esta es la historia del combate entre Mikey García y Sandor Martín en California, contada en primera persona por el boxeador español, quien hizo realidad su sueño de niño.
 · País: España</desc>
+	</programme>
+	<programme start="20260309013300 +0100" stop="20260309060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260309060000 +0100" stop="20260309130000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260309130000 +0100" stop="20260309135000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Moto4 Asia Cup T2026 · Tailandia - Carrera 1</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
+	</programme>
+	<programme start="20260309135000 +0100" stop="20260309145100 +0100" channel="DAZN 1 HD 1080P">
+    <title>Moto4 Asia Cup T2026 · Tailandia - Carrera 2</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
+	</programme>
+	<programme start="20260309145100 +0100" stop="20260309155200 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Tailandia T2026 · Carrera Moto3</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.6/10
+· La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
+· País: Tailandia</desc>
+	</programme>
+	<programme start="20260309155200 +0100" stop="20260309165300 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Tailandia T2026 · Carrera Moto2</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+· La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
+· País: Tailandia</desc>
+	</programme>
+	<programme start="20260309165300 +0100" stop="20260309175400 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Tailandia T2026 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *7.0/10
+· La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
+· País: Tailandia</desc>
+	</programme>
+	<programme start="20260309175400 +0100" stop="20260309183400 +0100" channel="DAZN 1 HD 1080P">
+    <title>Volver T1 · Caer</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
+· País: España</desc>
+	</programme>
+	<programme start="20260309183400 +0100" stop="20260309191800 +0100" channel="DAZN 1 HD 1080P">
+    <title>Volver T1 · Levantarse</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
+· País: España</desc>
+	</programme>
+	<programme start="20260309191800 +0100" stop="20260309194900 +0100" channel="DAZN 1 HD 1080P">
+    <title>Ricky Rubio: El retorno de una leyenda</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Tras años en la élite mundial, Ricky regresa al lugar donde todo empezó: el Joventut de Badalona. En esta entrevista, repasa su carrera y su lucha con la salud mental. Un regreso emocional que revela cómo recuperó la magia del baloncesto.
+· País: España</desc>
+	</programme>
+	<programme start="20260309194900 +0100" stop="20260309202000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jorge Martín - Del cielo al infierno</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Llegando a la temporada 2025 como el vigente Campeón del Mundo, el español acabaría viviendo un año muy complicado, después de que varias lesiones arruinaran su debut con Aprilia.
+· País: España</desc>
+	</programme>
+	<programme start="20260309202000 +0100" stop="20260309204700 +0100" channel="DAZN 1 HD 1080P">
+    <title>Fabio Quartararo, el camino hacia la redención</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· The Redemption Road sigue a Fabio Quartararo, una de las estrellas más carismáticas de MotoGP, y a Yamaha en su lucha por volver a la cima de este deporte.</desc>
+	</programme>
+	<programme start="20260309204700 +0100" stop="20260309214800 +0100" channel="DAZN 1 HD 1080P">
+    <title>Póker FC T25/26 E20</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
+· País: España</desc>
+	</programme>
+	<programme start="20260309214800 +0100" stop="20260309234400 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jornada 29: Brighton &amp; Hove Albion - Arsenal T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260309234400 +0100" stop="20260309235800 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 · Mikel Arteta</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Entrevista a Mikel Arteta, técnico del Arsenal que ha vuelto a ilusionar a la afición 'gunner' y promete hacer grandes cosas en el conjunto del norte de Londres.
+· País: España</desc>
+	</programme>
+	<programme start="20260309235800 +0100" stop="20260310010100 +0100" channel="DAZN 1 HD 1080P">
+    <title>Boxeo: Velada T2026 · Navarrete vs Nuñez</title>
+    <desc>Deportes,Boxeo | 2026 | +18 | *6.2/10
+· Emanuel Navarrete y Eduardo Núñez se ven las caras en el Desert Diamond Arena de Arizona, Estados Unidos.</desc>
 	</programme>
 </tv>
