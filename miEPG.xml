@@ -1,41 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 14/03/2026 11:43" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 15/03/2026 11:45" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260314115000 +0100" stop="20260314155000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 22: Atlético de Madrid - DUX Logroño T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-	</programme>
-	<programme start="20260314155000 +0100" stop="20260314182000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 30: Burnley - Bournemouth T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260314182000 +0100" stop="20260314205000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 30: Arsenal - Everton T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· El Arsenal mide su fortaleza en la Premier ante un Everton que se presenta tras dos victorias consecutivas, a cinco puntos de Champions y tras seis partidos invicto a domicilio.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260314205000 +0100" stop="20260314230000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 26: West Ham - Manchester United T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
-· Nueve puntos de los últimos doce en juego le han devuelto la vida a los “hammers”. Cuatro victorias consecutivas, en puesto de UCL y sin conocer la derrota en Premier desde diciembre; Carrick y su United no están para bromas.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260314230000 +0100" stop="20260315060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260315060000 +0100" stop="20260315115000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
 	<programme start="20260315115000 +0100" stop="20260315145000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 22: Deportivo Abanca - FC Barcelona T25/26 · Liga F</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
@@ -97,14 +65,14 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
 	<programme start="20260316130000 +0100" stop="20260316150000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Día 2 - Finales T2026 · Crevillent Cup</title>
+    <title>Crevillent Cup T2026 · Día 2 - Finales</title>
     <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
 · La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
 · País: España</desc>
 	</programme>
 	<programme start="20260316150000 +0100" stop="20260316170000 +0100" channel="DAZN 1 HD 1080P">
     <title>Crevillent Cup T2026 · Partido de Influencers</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
 · País: España</desc>
 	</programme>
@@ -164,7 +132,7 @@
 	</programme>
 	<programme start="20260317130000 +0100" stop="20260317150000 +0100" channel="DAZN 1 HD 1080P">
     <title>Jornada 22: Espanyol - Eibar T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -187,14 +155,14 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260317174500 +0100" stop="20260317194500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Día 2 - Finales T2026 · Crevillent Cup</title>
+    <title>Crevillent Cup T2026 · Día 2 - Finales</title>
     <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
 · La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
 · País: España</desc>
 	</programme>
 	<programme start="20260317194500 +0100" stop="20260317214500 +0100" channel="DAZN 1 HD 1080P">
     <title>Crevillent Cup T2026 · Partido de Influencers</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
 · País: España</desc>
 	</programme>
@@ -205,7 +173,7 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260317220500 +0100" stop="20260318000500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 26: West Ham - Manchester United T25/26 · Premier League</title>
+    <title>Premier League T25/26 · Jornada 26: West Ham - Manchester United</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · Nueve puntos de los últimos doce en juego le han devuelto la vida a los “hammers”. Cuatro victorias consecutivas, en puesto de UCL y sin conocer la derrota en Premier desde diciembre; Carrick y su United no están para bromas.
 · País: Reino Unido</desc>
@@ -231,8 +199,8 @@
 · País: Estados Unidos</desc>
 	</programme>
 	<programme start="20260318163500 +0100" stop="20260318183500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 22: Real Sociedad - Real Madrid T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <title>Liga F T25/26 · Jornada 22: Real Sociedad - Real Madrid</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -256,7 +224,7 @@
 	</programme>
 	<programme start="20260318215000 +0100" stop="20260318235000 +0100" channel="DAZN 1 HD 1080P">
     <title>Jornada 30: Arsenal - Everton T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · El Arsenal mide su fortaleza en la Premier ante un Everton que se presenta tras dos victorias consecutivas, a cinco puntos de Champions y tras seis partidos invicto a domicilio.
 · País: Reino Unido</desc>
 	</programme>
@@ -319,7 +287,7 @@
 · El jugador argentino ha aterrizado de pie en el Atlético de Madrid y se ha convertido en una pieza clave.</desc>
 	</programme>
 	<programme start="20260319192500 +0100" stop="20260319212500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 22: Atlético de Madrid - DUX Logroño T25/26 · Liga F</title>
+    <title>Liga F T25/26 · Jornada 22: Atlético de Madrid - DUX Logroño</title>
     <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
@@ -356,14 +324,14 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
 	<programme start="20260320130000 +0100" stop="20260320140200 +0100" channel="DAZN 1 HD 1080P">
-    <title>Día 2 - Finales T2026 · Crevillent Cup</title>
+    <title>Crevillent Cup T2026 · Día 2 - Finales</title>
     <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
 · La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
 · País: España</desc>
 	</programme>
 	<programme start="20260320140200 +0100" stop="20260320150300 +0100" channel="DAZN 1 HD 1080P">
     <title>Crevillent Cup T2026 · Partido de Influencers</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
 · País: España</desc>
 	</programme>
@@ -412,5 +380,54 @@
     <desc>Deportes,Boxeo | 2024 | +18 | *5.8/10
 · Oleksandr Usyk y Tyson Fury se enfrentan 21 de diciembre de 2024 en el Kingdom Arena de Riad, Arabia Saudita.
 · País: Arabia Saudí</desc>
+	</programme>
+	<programme start="20260321011100 +0100" stop="20260321060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260321060000 +0100" stop="20260321132000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260321132000 +0100" stop="20260321155000 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 31: Brighton - Liverpool T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260321155000 +0100" stop="20260321182000 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 31: Fulham - Burnley T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260321182000 +0100" stop="20260321205000 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 31: Everton - Chelsea T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260321205000 +0100" stop="20260321225900 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 31: Leeds - Brentford T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260321225900 +0100" stop="20260321231900 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jaque Márquez</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Jaque Márquez transforma la temporada de MotoGP en una emocionante partida de ajedrez.
+· País: España</desc>
+	</programme>
+	<programme start="20260321231900 +0100" stop="20260322002000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Rueda de prensa motos T2026 · Brasil - Paddock Abierto</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
+	</programme>
+	<programme start="20260322002000 +0100" stop="20260322012300 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Brasil T2026 · Sprint MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+· El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
+· País: Brasil</desc>
 	</programme>
 </tv>
