@@ -1,130 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 16/03/2026 12:01" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 17/03/2026 11:59" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260316130000 +0100" stop="20260316150000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Crevillent Cup T2026 · Día 2 - Finales</title>
+	<programme start="20260317130000 +0100" stop="20260317145300 +0100" channel="DAZN 1 HD 1080P">
+    <title>Liga F T25/26 · Jornada 22: Espanyol - Eibar</title>
     <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
-· La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
-· País: España</desc>
-	</programme>
-	<programme start="20260316150000 +0100" stop="20260316170000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Crevillent Cup T2026 · Partido de Influencers</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
-· La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
-· País: España</desc>
-	</programme>
-	<programme start="20260316170000 +0100" stop="20260316172500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League Features T3 · Juan Mata, el elegido de Old Trafford</title>
-    <desc>Deportes,Programa deportes | 2024 | TP | *5.6/10
-· Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.</desc>
-	</programme>
-	<programme start="20260316172500 +0100" stop="20260316192500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 30: Manchester United - Aston Villa</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260316192500 +0100" stop="20260316194500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
-    <desc>Entretenimiento,Entrevista | 2024 | TP | *5.8/10
-· El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
-· País: España</desc>
-	</programme>
-	<programme start="20260316194500 +0100" stop="20260316205000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E20</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
-	</programme>
-	<programme start="20260316205000 +0100" stop="20260316230000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 30: Brentford - Wolverhampton T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260316230000 +0100" stop="20260316232000 +0100" channel="DAZN 1 HD 1080P">
-    <title>La NBA, en primera persona desde Berlín</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
-· ¿Cómo es vivir un partido de la NBA desde dentro? Atiga Suleiman tuvo el placer de estar presente en el encuentro entre Orlando Magic y Memphis Grizzlies que se disputó en Berlín el pasado mes de enero.</desc>
-	</programme>
-	<programme start="20260316232000 +0100" stop="20260316235000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Ricky Rubio: El retorno de una leyenda</title>
-    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
-· Tras años en la élite mundial, Ricky regresa al lugar donde todo empezó: el Joventut de Badalona. En esta entrevista, repasa su carrera y su lucha con la salud mental. Un regreso emocional que revela cómo recuperó la magia del baloncesto.
-· País: España</desc>
-	</programme>
-	<programme start="20260316235000 +0100" stop="20260317005900 +0100" channel="DAZN 1 HD 1080P">
-    <title>Boxeo: Usyk vs. Fury 2 T2024 · Usyk vs Fury 2</title>
-    <desc>Deportes,Boxeo | 2024 | +18 | *5.8/10
-· Oleksandr Usyk y Tyson Fury se enfrentan 21 de diciembre de 2024 en el Kingdom Arena de Riad, Arabia Saudita.
-· País: Arabia Saudí</desc>
-	</programme>
-	<programme start="20260317005900 +0100" stop="20260317060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260317060000 +0100" stop="20260317130000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260317130000 +0100" stop="20260317150000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 22: Espanyol - Eibar T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
-	<programme start="20260317150000 +0100" stop="20260317152000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260317145300 +0100" stop="20260317151200 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier Corner by Guiness 0,0 T2025 · David Silva</title>
     <desc>Entretenimiento,Entrevista | 2025 | TP | *5.8/10
 · La leyenda del Mánchester City, David Silva, repasa su época dorada en la Premier League: estilo de juego, momentos decisivos, sus relaciones en los vestuarios.
 · País: España</desc>
 	</programme>
-	<programme start="20260317152000 +0100" stop="20260317172000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 30: Brentford - Wolverhampton T25/26 · Premier League</title>
+	<programme start="20260317151200 +0100" stop="20260317170800 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier League T25/26 · Jornada 30: Brentford - Wolverhampton</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20260317172000 +0100" stop="20260317174500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260317170800 +0100" stop="20260317173200 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier Corner by Guiness 0,0 · Quique Sánchez Flores, director incansable de grandes banquillos</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
 · Eneko Fernández se siente a charlar con uno de los entrenadores españoles más reconocido. Quique Sánchez Flores repasa su trayectoria en 12 equipos, en 5 países diferentes, haciendo mención especial a los de la Premier League.
 · País: España</desc>
 	</programme>
-	<programme start="20260317174500 +0100" stop="20260317194500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260317173200 +0100" stop="20260317184300 +0100" channel="DAZN 1 HD 1080P">
     <title>Crevillent Cup T2026 · Día 2 - Finales</title>
     <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
 · La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
 · País: España</desc>
 	</programme>
-	<programme start="20260317194500 +0100" stop="20260317214500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Crevillent Cup T2026 · Partido de Influencers</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
-· La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
-· País: España</desc>
+	<programme start="20260317184300 +0100" stop="20260317194900 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Tailandia T2026 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.6/10
+· La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
+· País: Tailandia</desc>
 	</programme>
-	<programme start="20260317214500 +0100" stop="20260317220500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260317194900 +0100" stop="20260317200900 +0100" channel="DAZN 1 HD 1080P">
     <title>Jaque Márquez</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
 · Jaque Márquez transforma la temporada de MotoGP en una emocionante partida de ajedrez.
 · País: España</desc>
 	</programme>
-	<programme start="20260317220500 +0100" stop="20260318000500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260317200900 +0100" stop="20260317221200 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 26: West Ham - Manchester United</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · Nueve puntos de los últimos doce en juego le han devuelto la vida a los “hammers”. Cuatro victorias consecutivas, en puesto de UCL y sin conocer la derrota en Premier desde diciembre; Carrick y su United no están para bromas.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20260318000500 +0100" stop="20260318010500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260317221200 +0100" stop="20260317230800 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Tailandia T2026 · Carrera Moto3</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.6/10
+· La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
+· País: Tailandia</desc>
+	</programme>
+	<programme start="20260317230800 +0100" stop="20260318001600 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Tailandia T2026 · Carrera Moto2</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
+· La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
+· País: Tailandia</desc>
+	</programme>
+	<programme start="20260318001600 +0100" stop="20260318011600 +0100" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E21</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
-	<programme start="20260318010500 +0100" stop="20260318060000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260318011600 +0100" stop="20260318060000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -163,7 +109,7 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260318215000 +0100" stop="20260318235000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 30: Arsenal - Everton T25/26 · Premier League</title>
+    <title>DIRECTO Jornada 30: Arsenal - Everton T25/26 · Premier League</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · El Arsenal mide su fortaleza en la Premier ante un Everton que se presenta tras dos victorias consecutivas, a cinco puntos de Champions y tras seis partidos invicto a domicilio.
 · País: Reino Unido</desc>
@@ -206,7 +152,7 @@
 	</programme>
 	<programme start="20260319155000 +0100" stop="20260319165000 +0100" channel="DAZN 1 HD 1080P">
     <title>Rueda de prensa motos T2026 · Brasil - Paddock Abierto</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
 	</programme>
 	<programme start="20260319165000 +0100" stop="20260319171000 +0100" channel="DAZN 1 HD 1080P">
@@ -240,7 +186,7 @@
 	</programme>
 	<programme start="20260319222500 +0100" stop="20260319232500 +0100" channel="DAZN 1 HD 1080P">
     <title>Rueda de prensa motos T2026 · Brasil - Paddock Abierto</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
 	</programme>
 	<programme start="20260319232500 +0100" stop="20260319235500 +0100" channel="DAZN 1 HD 1080P">
@@ -271,13 +217,13 @@
 	</programme>
 	<programme start="20260320140200 +0100" stop="20260320150300 +0100" channel="DAZN 1 HD 1080P">
     <title>Crevillent Cup T2026 · Partido de Influencers</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
 · País: España</desc>
 	</programme>
 	<programme start="20260320150300 +0100" stop="20260320153000 +0100" channel="DAZN 1 HD 1080P">
     <title>Premier League Features T3 · Juan Mata, el elegido de Old Trafford</title>
-    <desc>Deportes,Programa deportes | 2024 | TP | *5.6/10
+    <desc>Deportes,Programa deportes | 2024 | TP | *5.8/10
 · Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.</desc>
 	</programme>
 	<programme start="20260320153000 +0100" stop="20260320172600 +0100" channel="DAZN 1 HD 1080P">
@@ -361,12 +307,12 @@
 	</programme>
 	<programme start="20260321231900 +0100" stop="20260322002000 +0100" channel="DAZN 1 HD 1080P">
     <title>Rueda de prensa motos T2026 · Brasil - Paddock Abierto</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
 	</programme>
 	<programme start="20260322002000 +0100" stop="20260322012300 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Brasil T2026 · Sprint MotoGP</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <desc>Deportes,Motociclismo | 2026 | TP | *5.8/10
 · El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
 · País: Brasil</desc>
 	</programme>
@@ -421,7 +367,7 @@
 	</programme>
 	<programme start="20260322221400 +0100" stop="20260322231500 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Brasil T2026 · Sprint MotoGP</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <desc>Deportes,Motociclismo | 2026 | TP | *5.8/10
 · El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
 · País: Brasil</desc>
 	</programme>
@@ -440,5 +386,81 @@
     <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
 · Llegando a la temporada 2025 como el vigente Campeón del Mundo, el español acabaría viviendo un año muy complicado, después de que varias lesiones arruinaran su debut con Aprilia.
 · País: España</desc>
+	</programme>
+	<programme start="20260323003900 +0100" stop="20260323060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260323060000 +0100" stop="20260323130000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260323130000 +0100" stop="20260323140200 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Brasil T2026 · Race Moto3</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+· El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
+· País: Brasil</desc>
+	</programme>
+	<programme start="20260323140200 +0100" stop="20260323150300 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Brasil T2026 · Race Moto2</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+· El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
+· País: Brasil</desc>
+	</programme>
+	<programme start="20260323150300 +0100" stop="20260323160400 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Brasil T2026 · Grand Prix MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+· El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
+· País: Brasil</desc>
+	</programme>
+	<programme start="20260323160400 +0100" stop="20260323171000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Decoded T2025 · Jorge Lorenzo</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.6/10
+· Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.</desc>
+	</programme>
+	<programme start="20260323171000 +0100" stop="20260323172200 +0100" channel="DAZN 1 HD 1080P">
+    <title>Inside Ducati T1 · GP Portugal</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *4.8/10
+· Programa que ofrece una visión entre bastidores del equipo Ducati Lenovo en la temporada de MotoGP.</desc>
+	</programme>
+	<programme start="20260323172200 +0100" stop="20260323180500 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP Test T25/26 · Buriram - Día 1</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.4/10
+· El próximo 27 de febrero arranca en Tailandia el mundial de motociclismo. Los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados.</desc>
+	</programme>
+	<programme start="20260323180500 +0100" stop="20260323184700 +0100" channel="DAZN 1 HD 1080P">
+    <title>MotoGP Test T25/26 · Buriram - Día 2</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· El próximo 27 de febrero arranca en Tailandia el mundial de motociclismo. Los pilotos ultiman los ajustes en sus monturas para hacerlas lo más competitivas posible con una serie de test oficiales en circuitos seleccionados.</desc>
+	</programme>
+	<programme start="20260323184700 +0100" stop="20260323192000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Rookies T1 · Uniéndose a la élite</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Historias de los debutantes del Campeonato del Mundo de MotoGP, cada uno con un relato increíble que contar. No hay lugar más difícil para dejar huella que MotoGP.
+· País: España</desc>
+	</programme>
+	<programme start="20260323192000 +0100" stop="20260323213300 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 23: Granada CF - Deportivo Abanca T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260323213300 +0100" stop="20260323214600 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 T2025 · Martín Zubimendi</title>
+    <desc>Entretenimiento,Entrevista | 2025 | TP | *6.0/10
+· El recién llegado al Arsenal y ex de la Real Sociedad, Martín Zubimendi, repasa su trayectoria con Eneko en esta nueva edición de Premier Corner.
+· País: España</desc>
+	</programme>
+	<programme start="20260323214600 +0100" stop="20260323233800 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jornada 23: Eibar - Real Madrid T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260323233800 +0100" stop="20260324013600 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jornada 30: Arsenal - Everton T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+· El Arsenal mide su fortaleza en la Premier ante un Everton que se presenta tras dos victorias consecutivas, a cinco puntos de Champions y tras seis partidos invicto a domicilio.
+· País: Reino Unido</desc>
 	</programme>
 </tv>
