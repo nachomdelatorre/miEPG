@@ -1,64 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 21/03/2026 11:42" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 22/03/2026 11:43" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260321125000 +0100" stop="20260321132000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 · Quique Sánchez Flores, director incansable de grandes banquillos</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
-· Eneko Fernández se siente a charlar con uno de los entrenadores españoles más reconocido. Quique Sánchez Flores repasa su trayectoria en 12 equipos, en 5 países diferentes, haciendo mención especial a los de la Premier League.
-· País: España</desc>
-	</programme>
-	<programme start="20260321132000 +0100" stop="20260321155000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 31: Brighton - Liverpool T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260321155000 +0100" stop="20260321182000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 31: Fulham - Burnley T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260321182000 +0100" stop="20260321205000 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 31: Everton - Chelsea T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260321205000 +0100" stop="20260321231100 +0100" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 31: Leeds - Brentford T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260321231100 +0100" stop="20260321233000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jaque Márquez</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
-· Jaque Márquez transforma la temporada de MotoGP en una emocionante partida de ajedrez.
-· País: España</desc>
-	</programme>
-	<programme start="20260321233000 +0100" stop="20260322005000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Rueda de prensa motos T2026 · Brasil - Paddock Abierto</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
-· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
-	</programme>
-	<programme start="20260322005000 +0100" stop="20260322015100 +0100" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Brasil T2026 · Sprint MotoGP</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
-· El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
-· País: Brasil</desc>
-	</programme>
-	<programme start="20260322015100 +0100" stop="20260322060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260322060000 +0100" stop="20260322125000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
 	<programme start="20260322125000 +0100" stop="20260322150500 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 31: Newcastle - Sunderland T25/26 · Premier League</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
@@ -90,8 +35,8 @@
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20260322200200 +0100" stop="20260322215800 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 31: Brighton - Liverpool T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <title>Premier League T25/26 · Jornada 31: Brighton - Liverpool</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -310,8 +255,8 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260325170000 +0100" stop="20260325190000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 23: FC Barcelona - Athletic Club T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <title>Liga F T25/26 · Jornada 23: FC Barcelona - Athletic Club</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.8/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -445,8 +390,8 @@
 · País: Portugal</desc>
 	</programme>
 	<programme start="20260327182000 +0100" stop="20260327202500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Jornada 23: FC Barcelona - Athletic Club T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+    <title>Liga F T25/26 · Jornada 23: FC Barcelona - Athletic Club</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.8/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -483,5 +428,80 @@
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
+	</programme>
+	<programme start="20260328003500 +0100" stop="20260328060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260328060000 +0100" stop="20260328115000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260328115000 +0100" stop="20260328132000 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Superpole T2026 · Mundial de Superbike - Algarve</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+· El campeonato del mundo de Superbike es una competición de motos de gran cilindrada paralela al mundial de velocidad. El calendario de 2026 consta de doce pruebas. En cada evento se disputan tres carreras puntuables.
+· País: Portugal</desc>
+	</programme>
+	<programme start="20260328132000 +0100" stop="20260328170500 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Primera carrera T2026 · Mundial de Superbike - Algarve</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+· El campeonato del mundo de Superbike es una competición de motos de gran cilindrada paralela al mundial de velocidad. El calendario de 2026 consta de doce pruebas. En cada evento se disputan tres carreras puntuables.
+· País: Portugal</desc>
+	</programme>
+	<programme start="20260328170500 +0100" stop="20260328174000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Volver T1 · Ganar</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
+· País: España</desc>
+	</programme>
+	<programme start="20260328174000 +0100" stop="20260328182000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Red Bull Features T2024 · Red Bull Dual Ascent - La película</title>
+    <desc>Deportes,Programa deportes | 2024 | TP | *5.8/10
+· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?</desc>
+	</programme>
+	<programme start="20260328182000 +0100" stop="20260328185000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Red Bull Features T2024 E1</title>
+    <desc>Deportes,Programa deportes | 2024 | TP | *5.6/10
+· Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?</desc>
+	</programme>
+	<programme start="20260328185000 +0100" stop="20260328193500 +0100" channel="DAZN 1 HD 1080P">
+    <title>Titan World Series 2025: El propósito</title>
+    <desc>Documentales,Deportes | 2024 | TP | *6.2/10
+· Conoce a Marti y Jan Alvares, quiénes junto a los atletas Konny Looser, Alejandra Lizana, Daniel Fornós y Michal Kamermeier se embarcan en un apasionante reto a través del peligroso desierto marroquí, la Titan World Series.</desc>
+	</programme>
+	<programme start="20260328193500 +0100" stop="20260328195000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 · Mikel Arteta</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Entrevista a Mikel Arteta, técnico del Arsenal que ha vuelto a ilusionar a la afición 'gunner' y promete hacer grandes cosas en el conjunto del norte de Londres.
+· País: España</desc>
+	</programme>
+	<programme start="20260328195000 +0100" stop="20260328220000 +0100" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 24: Sevilla - Granada CF T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260328220000 +0100" stop="20260328222000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jaque Márquez</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Jaque Márquez transforma la temporada de MotoGP en una emocionante partida de ajedrez.
+· País: España</desc>
+	</programme>
+	<programme start="20260328222000 +0100" stop="20260329004500 +0100" channel="DAZN 1 HD 1080P">
+    <title>Liga F T25/26 · Jornada 11: Barcelona - Real Madrid</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.8/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260329004500 +0100" stop="20260329014500 +0100" channel="DAZN 1 HD 1080P">
+    <title>Póker FC T25/26 E22</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
+· País: España</desc>
+	</programme>
+	<programme start="20260329014500 +0100" stop="20260329050000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
 </tv>
