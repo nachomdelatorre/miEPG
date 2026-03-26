@@ -1,133 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 25/03/2026 11:59" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 26/03/2026 12:04" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260325130000 +0100" stop="20260325142900 +0100" channel="DAZN 1 HD 1080P">
-    <title>E1 Series T2026 · Jeddah: Carreras Finales</title>
-    <desc>Deportes,Deporte acuático | 2026 | TP | *6.4/10
-· Las E1 Series son una competición de lanchas eléctricas y que celebra su tercera temporada.</desc>
+	<programme start="20260326130000 +0100" stop="20260326132200 +0100" channel="DAZN 1 HD 1080P">
+    <title>Código MotoGP T2026 · Brasil</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
 	</programme>
-	<programme start="20260325142900 +0100" stop="20260325163500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Liga F T25/26 · Jornada 23: Alhama CF ElPozo - Atlético de Madrid</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-	</programme>
-	<programme start="20260325163500 +0100" stop="20260325165900 +0100" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 · Quique Sánchez Flores, director incansable de grandes banquillos</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
-· Eneko Fernández se siente a charlar con uno de los entrenadores españoles más reconocido. Quique Sánchez Flores repasa su trayectoria en 12 equipos, en 5 países diferentes, haciendo mención especial a los de la Premier League.
-· País: España</desc>
-	</programme>
-	<programme start="20260325165900 +0100" stop="20260325190000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Liga F T25/26 · Jornada 23: FC Barcelona - Athletic Club</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.8/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-	</programme>
-	<programme start="20260325190000 +0100" stop="20260325193000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Cesc Fábregas, el último sueño</title>
-    <desc>Documentales,Deportes | 2022 | TP | *6.2/10
-· Cesc Fábregas vive su última etapa de futbolista disfrutando en el Como 1907 italiano. Allí ha repasado su carrera deportiva con DAZN.</desc>
-	</programme>
-	<programme start="20260325193000 +0100" stop="20260325212600 +0100" channel="DAZN 1 HD 1080P">
-    <title>Copa de Italia T25/26 · Cuartos de final: Inter - Torino</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
-· País: Italia</desc>
-	</programme>
-	<programme start="20260325212600 +0100" stop="20260325225600 +0100" channel="DAZN 1 HD 1080P">
-    <title>La caída de Maradona</title>
-    <desc>Documentales,Deportes | 2023 | +7 | *6.0/10
-· El 30 de junio de 1994, Diego Maradona, la mayor estrella del fútbol mundial, fue expulsado de la Copa del Mundo de EE.UU. tras no superar un control antidopaje después de un partido. La expulsión del Diego sorprendió al mundo del deporte.</desc>
-	</programme>
-	<programme start="20260325225600 +0100" stop="20260326004800 +0100" channel="DAZN 1 HD 1080P">
-    <title>Copa de Italia T25/26 · Cuartos de final: Atalanta - Juventus</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
-· País: Italia</desc>
-	</programme>
-	<programme start="20260326004800 +0100" stop="20260326014800 +0100" channel="DAZN 1 HD 1080P">
-    <title>Michael Conlan vs. Kevin Walsh T2026 · Velada Michael Conlan vs Kevin Walsh</title>
-    <desc>Deportes,Boxeo | 2026 | TP | *6.0/10
-· El SSE Arena de Belfast se prepara para una noche decisiva: Michael Conlan afronta un combate que podría marcar su última gran carrera, mientras el invicto Kevin Walsh llega decidido a arruinarle el regreso a casa.
-· País: Irlanda</desc>
-	</programme>
-	<programme start="20260326014800 +0100" stop="20260326060000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260326060000 +0100" stop="20260326130000 +0100" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260326130000 +0100" stop="20260326140500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260326132200 +0100" stop="20260326142800 +0100" channel="DAZN 1 HD 1080P">
     <title>Decoded T2025 · Jorge Lorenzo</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.6/10
 · Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.</desc>
 	</programme>
-	<programme start="20260326140500 +0100" stop="20260326150000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260326142800 +0100" stop="20260326152000 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Las Américas T2025 · Carrera Moto3</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
 · El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
 · País: Estados Unidos</desc>
 	</programme>
-	<programme start="20260326150000 +0100" stop="20260326160500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260326152000 +0100" stop="20260326161900 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Las Américas T2025 · Carrera Moto3</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
 · El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
 · País: Estados Unidos</desc>
 	</programme>
-	<programme start="20260326160500 +0100" stop="20260326172000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260326161900 +0100" stop="20260326173000 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Las Américas T2025 · Carrera MotoGP</title>
     <desc>Deportes,Motociclismo | 2025 | TP | *6.4/10
 · El Mundial de motociclismo viaja de Argentina a Estados Unidos para la disputa del GP de las Américas. El circuito de Austin, con sus curvas enlazadas y sus zonas de aceleración cortas y pronunciadas, es siempre un desafío para pilotos y máquinas.
 · País: Estados Unidos</desc>
 	</programme>
-	<programme start="20260326172000 +0100" stop="20260326175500 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260326173000 +0100" stop="20260326175500 +0100" channel="DAZN 1 HD 1080P">
     <title>Código MotoGP T2025 · Estados Unidos</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
 	</programme>
-	<programme start="20260326175500 +0100" stop="20260326202000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260326175500 +0100" stop="20260326191600 +0100" channel="DAZN 1 HD 1080P">
     <title>Rueda de prensa motos T2026 · Estados Unidos - Paddock Abierto</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
 · País: Estados Unidos</desc>
 	</programme>
-	<programme start="20260326202000 +0100" stop="20260326204000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260326191600 +0100" stop="20260326193500 +0100" channel="DAZN 1 HD 1080P">
     <title>Jaque Márquez</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
 · Jaque Márquez transforma la temporada de MotoGP en una emocionante partida de ajedrez.
 · País: España</desc>
 	</programme>
-	<programme start="20260326204000 +0100" stop="20260326214000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260326193500 +0100" stop="20260326204000 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Brasil T2026 · Carrera Moto3</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *5.6/10
 · El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
 · País: Brasil</desc>
 	</programme>
-	<programme start="20260326214000 +0100" stop="20260326224000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260326204000 +0100" stop="20260326213700 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Brasil T2026 · Carrera Moto2</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
 · País: Brasil</desc>
 	</programme>
-	<programme start="20260326224000 +0100" stop="20260326235000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260326213700 +0100" stop="20260326224300 +0100" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Brasil T2026 · Carrera MotoGP</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *6.4/10
 · El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
 · País: Brasil</desc>
 	</programme>
-	<programme start="20260326235000 +0100" stop="20260327060000 +0100" channel="DAZN 1 HD 1080P">
+	<programme start="20260326224300 +0100" stop="20260327000500 +0100" channel="DAZN 1 HD 1080P">
     <title>Rueda de prensa motos T2026 · Estados Unidos - Paddock Abierto</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.
 · País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260327000500 +0100" stop="20260327010600 +0100" channel="DAZN 1 HD 1080P">
+    <title>Boxeo: velada Wood vs Warrington II T2026 · Velada completa</title>
+    <desc>Deportes,Boxeo | 2026 | +18 | *6.6/10
+· El Motorpoint Arena de Nottingham, en Inglaterra, recibe la revancha de peso pluma entre Leigh Wood y Josh Warrington II.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260327010600 +0100" stop="20260327060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
 	</programme>
 	<programme start="20260327060000 +0100" stop="20260327113000 +0100" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
@@ -191,8 +149,8 @@
 · Programa que ofrece una visión entre bastidores del equipo Ducati Lenovo en la temporada de MotoGP.</desc>
 	</programme>
 	<programme start="20260327224500 +0100" stop="20260328003500 +0100" channel="DAZN 1 HD 1080P">
-    <title>Liga F T25/26 · Jornada 23: SD Eibar - Real Madrid</title>
-    <desc>Deportes,Fútbol | 2026 | *6.0/10
+    <title>Liga F T25/26 · Jornada 23: Eibar - Real Madrid</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -206,7 +164,7 @@
 	</programme>
 	<programme start="20260328115000 +0100" stop="20260328132000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Superpole T2026 · Mundial de Superbike - Algarve</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <desc>Deportes,Motociclismo | 2026 | TP | *5.8/10
 · El campeonato del mundo de Superbike es una competición de motos de gran cilindrada paralela al mundial de velocidad. El calendario de 2026 consta de doce pruebas. En cada evento se disputan tres carreras puntuables.
 · País: Portugal</desc>
 	</programme>
@@ -245,7 +203,7 @@
 	</programme>
 	<programme start="20260328195000 +0100" stop="20260328220000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 24: Sevilla - Granada CF T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -287,7 +245,7 @@
 	</programme>
 	<programme start="20260329132000 +0100" stop="20260329172000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Segunda carrera T2026 · Mundial de Superbike - Algarve</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *5.8/10
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
 · El campeonato del mundo de Superbike es una competición de motos de gran cilindrada paralela al mundial de velocidad. El calendario de 2026 consta de doce pruebas. En cada evento se disputan tres carreras puntuables.
 · País: Portugal</desc>
 	</programme>
@@ -312,7 +270,7 @@
 	</programme>
 	<programme start="20260329205000 +0100" stop="20260329230000 +0100" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 24: Real Madrid - Barcelona T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -324,7 +282,7 @@
 	</programme>
 	<programme start="20260329232000 +0100" stop="20260330011200 +0100" channel="DAZN 1 HD 1080P">
     <title>Jornada 24: Athletic Club - Atlético de Madrid T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -447,14 +405,14 @@
 	</programme>
 	<programme start="20260331200000 +0100" stop="20260331203000 +0100" channel="DAZN 1 HD 1080P">
     <title>Código MotoGP T2026 · Estados Unidos</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *7.0/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
 	</programme>
 	<programme start="20260331203000 +0100" stop="20260331223000 +0100" channel="DAZN 1 HD 1080P">
     <title>Jornada 24: Athletic Club - Atlético de Madrid T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -465,8 +423,83 @@
 	</programme>
 	<programme start="20260331230000 +0100" stop="20260401011000 +0100" channel="DAZN 1 HD 1080P">
     <title>Jornada 24: Real Madrid - Barcelona T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
+	</programme>
+	<programme start="20260401011000 +0100" stop="20260401060000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260401060000 +0100" stop="20260401130000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260401130000 +0100" stop="20260401150000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jornada 24: Real Madrid - Barcelona T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260401150000 +0100" stop="20260401152500 +0100" channel="DAZN 1 HD 1080P">
+    <title>Santi Aldama, rock español en Memphis</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Explora el impacto del ala-pívot canario en la cuna del blues: desde su papel con los Memphis Grizzlies hasta la vibra con el ritmo histórico de la ciudad estadounidense.</desc>
+	</programme>
+	<programme start="20260401152500 +0100" stop="20260401154500 +0100" channel="DAZN 1 HD 1080P">
+    <title>La NBA, en primera persona desde Berlín</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· ¿Cómo es vivir un partido de la NBA desde dentro? Atiga Suleiman tuvo el placer de estar presente en el encuentro entre Orlando Magic y Memphis Grizzlies que se disputó en Berlín el pasado mes de enero.</desc>
+	</programme>
+	<programme start="20260401154500 +0100" stop="20260401163500 +0100" channel="DAZN 1 HD 1080P">
+    <title>Moto4 Asia Cup T2026 · Tailandia - Carrera 1</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
+	</programme>
+	<programme start="20260401163500 +0100" stop="20260401173000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Moto4 Asia Cup T2026 · Tailandia - Carrera 2</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
+	</programme>
+	<programme start="20260401173000 +0100" stop="20260401184000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Crevillent Cup T2026 · Día 2 - Finales</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
+· La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
+· País: España</desc>
+	</programme>
+	<programme start="20260401184000 +0100" stop="20260401203000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Jornada 24: Athletic Club - Atlético de Madrid T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260401203000 +0100" stop="20260401210000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 · Quique Sánchez Flores, director incansable de grandes banquillos</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
+· Eneko Fernández se siente a charlar con uno de los entrenadores españoles más reconocido. Quique Sánchez Flores repasa su trayectoria en 12 equipos, en 5 países diferentes, haciendo mención especial a los de la Premier League.
+· País: España</desc>
+	</programme>
+	<programme start="20260401210000 +0100" stop="20260401213000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier League Stories T25/26 · Sunderland, el retorno de los Black Cats</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.4/10
+· El resurgir de los Black Cats, la vuelta a la élite del fútbol inglés de uno de los grandes de la historia.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260401213000 +0100" stop="20260401223000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Yaya Touré, poesía en zancadas</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Recorremos la extraordinaria trayectoria de uno de los centrocampistas más emblemáticos de la Premier League, Yaya Touré, desde sus humildes comienzos en Bouaké, Costa de Marfil, hasta su ascenso a la élite del fútbol europeo.
+· País: España</desc>
+	</programme>
+	<programme start="20260401223000 +0100" stop="20260402003000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Premier League T25/26 · Jornada 22: Manchester United - Manchester City</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
+· El derby de Mánchester mide a dos equipos sin margen de error. El United, fuera de la FA Cup y de los puestos Champions. El City, a seis puntos del líder Arsenal.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260402003000 +0100" stop="20260402020000 +0100" channel="DAZN 1 HD 1080P">
+    <title>Velada completa T2026 · Boxeo velada: Itauma vs. Franklin</title>
+    <desc>Deportes,Boxeo | 2026 | +18 | *5.6/10
+· El Co-op Live Arena de Manchester acoge el combate entre Itauma y Franklin.</desc>
 	</programme>
 </tv>
