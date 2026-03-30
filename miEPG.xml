@@ -1,84 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 29/03/2026 11:49" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 30/03/2026 12:07" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260329115500 +0200" stop="20260329125000 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Superpole Race T2026 · Mundial de Superbike - Algarve</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
-· El campeonato del mundo de Superbike es una competición de motos de gran cilindrada paralela al mundial de velocidad. El calendario de 2026 consta de doce pruebas. En cada evento se disputan tres carreras puntuables.
-· País: Portugal</desc>
-	</programme>
-	<programme start="20260329125000 +0200" stop="20260329173400 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Segunda carrera T2026 · Mundial de Superbike - Algarve</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
-· El campeonato del mundo de Superbike es una competición de motos de gran cilindrada paralela al mundial de velocidad. El calendario de 2026 consta de doce pruebas. En cada evento se disputan tres carreras puntuables.
-· País: Portugal</desc>
-	</programme>
-	<programme start="20260329173400 +0200" stop="20260329180100 +0200" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2026 · Brasil</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-	</programme>
-	<programme start="20260329180100 +0200" stop="20260329204000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Liga F T25/26 · Jornada 11: Barcelona - Real Madrid</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *6.6/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-	</programme>
-	<programme start="20260329204000 +0200" stop="20260329231000 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 24: Real Madrid - Barcelona T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-	</programme>
-	<programme start="20260329231000 +0200" stop="20260329233300 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 · Quique Sánchez Flores, director incansable de grandes banquillos</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
-· Eneko Fernández se siente a charlar con uno de los entrenadores españoles más reconocido. Quique Sánchez Flores repasa su trayectoria en 12 equipos, en 5 países diferentes, haciendo mención especial a los de la Premier League.
-· País: España</desc>
-	</programme>
-	<programme start="20260329233300 +0200" stop="20260330012600 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 24: Athletic Club - Atlético de Madrid T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-	</programme>
-	<programme start="20260330012600 +0200" stop="20260330060000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260330060000 +0200" stop="20260330130000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260330130000 +0200" stop="20260330140700 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera Moto3 T2026 · MotoGP - GP de Estados Unidos</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *5.6/10
+	<programme start="20260330130100 +0200" stop="20260330135400 +0200" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Estados Unidos T2026 · Carrera Moto3</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *5.8/10
 · ¡El rugido vuelve a Austin! El GP de Estados Unidos desafía a los pilotos con sus 20 curvas y la temida frenada de la 12, situada al final de la larguísima recta trasera de 1,2 km.¿Logrará Marc Márquez recuperar su trono en COTA?
 · País: Estados Unidos</desc>
 	</programme>
-	<programme start="20260330140700 +0200" stop="20260330150800 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera Moto2 T2026 · MotoGP - GP de Estados Unidos</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+	<programme start="20260330135400 +0200" stop="20260330150800 +0200" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Estados Unidos T2026 · Carrera Moto2</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · ¡El rugido vuelve a Austin! El GP de Estados Unidos desafía a los pilotos con sus 20 curvas y la temida frenada de la 12, situada al final de la larguísima recta trasera de 1,2 km.¿Logrará Marc Márquez recuperar su trono en COTA?
 · País: Estados Unidos</desc>
 	</programme>
 	<programme start="20260330150800 +0200" stop="20260330160900 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera MotoGP T2026 · MotoGP - GP de Estados Unidos</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <title>MotoGP - GP de Estados Unidos T2026 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · ¡El rugido vuelve a Austin! El GP de Estados Unidos desafía a los pilotos con sus 20 curvas y la temida frenada de la 12, situada al final de la larguísima recta trasera de 1,2 km.¿Logrará Marc Márquez recuperar su trono en COTA?
 · País: Estados Unidos</desc>
 	</programme>
-	<programme start="20260330160900 +0200" stop="20260330170400 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260330160900 +0200" stop="20260330170300 +0200" channel="DAZN 1 HD 1080P">
     <title>Moto4 Asia Cup T2026 · Tailandia - Carrera 2</title>
     <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
 	</programme>
-	<programme start="20260330170400 +0200" stop="20260330185000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260330170300 +0200" stop="20260330185000 +0200" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 4: Manchester City - Manchester Utd</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
@@ -90,49 +39,49 @@
 · Jaque Márquez transforma la temporada de MotoGP en una emocionante partida de ajedrez.
 · País: España</desc>
 	</programme>
-	<programme start="20260330191000 +0200" stop="20260330210100 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 24: Real Madrid - Barcelona T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+	<programme start="20260330191000 +0200" stop="20260330211100 +0200" channel="DAZN 1 HD 1080P">
+    <title>Liga F T25/26 · Jornada 24: Real Madrid - Barcelona</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.8/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
-	<programme start="20260330210100 +0200" stop="20260330213800 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260330211100 +0200" stop="20260330214700 +0200" channel="DAZN 1 HD 1080P">
     <title>More Than Machine T2025 · Defender y atacar</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · El programa sigue los primeros pasos de Adrien Fourmaux con Hyundai después del cambio estelar en el off-season de 2024.
 · País: España</desc>
 	</programme>
-	<programme start="20260330213800 +0200" stop="20260330222100 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260330214700 +0200" stop="20260330223000 +0200" channel="DAZN 1 HD 1080P">
     <title>More Than Machine T2025 · Ahora o nunca</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Un nuevo rey ha sido coronado, pero los tiburones ya están al acecho. Lidera la caza el ocho veces campeón del mundo, que aún no puede alejarse.
 · País: España</desc>
 	</programme>
-	<programme start="20260330222100 +0200" stop="20260330225900 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260330223000 +0200" stop="20260330230900 +0200" channel="DAZN 1 HD 1080P">
     <title>More Than Machine T2026 · Punto de fuga</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Un nuevo rey ha sido coronado, pero los tiburones ya están al acecho. Lidera la caza el ocho veces campeón del mundo, que aún no puede alejarse.
 · País: España</desc>
 	</programme>
-	<programme start="20260330225900 +0200" stop="20260330233900 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260330230900 +0200" stop="20260330234900 +0200" channel="DAZN 1 HD 1080P">
     <title>More Than Machine T2026 · Resiliencia</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
 · Programa que repasa la actualidad sobre el Campeonato Mundial de Rally.
 · País: España</desc>
 	</programme>
-	<programme start="20260330233900 +0200" stop="20260331002400 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260330234900 +0200" stop="20260331003400 +0200" channel="DAZN 1 HD 1080P">
     <title>More Than Machine T2026 · Causa - efecto</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
 · En Toyota Gazoo Racing, las apuestas nunca han sido tan altas: el actual campeón Kalle Rovanperä lucha contra un coche rebelde, mientras que Takamoto Katsuta se bate en defensa de su carrera.
 · País: España</desc>
 	</programme>
-	<programme start="20260331002400 +0200" stop="20260331010500 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260331003400 +0200" stop="20260331011400 +0200" channel="DAZN 1 HD 1080P">
     <title>More Than Machine T2026 · Que empiecen los juegos</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Un nuevo rey ha sido coronado, pero los tiburones ya están al acecho. Lidera la caza el ocho veces campeón del mundo, que aún no puede alejarse.
 · País: España</desc>
 	</programme>
-	<programme start="20260331010500 +0200" stop="20260331060000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260331011400 +0200" stop="20260331060000 +0200" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -147,20 +96,20 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260331170000 +0200" stop="20260331180000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera Moto3 T2026 · MotoGP - GP de Estados Unidos</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *5.6/10
+    <title>MotoGP - GP de Estados Unidos T2026 · Carrera Moto3</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *5.8/10
 · ¡El rugido vuelve a Austin! El GP de Estados Unidos desafía a los pilotos con sus 20 curvas y la temida frenada de la 12, situada al final de la larguísima recta trasera de 1,2 km.¿Logrará Marc Márquez recuperar su trono en COTA?
 · País: Estados Unidos</desc>
 	</programme>
 	<programme start="20260331180000 +0200" stop="20260331190000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera Moto2 T2026 · MotoGP - GP de Estados Unidos</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <title>MotoGP - GP de Estados Unidos T2026 · Carrera Moto2</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · ¡El rugido vuelve a Austin! El GP de Estados Unidos desafía a los pilotos con sus 20 curvas y la temida frenada de la 12, situada al final de la larguísima recta trasera de 1,2 km.¿Logrará Marc Márquez recuperar su trono en COTA?
 · País: Estados Unidos</desc>
 	</programme>
 	<programme start="20260331190000 +0200" stop="20260331200000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera MotoGP T2026 · MotoGP - GP de Estados Unidos</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <title>MotoGP - GP de Estados Unidos T2026 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · ¡El rugido vuelve a Austin! El GP de Estados Unidos desafía a los pilotos con sus 20 curvas y la temida frenada de la 12, situada al final de la larguísima recta trasera de 1,2 km.¿Logrará Marc Márquez recuperar su trono en COTA?
 · País: Estados Unidos</desc>
 	</programme>
@@ -172,8 +121,8 @@
 · Presenta: Natacha Alfageme.</desc>
 	</programme>
 	<programme start="20260331203000 +0200" stop="20260331223000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 24: Athletic Club - Atlético de Madrid T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <title>Liga F T25/26 · Jornada 24: Athletic Club - Atlético de Madrid</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -183,8 +132,8 @@
 · Los equipos de MotoGP presentan sus novedades de cara a la nueva temporada.</desc>
 	</programme>
 	<programme start="20260331230000 +0200" stop="20260401011000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 24: Real Madrid - Barcelona T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <title>Liga F T25/26 · Jornada 24: Real Madrid - Barcelona</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.8/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -197,8 +146,8 @@
     <desc>· Programa por determinar...</desc>
 	</programme>
 	<programme start="20260401130000 +0200" stop="20260401150000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 24: Real Madrid - Barcelona T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <title>Liga F T25/26 · Jornada 24: Real Madrid - Barcelona</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.8/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -229,8 +178,8 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260401184000 +0200" stop="20260401203000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 24: Athletic Club - Atlético de Madrid T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <title>Liga F T25/26 · Jornada 24: Athletic Club - Atlético de Madrid</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -302,20 +251,20 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260402230500 +0200" stop="20260403000500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera MotoGP T2026 · MotoGP - GP de Estados Unidos</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <title>MotoGP - GP de Estados Unidos T2026 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · ¡El rugido vuelve a Austin! El GP de Estados Unidos desafía a los pilotos con sus 20 curvas y la temida frenada de la 12, situada al final de la larguísima recta trasera de 1,2 km.¿Logrará Marc Márquez recuperar su trono en COTA?
 · País: Estados Unidos</desc>
 	</programme>
 	<programme start="20260403000500 +0200" stop="20260403010500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera Moto2 T2026 · MotoGP - GP de Estados Unidos</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <title>MotoGP - GP de Estados Unidos T2026 · Carrera Moto2</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · ¡El rugido vuelve a Austin! El GP de Estados Unidos desafía a los pilotos con sus 20 curvas y la temida frenada de la 12, situada al final de la larguísima recta trasera de 1,2 km.¿Logrará Marc Márquez recuperar su trono en COTA?
 · País: Estados Unidos</desc>
 	</programme>
 	<programme start="20260403010500 +0200" stop="20260403020500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera Moto3 T2026 · MotoGP - GP de Estados Unidos</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *5.6/10
+    <title>MotoGP - GP de Estados Unidos T2026 · Carrera Moto3</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *5.8/10
 · ¡El rugido vuelve a Austin! El GP de Estados Unidos desafía a los pilotos con sus 20 curvas y la temida frenada de la 12, situada al final de la larguísima recta trasera de 1,2 km.¿Logrará Marc Márquez recuperar su trono en COTA?
 · País: Estados Unidos</desc>
 	</programme>
@@ -445,7 +394,7 @@
 	</programme>
 	<programme start="20260404204500 +0200" stop="20260404225000 +0200" channel="DAZN 1 HD 1080P">
     <title>Jornada 25: DUX Logroño - Sevilla T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
@@ -460,5 +409,66 @@
     <desc>Deportes,Boxeo | 2026 | TP | *5.8/10
 · La localidad de Oberhausen (Alemania) acoge este combate entre Agit Kabayel y Damian Knyba.
 · País: Alemania</desc>
+	</programme>
+	<programme start="20260405010500 +0200" stop="20260405060000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260405060000 +0200" stop="20260405115000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260405115000 +0200" stop="20260405140000 +0200" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 25: Atlético de Madrid - Deportivo Abanca T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260405140000 +0200" stop="20260405142000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Jaque Márquez</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Jaque Márquez transforma la temporada de MotoGP en una emocionante partida de ajedrez.
+· País: España</desc>
+	</programme>
+	<programme start="20260405142000 +0200" stop="20260405162000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Jornada 25: DUX Logroño - Sevilla T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260405162000 +0200" stop="20260405175000 +0200" channel="DAZN 1 HD 1080P">
+    <title>La caída de Maradona</title>
+    <desc>Documentales,Deportes | 2023 | +7 | *6.0/10
+· El 30 de junio de 1994, Diego Maradona, la mayor estrella del fútbol mundial, fue expulsado de la Copa del Mundo de EE.UU. tras no superar un control antidopaje después de un partido. La expulsión del Diego sorprendió al mundo del deporte.</desc>
+	</programme>
+	<programme start="20260405175000 +0200" stop="20260405200000 +0200" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 25: Madrid CFF - Real Madrid T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260405200000 +0200" stop="20260405203000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Jorge Martín - Del cielo al infierno</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Llegando a la temporada 2025 como el vigente Campeón del Mundo, el español acabaría viviendo un año muy complicado, después de que varias lesiones arruinaran su debut con Aprilia.
+· País: España</desc>
+	</programme>
+	<programme start="20260405203000 +0200" stop="20260405213000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Póker FC T25/26 E22</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
+· País: España</desc>
+	</programme>
+	<programme start="20260405213000 +0200" stop="20260405233000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Jornada 25: Atlético de Madrid - Deportivo Abanca T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260405233000 +0200" stop="20260406003900 +0200" channel="DAZN 1 HD 1080P">
+    <title>Crevillent Cup T2026 · Día 2 - Finales</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
+· La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
+· País: España</desc>
 	</programme>
 </tv>
