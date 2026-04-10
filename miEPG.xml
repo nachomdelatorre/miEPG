@@ -1,144 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 09/04/2026 12:07" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 10/04/2026 12:03" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260409130000 +0200" stop="20260409135300 +0200" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E24</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
-	</programme>
-	<programme start="20260409135300 +0200" stop="20260409141300 +0200" channel="DAZN 1 HD 1080P">
-    <title>Santi Aldama, rock español en Memphis</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Explora el impacto del ala-pívot canario en la cuna del blues: desde su papel con los Memphis Grizzlies hasta la vibra con el ritmo histórico de la ciudad estadounidense.</desc>
-	</programme>
-	<programme start="20260409141300 +0200" stop="20260409160800 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 22: Manchester United - Manchester City</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· El derby de Mánchester mide a dos equipos sin margen de error. El United, fuera de la FA Cup y de los puestos Champions. El City, a seis puntos del líder Arsenal.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260409160800 +0200" stop="20260409163900 +0200" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2026 · Tailandia</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-	</programme>
-	<programme start="20260409163900 +0200" stop="20260409183600 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 20: Manchester City - Chelsea</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Año nuevo con cambios. Maresca ya no dirige al Chelsea, descolgado a 15 pts del líder. Guardiola ha relanzado al Man City pero el empate con el Sunderland les sitúa segundos a cuatro pts del Arsenal. City y Blues no se pueden permitir más deslices.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260409183600 +0200" stop="20260409190400 +0200" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2026 · Brasil</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-	</programme>
-	<programme start="20260409190400 +0200" stop="20260409210000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 20: Bournemouth - Arsenal</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260409210000 +0200" stop="20260409212500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2026 · Estados Unidos</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-	</programme>
-	<programme start="20260409212500 +0200" stop="20260409225300 +0200" channel="DAZN 1 HD 1080P">
-    <title>E1 Series T2026 · Jeddah: Carreras Finales</title>
-    <desc>Deportes,Deporte acuático | 2026 | TP | *6.4/10
-· Las E1 Series son una competición de lanchas eléctricas y que celebra su tercera temporada.</desc>
-	</programme>
-	<programme start="20260409225300 +0200" stop="20260409233300 +0200" channel="DAZN 1 HD 1080P">
-    <title>Volver T1 · Caer</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
-· País: España</desc>
-	</programme>
-	<programme start="20260409233300 +0200" stop="20260410001800 +0200" channel="DAZN 1 HD 1080P">
-    <title>Volver T1 · Levantarse</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
-· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
-· País: España</desc>
-	</programme>
-	<programme start="20260410001800 +0200" stop="20260410005100 +0200" channel="DAZN 1 HD 1080P">
-    <title>Volver T1 · Ganar</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
-· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
-· País: España</desc>
-	</programme>
-	<programme start="20260410005100 +0200" stop="20260410013000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Volver T1 E4</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
-· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
-· País: España</desc>
-	</programme>
-	<programme start="20260410013000 +0200" stop="20260410060000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260410060000 +0200" stop="20260410130000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260410130000 +0200" stop="20260410163500 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260410130000 +0200" stop="20260410163600 +0200" channel="DAZN 1 HD 1080P">
     <title>NFL T25/26 · Super Bowl: Seattle Seahawks - New England Patriots</title>
     <desc>Deportes,Fútbol americano | 2026 | TP | *6.4/10
 · Santa Clara acoge la fiesta final de la NFL, la Super Bowl. Los campeones de la Conferencia Nacional, los Seattle Seahawks, se miden a sus homólogos de la Americana, los New England Patritots, en busca del anillo. Bad Bunny realiza el show del descanso.
 · País: Estados Unidos</desc>
 	</programme>
-	<programme start="20260410163500 +0200" stop="20260410165000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
-    <desc>Entretenimiento,Entrevista | 2025 | TP | *6.0/10
-· Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán.
-· País: España</desc>
-	</programme>
-	<programme start="20260410165000 +0200" stop="20260410184500 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260410163600 +0200" stop="20260410183500 +0200" channel="DAZN 1 HD 1080P">
     <title>Liga F T25/26 · Jornada 25: Barcelona - Badalona Women</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
-	<programme start="20260410184500 +0200" stop="20260410185500 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260410183500 +0200" stop="20260410184700 +0200" channel="DAZN 1 HD 1080P">
     <title>Iván 'Bam Bam' Zamorano</title>
     <desc>Deportes,Fútbol | 2025 | TP | *6.0/10
 · Entrevista a Iván Zamorano sobre su etapa en el Real Madrid y su mitica camiseta '1+8', la mas vendida de Italia.
 · País: España</desc>
 	</programme>
-	<programme start="20260410185500 +0200" stop="20260410205000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260410184700 +0200" stop="20260410205000 +0200" channel="DAZN 1 HD 1080P">
     <title>Liga F T25/26 · Jornada 25: Madrid CFF - Real Madrid</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
 	</programme>
-	<programme start="20260410205000 +0200" stop="20260410230000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260410205000 +0200" stop="20260410231100 +0200" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 32: West Ham - Wolverhampton T25/26 · Premier League</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20260410230000 +0200" stop="20260410232500 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260410231100 +0200" stop="20260410233400 +0200" channel="DAZN 1 HD 1080P">
     <title>Come On Fútbol! T2023 · Adama Traore: el racismo</title>
     <desc>Deportes,Programa deportes | 2023 | TP | *6.0/10
 · Adama Traore es un jugador diferente. Su físico fuera de lo común le ha permitido destacar hasta el punto de ser internacional con España. Pero no todo ha sido fácil para el de Hospitalet, quien también ha tenido que soportar la lacra del racismo.
 · País: España</desc>
 	</programme>
-	<programme start="20260410232500 +0200" stop="20260411005100 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260410233400 +0200" stop="20260411010100 +0200" channel="DAZN 1 HD 1080P">
     <title>E1 Series T2026 · Jeddah: Carreras Finales</title>
     <desc>Deportes,Deporte acuático | 2026 | TP | *6.4/10
 · Las E1 Series son una competición de lanchas eléctricas y que celebra su tercera temporada.</desc>
 	</programme>
-	<programme start="20260411005100 +0200" stop="20260411060000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260411010100 +0200" stop="20260411060000 +0200" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -239,7 +146,7 @@
 	</programme>
 	<programme start="20260412172000 +0200" stop="20260412193000 +0200" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 32: Chelsea - Manchester City T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · Tras solventar con holgura la eliminatoria de FA Cup, Rosenior y Guardiola vuelven a la competición de la regularidad. Los londinenses, con problemas internos, sólo han ganado uno de los últimos seis en liga. El City persigue al líder y no puede fallar.
 · País: Reino Unido</desc>
 	</programme>
@@ -322,7 +229,7 @@
 	</programme>
 	<programme start="20260413190000 +0200" stop="20260413205000 +0200" channel="DAZN 1 HD 1080P">
     <title>Jornada 32: Chelsea - Manchester City T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · Tras solventar con holgura la eliminatoria de FA Cup, Rosenior y Guardiola vuelven a la competición de la regularidad. Los londinenses, con problemas internos, sólo han ganado uno de los últimos seis en liga. El City persigue al líder y no puede fallar.
 · País: Reino Unido</desc>
 	</programme>
@@ -418,7 +325,7 @@
 	</programme>
 	<programme start="20260414222000 +0200" stop="20260415001000 +0200" channel="DAZN 1 HD 1080P">
     <title>Jornada 32: Chelsea - Manchester City T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · Tras solventar con holgura la eliminatoria de FA Cup, Rosenior y Guardiola vuelven a la competición de la regularidad. Los londinenses, con problemas internos, sólo han ganado uno de los últimos seis en liga. El City persigue al líder y no puede fallar.
 · País: Reino Unido</desc>
 	</programme>
@@ -445,7 +352,7 @@
 	</programme>
 	<programme start="20260415142000 +0200" stop="20260415161000 +0200" channel="DAZN 1 HD 1080P">
     <title>Jornada 32: Chelsea - Manchester City T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · Tras solventar con holgura la eliminatoria de FA Cup, Rosenior y Guardiola vuelven a la competición de la regularidad. Los londinenses, con problemas internos, sólo han ganado uno de los últimos seis en liga. El City persigue al líder y no puede fallar.
 · País: Reino Unido</desc>
 	</programme>
@@ -495,5 +402,81 @@
     <title>Global Series Round 1 T2025 · Ronda 1 - España</title>
     <desc>Deportes,eSports | 2025 | TP | *5.8/10
 · La Global Series son la máxima competición de MotoGP a nivel de eSports.</desc>
+	</programme>
+	<programme start="20260416010300 +0200" stop="20260416060000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260416060000 +0200" stop="20260416130000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260416130000 +0200" stop="20260416134500 +0200" channel="DAZN 1 HD 1080P">
+    <title>Póker FC T25/26 E25</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
+· País: España</desc>
+	</programme>
+	<programme start="20260416134500 +0200" stop="20260416153500 +0200" channel="DAZN 1 HD 1080P">
+    <title>Jornada 32: Arsenal - Bournemouth T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260416153500 +0200" stop="20260416155000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 · Mikel Arteta</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Entrevista a Mikel Arteta, técnico del Arsenal que ha vuelto a ilusionar a la afición 'gunner' y promete hacer grandes cosas en el conjunto del norte de Londres.
+· País: España</desc>
+	</programme>
+	<programme start="20260416155000 +0200" stop="20260416171500 +0200" channel="DAZN 1 HD 1080P">
+    <title>E1 Series T2026 · Jeddah: Carreras Finales</title>
+    <desc>Deportes,Deporte acuático | 2026 | TP | *6.4/10
+· Las E1 Series son una competición de lanchas eléctricas y que celebra su tercera temporada.</desc>
+	</programme>
+	<programme start="20260416171500 +0200" stop="20260416174500 +0200" channel="DAZN 1 HD 1080P">
+    <title>Ricky Rubio: El retorno de una leyenda</title>
+    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
+· Tras años en la élite mundial, Ricky regresa al lugar donde todo empezó: el Joventut de Badalona. En esta entrevista, repasa su carrera y su lucha con la salud mental. Un regreso emocional que revela cómo recuperó la magia del baloncesto.
+· País: España</desc>
+	</programme>
+	<programme start="20260416174500 +0200" stop="20260416180000 +0200" channel="DAZN 1 HD 1080P">
+    <title>La NBA, en primera persona desde Berlín</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· ¿Cómo es vivir un partido de la NBA desde dentro? Atiga Suleiman tuvo el placer de estar presente en el encuentro entre Orlando Magic y Memphis Grizzlies que se disputó en Berlín el pasado mes de enero.</desc>
+	</programme>
+	<programme start="20260416180000 +0200" stop="20260416182000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Santi Aldama, rock español en Memphis</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Explora el impacto del ala-pívot canario en la cuna del blues: desde su papel con los Memphis Grizzlies hasta la vibra con el ritmo histórico de la ciudad estadounidense.</desc>
+	</programme>
+	<programme start="20260416182000 +0200" stop="20260416203500 +0200" channel="DAZN 1 HD 1080P">
+    <title>Premier League T25/26 · Jornada 5: Arsenal - Manchester City</title>
+    <desc>Deportes,Fútbol | 2025 | TP | *6.8/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260416203500 +0200" stop="20260416210000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Premier Corner by Guiness 0,0 T2025 · David Silva</title>
+    <desc>Entretenimiento,Entrevista | 2025 | TP | *5.8/10
+· La leyenda del Mánchester City, David Silva, repasa su época dorada en la Premier League: estilo de juego, momentos decisivos, sus relaciones en los vestuarios.
+· País: España</desc>
+	</programme>
+	<programme start="20260416210000 +0200" stop="20260416230000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Jornada 32: Nottingham Forest - Aston Villa T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260416230000 +0200" stop="20260416232500 +0200" channel="DAZN 1 HD 1080P">
+    <title>Premier League Features T3 · Juan Mata, el elegido de Old Trafford</title>
+    <desc>Deportes,Programa deportes | 2024 | TP | *5.8/10
+· Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.</desc>
+	</programme>
+	<programme start="20260416232500 +0200" stop="20260417005200 +0200" channel="DAZN 1 HD 1080P">
+    <title>Gala FIM MotoGP Awards</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· La ceremonia de entrega de premios de la FIM Awards cierra la temporada 2025. El evento homenajea a los mejores pilotos de las tres categorías durante todo el campeonato.
+· País: España</desc>
 	</programme>
 </tv>
