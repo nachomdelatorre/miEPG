@@ -1,153 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 13/04/2026 12:12" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 14/04/2026 12:10" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260413124600 +0200" stop="20260413134200 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Tailandia T2026 · Carrera Moto3</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.4/10
-· La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
-· País: Tailandia</desc>
-	</programme>
-	<programme start="20260413134200 +0200" stop="20260413145000 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Tailandia T2026 · Carrera Moto2</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
-· La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
-· País: Tailandia</desc>
-	</programme>
-	<programme start="20260413145000 +0200" stop="20260413155600 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Tailandia T2026 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.4/10
-· La espera ha terminado. El GP de Tailandia vuelve a abrir el campeonato con un ambiente espectacular y emoción en la pista. El circuito de Chang, rápido y exigente, ofrece el primer pulso real entre Ducati, KTM y las novedades del año.
-· País: Tailandia</desc>
-	</programme>
-	<programme start="20260413155600 +0200" stop="20260413161200 +0200" channel="DAZN 1 HD 1080P">
-    <title>Inside Ducati T2026 · Tailandia</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Programa que ofrece una visión entre bastidores del equipo Ducati Lenovo en la temporada de MotoGP.</desc>
-	</programme>
-	<programme start="20260413161200 +0200" stop="20260413180400 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 32: West Ham - Wolverhampton</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260413180400 +0200" stop="20260413185600 +0200" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E24</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
-	</programme>
-	<programme start="20260413185600 +0200" stop="20260413205000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 32: Chelsea - Manchester City</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
-· Tras solventar con holgura la eliminatoria de FA Cup, Rosenior y Guardiola vuelven a la competición de la regularidad. Los londinenses, con problemas internos, sólo han ganado uno de los últimos seis en liga. El City persigue al líder y no puede fallar.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260413205000 +0200" stop="20260413231100 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 28: Manchester United - Leeds T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260413231100 +0200" stop="20260413233300 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 · Roberto Martínez, el hombre del momento en Portugal</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Roberto Martínez visita Premier Corner en un momento álgido de su carrera. El seleccionador de Portugal nos cuenta cómo se está preparando para su primer Mundial con la selección portuguesa.
-· País: España</desc>
-	</programme>
-	<programme start="20260413233300 +0200" stop="20260414002400 +0200" channel="DAZN 1 HD 1080P">
-    <title>Moto4 Asia Cup T2026 · Tailandia - Carrera 1</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.0/10
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
-	</programme>
-	<programme start="20260414002400 +0200" stop="20260414011800 +0200" channel="DAZN 1 HD 1080P">
-    <title>Moto4 Asia Cup T2026 · Tailandia - Carrera 2</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
-· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.</desc>
-	</programme>
-	<programme start="20260414011800 +0200" stop="20260414060000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260414060000 +0200" stop="20260414130000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260414130000 +0200" stop="20260414145000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260414130100 +0200" stop="20260414150400 +0200" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 32: Nottingham Forest - Aston Villa</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20260414145000 +0200" stop="20260414151000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260414150400 +0200" stop="20260414152600 +0200" channel="DAZN 1 HD 1080P">
     <title>Premier Corner by Guiness 0,0 · Roberto Martínez, el hombre del momento en Portugal</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Roberto Martínez visita Premier Corner en un momento álgido de su carrera. El seleccionador de Portugal nos cuenta cómo se está preparando para su primer Mundial con la selección portuguesa.
 · País: España</desc>
 	</programme>
-	<programme start="20260414151000 +0200" stop="20260414170000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 28: Manchester United - Leeds T25/26 · Premier League</title>
+	<programme start="20260414152600 +0200" stop="20260414171700 +0200" channel="DAZN 1 HD 1080P">
+    <title>Premier League T25/26 · Jornada 28: Manchester United - Leeds</title>
     <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20260414170000 +0200" stop="20260414172500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Edwin van der Sar, el guardián que definió una generación</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
-· Con elegancia, reflejos felinos y una mente táctica privilegiada, Edwin van der Sar redefinió el papel del portero moderno. Formado en la escuela del Ajax, conquistó Europa con su serenidad y liderazgo.
-· País: España</desc>
-	</programme>
-	<programme start="20260414172500 +0200" stop="20260414183000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260414171700 +0200" stop="20260414182300 +0200" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Brasil T2026 · Carrera Moto3</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *5.8/10
 · El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
 · País: Brasil</desc>
 	</programme>
-	<programme start="20260414183000 +0200" stop="20260414193000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260414182300 +0200" stop="20260414191900 +0200" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Brasil T2026 · Carrera Moto2</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
 · País: Brasil</desc>
 	</programme>
-	<programme start="20260414193000 +0200" stop="20260414203000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260414191900 +0200" stop="20260414201700 +0200" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Brasil T2026 · Carrera MotoGP</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · El regreso del Gran Premio de Brasil, con el Autódromo Internacional Ayrton Senna como escenario, es la principal novedad de la temporada.
 · País: Brasil</desc>
 	</programme>
-	<programme start="20260414203000 +0200" stop="20260414205500 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260414201700 +0200" stop="20260414204400 +0200" channel="DAZN 1 HD 1080P">
     <title>Código MotoGP T2026 · Brasil</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
 	</programme>
-	<programme start="20260414205500 +0200" stop="20260414215500 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260414204400 +0200" stop="20260414214500 +0200" channel="DAZN 1 HD 1080P">
     <title>Martinator, voluntad de hierro</title>
     <desc>Deportes,Programa deportes | 2023 | TP | *6.6/10
 · Escuchaba el rugido de los motores del Jarama desde su habitación y ahora pelea por ser campeón de MotoGP. Jorge Martín ha superado todos los límites de un deportista de élite para escalar la cima del motociclismo mundial.
 · País: España</desc>
 	</programme>
-	<programme start="20260414215500 +0200" stop="20260414222000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260414214500 +0200" stop="20260414221200 +0200" channel="DAZN 1 HD 1080P">
     <title>Claude Makélélé, una posición irremplazable</title>
     <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
 · Claude Makélélé reflexiona sobre su carrera profesional.</desc>
 	</programme>
-	<programme start="20260414222000 +0200" stop="20260415001000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260414221200 +0200" stop="20260415001500 +0200" channel="DAZN 1 HD 1080P">
     <title>Premier League T25/26 · Jornada 32: Chelsea - Manchester City</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.6/10
 · Tras solventar con holgura la eliminatoria de FA Cup, Rosenior y Guardiola vuelven a la competición de la regularidad. Los londinenses, con problemas internos, sólo han ganado uno de los últimos seis en liga. El City persigue al líder y no puede fallar.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20260415001000 +0200" stop="20260415005500 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260415001500 +0200" stop="20260415011500 +0200" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E25</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
-	<programme start="20260415005500 +0200" stop="20260415060000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260415011500 +0200" stop="20260415060000 +0200" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -157,7 +80,7 @@
 	</programme>
 	<programme start="20260415130000 +0200" stop="20260415142000 +0200" channel="DAZN 1 HD 1080P">
     <title>Green Lions</title>
-    <desc>Deportes,Programa deportes | 2022 | TP | *6.4/10
+    <desc>Deportes,Programa deportes | 2022 | TP | *6.2/10
 · Cuando Camerún derrotó a la actual campeona del mundo, Argentina, en el partido inaugural de Italia '90, fue, posiblemente, la mayor sorpresa de la historia de los Mundiales. Pero eso fue sólo el principio.
 · País: Reino Unido
 · Dirección: Billy Dosanjh.</desc>
@@ -187,7 +110,7 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260415190500 +0200" stop="20260415210500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 28: Manchester United - Leeds T25/26 · Premier League</title>
+    <title>Premier League T25/26 · Jornada 28: Manchester United - Leeds</title>
     <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
@@ -301,7 +224,7 @@
 	</programme>
 	<programme start="20260417101500 +0200" stop="20260417111500 +0200" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Entrenamientos libres 1 T2026 · Mundial de Superbike - Assen</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *5.8/10
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
 · El campeonato del mundo de Superbike es una competición de motos de gran cilindrada paralela al mundial de velocidad. El calendario de 2026 consta de doce pruebas. En cada evento se disputan tres carreras puntuables.
 · País: Países Bajos</desc>
 	</programme>
@@ -417,14 +340,14 @@
 	</programme>
 	<programme start="20260419145000 +0200" stop="20260419172000 +0200" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 33: Everton - Liverpool T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20260419172000 +0200" stop="20260419193000 +0200" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Jornada 33: Manchester City - Arsenal T25/26 · Premier League</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· Manchester City y Arsenal se juegan el título de la Premier en un duelo directo en el Etihad. Seis puntos los separan, con un partido pendiente para los de Guardiola.
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20260419193000 +0200" stop="20260419194500 +0200" channel="DAZN 1 HD 1080P">
@@ -447,7 +370,7 @@
 	</programme>
 	<programme start="20260419223000 +0200" stop="20260420002000 +0200" channel="DAZN 1 HD 1080P">
     <title>Jornada 33: Everton - Liverpool T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
 · País: Reino Unido</desc>
 	</programme>
@@ -456,5 +379,43 @@
     <desc>Entretenimiento,Entrevista | 2024 | TP | *6.2/10
 · Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League.
 · País: España</desc>
+	</programme>
+	<programme start="20260420005000 +0200" stop="20260420060000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260420060000 +0200" stop="20260420130000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260420130000 +0200" stop="20260420170000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Hexagon Cup T2026 · Fase regular: Día 5</title>
+    <desc>Deportes,Pádel | 2026 | TP | *5.8/10
+· La Caja Mágica de Madrid acoge la tercera edición de la Hexagon Cup. Del 28 de enero al 1 de febrero, los mejores jugadores de pádel del mundo juegan en un nuevo e innovador formato por equipos.
+· País: España</desc>
+	</programme>
+	<programme start="20260420170000 +0200" stop="20260420190000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Jornada 33: Chelsea - Manchester United T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260420190000 +0200" stop="20260420205000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Jornada 33: Manchester City - Arsenal T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Manchester City y Arsenal se juegan el título de la Premier en un duelo directo en el Etihad. Seis puntos los separan, con un partido pendiente para los de Guardiola.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260420205000 +0200" stop="20260420230000 +0200" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 33: Crystal Palace - West Ham T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260420230000 +0200" stop="20260421005000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Jornada 33: Newcastle - Bournemouth T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
 	</programme>
 </tv>
