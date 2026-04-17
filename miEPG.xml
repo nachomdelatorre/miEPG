@@ -1,85 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 16/04/2026 12:11" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 17/04/2026 12:07" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260416130000 +0200" stop="20260416140500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E25</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
-	</programme>
-	<programme start="20260416140500 +0200" stop="20260416160600 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 32: Arsenal - Bournemouth</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260416160600 +0200" stop="20260416161900 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 · Mikel Arteta</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
-· Entrevista a Mikel Arteta, técnico del Arsenal que ha vuelto a ilusionar a la afición 'gunner' y promete hacer grandes cosas en el conjunto del norte de Londres.
-· País: España</desc>
-	</programme>
-	<programme start="20260416161900 +0200" stop="20260416174800 +0200" channel="DAZN 1 HD 1080P">
-    <title>E1 Series T2026 · Jeddah: Carreras Finales</title>
-    <desc>Deportes,Deporte acuático | 2026 | TP | *6.4/10
-· Las E1 Series son una competición de lanchas eléctricas y que celebra su tercera temporada.</desc>
-	</programme>
-	<programme start="20260416174800 +0200" stop="20260416182000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Ricky Rubio: El retorno de una leyenda</title>
-    <desc>Deportes,Baloncesto | 2026 | TP | *6.0/10
-· Tras años en la élite mundial, Ricky regresa al lugar donde todo empezó: el Joventut de Badalona. En esta entrevista, repasa su carrera y su lucha con la salud mental. Un regreso emocional que revela cómo recuperó la magia del baloncesto.
-· País: España</desc>
-	</programme>
-	<programme start="20260416182000 +0200" stop="20260416183800 +0200" channel="DAZN 1 HD 1080P">
-    <title>La NBA, en primera persona desde Berlín</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
-· ¿Cómo es vivir un partido de la NBA desde dentro? Atiga Suleiman tuvo el placer de estar presente en el encuentro entre Orlando Magic y Memphis Grizzlies que se disputó en Berlín el pasado mes de enero.</desc>
-	</programme>
-	<programme start="20260416183800 +0200" stop="20260416185800 +0200" channel="DAZN 1 HD 1080P">
-    <title>Santi Aldama, rock español en Memphis</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Explora el impacto del ala-pívot canario en la cuna del blues: desde su papel con los Memphis Grizzlies hasta la vibra con el ritmo histórico de la ciudad estadounidense.</desc>
-	</programme>
-	<programme start="20260416185800 +0200" stop="20260416204900 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 32: Liverpool - Fulham</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260416204900 +0200" stop="20260416210900 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2025 · David Silva</title>
-    <desc>Entretenimiento,Entrevista | 2025 | TP | *5.8/10
-· La leyenda del Mánchester City, David Silva, repasa su época dorada en la Premier League: estilo de juego, momentos decisivos, sus relaciones en los vestuarios.
-· País: España</desc>
-	</programme>
-	<programme start="20260416210900 +0200" stop="20260416231200 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 32: Nottingham Forest - Aston Villa</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260416231200 +0200" stop="20260416233900 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier League Features T3 · Juan Mata, el elegido de Old Trafford</title>
-    <desc>Deportes,Programa deportes | 2024 | TP | *5.8/10
-· Nos ponemos al día con Juan Mata en Australia, donde la exestrella de la Premier League juega ahora con el Western Sydney Wanderers. El español reflexiona sobre sus memorables años en Inglaterra con el Chelsea y el Manchester United.</desc>
-	</programme>
-	<programme start="20260416233900 +0200" stop="20260417010700 +0200" channel="DAZN 1 HD 1080P">
-    <title>Gala FIM MotoGP Awards</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
-· La ceremonia de entrega de premios de la FIM Awards cierra la temporada 2025. El evento homenajea a los mejores pilotos de las tres categorías durante todo el campeonato.
-· País: España</desc>
-	</programme>
-	<programme start="20260417010700 +0200" stop="20260417060000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260417060000 +0200" stop="20260417101500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
 	<programme start="20260417101500 +0200" stop="20260417111500 +0200" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Entrenamientos libres 1 T2026 · Mundial de Superbike - Assen</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
@@ -92,59 +16,53 @@
 · Jaque Márquez transforma la temporada de MotoGP en una emocionante partida de ajedrez.
 · País: España</desc>
 	</programme>
-	<programme start="20260417113500 +0200" stop="20260417123500 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260417113500 +0200" stop="20260417123900 +0200" channel="DAZN 1 HD 1080P">
     <title>MotoGP - GP de Estados Unidos T2026 · Carrera MotoGP</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *6.4/10
 · ¡El rugido vuelve a Austin! El GP de Estados Unidos desafía a los pilotos con sus 20 curvas y la temida frenada de la 12, situada al final de la larguísima recta trasera de 1,2 km.¿Logrará Marc Márquez recuperar su trono en COTA?
 · País: Estados Unidos</desc>
 	</programme>
-	<programme start="20260417123500 +0200" stop="20260417130000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260417123900 +0200" stop="20260417130400 +0200" channel="DAZN 1 HD 1080P">
     <title>Código MotoGP T2026 · Estados Unidos</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
 	</programme>
-	<programme start="20260417130000 +0200" stop="20260417140500 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260417130400 +0200" stop="20260417140500 +0200" channel="DAZN 1 HD 1080P">
     <title>Martinator, voluntad de hierro</title>
     <desc>Deportes,Programa deportes | 2023 | TP | *6.6/10
 · Escuchaba el rugido de los motores del Jarama desde su habitación y ahora pelea por ser campeón de MotoGP. Jorge Martín ha superado todos los límites de un deportista de élite para escalar la cima del motociclismo mundial.
 · País: España</desc>
 	</programme>
-	<programme start="20260417140500 +0200" stop="20260417173500 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260417140500 +0200" stop="20260417173100 +0200" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Entrenamientos libres 2 T2026 · Mundial de Superbike - Assen</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *5.8/10
 · El campeonato del mundo de Superbike es una competición de motos de gran cilindrada paralela al mundial de velocidad. El calendario de 2026 consta de doce pruebas. En cada evento se disputan tres carreras puntuables.
 · País: Países Bajos</desc>
 	</programme>
-	<programme start="20260417173500 +0200" stop="20260417180000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260417173100 +0200" stop="20260417180400 +0200" channel="DAZN 1 HD 1080P">
     <title>Hall of fame</title>
     <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · El MotoGP Hall of Fame Dinner es un evento especial que se celebra durante algunos fines de semana del campeonato de MotoGP para rendir homenaje a las leyendas del motociclismo.</desc>
 	</programme>
-	<programme start="20260417180000 +0200" stop="20260417193000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260417180400 +0200" stop="20260417194200 +0200" channel="DAZN 1 HD 1080P">
     <title>E1 Series T2026 · Jeddah: Carreras Finales</title>
     <desc>Deportes,Deporte acuático | 2026 | TP | *6.4/10
 · Las E1 Series son una competición de lanchas eléctricas y que celebra su tercera temporada.</desc>
 	</programme>
-	<programme start="20260417193000 +0200" stop="20260417200000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260417194200 +0200" stop="20260417200000 +0200" channel="DAZN 1 HD 1080P">
     <title>Los hermanos Van Steenis, la magia de lo imposible</title>
     <desc>Deportes,Boxeo | 2025 | +18 | *6.0/10
 · Los Hermanos Van Steenis transforman cada presentación en una experiencia inolvidable.</desc>
 	</programme>
-	<programme start="20260417200000 +0200" stop="20260418003000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260417200000 +0200" stop="20260418010000 +0200" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Velada completa T2026 · Boxeo: velada Collins vs Lorente 2</title>
     <desc>Deportes,Boxeo | 2026 | +18 | *6.0/10
 · La revancha Collins–Lorente encabeza una velada en Glasgow con ocho combates.
 · País: Reino Unido</desc>
 	</programme>
-	<programme start="20260418003000 +0200" stop="20260418005900 +0200" channel="DAZN 1 HD 1080P">
-    <title>Sandor Martín: The American Dream</title>
-    <desc>Deportes,Programa deportes | 2022 | +18 | *6.2/10
-· Esta es la historia del combate entre Mikey Esta es la historia del combate entre Mikey García y Sandor Martín en California, contada en primera persona por el boxeador español, quien hizo realidad su sueño de niño.
-· País: España</desc>
-	</programme>
-	<programme start="20260418005900 +0200" stop="20260418060000 +0200" channel="DAZN 1 HD 1080P">
+	<programme start="20260418010000 +0200" stop="20260418060000 +0200" channel="DAZN 1 HD 1080P">
     <title>Disfruta de DAZN en Movistar Plus+</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
@@ -386,5 +304,92 @@
     <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · Manchester City y Arsenal se juegan el título de la Premier en un duelo directo en el Etihad. Seis puntos los separan, con un partido pendiente para los de Guardiola.
 · País: Reino Unido</desc>
+	</programme>
+	<programme start="20260423005500 +0200" stop="20260423060000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260423060000 +0200" stop="20260423130000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260423130000 +0200" stop="20260423145000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Semifinales: Atalanta - Lazio T25/26 · Copa de Italia</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· La competición del KO en el país transalpino llega a su 79ª edición. Bolonia defiende el título después de dar la sorpresa contra el Milan.
+· País: Italia</desc>
+	</programme>
+	<programme start="20260423145000 +0200" stop="20260423151500 +0200" channel="DAZN 1 HD 1080P">
+    <title>Código MotoGP T2026 · Estados Unidos</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+	</programme>
+	<programme start="20260423151500 +0200" stop="20260423171500 +0200" channel="DAZN 1 HD 1080P">
+    <title>Rueda de prensa motos T2026 · España - Paddock Abierto</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
+	</programme>
+	<programme start="20260423171500 +0200" stop="20260423183000 +0200" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de España T2025 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
+· El Mundial inicia su periplo europeo en el GP de España, quinta cita de la temporada. El circuito de Jerez volverá a ser una fiesta en uno de los eventos más populares y multitudinarios del certamen.
+· País: España</desc>
+	</programme>
+	<programme start="20260423183000 +0200" stop="20260423190000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Código MotoGP T2025 · Jerez</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+	</programme>
+	<programme start="20260423190000 +0200" stop="20260423200000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Álex</title>
+    <desc>Deportes,Programa deportes | 2023 | TP | *6.0/10
+· En MotoGP no se regala nada y Álex Márquez ha tenido que luchar como el que más para asentarse en la parrilla. Dentro del casco se encuentra un piloto divertido con una historia que va a sorprender a muchos.
+· País: España</desc>
+	</programme>
+	<programme start="20260423200000 +0200" stop="20260423210000 +0200" channel="DAZN 1 HD 1080P">
+    <title>MotoGP - GP de Estados Unidos T2026 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.4/10
+· ¡El rugido vuelve a Austin! El GP de Estados Unidos desafía a los pilotos con sus 20 curvas y la temida frenada de la 12, situada al final de la larguísima recta trasera de 1,2 km.¿Logrará Marc Márquez recuperar su trono en COTA?
+· País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260423210000 +0200" stop="20260423212500 +0200" channel="DAZN 1 HD 1080P">
+    <title>Código MotoGP T2026 · Estados Unidos</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+	</programme>
+	<programme start="20260423212500 +0200" stop="20260423222500 +0200" channel="DAZN 1 HD 1080P">
+    <title>Rueda de prensa motos T2026 · España - Paddock Abierto</title>
+    <desc>Deportes,Programa deportes | 2026 | TP
+· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
+	</programme>
+	<programme start="20260423222500 +0200" stop="20260423230500 +0200" channel="DAZN 1 HD 1080P">
+    <title>Volver T1 · Caer</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
+· País: España</desc>
+	</programme>
+	<programme start="20260423230500 +0200" stop="20260423235000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Volver T1 · Levantarse</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
+· País: España</desc>
+	</programme>
+	<programme start="20260423235000 +0200" stop="20260424002500 +0200" channel="DAZN 1 HD 1080P">
+    <title>Volver T1 · Ganar</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
+· País: España</desc>
+	</programme>
+	<programme start="20260424002500 +0200" stop="20260424010200 +0200" channel="DAZN 1 HD 1080P">
+    <title>Volver T1 E4</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Rafa Nadal, Fernando Alonso, Pau Gasol, Andrés Iniesta y Alexia Putellas analizan el camino recorrido por Marc Márquez para volver a convertirse en Campeón del Mundo.
+· País: España</desc>
 	</programme>
 </tv>
