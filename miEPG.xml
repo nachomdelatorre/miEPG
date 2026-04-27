@@ -1,95 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 26/04/2026 12:00" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 27/04/2026 12:58" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 HD 1080P">
     <display-name>DAZN 1 HD 1080P</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
-	<programme start="20260426125000 +0200" stop="20260426150300 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 26: Costa Adeje Tenerife - Sevilla T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-	</programme>
-	<programme start="20260426150300 +0200" stop="20260426153000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Reyes, una vida dedicada al fútbol</title>
-    <desc>Deportes,Fútbol | 2024 | TP | *6.2/10
-· Repaso por la vida profesional de Jose Antonio Reyes, desde sus humildes inicios, su debut con el Sevilla FC y su paso por el Arsenal cuando todavía era un chaval.</desc>
-	</programme>
-	<programme start="20260426153000 +0200" stop="20260426172100 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 34: Sunderland - Nottingham Forest</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260426172100 +0200" stop="20260426174800 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier League Stories T25/26 · Sunderland, el retorno de los Black Cats</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *6.4/10
-· El resurgir de los Black Cats, la vuelta a la élite del fútbol inglés de uno de los grandes de la historia.
-· País: Reino Unido</desc>
-	</programme>
-	<programme start="20260426174800 +0200" stop="20260426192000 +0200" channel="DAZN 1 HD 1080P">
-    <title>E1 Series T2026 · Lago Como: Carreras Finales</title>
-    <desc>Deportes,Deporte acuático | 2026 | TP | *6.0/10
-· Las E1 Series son una competición de lanchas eléctricas y que celebra su tercera temporada.</desc>
-	</programme>
-	<programme start="20260426192000 +0200" stop="20260426213300 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 26: Real Madrid - DUX Logroño T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-	</programme>
-	<programme start="20260426213300 +0200" stop="20260426215500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Ibiza Trail Maratón 2026</title>
-    <desc>Deportes,Deporte extremo | 2026 | TP | *6.0/10
-· El Ibiza Trail Maratón es una prueba de referencia en el trail running a nivel balear, nacional e internacional.
-· País: España</desc>
-	</programme>
-	<programme start="20260426215500 +0200" stop="20260426225600 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera MotoGP T2026 · MotoGP - GP de España</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
-· El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
-· País: España</desc>
-	</programme>
-	<programme start="20260426225600 +0200" stop="20260426235800 +0200" channel="DAZN 1 HD 1080P">
-    <title>Martinator, voluntad de hierro</title>
-    <desc>Deportes,Programa deportes | 2023 | TP | *6.6/10
-· Escuchaba el rugido de los motores del Jarama desde su habitación y ahora pelea por ser campeón de MotoGP. Jorge Martín ha superado todos los límites de un deportista de élite para escalar la cima del motociclismo mundial.
-· País: España</desc>
-	</programme>
-	<programme start="20260426235800 +0200" stop="20260427010700 +0200" channel="DAZN 1 HD 1080P">
-    <title>Boxeo: Usyk vs. Fury 2 T2024 · Usyk vs Fury 2</title>
-    <desc>Deportes,Boxeo | 2024 | +18 | *5.8/10
-· Oleksandr Usyk y Tyson Fury se enfrentan 21 de diciembre de 2024 en el Kingdom Arena de Riad, Arabia Saudita.
-· País: Arabia Saudí</desc>
-	</programme>
-	<programme start="20260427010700 +0200" stop="20260427060000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260427060000 +0200" stop="20260427130000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
 	<programme start="20260427130000 +0200" stop="20260427143200 +0200" channel="DAZN 1 HD 1080P">
     <title>E1 Series T2026 · Lago Como: Carreras Finales</title>
     <desc>Deportes,Deporte acuático | 2026 | TP | *6.0/10
 · Las E1 Series son una competición de lanchas eléctricas y que celebra su tercera temporada.</desc>
 	</programme>
 	<programme start="20260427143200 +0200" stop="20260427153400 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera Moto3 T2026 · MotoGP - GP de España</title>
+    <title>MotoGP - GP de España T2026 · Carrera Moto3</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
 · El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
 · País: España</desc>
 	</programme>
 	<programme start="20260427153400 +0200" stop="20260427163400 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera Moto2 T2026 · MotoGP - GP de España</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
+    <title>MotoGP - GP de España T2026 · Carrera Moto2</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.4/10
 · El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
 · País: España</desc>
 	</programme>
 	<programme start="20260427163400 +0200" stop="20260427173600 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera MotoGP T2026 · MotoGP - GP de España</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <title>MotoGP - GP de España T2026 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
 · País: España</desc>
 	</programme>
@@ -148,20 +82,20 @@
 · País: Reino Unido</desc>
 	</programme>
 	<programme start="20260428170000 +0200" stop="20260428180000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera Moto3 T2026 · MotoGP - GP de España</title>
+    <title>MotoGP - GP de España T2026 · Carrera Moto3</title>
     <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
 · El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
 · País: España</desc>
 	</programme>
 	<programme start="20260428180000 +0200" stop="20260428190000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera Moto2 T2026 · MotoGP - GP de España</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
+    <title>MotoGP - GP de España T2026 · Carrera Moto2</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.4/10
 · El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
 · País: España</desc>
 	</programme>
 	<programme start="20260428190000 +0200" stop="20260428200000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera MotoGP T2026 · MotoGP - GP de España</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <title>MotoGP - GP de España T2026 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
 · País: España</desc>
 	</programme>
@@ -185,7 +119,7 @@
 	</programme>
 	<programme start="20260428235000 +0200" stop="20260429004000 +0200" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E27</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
@@ -222,7 +156,7 @@
 · Presenta: Natacha Alfageme.</desc>
 	</programme>
 	<programme start="20260429165000 +0200" stop="20260429185000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 26: Real Madrid - DUX Logroño T25/26 · Liga F</title>
+    <title>Liga F T25/26 · Jornada 26: Real Madrid - DUX Logroño</title>
     <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
 · El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
@@ -240,7 +174,7 @@
 	</programme>
 	<programme start="20260429210500 +0200" stop="20260429220500 +0200" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E27</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
@@ -283,7 +217,7 @@
 	</programme>
 	<programme start="20260430174500 +0200" stop="20260430183500 +0200" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E27</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
@@ -295,13 +229,13 @@
 	</programme>
 	<programme start="20260430202500 +0200" stop="20260430230000 +0200" channel="DAZN 1 HD 1080P">
     <title>DIRECTO Cuartos de final: Nantes - Barcelona T25/26 · Liga de Campeones de balonmano</title>
-    <desc>Deportes,Balonmano | 2026 | TP | *5.6/10
+    <desc>Deportes,Balonmano | 2026 | TP | *5.8/10
 · Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
 · País: Francia</desc>
 	</programme>
 	<programme start="20260430230000 +0200" stop="20260501000000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera MotoGP T2026 · MotoGP - GP de España</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <title>MotoGP - GP de España T2026 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
 · País: España</desc>
 	</programme>
@@ -338,8 +272,8 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260501113500 +0200" stop="20260501123500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera MotoGP T2026 · MotoGP - GP de España</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <title>MotoGP - GP de España T2026 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
 · País: España</desc>
 	</programme>
@@ -370,13 +304,13 @@
 	</programme>
 	<programme start="20260501180000 +0200" stop="20260501195000 +0200" channel="DAZN 1 HD 1080P">
     <title>Cuartos de final: Nantes - Barcelona T25/26 · Liga de Campeones de balonmano</title>
-    <desc>Deportes,Balonmano | 2026 | TP | *5.6/10
+    <desc>Deportes,Balonmano | 2026 | TP | *5.8/10
 · Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
 · País: Francia</desc>
 	</programme>
 	<programme start="20260501195000 +0200" stop="20260501205000 +0200" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E27</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
@@ -424,7 +358,7 @@
 	</programme>
 	<programme start="20260502143000 +0200" stop="20260502152000 +0200" channel="DAZN 1 HD 1080P">
     <title>Póker FC T25/26 E27</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
 · Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
 · País: España</desc>
 	</programme>
@@ -465,8 +399,8 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260502231500 +0200" stop="20260503001500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Carrera MotoGP T2026 · MotoGP - GP de España</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.0/10
+    <title>MotoGP - GP de España T2026 · Carrera MotoGP</title>
+    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
 · El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
 · País: España</desc>
 	</programme>
@@ -481,6 +415,67 @@
     <title>Ibiza Trail Maratón 2026</title>
     <desc>Deportes,Deporte extremo | 2026 | TP | *6.0/10
 · El Ibiza Trail Maratón es una prueba de referencia en el trail running a nivel balear, nacional e internacional.
+· País: España</desc>
+	</programme>
+	<programme start="20260503005900 +0200" stop="20260503060000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260503060000 +0200" stop="20260503115000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Disfruta de DAZN en Movistar Plus+</title>
+    <desc>· Programa por determinar...</desc>
+	</programme>
+	<programme start="20260503115000 +0200" stop="20260503140000 +0200" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 27: Atlético de Madrid - SD Eibar T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260503140000 +0200" stop="20260503141500 +0200" channel="DAZN 1 HD 1080P">
+    <title>Revelado - Julián Álvarez</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· El jugador argentino ha aterrizado de pie en el Atlético de Madrid y se ha convertido en una pieza clave.</desc>
+	</programme>
+	<programme start="20260503141500 +0200" stop="20260503162000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Jornada 27: Granada CF - Costa Adeje Tenerife T25/26 · Liga F</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
+· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
+· País: España</desc>
+	</programme>
+	<programme start="20260503162000 +0200" stop="20260503183000 +0200" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 35: Manchester Utd. - Liverpool T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260503183000 +0200" stop="20260503185000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Triatlón de Portocolom</title>
+    <desc>Deportes,Deporte extremo | 2026 | TP
+· El Triatlón Internacional de Porto Colom 2026 ofrece a los entusiastas del triatlón la oportunidad de competir en un emocionante evento en una de las ubicaciones más pintorescas de Mallorca.
+· País: España</desc>
+	</programme>
+	<programme start="20260503185000 +0200" stop="20260503195000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Póker FC T25/26 E27</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *5.8/10
+· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
+· País: España</desc>
+	</programme>
+	<programme start="20260503195000 +0200" stop="20260503220000 +0200" channel="DAZN 1 HD 1080P">
+    <title>DIRECTO Jornada 35: Aston Villa - Tottenham T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260503220000 +0200" stop="20260503235000 +0200" channel="DAZN 1 HD 1080P">
+    <title>Jornada 35: Arsenal - Fulham T25/26 · Premier League</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260503235000 +0200" stop="20260504005900 +0200" channel="DAZN 1 HD 1080P">
+    <title>Crevillent Cup T2026 · Día 2 - Finales</title>
+    <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
+· La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
 · País: España</desc>
 	</programme>
 </tv>
