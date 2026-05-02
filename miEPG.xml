@@ -1,443 +1,1285 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 02/05/2026 12:03" generator-info-url="https://github.com/davidmuma/miEPG">
-  <channel id="DAZN 1 HD 1080P">
-    <display-name>DAZN 1 HD 1080P</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
+<tv generator-info-name="miEPG 02/05/2026 15:04" generator-info-url="https://github.com/davidmuma/miEPG">
+  <channel id="DAZN F1 SAT">
+    <display-name>DAZN F1 SAT</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" />
   </channel>
-	<programme start="20260502115000 +0200" stop="20260502140300 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 27: Badalona Women - Athletic T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
+  <channel id="DAZN F1 SCRIPT">
+    <display-name>DAZN F1 SCRIPT</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" />
+  </channel>
+	<programme start="20260502070300 +0200" stop="20260502072800 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2025 · Brasil</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260502140300 +0200" stop="20260502144500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
-    <desc>Entretenimiento,Entrevista | 2024 | TP | *6.0/10
-· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas.
-· País: España</desc>
+	<programme start="20260502072800 +0200" stop="20260502093800 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Azerbaiyán: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260502144500 +0200" stop="20260502155000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E27</title>
+	<programme start="20260502093800 +0200" stop="20260502113800 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Miami: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260502113800 +0200" stop="20260502123200 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Brasil T2025 · Sprint</title>
+    <desc>Deportes,Motor | 2025 | TP | *5.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260502123200 +0200" stop="20260502125700 +0200" channel="DAZN F1 SAT">
+    <title>True Driver T2024 · Ayrton Senna: 30 años de Eterna Leyenda</title>
+    <desc>Deportes,Programa deportes | 2024 | TP | *5.6/10
+· En 2024 se cumplen 30 años del fallecimiento de Ayrton Senna. El mito del automovilismo perdió la vida en el circuito de Imola en un accidente que conmocionó al mundo. Su legado continúa vivo y sigue inspirando a todos los pilotos.</desc>
+	</programme>
+	<programme start="20260502125700 +0200" stop="20260502131800 +0200" channel="DAZN F1 SAT">
+    <title>Bienvenido Mr. Vowles</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *6.2/10
+· Bienvenido Mr. Vowles.</desc>
+	</programme>
+	<programme start="20260502131800 +0200" stop="20260502145800 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Miami T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260502145800 +0200" stop="20260502155500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Miami T2026 · Clasificación Sprint</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260502155500 +0200" stop="20260502165900 +0200" channel="DAZN F1 SAT">
+    <title>DIRECTO Sprint Race · Campeonato F2 de la FIA - Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
+	</programme>
+	<programme start="20260502165900 +0200" stop="20260502171500 +0200" channel="DAZN F1 SAT">
+    <title>F1 de Manual T2024 · Campos</title>
+    <desc>Deportes,Fórmula 1 | 2024 | TP | *6.0/10
+· Campos.</desc>
+	</programme>
+	<programme start="20260502171500 +0200" stop="20260502173000 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · China</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260502155000 +0200" stop="20260502182000 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 35: Newcastle - Brighton &amp; Hove Albion T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+	<programme start="20260502173000 +0200" stop="20260502175500 +0200" channel="DAZN F1 SAT">
+    <title>DIRECTO Previo Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260502182000 +0200" stop="20260502204100 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 35: Arsenal - Fulham T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+	<programme start="20260502175500 +0200" stop="20260502184000 +0200" channel="DAZN F1 SAT">
+    <title>DIRECTO Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260502204100 +0200" stop="20260502210300 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2025 · Santi Cazorla, magia en el Arsenal</title>
-    <desc>Entretenimiento,Entrevista | 2025 | TP | *6.2/10
-· El programa habla con Santi Cazorla. El futbolista del Real Oviedo repasa su trayectoria en aquel Arsenal de Wenger donde alcanzó su mejor nivel.
-· País: España</desc>
+	<programme start="20260502184000 +0200" stop="20260502185700 +0200" channel="DAZN F1 SAT">
+    <title>DIRECTO Post Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260502210300 +0200" stop="20260502225900 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier League T25/26 · Jornada 35: Leeds - Burnley</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+	<programme start="20260502185700 +0200" stop="20260502193500 +0200" channel="DAZN F1 SAT">
+    <title>Gearbox T2026 E22</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.4/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
 	</programme>
-	<programme start="20260502225900 +0200" stop="20260502232200 +0200" channel="DAZN 1 HD 1080P">
-    <title>Come On Fútbol! T2023 · Adama Traore: el racismo</title>
-    <desc>Deportes,Programa deportes | 2023 | TP | *6.0/10
-· Adama Traore es un jugador diferente. Su físico fuera de lo común le ha permitido destacar hasta el punto de ser internacional con España. Pero no todo ha sido fácil para el de Hospitalet, quien también ha tenido que soportar la lacra del racismo.
-· País: España</desc>
+	<programme start="20260502193500 +0200" stop="20260502210000 +0200" channel="DAZN F1 SAT">
+    <title>Decoded: Alonso</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *5.8/10
+· Decoded: Alonso.</desc>
 	</programme>
-	<programme start="20260502232200 +0200" stop="20260503003200 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de España T2026 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
-· El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
-· País: España</desc>
+	<programme start="20260502210000 +0200" stop="20260502215500 +0200" channel="DAZN F1 SAT">
+    <title>DIRECTO Previo Clasificación T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260503003200 +0200" stop="20260503010100 +0200" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2026 · España</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
+	<programme start="20260502215500 +0200" stop="20260502231000 +0200" channel="DAZN F1 SAT">
+    <title>Clasificación T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260503010100 +0200" stop="20260503012200 +0200" channel="DAZN 1 HD 1080P">
-    <title>Ibiza Trail Maratón 2026</title>
-    <desc>Deportes,Deporte extremo | 2026 | TP | *6.0/10
-· El Ibiza Trail Maratón es una prueba de referencia en el trail running a nivel balear, nacional e internacional.
-· País: España</desc>
+	<programme start="20260502231000 +0200" stop="20260503000000 +0200" channel="DAZN F1 SAT">
+    <title>DIRECTO El Post de la Clasificación T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260503012200 +0200" stop="20260503060000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
+	<programme start="20260503000000 +0200" stop="20260503001500 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · Japón</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260503060000 +0200" stop="20260503115000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
+	<programme start="20260503001500 +0200" stop="20260503020000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Miami T2026 · Box, Box</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260503115000 +0200" stop="20260503140300 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 27: Atlético de Madrid - SD Eibar T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
+	<programme start="20260503020000 +0200" stop="20260503040500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Brasil T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260503140300 +0200" stop="20260503142600 +0200" channel="DAZN 1 HD 1080P">
-    <title>Revelado - Julián Álvarez</title>
+	<programme start="20260503040500 +0200" stop="20260503043000 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2025 · Brasil</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260503043000 +0200" stop="20260503064500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Singapur: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503064500 +0200" stop="20260503084600 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Miami: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503084600 +0200" stop="20260503105000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Las Vegas T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503105000 +0200" stop="20260503112000 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2025 · Las Vegas</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
-· El jugador argentino ha aterrizado de pie en el Atlético de Madrid y se ha convertido en una pieza clave.</desc>
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260503142600 +0200" stop="20260503162000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Liga F T25/26 · Jornada 27: Granada CF - Costa Adeje Tenerife</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
+	<programme start="20260503112000 +0200" stop="20260503122500 +0200" channel="DAZN F1 SAT">
+    <title>Decoded: Hamilton</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *6.0/10
+· Decoded: Hamilton.</desc>
 	</programme>
-	<programme start="20260503162000 +0200" stop="20260503184100 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 35: Manchester Utd. - Liverpool T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Manchester Utd. y Liverpool pueden asegurar una plaza de Champions para el próximo año con una victoria. Separados por tres puntos, son tercero y cuarto en la tabla.
-· País: Reino Unido</desc>
+	<programme start="20260503122500 +0200" stop="20260503141000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Miami T2026 · Box, Box</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260503184100 +0200" stop="20260503195000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E27</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
+	<programme start="20260503141000 +0200" stop="20260503151000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Miami T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260503195000 +0200" stop="20260503221100 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 35: Aston Villa - Tottenham T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+	<programme start="20260503151000 +0200" stop="20260503155500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Miami T2026 · Clasificación Sprint</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260503221100 +0200" stop="20260504000700 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 35: Arsenal - Fulham T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+	<programme start="20260503155500 +0200" stop="20260503162500 +0200" channel="DAZN F1 SAT">
+    <title>Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260504000700 +0200" stop="20260504011600 +0200" channel="DAZN 1 HD 1080P">
-    <title>Crevillent Cup T2026 · Día 2 - Finales</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.6/10
-· La Ciudad del Fútbol Juanfran Torres acoge este evento deportivo que consolida a Crevillent como epicentro del fútbol formativo.
-· País: España</desc>
+	<programme start="20260503162500 +0200" stop="20260503171500 +0200" channel="DAZN F1 SAT">
+    <title>Sprint Race · Campeonato F2 de la FIA - Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
 	</programme>
-	<programme start="20260504011600 +0200" stop="20260504060000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
+	<programme start="20260503171500 +0200" stop="20260503182500 +0200" channel="DAZN F1 SAT">
+    <title>Clasificación T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260504060000 +0200" stop="20260504130000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
+	<programme start="20260503182500 +0200" stop="20260503194200 +0200" channel="DAZN F1 SAT">
+    <title>Carrera · Campeonato F2 de la FIA - Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
 	</programme>
-	<programme start="20260504130000 +0200" stop="20260504132400 +0200" channel="DAZN 1 HD 1080P">
-    <title>Ibiza Trail Maratón 2026</title>
-    <desc>Deportes,Deporte extremo | 2026 | TP | *6.0/10
-· El Ibiza Trail Maratón es una prueba de referencia en el trail running a nivel balear, nacional e internacional.
-· País: España</desc>
+	<programme start="20260503194200 +0200" stop="20260503200000 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · Japón</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260504132400 +0200" stop="20260504152000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 35: Arsenal - Fulham T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+	<programme start="20260503200000 +0200" stop="20260503215500 +0200" channel="DAZN F1 SAT">
+    <title>DIRECTO Previo Carrrera T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260504152000 +0200" stop="20260504155000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Reyes, una vida dedicada al fútbol</title>
-    <desc>Deportes,Fútbol | 2024 | TP | *6.2/10
-· Repaso por la vida profesional de Jose Antonio Reyes, desde sus humildes inicios, su debut con el Sevilla FC y su paso por el Arsenal cuando todavía era un chaval.</desc>
+	<programme start="20260503215500 +0200" stop="20260504001000 +0200" channel="DAZN F1 SAT">
+    <title>Carrera T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260504155000 +0200" stop="20260504181200 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 35: Chelsea - Nottingham Forest T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+	<programme start="20260504001000 +0200" stop="20260504010000 +0200" channel="DAZN F1 SAT">
+    <title>DIRECTO El Post de la Fórmula 1 T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260504181200 +0200" stop="20260504185000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Claude Makélélé, una posición irremplazable</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
-· Claude Makélélé reflexiona sobre su carrera profesional.</desc>
+	<programme start="20260504010000 +0200" stop="20260504014000 +0200" channel="DAZN F1 SAT">
+    <title>Gearbox T2026 E22</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.4/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
 	</programme>
-	<programme start="20260504185000 +0200" stop="20260504205000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 35: Manchester Utd. - Liverpool T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Manchester Utd. y Liverpool pueden asegurar una plaza de Champions para el próximo año con una victoria. Separados por tres puntos, son tercero y cuarto en la tabla.
-· País: Reino Unido</desc>
+	<programme start="20260504014000 +0200" stop="20260504035000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Estados Unidos: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260504205000 +0200" stop="20260504231100 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 35: Everton - Manchester City T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+	<programme start="20260504035000 +0200" stop="20260504061000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Mónaco: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.6/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260504231100 +0200" stop="20260504232500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2026 · Rodri, el arquitecto de oro</title>
-    <desc>Entretenimiento,Entrevista | 2026 | TP | *6.0/10
-· El último Balón de Oro español y gran pilar del Manchester City de Pep Guardiola pasa por el programa en una temporada con el Mundial en el horizonte.
-· País: España</desc>
+	<programme start="20260504061000 +0200" stop="20260504065800 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Catar T2025 · Sprint</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260504232500 +0200" stop="20260505003500 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de España T2026 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
-· El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
-· País: España</desc>
+	<programme start="20260504065800 +0200" stop="20260504085500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Catar T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260505003500 +0200" stop="20260505010300 +0200" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2026 · España</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
-	</programme>
-	<programme start="20260505010300 +0200" stop="20260505060000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260505060000 +0200" stop="20260505130000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
-	</programme>
-	<programme start="20260505130000 +0200" stop="20260505163500 +0200" channel="DAZN 1 HD 1080P">
-    <title>NFL T25/26 · Super Bowl: Seattle Seahawks - New England Patriots</title>
-    <desc>Deportes,Fútbol americano | 2026 | TP | *6.6/10
-· Santa Clara acoge la fiesta final de la NFL, la Super Bowl. Los campeones de la Conferencia Nacional, los Seattle Seahawks, se miden a sus homólogos de la Americana, los New England Patritots, en busca del anillo. Bad Bunny realiza el show del descanso.
-· País: Estados Unidos</desc>
-	</programme>
-	<programme start="20260505163500 +0200" stop="20260505183500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 27: Atlético de Madrid - SD Eibar T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
-	</programme>
-	<programme start="20260505183500 +0200" stop="20260505185000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Revelado - Julián Álvarez</title>
+	<programme start="20260504085500 +0200" stop="20260504092100 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2025 · Catar</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
-· El jugador argentino ha aterrizado de pie en el Atlético de Madrid y se ha convertido en una pieza clave.</desc>
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260505185000 +0200" stop="20260505204000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 35: Everton - Manchester City T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+	<programme start="20260504092100 +0200" stop="20260504113500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de México: Carrera</title>
+    <desc>Deportes,Motor | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260505204000 +0200" stop="20260505214000 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de España T2026 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
-· El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
+	<programme start="20260504113500 +0200" stop="20260504134400 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Canadá: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504134400 +0200" stop="20260504143900 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de China T2026 · Sprint</title>
+    <desc>Deportes,Motor | 2026 | TP | *7.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504143900 +0200" stop="20260504164900 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de China T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504164900 +0200" stop="20260504170400 +0200" channel="DAZN F1 SAT">
+    <title>75 años de F1</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *5.8/10
+· 75 años de F1.</desc>
+	</programme>
+	<programme start="20260504170400 +0200" stop="20260504182500 +0200" channel="DAZN F1 SAT">
+    <title>Decoded: Alonso</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *5.8/10
+· Decoded: Alonso.</desc>
+	</programme>
+	<programme start="20260504182500 +0200" stop="20260504203500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Abu Dabi T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.6/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504203500 +0200" stop="20260504210000 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2025 · Abu Dabi</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260504210000 +0200" stop="20260504220000 +0200" channel="DAZN F1 SAT">
+    <title>Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504220000 +0200" stop="20260504221700 +0200" channel="DAZN F1 SAT">
+    <title>Pepe Martí, nuevo rumbo misma ambición</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *5.8/10
+· Pepe Martí, Nuevo Rumbo.</desc>
+	</programme>
+	<programme start="20260504221700 +0200" stop="20260505001500 +0200" channel="DAZN F1 SAT">
+    <title>Carrera T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505001500 +0200" stop="20260505030500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Brasil: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505030500 +0200" stop="20260505050000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de España: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.
 · País: España</desc>
 	</programme>
-	<programme start="20260505214000 +0200" stop="20260505220000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2026 · España</title>
+	<programme start="20260505050000 +0200" stop="20260505070000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Australia T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.6/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505070000 +0200" stop="20260505072000 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · Australia</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260505072000 +0200" stop="20260505085000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de China T2026 · Box, Box</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505085000 +0200" stop="20260505111000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Australia T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505111000 +0200" stop="20260505132000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Las Vegas: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505132000 +0200" stop="20260505144500 +0200" channel="DAZN F1 SAT">
+    <title>Decoded: Alonso</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *5.8/10
+· Decoded: Alonso.</desc>
+	</programme>
+	<programme start="20260505144500 +0200" stop="20260505164500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Japón T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505164500 +0200" stop="20260505170500 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · Japón</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260505170500 +0200" stop="20260505180500 +0200" channel="DAZN F1 SAT">
+    <title>Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505180500 +0200" stop="20260505190500 +0200" channel="DAZN F1 SAT">
+    <title>Bravissimo</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.0/10
+· Bravissimo.</desc>
+	</programme>
+	<programme start="20260505190500 +0200" stop="20260505210500 +0200" channel="DAZN F1 SAT">
+    <title>Carrera T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505210500 +0200" stop="20260505212000 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · Miami</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260505220000 +0200" stop="20260506000000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 35: Manchester Utd. - Liverpool T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Manchester Utd. y Liverpool pueden asegurar una plaza de Champions para el próximo año con una victoria. Separados por tres puntos, son tercero y cuarto en la tabla.
-· País: Reino Unido</desc>
+	<programme start="20260505212000 +0200" stop="20260505220000 +0200" channel="DAZN F1 SAT">
+    <title>Gearbox T2026 E22</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.4/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
 	</programme>
-	<programme start="20260506000000 +0200" stop="20260506010000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E28</title>
+	<programme start="20260505220000 +0200" stop="20260506000000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Australia T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.6/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506000000 +0200" stop="20260506001500 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · Australia</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260506001500 +0200" stop="20260506021500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Austria: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506021500 +0200" stop="20260506042000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de China T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.6/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506042000 +0200" stop="20260506062500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Catar: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506062500 +0200" stop="20260506082500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Gran Bretaña: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506082500 +0200" stop="20260506090500 +0200" channel="DAZN F1 SAT">
+    <title>Gearbox T2026 E22</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.4/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+	</programme>
+	<programme start="20260506090500 +0200" stop="20260506110000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Japón T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506110000 +0200" stop="20260506130500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Abu Dabi: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506130500 +0200" stop="20260506132100 +0200" channel="DAZN F1 SAT">
+    <title>Pepe Martí, nuevo rumbo misma ambición</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *5.8/10
+· Pepe Martí, Nuevo Rumbo.</desc>
+	</programme>
+	<programme start="20260506132100 +0200" stop="20260506142100 +0200" channel="DAZN F1 SAT">
+    <title>Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506142100 +0200" stop="20260506150000 +0200" channel="DAZN F1 SAT">
+    <title>Gearbox T2026 E22</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.4/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+	</programme>
+	<programme start="20260506150000 +0200" stop="20260506170000 +0200" channel="DAZN F1 SAT">
+    <title>Carrera T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506170000 +0200" stop="20260506171500 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · Miami</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260506010000 +0200" stop="20260506060000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
+	<programme start="20260506171500 +0200" stop="20260506192500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Hungría: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260506060000 +0200" stop="20260506130000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
+	<programme start="20260506192500 +0200" stop="20260506200000 +0200" channel="DAZN F1 SAT">
+    <title>Gearbox T2026 E21</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.2/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
 	</programme>
-	<programme start="20260506130000 +0200" stop="20260506151000 +0200" channel="DAZN 1 HD 1080P">
-    <title>A1 Padel: Open de Lanzarote T2025 · Final</title>
-    <desc>Deportes,Pádel | 2025 | TP | *6.0/10
-· El circuito A1 Padel hace parada en la isla canaria de Lanzarote. Del 21 al 27 de abril, la Marina de Arrecife sirve de pista central de este abierto en el que compiten 32 parejas en busca del título. El torneo entrega 156.000 euros en premios.
-· País: España</desc>
+	<programme start="20260506200000 +0200" stop="20260506205500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de China T2026 · Sprint</title>
+    <desc>Deportes,Motor | 2026 | TP | *7.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260506151000 +0200" stop="20260506154000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Claude Makélélé, una posición irremplazable</title>
-    <desc>Deportes,Fútbol | 2025 | TP | *5.8/10
-· Claude Makélélé reflexiona sobre su carrera profesional.</desc>
+	<programme start="20260506205500 +0200" stop="20260506220000 +0200" channel="DAZN F1 SAT">
+    <title>Decoded: Hamilton</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *6.0/10
+· Decoded: Hamilton.</desc>
 	</programme>
-	<programme start="20260506154000 +0200" stop="20260506173000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 35: Chelsea - Nottingham Forest T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+	<programme start="20260506220000 +0200" stop="20260507001000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de China T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260506173000 +0200" stop="20260506183500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Póker FC T25/26 E28</title>
+	<programme start="20260507001000 +0200" stop="20260507002500 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · China</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Un repaso a lo más destacado de LaLiga, la Premier League, la Serie A y la Bundesliga. El programa cuenta con imágenes inéditas y entrevistas. El lugar perfecto para disfrutar del póker de grandes torneos europeos.
-· País: España</desc>
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260506183500 +0200" stop="20260506204500 +0200" channel="DAZN 1 HD 1080P">
-    <title>DIRECTO Jornada 27: Barcelona - Levante T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
+	<programme start="20260507002500 +0200" stop="20260507023500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Baréin T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260506204500 +0200" stop="20260506210000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
-    <desc>Entretenimiento,Entrevista | 2025 | TP | *6.0/10
-· Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán.
-· País: España</desc>
+	<programme start="20260507023500 +0200" stop="20260507043000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Australia: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260506210000 +0200" stop="20260506230000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 27: Sevilla - Real Madrid T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
+	<programme start="20260507043000 +0200" stop="20260507062500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Bélgica: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260506230000 +0200" stop="20260506232500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Reyes, una vida dedicada al fútbol</title>
-    <desc>Deportes,Fútbol | 2024 | TP | *6.2/10
-· Repaso por la vida profesional de Jose Antonio Reyes, desde sus humildes inicios, su debut con el Sevilla FC y su paso por el Arsenal cuando todavía era un chaval.</desc>
+	<programme start="20260507062500 +0200" stop="20260507082000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Arabia Saudí T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260506232500 +0200" stop="20260507005500 +0200" channel="DAZN 1 HD 1080P">
-    <title>E1 Series T2026 · Lago Como: Carreras Finales</title>
-    <desc>Deportes,Deporte acuático | 2026 | TP | *6.0/10
-· Las E1 Series son una competición de lanchas eléctricas y que celebra su tercera temporada.</desc>
+	<programme start="20260507082000 +0200" stop="20260507103500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de China: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260507005500 +0200" stop="20260507060000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
+	<programme start="20260507103500 +0200" stop="20260507125500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Países Bajos: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260507060000 +0200" stop="20260507130000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
+	<programme start="20260507125500 +0200" stop="20260507150000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Miami T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260507130000 +0200" stop="20260507150000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 27: Barcelona - Levante T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
+	<programme start="20260507150000 +0200" stop="20260507165500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Australia T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.6/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260507150000 +0200" stop="20260507151500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2025 · Guardiola</title>
-    <desc>Entretenimiento,Entrevista | 2025 | TP | *6.0/10
-· Guardiola es uno de los entrenadores más reconocidos de la Premier League. En "Premier Corner", con Eneko Fernández, charlamos con el técnico catalán.
-· País: España</desc>
+	<programme start="20260507165500 +0200" stop="20260507171000 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · Australia</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260507151500 +0200" stop="20260507164500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Rueda de prensa motos T2026 · Francia - Paddock Abierto</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
+	<programme start="20260507171000 +0200" stop="20260507191500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Japón: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260507164500 +0200" stop="20260507174000 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Francia T2025 · Carrera Moto3</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.4/10
-· El icónico Circuito Bugatti de Le Mans acoge un año más el GP de Francia, sexta prueba del Mundial de motociclismo. El legendario trazado destaca por sus curvas cerradas y sus exigentes frenadas.
-· País: Francia</desc>
+	<programme start="20260507191500 +0200" stop="20260507211000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Italia: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260507174000 +0200" stop="20260507184000 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Francia T2025 · Carrera Moto2</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *6.0/10
-· El icónico Circuito Bugatti de Le Mans acoge un año más el GP de Francia, sexta prueba del Mundial de motociclismo. El legendario trazado destaca por sus curvas cerradas y sus exigentes frenadas.
-· País: Francia</desc>
+	<programme start="20260507211000 +0200" stop="20260507221000 +0200" channel="DAZN F1 SAT">
+    <title>Bravissimo</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.0/10
+· Bravissimo.</desc>
 	</programme>
-	<programme start="20260507184000 +0200" stop="20260507201000 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Francia T2025 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *5.8/10
-· El icónico Circuito Bugatti de Le Mans acoge un año más el GP de Francia, sexta prueba del Mundial de motociclismo. El legendario trazado destaca por sus curvas cerradas y sus exigentes frenadas.
-· País: Francia</desc>
+	<programme start="20260507221000 +0200" stop="20260508000500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Japón T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260507201000 +0200" stop="20260507210000 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP Features T2024 · Zarco, encontrando el equilibrio</title>
+	<programme start="20260508000500 +0200" stop="20260508002000 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · Japón</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260508002000 +0200" stop="20260508022500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Emilia Romagna T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508022500 +0200" stop="20260508042500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Baréin: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.6/10
+· Todos los pilotos y sus equipos han trabajado muy duro para brillar en la carrera, es el momento de ver quién se lleva la victoria del GP de Baréin.</desc>
+	</programme>
+	<programme start="20260508042500 +0200" stop="20260508063000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Azerbaiyán: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508063000 +0200" stop="20260508075200 +0200" channel="DAZN F1 SAT">
+    <title>Decoded: Alonso</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *5.8/10
+· Decoded: Alonso.</desc>
+	</programme>
+	<programme start="20260508075200 +0200" stop="20260508100700 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de Mónaco T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508100700 +0200" stop="20260508104200 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2025 · Mónaco</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260508104200 +0200" stop="20260508123200 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Arabia Saudi: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508123200 +0200" stop="20260508131200 +0200" channel="DAZN F1 SAT">
+    <title>Gearbox T2026 E22</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.4/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+	</programme>
+	<programme start="20260508131200 +0200" stop="20260508133000 +0200" channel="DAZN F1 SAT">
+    <title>Pepe Martí, nuevo rumbo misma ambición</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *5.8/10
+· Pepe Martí, Nuevo Rumbo.</desc>
+	</programme>
+	<programme start="20260508133000 +0200" stop="20260508142500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de China T2026 · Sprint</title>
+    <desc>Deportes,Motor | 2026 | TP | *7.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508142500 +0200" stop="20260508145000 +0200" channel="DAZN F1 SAT">
+    <title>True Driver T2024 · Trazado por Tilke</title>
     <desc>Deportes,Programa deportes | 2024 | TP | *5.8/10
-· Programa de MotoGP.</desc>
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260507210000 +0200" stop="20260507220000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Rueda de prensa motos T2026 · Francia - Paddock Abierto</title>
+	<programme start="20260508145000 +0200" stop="20260508170000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de China T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508170000 +0200" stop="20260508171500 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · China</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260507220000 +0200" stop="20260507230000 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de España T2026 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
-· El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
+	<programme start="20260508171500 +0200" stop="20260508193500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Singapur: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508193500 +0200" stop="20260508204000 +0200" channel="DAZN F1 SAT">
+    <title>Decoded: Hamilton</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *6.0/10
+· Decoded: Hamilton.</desc>
+	</programme>
+	<programme start="20260508204000 +0200" stop="20260508214000 +0200" channel="DAZN F1 SAT">
+    <title>Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508214000 +0200" stop="20260508221000 +0200" channel="DAZN F1 SAT">
+    <title>Gearbox T2026 E21</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.2/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+	</programme>
+	<programme start="20260508221000 +0200" stop="20260509001000 +0200" channel="DAZN F1 SAT">
+    <title>Carrera T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260509001000 +0200" stop="20260509002500 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2026 · Japón</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260509002500 +0200" stop="20260509023000 +0200" channel="DAZN F1 SAT">
+    <title>Mundial F1 - GP de España T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.4/10
+· Los pilotos afrontarán un apasionante Gran Premio en el circuito de Montmeló, y buscarán hacer frente al líder de la clasificación actual, el australiano Oscar Piastri (161 puntos), seguido muy de cerca por Lando Norris (158) y Max Verstappen (136).
 · País: España</desc>
 	</programme>
-	<programme start="20260507230000 +0200" stop="20260507232000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Código MotoGP T2026 · España</title>
+	<programme start="20260509023000 +0200" stop="20260509030000 +0200" channel="DAZN F1 SAT">
+    <title>Código F1 T2025 · España</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260509030000 +0200" stop="20260509050500 +0200" channel="DAZN F1 SAT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Miami: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260502070300 +0200" stop="20260502072800 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2025 · Brasil</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260502072800 +0200" stop="20260502093800 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Azerbaiyán: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260502093800 +0200" stop="20260502113800 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Miami: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260502113800 +0200" stop="20260502123200 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Brasil T2025 · Sprint</title>
+    <desc>Deportes,Motor | 2025 | TP | *5.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260502123200 +0200" stop="20260502125700 +0200" channel="DAZN F1 SCRIPT">
+    <title>True Driver T2024 · Ayrton Senna: 30 años de Eterna Leyenda</title>
+    <desc>Deportes,Programa deportes | 2024 | TP | *5.6/10
+· En 2024 se cumplen 30 años del fallecimiento de Ayrton Senna. El mito del automovilismo perdió la vida en el circuito de Imola en un accidente que conmocionó al mundo. Su legado continúa vivo y sigue inspirando a todos los pilotos.</desc>
+	</programme>
+	<programme start="20260502125700 +0200" stop="20260502131800 +0200" channel="DAZN F1 SCRIPT">
+    <title>Bienvenido Mr. Vowles</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *6.2/10
+· Bienvenido Mr. Vowles.</desc>
+	</programme>
+	<programme start="20260502131800 +0200" stop="20260502145800 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Miami T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260502145800 +0200" stop="20260502155500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Miami T2026 · Clasificación Sprint</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260502155500 +0200" stop="20260502165900 +0200" channel="DAZN F1 SCRIPT">
+    <title>DIRECTO Sprint Race · Campeonato F2 de la FIA - Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
+	</programme>
+	<programme start="20260502165900 +0200" stop="20260502171500 +0200" channel="DAZN F1 SCRIPT">
+    <title>F1 de Manual T2024 · Campos</title>
+    <desc>Deportes,Fórmula 1 | 2024 | TP | *6.0/10
+· Campos.</desc>
+	</programme>
+	<programme start="20260502171500 +0200" stop="20260502173000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · China</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
-· País: España
-· Presenta: Natacha Alfageme.</desc>
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260507232000 +0200" stop="20260508011000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Cuartos de final: Barcelona - Nantes T25/26 · Liga de Campeones de balonmano</title>
-    <desc>Deportes,Balonmano | 2026 | TP | *6.2/10
-· Los equipos más potentes y competitivos de Europa luchan por el título de campeón de la EHF Champions League, la máxima competición de clubes del balonmano.
-· País: España</desc>
+	<programme start="20260502173000 +0200" stop="20260502175500 +0200" channel="DAZN F1 SCRIPT">
+    <title>DIRECTO Previo Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260508011000 +0200" stop="20260508060000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
+	<programme start="20260502175500 +0200" stop="20260502184000 +0200" channel="DAZN F1 SCRIPT">
+    <title>DIRECTO Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260508060000 +0200" stop="20260508130000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Disfruta de DAZN en Movistar Plus+</title>
-    <desc>· Programa por determinar...</desc>
+	<programme start="20260502184000 +0200" stop="20260502185700 +0200" channel="DAZN F1 SCRIPT">
+    <title>DIRECTO Post Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
-	<programme start="20260508130000 +0200" stop="20260508163500 +0200" channel="DAZN 1 HD 1080P">
-    <title>NFL T25/26 · Super Bowl: Seattle Seahawks - New England Patriots</title>
-    <desc>Deportes,Fútbol americano | 2026 | TP | *6.6/10
-· Santa Clara acoge la fiesta final de la NFL, la Super Bowl. Los campeones de la Conferencia Nacional, los Seattle Seahawks, se miden a sus homólogos de la Americana, los New England Patritots, en busca del anillo. Bad Bunny realiza el show del descanso.
-· País: Estados Unidos</desc>
+	<programme start="20260502185700 +0200" stop="20260502193500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Gearbox T2026 E22</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.4/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
 	</programme>
-	<programme start="20260508163500 +0200" stop="20260508183500 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 27: Atlético de Madrid - SD Eibar T25/26 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *5.8/10
-· El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
-· País: España</desc>
+	<programme start="20260502193500 +0200" stop="20260502210000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Decoded: Alonso</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *5.8/10
+· Decoded: Alonso.</desc>
 	</programme>
-	<programme start="20260508183500 +0200" stop="20260508185000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Revelado - Julián Álvarez</title>
+	<programme start="20260502210000 +0200" stop="20260502215500 +0200" channel="DAZN F1 SCRIPT">
+    <title>DIRECTO Previo Clasificación T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260502215500 +0200" stop="20260502231000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Clasificación T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260502231000 +0200" stop="20260503000000 +0200" channel="DAZN F1 SCRIPT">
+    <title>DIRECTO El Post de la Clasificación T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503000000 +0200" stop="20260503001500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · Japón</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260503001500 +0200" stop="20260503020000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Miami T2026 · Box, Box</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503020000 +0200" stop="20260503040500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Brasil T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503040500 +0200" stop="20260503043000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2025 · Brasil</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *5.8/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260503043000 +0200" stop="20260503064500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Singapur: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503064500 +0200" stop="20260503084600 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Miami: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503084600 +0200" stop="20260503105000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Las Vegas T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503105000 +0200" stop="20260503112000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2025 · Las Vegas</title>
     <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
-· El jugador argentino ha aterrizado de pie en el Atlético de Madrid y se ha convertido en una pieza clave.</desc>
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260508185000 +0200" stop="20260508204000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Jornada 35: Everton - Manchester City T25/26 · Premier League</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
-· Máxima competitividad, respeto a la tradición, muchos de los mejores jugadores del planeta sobre el césped y ambientazo en las gradas de todos los estadios. Es la Premier, el torneo de la regularidad del fútbol inglés. El Liverpool defiende corona.
-· País: Reino Unido</desc>
+	<programme start="20260503112000 +0200" stop="20260503122500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Decoded: Hamilton</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *6.0/10
+· Decoded: Hamilton.</desc>
 	</programme>
-	<programme start="20260508204000 +0200" stop="20260508210000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Premier Corner by Guiness 0,0 T2025 · David Silva</title>
-    <desc>Entretenimiento,Entrevista | 2025 | TP | *5.8/10
-· La leyenda del Mánchester City, David Silva, repasa su época dorada en la Premier League: estilo de juego, momentos decisivos, sus relaciones en los vestuarios.
+	<programme start="20260503122500 +0200" stop="20260503141000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Miami T2026 · Box, Box</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503141000 +0200" stop="20260503151000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Miami T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503151000 +0200" stop="20260503155500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Miami T2026 · Clasificación Sprint</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503155500 +0200" stop="20260503162500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503162500 +0200" stop="20260503171500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Sprint Race · Campeonato F2 de la FIA - Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
+	</programme>
+	<programme start="20260503171500 +0200" stop="20260503182500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Clasificación T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503182500 +0200" stop="20260503194200 +0200" channel="DAZN F1 SCRIPT">
+    <title>Carrera · Campeonato F2 de la FIA - Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
+	</programme>
+	<programme start="20260503194200 +0200" stop="20260503200000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · Japón</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260503200000 +0200" stop="20260503215500 +0200" channel="DAZN F1 SCRIPT">
+    <title>DIRECTO Previo Carrrera T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260503215500 +0200" stop="20260504001000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Carrera T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504001000 +0200" stop="20260504010000 +0200" channel="DAZN F1 SCRIPT">
+    <title>DIRECTO El Post de la Fórmula 1 T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504010000 +0200" stop="20260504014000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Gearbox T2026 E22</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.4/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+	</programme>
+	<programme start="20260504014000 +0200" stop="20260504035000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Estados Unidos: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504035000 +0200" stop="20260504061000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Mónaco: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.6/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504061000 +0200" stop="20260504065800 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Catar T2025 · Sprint</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504065800 +0200" stop="20260504085500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Catar T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504085500 +0200" stop="20260504092100 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2025 · Catar</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260504092100 +0200" stop="20260504113500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de México: Carrera</title>
+    <desc>Deportes,Motor | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504113500 +0200" stop="20260504134400 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Canadá: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504134400 +0200" stop="20260504143900 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de China T2026 · Sprint</title>
+    <desc>Deportes,Motor | 2026 | TP | *7.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504143900 +0200" stop="20260504164900 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de China T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504164900 +0200" stop="20260504170400 +0200" channel="DAZN F1 SCRIPT">
+    <title>75 años de F1</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *5.8/10
+· 75 años de F1.</desc>
+	</programme>
+	<programme start="20260504170400 +0200" stop="20260504182500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Decoded: Alonso</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *5.8/10
+· Decoded: Alonso.</desc>
+	</programme>
+	<programme start="20260504182500 +0200" stop="20260504203500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Abu Dabi T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.6/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504203500 +0200" stop="20260504210000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2025 · Abu Dabi</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260504210000 +0200" stop="20260504220000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260504220000 +0200" stop="20260504221700 +0200" channel="DAZN F1 SCRIPT">
+    <title>Pepe Martí, nuevo rumbo misma ambición</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *5.8/10
+· Pepe Martí, Nuevo Rumbo.</desc>
+	</programme>
+	<programme start="20260504221700 +0200" stop="20260505001500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Carrera T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505001500 +0200" stop="20260505030500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Brasil: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505030500 +0200" stop="20260505050000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de España: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.
 · País: España</desc>
 	</programme>
-	<programme start="20260508210000 +0200" stop="20260508220000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Rueda de prensa motos T2026 · Francia - Paddock Abierto</title>
+	<programme start="20260505050000 +0200" stop="20260505070000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Australia T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.6/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505070000 +0200" stop="20260505072000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · Australia</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260505072000 +0200" stop="20260505085000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de China T2026 · Box, Box</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505085000 +0200" stop="20260505111000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Australia T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505111000 +0200" stop="20260505132000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Las Vegas: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505132000 +0200" stop="20260505144500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Decoded: Alonso</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *5.8/10
+· Decoded: Alonso.</desc>
+	</programme>
+	<programme start="20260505144500 +0200" stop="20260505164500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Japón T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505164500 +0200" stop="20260505170500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · Japón</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260505170500 +0200" stop="20260505180500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505180500 +0200" stop="20260505190500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Bravissimo</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.0/10
+· Bravissimo.</desc>
+	</programme>
+	<programme start="20260505190500 +0200" stop="20260505210500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Carrera T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260505210500 +0200" stop="20260505212000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · Miami</title>
     <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
-· Los protagonistas del Mundial de motociclismo comparecen ante los micrófonos para responder a la prensa. Corredores y técnicos se comunican con los aficionados a través de las preguntas de los periodistas.</desc>
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260508220000 +0200" stop="20260508231000 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de España T2026 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2026 | TP | *6.2/10
-· El Gran Premio de España vuelve fiel a su cita a Jerez, uno de los circuitos más emblemáticos del campeonato. Reconocido por su clima ideal, amplias gradas y un entorno vibrante, miles de aficionados se desplazan a Andalucía.
+	<programme start="20260505212000 +0200" stop="20260505220000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Gearbox T2026 E22</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.4/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+	</programme>
+	<programme start="20260505220000 +0200" stop="20260506000000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Australia T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.6/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506000000 +0200" stop="20260506001500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · Australia</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260506001500 +0200" stop="20260506021500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Austria: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506021500 +0200" stop="20260506042000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de China T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.6/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506042000 +0200" stop="20260506062500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Catar: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506062500 +0200" stop="20260506082500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Gran Bretaña: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506082500 +0200" stop="20260506090500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Gearbox T2026 E22</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.4/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+	</programme>
+	<programme start="20260506090500 +0200" stop="20260506110000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Japón T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506110000 +0200" stop="20260506130500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Abu Dabi: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506130500 +0200" stop="20260506132100 +0200" channel="DAZN F1 SCRIPT">
+    <title>Pepe Martí, nuevo rumbo misma ambición</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *5.8/10
+· Pepe Martí, Nuevo Rumbo.</desc>
+	</programme>
+	<programme start="20260506132100 +0200" stop="20260506142100 +0200" channel="DAZN F1 SCRIPT">
+    <title>Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506142100 +0200" stop="20260506150000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Gearbox T2026 E22</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.4/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+	</programme>
+	<programme start="20260506150000 +0200" stop="20260506170000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Carrera T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506170000 +0200" stop="20260506171500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · Miami</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260506171500 +0200" stop="20260506192500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Hungría: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506192500 +0200" stop="20260506200000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Gearbox T2026 E21</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.2/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+	</programme>
+	<programme start="20260506200000 +0200" stop="20260506205500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de China T2026 · Sprint</title>
+    <desc>Deportes,Motor | 2026 | TP | *7.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260506205500 +0200" stop="20260506220000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Decoded: Hamilton</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *6.0/10
+· Decoded: Hamilton.</desc>
+	</programme>
+	<programme start="20260506220000 +0200" stop="20260507001000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de China T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260507001000 +0200" stop="20260507002500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · China</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260507002500 +0200" stop="20260507023500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Baréin T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260507023500 +0200" stop="20260507043000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Australia: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260507043000 +0200" stop="20260507062500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Bélgica: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260507062500 +0200" stop="20260507082000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Arabia Saudí T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260507082000 +0200" stop="20260507103500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de China: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260507103500 +0200" stop="20260507125500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Países Bajos: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260507125500 +0200" stop="20260507150000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Miami T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260507150000 +0200" stop="20260507165500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Australia T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.6/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260507165500 +0200" stop="20260507171000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · Australia</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.4/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260507171000 +0200" stop="20260507191500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Japón: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260507191500 +0200" stop="20260507211000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Italia: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260507211000 +0200" stop="20260507221000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Bravissimo</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.0/10
+· Bravissimo.</desc>
+	</programme>
+	<programme start="20260507221000 +0200" stop="20260508000500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Japón T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508000500 +0200" stop="20260508002000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · Japón</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260508002000 +0200" stop="20260508022500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Emilia Romagna T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508022500 +0200" stop="20260508042500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Baréin: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.6/10
+· Todos los pilotos y sus equipos han trabajado muy duro para brillar en la carrera, es el momento de ver quién se lleva la victoria del GP de Baréin.</desc>
+	</programme>
+	<programme start="20260508042500 +0200" stop="20260508063000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Azerbaiyán: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508063000 +0200" stop="20260508075200 +0200" channel="DAZN F1 SCRIPT">
+    <title>Decoded: Alonso</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *5.8/10
+· Decoded: Alonso.</desc>
+	</programme>
+	<programme start="20260508075200 +0200" stop="20260508100700 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de Mónaco T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508100700 +0200" stop="20260508104200 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2025 · Mónaco</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260508104200 +0200" stop="20260508123200 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Arabia Saudi: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508123200 +0200" stop="20260508131200 +0200" channel="DAZN F1 SCRIPT">
+    <title>Gearbox T2026 E22</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.4/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+	</programme>
+	<programme start="20260508131200 +0200" stop="20260508133000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Pepe Martí, nuevo rumbo misma ambición</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *5.8/10
+· Pepe Martí, Nuevo Rumbo.</desc>
+	</programme>
+	<programme start="20260508133000 +0200" stop="20260508142500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de China T2026 · Sprint</title>
+    <desc>Deportes,Motor | 2026 | TP | *7.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508142500 +0200" stop="20260508145000 +0200" channel="DAZN F1 SCRIPT">
+    <title>True Driver T2024 · Trazado por Tilke</title>
+    <desc>Deportes,Programa deportes | 2024 | TP | *5.8/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260508145000 +0200" stop="20260508170000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de China T2026 · Carrera</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508170000 +0200" stop="20260508171500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · China</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260508171500 +0200" stop="20260508193500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2023 · GP de Singapur: Carrera</title>
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508193500 +0200" stop="20260508204000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Decoded: Hamilton</title>
+    <desc>Deportes,Fórmula 1 | 2025 | TP | *6.0/10
+· Decoded: Hamilton.</desc>
+	</programme>
+	<programme start="20260508204000 +0200" stop="20260508214000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Sprint T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260508214000 +0200" stop="20260508221000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Gearbox T2026 E21</title>
+    <desc>Deportes,Fórmula 1 | 2026 | TP | *6.2/10
+· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+	</programme>
+	<programme start="20260508221000 +0200" stop="20260509001000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Carrera T2026 · Mundial F1 - GP de Miami</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
+	</programme>
+	<programme start="20260509001000 +0200" stop="20260509002500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2026 · Japón</title>
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
+	</programme>
+	<programme start="20260509002500 +0200" stop="20260509023000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial F1 - GP de España T2025 · Carrera</title>
+    <desc>Deportes,Motor | 2025 | TP | *6.4/10
+· Los pilotos afrontarán un apasionante Gran Premio en el circuito de Montmeló, y buscarán hacer frente al líder de la clasificación actual, el australiano Oscar Piastri (161 puntos), seguido muy de cerca por Lando Norris (158) y Max Verstappen (136).
 · País: España</desc>
 	</programme>
-	<programme start="20260508231000 +0200" stop="20260509004000 +0200" channel="DAZN 1 HD 1080P">
-    <title>MotoGP - GP de Francia T2025 · Carrera MotoGP</title>
-    <desc>Deportes,Motociclismo | 2025 | TP | *5.8/10
-· El icónico Circuito Bugatti de Le Mans acoge un año más el GP de Francia, sexta prueba del Mundial de motociclismo. El legendario trazado destaca por sus curvas cerradas y sus exigentes frenadas.
-· País: Francia</desc>
+	<programme start="20260509023000 +0200" stop="20260509030000 +0200" channel="DAZN F1 SCRIPT">
+    <title>Código F1 T2025 · España</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
-	<programme start="20260509004000 +0200" stop="20260509014000 +0200" channel="DAZN 1 HD 1080P">
-    <title>Boxeo: velada Inoue vs Nakatani T2026 · Velada completa</title>
-    <desc>Sin clasificar,SIN CLASIFICAR | 2026 | +18
-· Una velada que reúne a dos invictos japoneses en una de las grandes noches del boxeo.
-· País: Japón</desc>
+	<programme start="20260509030000 +0200" stop="20260509050500 +0200" channel="DAZN F1 SCRIPT">
+    <title>Mundial de Fórmula 1 T2024 · GP de Miami: Carrera</title>
+    <desc>Deportes,Motor | 2024 | TP | *5.8/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 </tv>
